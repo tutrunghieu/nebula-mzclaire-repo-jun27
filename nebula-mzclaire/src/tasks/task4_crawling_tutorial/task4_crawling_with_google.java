@@ -6,13 +6,12 @@ import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 
-public class task3_crawling_song_zing {
+public class task4_crawling_with_google {
 
 	public static void main(String[] args)
 	throws Exception
 	{
-//		String url = "https://www.google.com/search?q=Highway+Don%27t+Care+lyrics#q=Highway+Don%27t+Care+lyrics&start=10";
-		String url = "https://www.google.com";
+		String url = "http://mp3.zing.vn/nghe-si/Phan-Manh-Quynh";
 		
 		Document d = Jsoup.parse(new URL(url), 3000);
 		
