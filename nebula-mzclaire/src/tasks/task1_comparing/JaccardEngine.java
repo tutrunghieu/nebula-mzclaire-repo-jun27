@@ -1,5 +1,6 @@
 package tasks.task1_comparing;
 
+import java.util.Map;
 import java.util.Set;
 import java.util.TreeSet;
 
