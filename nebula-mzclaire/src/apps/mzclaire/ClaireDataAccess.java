@@ -45,21 +45,6 @@ public class ClaireDataAccess
 		return new File(System.getProperty("user.home") + "/data-mzclaire-songs/" + id + ext); 	
 	}
 	
-	
-	public static void main(String[] args) 
-	{
-		File f = ClaireDataAccess.start().getStockMovieFolder();
-		System.out.println(f.getAbsolutePath());
-		
-		f = ClaireDataAccess.start().getStockMovieFileForUrl("http://www.google.com");
-		System.out.println(f.getAbsolutePath());
-		
-		f = ClaireDataAccess.start().getStockSongFileForUrl("http://www.google.com");
-		System.out.println(f.getAbsolutePath());
-
-		f = ClaireDataAccess.start().getStockMovieFileForUrl("http://www.google.com", ".jsmv");
-		System.out.println(f.getAbsolutePath());
-	}
 
 
 }
