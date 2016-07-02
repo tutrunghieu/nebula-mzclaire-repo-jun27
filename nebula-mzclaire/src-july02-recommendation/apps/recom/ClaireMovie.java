@@ -2,8 +2,26 @@ package apps.recom;
 
 public class ClaireMovie extends ClaireItem 
 {
-
-	public String fileName;
-	public String fileSize;
-
+	public String m_plot;
+	public String m_cast;
+	public String m_reception;
+	
+	public String m_directed_by;
+	public String m_produced_by;
+	public String m_screenplay_by;
+	public String m_story_by;
+	public String m_starring;
+	public String m_music_by;
+	public String m_cinematography;
+	public String m_edited_by;
+	public String m_production_company;
+	public String m_distributed_by;
+	public String m_release_dates;
+	public String m_running_time;
+	public String m_country;
+	public String m_language;
+	public String m_budget;
+	public String m_box_office;
+	
+	
 }

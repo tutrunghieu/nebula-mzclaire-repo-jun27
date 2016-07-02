@@ -22,7 +22,7 @@ public class task1_uniform_recommendation
 
 		for(ClaireMovie mk: eng.pickItems(10))
 		{
-			System.out.println(mk.fileName);
+			//System.out.println(mk.fileName);
 		}
 		
 		
