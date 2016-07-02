@@ -1,10 +1,9 @@
 package tasks.task3_comparing_movies_DucAnh;
 
-import java.io.BufferedReader;
 import java.io.File;
-import java.io.FileReader;
 import java.net.URL;
 import java.util.HashMap;
+import java.util.List;
 import java.util.Map;
 
 import org.jsoup.Jsoup;
@@ -13,36 +12,26 @@ import org.jsoup.nodes.Element;
 
 import apps.mzclaire.ClaireDataAccess;
 
-public class Crawling {
+public class Crawling extends ClaireDataAccess 
+{
 	
-	public static void main(String[] args) throws Exception {
-		
-		File currentDirFile = new File("");
-		String path = currentDirFile.getAbsolutePath();
-		System.out.println(path);
-	
+	public static void main(String[] args) throws Exception 
+	{
 		File f = ClaireDataAccess.start().getStockMovieFolder();
-		if (!f.exists()) {
-			f.mkdir();
+		if (!f.exists()) { f.mkdir(); }
+		
+		List<String> links = start().getMovieCatalogLinks();
+		
+		for(String lk: links.subList(0, 1))
+		{
+			ClaireMovieCrawler.start().crawlMovieInside(lk);
 		}
 		
-		readAndWritterListMovie(path + "/data-tutorials/movie-list.txt");
-		
-		//actionCrawling("https://en.wikipedia.org/wiki/(500)_Days_of_Summer");
-	}
-	
-	public static void readAndWritterListMovie(String path) throws Exception {
-		BufferedReader br = new BufferedReader(new FileReader(path));
-		String urlLine = "";
-		while ((urlLine = br.readLine()) != null) {
-			//System.out.println(urlLine.substring("https://en.wikipedia.org/wiki/".length()).replaceAll("[^\\p{Alpha}]+",""));
-			actionCrawling(urlLine);
-		}
-		br.close();
 	}
 	
 	
-	public static void actionCrawling(String url) throws Exception {
+	public static void actionCrawling(String url) throws Exception 
+	{
 		
 		Document d = Jsoup.parse(new URL(url), 3000);
 		
