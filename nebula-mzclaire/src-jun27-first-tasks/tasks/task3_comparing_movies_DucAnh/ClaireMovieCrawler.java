@@ -89,7 +89,7 @@ public class ClaireMovieCrawler {
 		return outerContext(dk).contains(patt);
 	}
 
-	private String outerContext(Element dk) 
+	public String outerContext(Element dk) 
 	{
 		String res = "";
 		
