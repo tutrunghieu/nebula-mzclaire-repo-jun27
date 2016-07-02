@@ -1,0 +1,17 @@
+About VNU-movies-13k
+==========================
+
+
+Author
+
++ Anh Le
++ Henry Tu
++ Vinh Hoang
+
+Citation
+
+@InProceedings{VNU_movies,
+  author = {Anh Le and Henry Tu and Vinh Hoang},
+  title = {A movie database for testing recommendation algorithm},
+  year = {2016}
+}
