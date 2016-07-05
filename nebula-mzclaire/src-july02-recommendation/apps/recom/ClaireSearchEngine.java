@@ -9,6 +9,7 @@ import java.util.TreeMap;
 public abstract class ClaireSearchEngine<T> 
 {
 	public List<ClaireSearchResult<T>> findSimilarItems(T q, List<T> s) 
+	throws Exception
 	{
 		Map<Double, List<T>> sort = new TreeMap<Double, List<T>>(Collections.reverseOrder()); 
 		
@@ -37,6 +38,6 @@ public abstract class ClaireSearchEngine<T>
 		return res;
 	}
 
-	public abstract double jaccardIndex(T sk, T q);
+	public abstract double jaccardIndex(T sk, T q) throws Exception;
 }
 

@@ -35,8 +35,8 @@ public class JaccardEngineObject
 		
 		for(Field k: keys)
 		{
-			double sk = jaccardIndexForField(k, k.get(m1), k.get(m2) );
-			System.out.println(k + " -- " + sk);
+			double sk = jaccardIndexForField(k, (k.get(m1) != null) ? k.get(m1) : "", (k.get(m2) != null) ? k.get(m2) : "");
+			//System.out.println(k + " -- " + sk);
 			s += sk;
 		}
 		
@@ -57,7 +57,9 @@ public class JaccardEngineObject
 		else 
 		{
 			JaccardEngine inner = new JaccardEngineBow();
-			return inner.jaccardIndex(a.toString(), b.toString());
+			if (a == null) a = new Object();
+			if (b == null) b = new Object();
+			return inner.jaccardIndex(a.toString() + "", b.toString() + "");
 		}
 	}
 

@@ -43,8 +43,32 @@ public abstract class UniformRecommemder<TYPE>
 		
 		return res;
 	}
+	
+	public List<TYPE> pickAllItems() throws Exception 
+	{
+		List<TYPE> res = new ArrayList<TYPE>();
+		File[] files = dataFolder.listFiles();
+		
+		for(File f: files) {
+			TYPE ik = readItem(f);
+			res.add(ik);
+		}
+		
+		return res;
+	}
 
 	protected abstract TYPE readItem(File fk) throws Exception;
+
+
+	public TYPE pickItemByUrl(String url) throws Exception {
+		File[] files = dataFolder.listFiles();
+		for(File f: files) {
+			if(url.equals(f.getName())) {
+				return readItem(f);
+			}
+		}
+		return null;
+	}
 
 
 }
