@@ -1,4 +1,4 @@
-package tasks.task1_comparing;
+package apps.mzclaire.jaccard;
 
 import java.util.Map;
 import java.util.Set;

@@ -1,10 +1,15 @@
 package apps.recom;
 
+import java.awt.Desktop;
+import java.io.File;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 import java.util.Map;
 import java.util.TreeMap;
+
+import org.naebulae.writers.HtmlWriter;
+import org.naebulae.writers.HtmlWriterAction;
 
 public abstract class ClaireSearchEngine<T> 
 {
@@ -39,5 +44,24 @@ public abstract class ClaireSearchEngine<T>
 	}
 
 	public abstract double jaccardIndex(T sk, T q) throws Exception;
+
+	public void renderSearchResults(T q, List<ClaireSearchResult<T>> results,
+		HtmlWriterAction<T> l1, HtmlWriterAction<ClaireSearchResult<T>> l2, File f)
+	throws Exception
+	{
+		HtmlWriter out = new HtmlWriter(f);
+		
+		l1.invokeWriterAction(q, out);
+		out.hr();
+		
+		for(ClaireSearchResult<T> rk: results)
+		{
+			l2.invokeWriterAction(rk, out);
+		}
+		
+		out.close();
+		
+		Desktop.getDesktop().open(f);
+	}
 }
 

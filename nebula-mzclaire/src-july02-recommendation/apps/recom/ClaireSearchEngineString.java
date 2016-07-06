@@ -1,6 +1,6 @@
 package apps.recom;
 
-import tasks.task1_comparing.JaccardTitleMatcher;
+import apps.mzclaire.jaccard.JaccardTitleMatcher;
 
 public class ClaireSearchEngineString extends ClaireSearchEngine<String> 
 {

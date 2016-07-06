@@ -58,5 +58,10 @@ public class FolderDataAccess
 		return new File(System.getProperty("user.home") + "/data-mzclaire-songs/" + id + ext); 	
 	}
 	
+	public File getStockSongFile(int k) 
+	{
+		File f = new File(System.getProperty("user.home") + "/data-mzclaire-songs");
+		return f.listFiles()[k];
+	}
 
 }

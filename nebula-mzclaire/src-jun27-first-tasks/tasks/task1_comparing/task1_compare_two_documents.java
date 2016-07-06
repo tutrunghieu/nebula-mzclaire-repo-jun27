@@ -1,5 +1,7 @@
 package tasks.task1_comparing;
 
+import apps.mzclaire.jaccard.JaccardEngine;
+
 public class task1_compare_two_documents 
 {
 	public static void main(String[] args) 

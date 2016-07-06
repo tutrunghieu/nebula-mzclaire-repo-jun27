@@ -4,8 +4,8 @@ import java.util.Map;
 import java.util.Set;
 import java.util.TreeSet;
 
-import tasks.task1_comparing.JaccardEngine;
-import tasks.task1_comparing.JaccardEngineBow;
+import apps.mzclaire.jaccard.JaccardEngine;
+import apps.mzclaire.jaccard.JaccardEngineBow;
 
 public class JaccardEngineMap extends JaccardEngine 
 {

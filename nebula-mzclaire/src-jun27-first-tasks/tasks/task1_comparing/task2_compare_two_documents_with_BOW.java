@@ -1,5 +1,8 @@
 package tasks.task1_comparing;
 
+import apps.mzclaire.jaccard.JaccardEngine;
+import apps.mzclaire.jaccard.JaccardEngineBow;
+
 public class task2_compare_two_documents_with_BOW 
 {
 
