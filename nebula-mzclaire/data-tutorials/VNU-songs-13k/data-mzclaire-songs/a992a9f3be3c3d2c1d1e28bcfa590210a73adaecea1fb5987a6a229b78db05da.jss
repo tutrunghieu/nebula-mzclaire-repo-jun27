@@ -1,0 +1,1 @@
+{"s_released":"May 19, 2009","s_format":"Digital download, airplay","s_recorded":"2008, Tree Sound Studios (Atlanta, Georgia)","s_genre":"R&B","s_length":"3:55","s_label":"Columbia","s_writer":"Elvis \"Blac Elvis\" Williams Harold Lilly Beyoncé Knowles","s_producer":"Gold (RIAA)","s_title":"\"Ego\""}

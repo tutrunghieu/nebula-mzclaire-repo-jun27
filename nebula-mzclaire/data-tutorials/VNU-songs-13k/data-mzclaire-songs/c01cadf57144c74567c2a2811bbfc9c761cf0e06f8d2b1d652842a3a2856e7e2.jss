@@ -1,0 +1,1 @@
+{"s_released":"12 October 2009 (see release history)","s_format":"CD single, digital download","s_recorded":"2009","s_genre":"Electro-R&B","s_length":"3:26 (feat. Flo Rida) 3:10 (solo)","s_label":"Syco","s_writer":"Melvin K. Watson Jr Larry Summerville Jr Lauren Evans Alex James Tramar Dillard","s_producer":"Platinum (UK)","s_title":"\"Dangerous\" \"Hallelujah\""}

@@ -1,0 +1,1 @@
+{"s_released":"May 21, 1996 (1996-05-21)","s_format":"CD maxi single cassette single 7\" single","s_recorded":"1995","s_genre":"R&B pop soul","s_length":"4:30 (album version)","s_label":"Rowdy Arista","s_writer":"Daryl Simmons","s_producer":"Gold (RIAA)","s_title":"\"Ain't Nobody\""}

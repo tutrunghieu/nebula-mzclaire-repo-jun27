@@ -1,0 +1,1 @@
+{"s_released":"17 November 2014 (2014-11-17)","s_format":"Digital download","s_recorded":"2014","s_genre":"Moombahton electropop EDM dancehall","s_length":"3:32","s_label":"Republic","s_writer":"Ella Yelich-O'Connor Ariana Grande Karen Ørsted","s_producer":"","s_title":"\"All My Love\""}

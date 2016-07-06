@@ -1,0 +1,1 @@
+{"s_released":"December 1981 (1981-12) (US), January 1982 (1982-01) (UK)","s_format":"7 inch, 12 inch","s_recorded":"1981","s_genre":"Hard rock, blues rock","s_length":"3:54","s_label":"Atlantic Records","s_writer":"Young, Young & Johnson","s_producer":"Robert John \"Mutt\" Lange","s_title":"\"Snowballed\" (US), \"Back in Black\" (Live) (UK)"}

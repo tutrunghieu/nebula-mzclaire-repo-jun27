@@ -1,0 +1,1 @@
+{"s_released":"April 18, 1988","s_format":"Vinyl","s_recorded":"Mid-1986 at Studio D in Sausalito, California","s_genre":"Funk rock, alternative rock, funk metal","s_length":"4:46 (album version)","s_label":"Slash (#LASH 18)","s_writer":"Billy Gould, Roddy Bottum","s_producer":"Matt Wallace, Steve Berlin, Faith No More","s_title":"\"Anne's Song\""}

@@ -1,0 +1,1 @@
+{"s_released":"March 27, 2001","s_format":"12\" maxi single","s_recorded":"January 2001","s_genre":"Hip hop, R&B, hip hop soul[38]","s_length":"4:24","s_label":"Interscope","s_writer":"Bob Crewe, Kenny Nolan","s_producer":"Rockwilder, Missy Elliott","s_title":"\"Lady Marmalade\""}

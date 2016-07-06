@@ -1,0 +1,1 @@
+{"s_released":"2000","s_format":"Airplay","s_recorded":"1999","s_genre":"Europop","s_length":"3:52","s_label":"Universal Music Group","s_writer":"B. Andersson B. Ulvaeus","s_producer":"Thomas Johansson Ronald Malmberg","s_title":"\"Take a Chance on Me\""}

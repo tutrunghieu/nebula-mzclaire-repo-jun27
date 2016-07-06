@@ -1,0 +1,1 @@
+{"s_released":"November 25, 2014 (2014-11-25)","s_format":"Digital download","s_recorded":null,"s_genre":"Hard rock, electronic rock","s_length":"4:10","s_label":"Republic","s_writer":"Chad Kroeger, Ryan Peake","s_producer":"Nickelback, Chris Baseford","s_title":"\"Million Miles an Hour\""}

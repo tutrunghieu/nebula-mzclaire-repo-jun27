@@ -1,0 +1,1 @@
+{"s_released":"October 27, 1989 (1989-10-27)","s_format":"7\" cassette 12\" CD single","s_recorded":null,"s_genre":"Heartland rock, soft rock","s_length":"4:14","s_label":"MCA Records","s_writer":"Tom Petty Jeff Lynne","s_producer":"Jeff Lynne Tom Petty Mike Campbell","s_title":"\"Down the Line\" \"Love Is a Long Road\" \"Free Fallin'\" (live)"}

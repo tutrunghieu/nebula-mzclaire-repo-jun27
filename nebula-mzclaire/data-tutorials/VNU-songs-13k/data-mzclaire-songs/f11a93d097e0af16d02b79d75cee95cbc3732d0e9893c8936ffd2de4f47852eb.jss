@@ -1,0 +1,1 @@
+{"s_released":"December 15, 2014 (2014-12-15)","s_format":"Digital download","s_recorded":null,"s_genre":null,"s_length":"5:13","s_label":"Vertigo Berlin","s_writer":"Lana Del Rey Rick Nowels","s_producer":"Paul Epworth","s_title":"\"Black Beauty\""}

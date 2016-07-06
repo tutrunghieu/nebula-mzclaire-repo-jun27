@@ -1,0 +1,1 @@
+{"s_released":null,"s_format":null,"s_recorded":"2011; Henson Recording Studios (Los Angeles)","s_genre":"Dance","s_length":"3:36","s_label":"Island","s_writer":"RedOne Lady Gaga Aliaune Thiam Claude Kelly Tami Chynn","s_producer":"Jimmy Joker Kuk Harrell","s_title":"\"Hypnotico\""}

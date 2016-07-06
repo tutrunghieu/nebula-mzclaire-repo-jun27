@@ -1,0 +1,1 @@
+{"s_released":null,"s_format":null,"s_recorded":"2011; Pelican Hill (Newport Coast); Studio De La Grand Armee (Paris)","s_genre":"Pop R&B","s_length":"3:44","s_label":"Def Jam SRP","s_writer":"Terius Nash Robyn Fenty","s_producer":"The-Dream Kuk Harrell","s_title":"\"Do Ya Thang\""}

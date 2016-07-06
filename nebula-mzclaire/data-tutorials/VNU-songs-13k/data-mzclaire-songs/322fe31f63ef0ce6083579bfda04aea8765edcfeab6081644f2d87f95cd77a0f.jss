@@ -1,0 +1,1 @@
+{"s_released":"November 16, 2009 (2009-11-16) (U.S. radio)","s_format":"Digital download","s_recorded":"March–July 2008 at Mountain View Studios, Abbotsford, British Columbia","s_genre":"Hard rock","s_length":"3:39","s_label":"Roadrunner","s_writer":"Robert John \"Mutt\" Lange, Chad Kroeger, Joey Moi","s_producer":"Robert John \"Mutt\" Lange","s_title":"\"Shakin' Hands\""}

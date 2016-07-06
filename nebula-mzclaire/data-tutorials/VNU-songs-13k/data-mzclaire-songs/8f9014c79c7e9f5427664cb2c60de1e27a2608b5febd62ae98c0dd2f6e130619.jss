@@ -1,0 +1,1 @@
+{"s_released":"November 22, 1963","s_format":null,"s_recorded":null,"s_genre":"Christmas","s_length":"2:49","s_label":"Sony Legacy / Philles","s_writer":"Jeff Barry, Ellie Greenwich, Phil Spector","s_producer":"Phil Spector","s_title":"\"Christmas (Baby Please Come Home)\""}

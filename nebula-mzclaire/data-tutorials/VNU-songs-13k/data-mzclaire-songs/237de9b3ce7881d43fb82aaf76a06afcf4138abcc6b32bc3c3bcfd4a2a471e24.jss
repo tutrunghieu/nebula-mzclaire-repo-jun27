@@ -1,0 +1,1 @@
+{"s_released":"27 May 2012 (2012-05-27)","s_format":"Digital download","s_recorded":null,"s_genre":"Dance-pop, electropop","s_length":"3:24","s_label":"Syco RCA","s_writer":"Belle Humble Mich Hansen Jason Gill","s_producer":"Cutfather Jason Gill","s_title":"\"Let It Go\""}

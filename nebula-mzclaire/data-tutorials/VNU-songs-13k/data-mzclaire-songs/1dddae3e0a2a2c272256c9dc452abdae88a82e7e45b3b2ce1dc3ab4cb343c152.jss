@@ -1,0 +1,1 @@
+{"s_released":"2000","s_format":"CD single","s_recorded":"1988, and 1990 Hollywood, California","s_genre":"Pop, Latin pop, Dance, Tejano, Mariachi","s_length":"3:36 (2000 version)","s_label":"EMI Records","s_writer":"Fuentes-Cervantes","s_producer":"Jose Behar, A.B. Quintanilla III","s_title":"\"Cien Anos\""}

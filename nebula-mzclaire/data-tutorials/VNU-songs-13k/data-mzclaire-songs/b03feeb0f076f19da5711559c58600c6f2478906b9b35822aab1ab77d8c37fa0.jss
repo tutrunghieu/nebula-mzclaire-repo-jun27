@@ -1,0 +1,1 @@
+{"s_released":null,"s_format":null,"s_recorded":"2007–08, Roc the Mic studio (New York City, New York)","s_genre":null,"s_length":"4:05","s_label":"Columbia","s_writer":"Johntá Austin Mikkel S. Eriksen Tor Erik Hermansen Beyoncé Knowles","s_producer":"StarGate Knowles","s_title":"\"Broken-Hearted Girl\" \"Video Phone\""}

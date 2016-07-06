@@ -1,0 +1,1 @@
+{"s_released":"1977","s_format":"7 inch","s_recorded":"1977","s_genre":"Hard rock","s_length":"3:37","s_label":"ATCO","s_writer":"Angus Young, Malcolm Young, and Bon Scott.","s_producer":"Harry Vanda, George Young","s_title":"\"Carry Me Home\""}

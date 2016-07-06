@@ -1,0 +1,1 @@
+{"s_released":"March 24, 1985 (Netherlands)","s_format":"CD single","s_recorded":"1984","s_genre":"Pop, soul, adult contemporary[1]","s_length":"4:29","s_label":"Arista","s_writer":"Michael Masser (music), Jeffrey Osborne (lyrics)","s_producer":"Michael Masser","s_title":"\"All at Once\""}

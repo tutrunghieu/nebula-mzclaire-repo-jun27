@@ -1,0 +1,1 @@
+{"s_released":"November 20, 2011 (2011-11-20)","s_format":"CD single, music download","s_recorded":"2011","s_genre":"Electro-hop","s_length":"4:47","s_label":"Interscope","s_writer":"William Adams, Tanya Lacey, Kenneth Oliver, Dallas Austin","s_producer":"will.i.am, Audiobot, Dallas Austin, Jimmy Iovine","s_title":"\"T.H.E. (The Hardest Ever)\""}

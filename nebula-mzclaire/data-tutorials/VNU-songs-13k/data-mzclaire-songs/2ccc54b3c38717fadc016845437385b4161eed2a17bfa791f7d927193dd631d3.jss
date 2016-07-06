@@ -1,0 +1,1 @@
+{"s_released":"November 6, 1964 (1964-11-06) (UK)","s_format":"7-inch 45 rpm record","s_recorded":"October 1964","s_genre":"Blues rock, garage rock","s_length":"2:38","s_label":"Decca (F.12018)","s_writer":null,"s_producer":"Bert Burns","s_title":"\"Gloria\""}

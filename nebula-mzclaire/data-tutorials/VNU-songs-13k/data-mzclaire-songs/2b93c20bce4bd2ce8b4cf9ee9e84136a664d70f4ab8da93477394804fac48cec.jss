@@ -1,0 +1,1 @@
+{"s_released":"March 19, 2013 (2013-03-19)","s_format":"Digital download","s_recorded":null,"s_genre":null,"s_length":"3:51","s_label":"Interscope Polydor","s_writer":"Elizabeth Grant Justin Parker","s_producer":"Emile Haynie","s_title":"\"Burning Desire\""}

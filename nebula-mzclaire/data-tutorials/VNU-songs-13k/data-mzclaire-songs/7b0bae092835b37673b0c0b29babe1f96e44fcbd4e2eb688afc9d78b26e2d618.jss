@@ -1,0 +1,1 @@
+{"s_released":"1992","s_format":null,"s_recorded":null,"s_genre":"Heavy metal, art rock[1]","s_length":"5:21","s_label":"Geffen","s_writer":"Axl Rose West Arkeen Del James","s_producer":"Mike Clink, Guns N' Roses","s_title":"\"The Garden\""}

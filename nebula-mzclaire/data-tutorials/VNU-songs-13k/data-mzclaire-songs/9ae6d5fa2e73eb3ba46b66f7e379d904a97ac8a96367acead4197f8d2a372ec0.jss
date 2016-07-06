@@ -1,0 +1,1 @@
+{"s_released":"September 5, 2014","s_format":"Digital download, CD","s_recorded":"2014","s_genre":"Pop rock[1]","s_length":"3:40","s_label":"Republic","s_writer":"Chad Kroeger, Ryan Peake, Jacob Kasher, Gordon \"Gordini\" Sran","s_producer":"Nickelback, Chris Baseford","s_title":"\"What Are You Waiting For?\""}

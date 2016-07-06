@@ -1,0 +1,1 @@
+{"s_released":"December 30, 2012 (2012-12-30)","s_format":"Digital download","s_recorded":"SM Studios in Seoul","s_genre":"Electro house complextro dubstep","s_length":"04:03","s_label":"S.M.","s_writer":"Matthew Koma Anton Zaslavski","s_producer":"Zedd Matthew Koma","s_title":"\"Spectrum\""}

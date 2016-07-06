@@ -1,0 +1,1 @@
+{"s_released":"July 6, 2006 (2006-07-06) (See release history)","s_format":"CD single, digital download","s_recorded":"May 2005; Mountain View Studios, Abbotsford, British Columbia, Canada","s_genre":"Southern rock[1]","s_length":"4:14","s_label":"Roadrunner","s_writer":"Chad Kroeger, Ryan Peake, Mike Kroeger, Daniel Adair","s_producer":null,"s_title":"\"Rockstar\""}

@@ -1,0 +1,1 @@
+{"s_released":null,"s_format":"Digital download","s_recorded":"2010 Henson Studios 20th Century Fox Scoring Stage Guardian Angel Studios Germano Studios Capitol Recording Studios","s_genre":null,"s_length":"4:25","s_label":"Island","s_writer":"Mariah Carey Marc Shaiman","s_producer":"Carey Shaiman","s_title":"\"One Child\""}

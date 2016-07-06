@@ -1,0 +1,1 @@
+{"s_released":"May 1974 (studio) January 1979 (live)","s_format":"7\"","s_recorded":null,"s_genre":"Heavy metal","s_length":"4:10 (Phenomenon LP)","s_label":"Chrysalis","s_writer":"Michael Schenker, Phil Mogg","s_producer":"Ron Nevison","s_title":"\"On with the Action\" / \"Try Me\""}

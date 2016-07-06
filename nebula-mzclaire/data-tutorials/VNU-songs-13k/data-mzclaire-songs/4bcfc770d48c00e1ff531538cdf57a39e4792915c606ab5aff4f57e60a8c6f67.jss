@@ -1,0 +1,1 @@
+{"s_released":"2005","s_format":"CD single","s_recorded":"Late 2004 Larrabee Sound Studios (Los Angeles, California)","s_genre":"Pop punk","s_length":"2:42","s_label":"Universal","s_writer":"Peter Perrett","s_producer":"Mark Hoppus Tom DeLonge Travis Barker","s_title":"\"Another Girl Another Planet\""}

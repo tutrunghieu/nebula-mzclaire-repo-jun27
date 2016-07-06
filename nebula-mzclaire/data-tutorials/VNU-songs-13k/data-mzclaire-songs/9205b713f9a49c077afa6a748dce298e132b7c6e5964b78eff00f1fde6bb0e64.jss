@@ -1,0 +1,1 @@
+{"s_released":"November 15, 2011 (2011-11-15)","s_format":"CD single digital download 7\"","s_recorded":"2010; Studio Bus","s_genre":"Dance-pop synthpop","s_length":"4:24","s_label":"Streamline Kon Live Interscope","s_writer":"Stefani Germanotta Fernando Garibay","s_producer":"Lady Gaga Fernando Garibay","s_title":"\"Marry the Night\""}

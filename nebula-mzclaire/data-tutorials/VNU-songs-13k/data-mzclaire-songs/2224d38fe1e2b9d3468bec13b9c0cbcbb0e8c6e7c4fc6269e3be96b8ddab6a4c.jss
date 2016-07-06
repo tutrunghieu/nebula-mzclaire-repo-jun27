@@ -1,0 +1,1 @@
+{"s_released":"November 1988 (1988-11)","s_format":"7\"","s_recorded":"1988 (1988) at Foel Studio in Llanfair Caereinion, Wales","s_genre":"Alternative rock, drum and bass","s_length":"3:22","s_label":"Creation","s_writer":"Kevin Shields","s_producer":"My Bloody Valentine","s_title":"\"Instrumental\" (\"Instrumental No 2\")"}

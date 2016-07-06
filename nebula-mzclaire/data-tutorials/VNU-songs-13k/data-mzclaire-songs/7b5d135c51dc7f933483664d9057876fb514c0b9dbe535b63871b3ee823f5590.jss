@@ -1,0 +1,1 @@
+{"s_released":"January 26, 2010 (2010-01-26)","s_format":"Digital download radio airplay","s_recorded":"2009","s_genre":"Club","s_length":"4:23","s_label":"Island Def Jam","s_writer":"Mariah Carey Tricky Stewart The-Dream Nicki Minaj","s_producer":"Carey Stewart Nash","s_title":"\"Up Out My Face (Remix)\""}

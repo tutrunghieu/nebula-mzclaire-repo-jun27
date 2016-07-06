@@ -1,0 +1,1 @@
+{"s_released":null,"s_format":null,"s_recorded":"2010; Westlake Recording Studios, Larrabee Sound Studios (Los Angeles, California)","s_genre":"Dance-pop hip hop trance","s_length":"4:17","s_label":"Def Jam SRP","s_writer":"Tricky Stewart Ester Dean","s_producer":"Tricky Stewart Ester Dean Kuk Harrell","s_title":"\"Complicated\""}

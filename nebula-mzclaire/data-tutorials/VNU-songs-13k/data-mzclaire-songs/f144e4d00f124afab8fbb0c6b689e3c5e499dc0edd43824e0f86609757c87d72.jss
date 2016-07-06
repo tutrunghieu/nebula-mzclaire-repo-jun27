@@ -1,0 +1,1 @@
+{"s_released":"August 13, 1987","s_format":"CD single, Cassette single, 7\" single","s_recorded":"1986","s_genre":"R&B, soul","s_length":"5:07 (Album version) 4:38 (Single version)","s_label":"Arista","s_writer":"Michael Masser, Will Jennings","s_producer":"Michael Masser","s_title":"Shock Me (Special Collector's Bonus Cut)"}

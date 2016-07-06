@@ -1,0 +1,1 @@
+{"s_released":"11 October 1971 (1971-10-11)","s_format":"7\" vinyl 12\" vinyl","s_recorded":"May–July 1971 at Ascot Sound Studios, Ascot Record Plant East, New York","s_genre":"Soft rock pop","s_length":"3:03","s_label":"Apple","s_writer":"John Lennon","s_producer":"Gold (FIMI) Platinum (BPI)","s_title":"\"It's So Hard\" (US) \"Working Class Hero\" (UK)"}

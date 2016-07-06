@@ -1,0 +1,1 @@
+{"s_released":"September 2008 (radio) October 2008 (download)","s_format":"Digital, CD","s_recorded":"2008","s_genre":"Dance-pop, R&B","s_length":"3:22","s_label":"Sony Music","s_writer":"Laura Mayne","s_producer":"Gilles Luka, Laura Mayne, Nâdiya Zighem","s_title":"\"No Future in the Past\""}

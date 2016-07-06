@@ -1,0 +1,1 @@
+{"s_released":"2008","s_format":null,"s_recorded":"2010","s_genre":"Pop","s_length":"3:02","s_label":"Universal Germany","s_writer":"Adele","s_producer":"Stefan Raab","s_title":"\"My Same\""}

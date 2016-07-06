@@ -1,0 +1,1 @@
+{"s_released":"March 10, 2011 (2011-03-10)","s_format":"CD single digital download","s_recorded":"2010 The Record Plant (Los Angeles, California)","s_genre":null,"s_length":"3:17","s_label":"Interscope","s_writer":"Josh Alexander Billy Steinberg Toby Gad","s_producer":"Carl Falk Steve Josefsson Rami Alexander Steinberg","s_title":"\"Don't Hold Your Breath\""}

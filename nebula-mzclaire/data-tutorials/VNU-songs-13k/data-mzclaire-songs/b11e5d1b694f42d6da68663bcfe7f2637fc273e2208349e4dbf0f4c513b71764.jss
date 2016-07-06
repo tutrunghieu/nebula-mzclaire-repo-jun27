@@ -1,0 +1,1 @@
+{"s_released":"20 November 2015 (2015-11-20)","s_format":"Digital download","s_recorded":"Glenwood Recording Studios, Los Angeles","s_genre":"Pop","s_length":"4:32","s_label":"XL","s_writer":"Adele Adkins Bruno Mars Philip Lawrence Christopher Brody Brown","s_producer":"The Smeezingtons","s_title":"\"All I Ask\""}

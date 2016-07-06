@@ -1,0 +1,1 @@
+{"s_released":"27 October 1980","s_format":null,"s_recorded":"1980","s_genre":"Heavy metal","s_length":"3:08","s_label":"EMI","s_writer":"Greg Macainsh","s_producer":"Tony Platt","s_title":"\"Invasion\" (7\" & 12\") \"Phantom of the Opera\" (live) (12\") \"Drifter\" (live) (German 12\")"}

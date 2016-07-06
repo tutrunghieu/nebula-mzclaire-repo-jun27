@@ -1,0 +1,1 @@
+{"s_released":"3 July 2000","s_format":"CD, 7\" vinyl, 12\" vinyl","s_recorded":"1999","s_genre":"Alternative rock, psychedelic rock","s_length":"5:12","s_label":"Big Brother","s_writer":"Noel Gallagher","s_producer":"Mark Stent, Noel Gallagher","s_title":"\"Carry Us All\" \"Full On\""}

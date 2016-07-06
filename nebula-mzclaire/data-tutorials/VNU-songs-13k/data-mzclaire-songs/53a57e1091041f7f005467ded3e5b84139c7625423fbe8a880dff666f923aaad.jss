@@ -1,0 +1,1 @@
+{"s_released":null,"s_format":null,"s_recorded":"2011, MSR Studios and KMA Studios (New York City)","s_genre":"R&B soul","s_length":"3:42","s_label":"Columbia","s_writer":"Beyoncé Knowles, Jeff Bhasker, Luke Steele","s_producer":"Beyoncé Knowles, Jeff Bhasker, Luke Steele","s_title":"\"Rather Die Young\""}

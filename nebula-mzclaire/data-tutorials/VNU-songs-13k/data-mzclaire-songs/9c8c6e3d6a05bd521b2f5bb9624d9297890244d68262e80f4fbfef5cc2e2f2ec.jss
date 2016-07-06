@@ -1,0 +1,1 @@
+{"s_released":"1991","s_format":"CD single, cassette single, 7\" single, 12\" maxi single","s_recorded":"1993","s_genre":"Soft rock","s_length":"4:36","s_label":"Giant Records","s_writer":null,"s_producer":"Harry Maslin","s_title":"\"Without You\""}

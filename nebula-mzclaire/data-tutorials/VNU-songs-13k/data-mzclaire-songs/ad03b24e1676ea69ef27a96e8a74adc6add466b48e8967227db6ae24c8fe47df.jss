@@ -1,0 +1,1 @@
+{"s_released":"September 5, 2000 (2000-09-05)","s_format":"CD single DVD","s_recorded":"1999","s_genre":"Alternative rock pop punk","s_length":"4:09","s_label":"MCA","s_writer":"Mark Hoppus Tom DeLonge","s_producer":"Jerry Finn","s_title":"\"Adam's Song\""}

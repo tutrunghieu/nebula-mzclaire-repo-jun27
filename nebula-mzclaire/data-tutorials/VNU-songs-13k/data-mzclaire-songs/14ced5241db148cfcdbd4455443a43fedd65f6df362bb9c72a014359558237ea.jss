@@ -1,0 +1,1 @@
+{"s_released":"2001","s_format":null,"s_recorded":"2000","s_genre":"Alternative rock","s_length":"3:13 (Album version) 2:46 (Radio edit)","s_label":"Atlantic","s_writer":"Ed Roland","s_producer":"Ed Roland Anthony J. Resta","s_title":"\"Vent\""}

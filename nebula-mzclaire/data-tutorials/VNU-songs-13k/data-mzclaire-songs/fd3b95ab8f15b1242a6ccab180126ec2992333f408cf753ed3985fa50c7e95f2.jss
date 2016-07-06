@@ -1,0 +1,1 @@
+{"s_released":"12 April 2013 (2013-04-12)","s_format":"CD digital download","s_recorded":"2012","s_genre":"Electro house synthpop dance-pop","s_length":"3:54","s_label":"Deconstruction Fly Eye Columbia","s_writer":"Calvin Harris Ellie Goulding","s_producer":"Calvin Harris","s_title":"\"I Need Your Love\""}

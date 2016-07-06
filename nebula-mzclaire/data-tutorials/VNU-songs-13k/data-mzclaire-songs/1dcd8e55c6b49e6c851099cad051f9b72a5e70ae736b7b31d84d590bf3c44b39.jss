@@ -1,0 +1,1 @@
+{"s_released":"1 August 1988 (UK) 13 August 1988 (US)","s_format":"CD vinyl (7\", 12\") picture disc (cut-to-shape)","s_recorded":"1988","s_genre":"Heavy metal","s_length":"4:33","s_label":"EMI","s_writer":"Adrian Smith Bruce Dickinson Steve Harris","s_producer":"Martin Birch","s_title":"\"Prowler '88\" \"Charlotte the Harlot '88\""}

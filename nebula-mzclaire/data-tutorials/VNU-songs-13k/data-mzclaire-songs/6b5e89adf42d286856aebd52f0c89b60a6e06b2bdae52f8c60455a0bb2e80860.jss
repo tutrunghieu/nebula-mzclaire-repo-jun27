@@ -1,0 +1,1 @@
+{"s_released":"November 21, 2005","s_format":"CD single, digital download","s_recorded":null,"s_genre":"Pop","s_length":"4:37","s_label":"Columbia, Epic","s_writer":"Damon Sharpe, Denise Rich, Sharon Stone, Mark J. Feist[1]","s_producer":"Mark J. Feist, Damon Sharpe[2]","s_title":"\"Come Together Now\""}

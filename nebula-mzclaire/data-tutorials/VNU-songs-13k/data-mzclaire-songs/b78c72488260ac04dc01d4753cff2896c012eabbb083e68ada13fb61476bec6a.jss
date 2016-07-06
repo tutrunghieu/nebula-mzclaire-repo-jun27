@@ -1,0 +1,1 @@
+{"s_released":"March 1977 (Australia) 23 June 1977 (worldwide)","s_format":"7\"","s_recorded":"January–February 1977","s_genre":"Hard rock, Blues rock","s_length":"5:33","s_label":"ATCO","s_writer":"Angus Young, Bon Scott, Malcolm Young","s_producer":"Harry Vanda, George Young","s_title":"\"Whole Lotta Rosie\""}

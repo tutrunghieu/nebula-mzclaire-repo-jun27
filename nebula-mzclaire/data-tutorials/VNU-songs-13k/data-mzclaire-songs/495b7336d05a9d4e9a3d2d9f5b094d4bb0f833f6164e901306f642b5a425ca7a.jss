@@ -1,0 +1,1 @@
+{"s_released":"October 12, 2008 (2008-10-12) (radio)","s_format":null,"s_recorded":"The Chocolate Factory (Chicago, Illinois)","s_genre":"Urban contemporary pop","s_length":"4:08","s_label":"Interscope","s_writer":"R. Kelly Jamal Jones","s_producer":"R. Kelly","s_title":"\"Out of This Club\""}

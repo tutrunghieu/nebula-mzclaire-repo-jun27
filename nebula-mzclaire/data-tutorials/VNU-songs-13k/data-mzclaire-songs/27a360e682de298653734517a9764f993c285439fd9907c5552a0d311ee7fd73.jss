@@ -1,0 +1,1 @@
+{"s_released":null,"s_format":null,"s_recorded":"2012","s_genre":"R&B[1] alternative hip hop","s_length":"3:25","s_label":"Def Jam SRP","s_writer":"Sam Dew Robyn Fenty Warren Felder Ronald \"Flippa\" Colson Andrew Wansel Marshall Mathers","s_producer":"@Oakwud Ronald \"Flippa\" Colson @PopWansel","s_title":"\"Numb\""}

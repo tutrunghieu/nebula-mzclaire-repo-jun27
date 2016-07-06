@@ -1,0 +1,1 @@
+{"s_released":"August 15, 2006","s_format":"Digital download","s_recorded":"The Underlab, Los Angeles: December 2005","s_genre":"Disco","s_length":"3:23","s_label":"Music World, Columbia","s_writer":"Henry Krieger, Tom Eyen","s_producer":"The Underdogs, Ritchie Jones","s_title":"\"One Night Only\""}

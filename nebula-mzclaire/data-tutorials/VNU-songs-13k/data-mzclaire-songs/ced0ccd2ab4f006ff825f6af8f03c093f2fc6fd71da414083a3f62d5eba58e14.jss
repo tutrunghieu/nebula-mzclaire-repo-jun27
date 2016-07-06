@@ -1,0 +1,1 @@
+{"s_released":"20 November 2013 (2013-11-20)","s_format":null,"s_recorded":"2013 (Enemy Dojo, Calabasas, California)","s_genre":"Pop rock","s_length":"3:04","s_label":"Syco Columbia","s_writer":"Julian Bunetta John Ryan Jamie Scott[2] Louis Tomlinson[3]","s_producer":"Julian Bunetta John Ryan","s_title":"\"Strong\""}

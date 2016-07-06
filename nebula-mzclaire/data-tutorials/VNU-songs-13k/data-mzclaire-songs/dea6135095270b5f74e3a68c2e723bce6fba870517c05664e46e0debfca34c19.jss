@@ -1,0 +1,1 @@
+{"s_released":"March 28, 2013","s_format":null,"s_recorded":null,"s_genre":"Neo soul, quiet storm","s_length":"3:56","s_label":"RCA","s_writer":"Alicia Keys, Andrew Wansel, Warren Felder, Gary Clark, Jr.","s_producer":"Alicia Keys, Andrew Wansel, Warren Felder","s_title":"\"Fire We Make\""}

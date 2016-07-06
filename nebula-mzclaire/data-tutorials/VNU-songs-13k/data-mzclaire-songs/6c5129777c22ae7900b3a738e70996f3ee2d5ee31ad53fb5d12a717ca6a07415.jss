@@ -1,0 +1,1 @@
+{"s_released":"November 23, 1980","s_format":null,"s_recorded":"1980","s_genre":"Pop rock","s_length":"4:19","s_label":"Polar (original release) PolyGram (1992 - 1997) Universal Music (1998 - )","s_writer":"Benny Andersson and Björn Ulvaeus","s_producer":"Benny Andersson and Björn Ulvaeus","s_title":"\"Our Last Summer\""}

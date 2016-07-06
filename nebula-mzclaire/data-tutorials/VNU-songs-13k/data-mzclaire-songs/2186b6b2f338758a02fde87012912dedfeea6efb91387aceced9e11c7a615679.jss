@@ -1,0 +1,1 @@
+{"s_released":"1 March 1976 (1976-03-01)","s_format":"7\"","s_recorded":"1975","s_genre":"Hard rock","s_length":"3:32","s_label":"Albert","s_writer":"Angus Young Malcolm Young Bon Scott","s_producer":"Harry Vanda George Young","s_title":"\"I'm a Rocker\""}

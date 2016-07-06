@@ -1,0 +1,1 @@
+{"s_released":"February 7, 1964 (U.S.)","s_format":"7\"","s_recorded":"December 4, 1963","s_genre":"Pop, teenage tragedy, car song[1]","s_length":"2:57","s_label":"Liberty","s_writer":"Jan Berry, Roger Christian, Brian Wilson, Artie Kornfeld","s_producer":"Jan Berry for Screen Gems, Inc.","s_title":"\"The New Girl In School\""}

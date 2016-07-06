@@ -1,0 +1,1 @@
+{"s_released":"24 January 2011 (2011-01-24)","s_format":"CD digital download","s_recorded":"2010","s_genre":"Soul pop","s_length":"4:45","s_label":"XL","s_writer":"Adele Dan Wilson","s_producer":"Adele Dan Wilson","s_title":"\"Someone like You\""}

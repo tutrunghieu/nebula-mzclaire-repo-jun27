@@ -1,0 +1,1 @@
+{"s_released":"April 3, 2012","s_format":"Digital download","s_recorded":"2011","s_genre":"Electro-hop hardcore hip hop","s_length":"3:33","s_label":"Young Money Cash Money Universal Republic","s_writer":"Onika Maraj Fernando Garibay Chauncey Hollis William Roberts Cameron Giles","s_producer":"Fernando Garibay & Hit-Boy","s_title":"\"I Am Your Leader\""}

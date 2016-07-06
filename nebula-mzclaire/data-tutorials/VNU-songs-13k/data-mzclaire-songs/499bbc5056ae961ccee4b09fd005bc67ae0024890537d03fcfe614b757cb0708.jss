@@ -1,0 +1,1 @@
+{"s_released":"March 1957 (1957-03)[1]","s_format":"7\" 45 RPM, 10\" 78 RPM","s_recorded":"January 21, 1957, Universal Recording Studios, Chicago, Illinois[2]","s_genre":"Rock and roll, rhythm and blues","s_length":"2:40","s_label":"Chess 1653[1][2]","s_writer":"Chuck Berry","s_producer":"Leonard, Phil Chess[2]","s_title":"\"Deep Feeling\""}

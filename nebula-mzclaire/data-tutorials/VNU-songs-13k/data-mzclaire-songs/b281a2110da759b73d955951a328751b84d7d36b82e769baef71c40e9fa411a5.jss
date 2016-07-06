@@ -1,0 +1,1 @@
+{"s_released":null,"s_format":null,"s_recorded":"Various 2010 Kung Fu Gardens, North Hollywood, California The Red Lips Room, Beverly Hills, California Larrabee Studios, Burbank, California","s_genre":"Pop","s_length":"4:07","s_label":"RCA","s_writer":"Linda Perry","s_producer":"Linda Perry","s_title":"\"Lift Me Up\""}

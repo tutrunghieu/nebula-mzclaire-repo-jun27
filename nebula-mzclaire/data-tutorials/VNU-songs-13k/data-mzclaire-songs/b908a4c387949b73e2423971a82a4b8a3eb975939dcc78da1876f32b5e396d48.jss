@@ -1,0 +1,1 @@
+{"s_released":"January 2, 1993","s_format":"CD single, cassette single, 7\" single, 12\" single, Video single","s_recorded":"March – May 1991","s_genre":"Dance-pop house","s_length":"4:47","s_label":"Arista","s_writer":"Nickolas Ashford, Valerie Simpson","s_producer":"Narada Michael Walden, Louis Biancaniello, David Cole, Robert Clivillés","s_title":"\"Who Do You Love\""}

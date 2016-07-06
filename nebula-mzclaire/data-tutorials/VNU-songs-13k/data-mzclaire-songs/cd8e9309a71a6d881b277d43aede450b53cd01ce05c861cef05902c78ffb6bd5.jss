@@ -1,0 +1,1 @@
+{"s_released":"August 27, 1984","s_format":null,"s_recorded":null,"s_genre":"Country","s_length":"3:51","s_label":"Capitol","s_writer":"James Dunne Pamela Phillips","s_producer":"Jim Ed Norman","s_title":"\"Love You Out of Your Mind\""}

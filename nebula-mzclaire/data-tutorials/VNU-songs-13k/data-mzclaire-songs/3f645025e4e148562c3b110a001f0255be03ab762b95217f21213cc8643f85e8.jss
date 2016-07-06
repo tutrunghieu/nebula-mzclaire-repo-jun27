@@ -1,0 +1,1 @@
+{"s_released":"November 20, 2004","s_format":"CD 7\"","s_recorded":"RCA Studio B, Nashville; May 22, 1973","s_genre":"Garage rock alternative rock","s_length":"2:37","s_label":"XL","s_writer":"Dolly Parton","s_producer":"Jack White","s_title":"\"Jolene (The Backyard Sessions)\""}

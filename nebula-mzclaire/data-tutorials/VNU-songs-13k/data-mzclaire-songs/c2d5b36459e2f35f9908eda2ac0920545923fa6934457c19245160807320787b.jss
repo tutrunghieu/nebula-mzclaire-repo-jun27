@@ -1,0 +1,1 @@
+{"s_released":"November 17, 2008","s_format":"Digital download, Promo Single","s_recorded":"2001-2007","s_genre":"Hard rock, heavy metal","s_length":"4:57","s_label":"Geffen","s_writer":"Axl Rose and Robin Finck","s_producer":"Axl Rose, Caram Costanzo","s_title":"\"Better\""}

@@ -1,0 +1,1 @@
+{"s_released":"May 17, 2011 (2011-05-17)","s_format":"Digital download","s_recorded":"2010","s_genre":"R&B","s_length":"3:41","s_label":"Notifi Music Group","s_writer":"Joseph Bereal, Chris Brown, Marlon Jean, Isaac P Jones, Kevin McCall, Teyana Taylor, Phillip Thornton","s_producer":"Jai Marlon","s_title":"\"Favor\""}

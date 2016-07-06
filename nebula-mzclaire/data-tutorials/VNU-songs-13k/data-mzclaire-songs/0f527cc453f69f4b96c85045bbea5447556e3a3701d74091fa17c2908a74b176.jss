@@ -1,0 +1,1 @@
+{"s_released":"October 6, 1998","s_format":"CD single","s_recorded":"Early 1998","s_genre":"R&B hip hop","s_length":"4:24","s_label":"Columbia","s_writer":null,"s_producer":"Jermaine Dupri, Mariah Carey","s_title":"\"Sweetheart\""}

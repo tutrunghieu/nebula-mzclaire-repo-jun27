@@ -1,0 +1,1 @@
+{"s_released":null,"s_format":null,"s_recorded":null,"s_genre":"Dance R&B","s_length":"4:04","s_label":"Island","s_writer":"Terius \"The-Dream\" Nash Christopher \"Tricky\" Stewart","s_producer":"Christopher \"Tricky\" Stewart Terius \"The-Dream\" Nash Kuk Harrell","s_title":"\"Good Hit\""}

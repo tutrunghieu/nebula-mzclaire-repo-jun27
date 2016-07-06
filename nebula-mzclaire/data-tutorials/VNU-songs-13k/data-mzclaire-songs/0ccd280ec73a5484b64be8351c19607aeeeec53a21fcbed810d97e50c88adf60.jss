@@ -1,0 +1,1 @@
+{"s_released":"9 November 2009 (2009-11-09)","s_format":"CD single digital download 7\" single","s_recorded":null,"s_genre":"Indie pop synthpop","s_length":"3:44","s_label":"Neon Gold","s_writer":"Ellie Goulding Starsmith","s_producer":"Starsmith","s_title":"\"Fighter Plane\""}

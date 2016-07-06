@@ -1,0 +1,1 @@
+{"s_released":"February 1989 (1989-02)","s_format":"7\"","s_recorded":null,"s_genre":"Alternative rock, shoegazing","s_length":"4:17","s_label":"Creation","s_writer":"Kevin Shields","s_producer":"My Bloody Valentine","s_title":"\"December, with the Day\" (Pacific)"}

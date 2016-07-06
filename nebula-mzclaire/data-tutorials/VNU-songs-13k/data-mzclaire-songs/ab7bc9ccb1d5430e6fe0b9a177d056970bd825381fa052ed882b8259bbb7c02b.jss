@@ -1,0 +1,1 @@
+{"s_released":"24 February 1997","s_format":"CD single","s_recorded":null,"s_genre":"Pop","s_length":"4:57","s_label":"Sony Music","s_writer":"Des'ree Timothy Atack","s_producer":"Nellee Hooper","s_title":"\"You Gotta Be\""}

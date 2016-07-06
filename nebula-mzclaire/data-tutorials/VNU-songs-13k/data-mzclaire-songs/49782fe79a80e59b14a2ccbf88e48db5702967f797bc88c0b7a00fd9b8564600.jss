@@ -1,0 +1,1 @@
+{"s_released":null,"s_format":null,"s_recorded":"Roc the Mic Studios, New York City Honeysouth Studios, Miami","s_genre":"Disco","s_length":"3:31","s_label":"Island Def Jam","s_writer":"Mariah Carey Mikkel S. Eriksen Tor E. Hermansen Johntá Austin Rod Temperton","s_producer":"Carey Stargate","s_title":"\"I'm That Chick\""}

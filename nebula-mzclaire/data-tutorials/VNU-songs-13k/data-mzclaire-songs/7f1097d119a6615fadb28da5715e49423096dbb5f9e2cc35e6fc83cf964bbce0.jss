@@ -1,0 +1,1 @@
+{"s_released":"January 3, 2005","s_format":"12\" CD DVD","s_recorded":"2003–2004","s_genre":"Electroclash nu-disco","s_length":"3:47","s_label":"Polydor","s_writer":"Babydaddy Jake Shears Ana Matronic","s_producer":"Scissor Sisters","s_title":"\"Filthy/Gorgeous\""}

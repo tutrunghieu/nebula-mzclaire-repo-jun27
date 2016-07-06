@@ -1,0 +1,1 @@
+{"s_released":"January 6, 1997[1]","s_format":"CD single, Cassette","s_recorded":"May 1995 - February 1996 at The Plant Studios, in Sausalito, California","s_genre":"Heavy metal","s_length":"5:28","s_label":"Elektra","s_writer":"James Hetfield Lars Ulrich Kirk Hammett","s_producer":"Bob Rock James Hetfield Lars Ulrich","s_title":"\"Ain't My Bitch (live)"}

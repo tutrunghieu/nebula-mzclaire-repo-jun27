@@ -1,0 +1,1 @@
+{"s_released":"9 March 2008 (2008-03-09)","s_format":"CD single, digital download, maxi single","s_recorded":"2007; Chalice Recording Studios, Los Angeles, California","s_genre":"Pop, R&B","s_length":"3:53","s_label":"Syco, J","s_writer":"Jonathan Rotem, Andrea Martin","s_producer":"Gold (ARIA, IFPI, BVMI) Silver (BPI)","s_title":"\"You Bring Me Down\""}

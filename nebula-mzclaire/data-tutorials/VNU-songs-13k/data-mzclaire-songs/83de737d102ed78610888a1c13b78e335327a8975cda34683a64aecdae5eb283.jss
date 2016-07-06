@@ -1,0 +1,1 @@
+{"s_released":null,"s_format":null,"s_recorded":"2011; Sarm West Studios, London, England, MSR Studios, New York, New York","s_genre":"Pop","s_length":"3:53","s_label":"Interscope","s_writer":"Madonna Martin Solveig Nicki Minaj Julien Jabre","s_producer":"Madonna Solveig","s_title":"\"I Don't Give A\""}

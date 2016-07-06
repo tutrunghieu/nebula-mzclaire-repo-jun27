@@ -1,0 +1,1 @@
+{"s_released":"16 April 2011","s_format":"7 inch","s_recorded":"December 2009 in Buenos Aires","s_genre":"Hard rock","s_length":"5:47","s_label":"Columbia Records","s_writer":"Angus Young, Malcolm Young, Brian Johnson","s_producer":"AC/DC","s_title":"\"War Machine\" (live)"}

@@ -1,0 +1,1 @@
+{"s_released":"October 28, 2011 (2011-10-28)","s_format":"Digital download","s_recorded":"2011; Soulpower Studios (Los Angeles, California)","s_genre":"Dance pop","s_length":"3:56","s_label":"Interscope","s_writer":"Carsten Schack Sean Hurley Olivia Nervo Miriam Nervo","s_producer":"Soulshock","s_title":"\"Try with Me\""}

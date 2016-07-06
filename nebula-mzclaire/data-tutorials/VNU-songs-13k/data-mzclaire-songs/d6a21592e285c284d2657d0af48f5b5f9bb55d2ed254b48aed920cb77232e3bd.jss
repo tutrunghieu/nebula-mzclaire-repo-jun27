@@ -1,0 +1,1 @@
+{"s_released":"March 28, 2004","s_format":"CD, 7\", digital single","s_recorded":"2004; Record Plant (Los Angeles, California)","s_genre":"R&B hip hop soul","s_length":"3:34","s_label":"Atlantic","s_writer":"Claude Cave II, Harold Lilly, Kanye West, Carlos Wilson, Louis Wilson, Ricardo Wilson","s_producer":"Kanye West","s_title":"\"Like It Was Yesterday\""}

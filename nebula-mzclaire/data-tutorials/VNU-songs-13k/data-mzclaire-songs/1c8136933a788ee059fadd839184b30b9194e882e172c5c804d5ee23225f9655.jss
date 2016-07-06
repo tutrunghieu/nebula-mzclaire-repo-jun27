@@ -1,0 +1,1 @@
+{"s_released":"November 2004","s_format":"CD single digital download","s_recorded":"The Warehouse Studio, Vancouver, British Columbia","s_genre":"Hardcore punk","s_length":"2:50","s_label":"Geffen","s_writer":"Rise Against","s_producer":"Garth Richardson","s_title":"\"Give It All\""}

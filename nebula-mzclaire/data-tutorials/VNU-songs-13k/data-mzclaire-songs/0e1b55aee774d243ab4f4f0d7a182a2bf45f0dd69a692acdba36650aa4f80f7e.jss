@@ -1,0 +1,1 @@
+{"s_released":"January 22, 1994 (1994-01-22)","s_format":"CD single","s_recorded":"1993 (New York City)","s_genre":"Dance pop hip hop","s_length":"4:25 (Spanish version) 4:30 (English version)","s_label":"EMI Latin","s_writer":"K. C. Porter Miguel Flores Desmond Child","s_producer":"A.B. Quintanilla III Domingo Padilla Bebu Silvetti","s_title":"\"Donde Quiera Que Estés\""}

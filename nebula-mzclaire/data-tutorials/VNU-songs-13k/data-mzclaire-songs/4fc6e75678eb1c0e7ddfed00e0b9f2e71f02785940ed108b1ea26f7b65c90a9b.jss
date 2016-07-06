@@ -1,0 +1,1 @@
+{"s_released":"October 29, 2013 (2013-10-29)","s_format":"Digital download","s_recorded":null,"s_genre":null,"s_length":"3:47","s_label":"Spinnin'","s_writer":"Lana Del Rey Rick Nowels","s_producer":"Cedric Gervais","s_title":"\"Young and Beautiful (Remix)\""}

@@ -1,0 +1,1 @@
+{"s_released":"February 16, 1999","s_format":"CD Single","s_recorded":"1998","s_genre":"Hip hop, R&B","s_length":"4:12","s_label":"No Limit, Priority","s_writer":"Mýa Harrison Vyshonn Miller The Whole 9","s_producer":"Master P (exec.) The Whole 9","s_title":"\"Somebody Like Me\""}

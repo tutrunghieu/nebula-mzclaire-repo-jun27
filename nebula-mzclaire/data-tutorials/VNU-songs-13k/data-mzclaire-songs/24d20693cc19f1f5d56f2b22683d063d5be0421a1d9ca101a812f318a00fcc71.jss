@@ -1,0 +1,1 @@
+{"s_released":"2010","s_format":"CD single cassette single","s_recorded":"1975","s_genre":"R&B soul hip hop","s_length":"4:26","s_label":"Columbia","s_writer":"Victor Carstarphen Gene McFadden John Whitehead","s_producer":"The Roots","s_title":"\"Wake Up Everybody\""}

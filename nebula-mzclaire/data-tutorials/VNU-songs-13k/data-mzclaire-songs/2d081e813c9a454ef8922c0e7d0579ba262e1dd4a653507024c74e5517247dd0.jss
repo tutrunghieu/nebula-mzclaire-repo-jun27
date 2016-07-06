@@ -1,0 +1,1 @@
+{"s_released":"July 20, 2012","s_format":"Digital download","s_recorded":"2011","s_genre":"Pop","s_length":"3:00","s_label":"Polydor Records","s_writer":"John Stephens, Jason Sellards, Scott Hoffman, Ana Lynch","s_producer":"Scissor Sisters, Alex Ridha","s_title":"\"Baby Come Home\""}

@@ -1,0 +1,1 @@
+{"s_released":"2014","s_format":null,"s_recorded":null,"s_genre":"R&B","s_length":"3:26","s_label":"Def Jam","s_writer":"Mariah Carey Chauncey Hollis Denesia Andrews MaryAnn Tatum","s_producer":"Mariah Carey Hit-Boy Rey Reel","s_title":"\"Thirsty\""}

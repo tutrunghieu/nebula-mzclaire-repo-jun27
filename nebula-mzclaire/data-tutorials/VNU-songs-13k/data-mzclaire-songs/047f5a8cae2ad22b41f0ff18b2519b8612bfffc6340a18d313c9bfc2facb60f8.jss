@@ -1,0 +1,1 @@
+{"s_released":"29 November 1999","s_format":"CD Single Cassette vinyl (12\")","s_recorded":"1999","s_genre":"Pop, Europop","s_length":"3:52","s_label":"Universal Music Group","s_writer":"Benny Andersson and Björn Ulvaeus[1]","s_producer":"Thomas Johansson Ronald Malmberg","s_title":"\"Super Trouper\""}

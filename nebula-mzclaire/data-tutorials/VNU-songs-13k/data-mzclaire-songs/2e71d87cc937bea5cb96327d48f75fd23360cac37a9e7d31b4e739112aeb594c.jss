@@ -1,0 +1,1 @@
+{"s_released":"May 26, 2011 (2011-05-26)","s_format":"Digital download","s_recorded":"2010","s_genre":"Electro house electro hop dance pop","s_length":"4:24","s_label":"Interscope","s_writer":"Stefan Gordy Skyler Gordy David Listenbee Kenneth Oliver","s_producer":"Redfoo GoonRock Audiobot","s_title":"\"Champagne Showers\""}

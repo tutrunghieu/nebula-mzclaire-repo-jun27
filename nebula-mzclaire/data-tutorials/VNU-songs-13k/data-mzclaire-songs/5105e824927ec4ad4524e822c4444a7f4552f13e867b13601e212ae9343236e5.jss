@@ -1,0 +1,1 @@
+{"s_released":"1968 (1968)","s_format":null,"s_recorded":"1967, FAME Studios, Muscle Shoals, AL","s_genre":"R&B","s_length":"2:32","s_label":"Cadet 5578","s_writer":"Etta James Ellington Jordan Billy Foster","s_producer":"Rick Hall","s_title":"I'd Rather Go Blind"}

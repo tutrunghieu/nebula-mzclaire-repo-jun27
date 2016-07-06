@@ -1,0 +1,1 @@
+{"s_released":"20 October 2008 (2008-10-20)","s_format":"Digital download","s_recorded":null,"s_genre":"Folktronica, downtempo","s_length":"4:10","s_label":"Mute","s_writer":"Alison Goldfrapp, Will Gregory","s_producer":"Goldfrapp, Gregory","s_title":"\"Clowns\""}

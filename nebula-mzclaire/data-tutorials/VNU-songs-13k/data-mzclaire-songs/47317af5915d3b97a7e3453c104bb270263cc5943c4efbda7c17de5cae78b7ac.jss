@@ -1,0 +1,1 @@
+{"s_released":"September 28, 1999","s_format":"CD single, vinyl single","s_recorded":"1998 – July 12, 1999[1]","s_genre":"R&B hip hop","s_length":"4:29 (album version) 4:00 (radio remix)","s_label":"Atlantic","s_writer":"Brandy Norwood, Rodney Jerkins, Isaac Phillips, Paris Davis, Sean Bryant","s_producer":"Rodney Jerkins","s_title":"\"U Don't Know Me (Like U Used To)\""}

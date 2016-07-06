@@ -1,0 +1,1 @@
+{"s_released":"1998","s_format":null,"s_recorded":"1997 at Triclops Recording, Atlanta","s_genre":"Post-grunge, alternative rock","s_length":"4:51 (original version) 4:15 (Dosage version)</small)>","s_label":"Atlantic","s_writer":"Ed Roland","s_producer":"Ed Roland, Greg Archilla, Mike Childers","s_title":"\"She Said\""}

@@ -1,0 +1,1 @@
+{"s_released":"26 February 1996","s_format":"Cassette, CD single","s_recorded":"1995","s_genre":"Pop","s_length":"3:40","s_label":"Polydor","s_writer":"Barry, Robin & Maurice Gibb","s_producer":"Platinum","s_title":"\"How Deep Is Your Love\""}

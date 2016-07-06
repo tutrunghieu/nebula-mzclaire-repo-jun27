@@ -1,0 +1,1 @@
+{"s_released":null,"s_format":null,"s_recorded":"2010; Dubsided (Los Angeles, California) The Red Lips Room (Beverly Hills, California)","s_genre":"Electro electropop","s_length":"3:33","s_label":"RCA","s_writer":"Christina Aguilera Dave Taylor John Hill Mathangi Arulpragasam","s_producer":"John Hill Switch","s_title":"\"Elastic Love\""}

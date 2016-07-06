@@ -1,0 +1,1 @@
+{"s_released":"May 6, 1974","s_format":"7\" (45 rpm)","s_recorded":null,"s_genre":"Country, soft rock[1]","s_length":"4:07","s_label":"Epic","s_writer":"Dave Loggins","s_producer":"Jerry Crutchfield","s_title":"\"Please Come to Boston\""}

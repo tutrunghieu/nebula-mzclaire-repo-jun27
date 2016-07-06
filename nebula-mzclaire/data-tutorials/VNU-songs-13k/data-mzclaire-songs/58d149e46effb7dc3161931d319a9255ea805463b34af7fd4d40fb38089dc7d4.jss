@@ -1,0 +1,1 @@
+{"s_released":"January 29, 1993","s_format":"CD single and 12\" single","s_recorded":"1991—December 1992","s_genre":"Latin, pop, Cumbia","s_length":"3:49","s_label":"EMI Latin","s_writer":"Ricky Vela A.B. Quintanilla III","s_producer":"Bebu Silvetti","s_title":"\"Amame\""}

@@ -1,0 +1,1 @@
+{"s_released":"May 18, 2014 (2014-05-18)","s_format":"Digital download","s_recorded":"1 March 1967 EMI Studios, London","s_genre":"Psychedelic rock neo-psychedelia","s_length":"5:47","s_label":"Warner Bros.","s_writer":"Lennon-McCartney","s_producer":"Gold (RIAA)","s_title":"\"Lucy in the Sky with Diamonds\""}

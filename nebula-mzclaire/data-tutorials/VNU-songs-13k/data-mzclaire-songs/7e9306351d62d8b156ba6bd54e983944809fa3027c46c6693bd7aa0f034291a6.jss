@@ -1,0 +1,1 @@
+{"s_released":"January 19, 2010","s_format":"Airplay","s_recorded":"2009 (Oven Studios, MSR Studios)","s_genre":"R&B hip hop soul","s_length":"3:16","s_label":"J","s_writer":"Alicia Keys Kaseem \"Swizz Beatz\" Dean","s_producer":"Keys Swizz Beatz","s_title":"\"Put It in a Love Song\""}

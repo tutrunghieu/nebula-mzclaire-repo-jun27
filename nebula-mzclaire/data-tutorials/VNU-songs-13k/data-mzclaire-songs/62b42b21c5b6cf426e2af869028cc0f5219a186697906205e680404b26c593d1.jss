@@ -1,0 +1,1 @@
+{"s_released":"June 11, 2002","s_format":"CD single digital download 12\" single","s_recorded":"March 2002","s_genre":"R&B soul funk","s_length":"4:06 (album version) 3:43 (radio edit)","s_label":"Columbia","s_writer":"Beyoncé Knowles Pharrell Williams Chad Hugo","s_producer":"The Neptunes","s_title":"\"Work It Out\""}

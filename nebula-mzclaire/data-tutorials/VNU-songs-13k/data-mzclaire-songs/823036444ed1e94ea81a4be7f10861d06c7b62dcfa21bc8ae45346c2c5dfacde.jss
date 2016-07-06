@@ -1,0 +1,1 @@
+{"s_released":"April 29, 2003 (2003-04-29)","s_format":"12\" single","s_recorded":"2003","s_genre":"R&B, Hip hop","s_length":"4:02","s_label":"Elektra","s_writer":"Kevin Risto","s_producer":"Dirty Swift of Midi Mafia","s_title":"\"21 Answers\""}

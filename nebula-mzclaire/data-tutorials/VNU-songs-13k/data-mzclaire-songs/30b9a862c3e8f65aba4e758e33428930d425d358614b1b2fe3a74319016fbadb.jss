@@ -1,0 +1,1 @@
+{"s_released":"January 22, 2013","s_format":"Digital download CD Single","s_recorded":"2012 in Los Angeles, California","s_genre":"Pop punk[1] alternative rock[2]","s_length":"4:07","s_label":"Fueled by Ramen","s_writer":"Hayley Williams Taylor York","s_producer":"Justin Meldal-Johnsen Taylor York","s_title":"\"Now\""}

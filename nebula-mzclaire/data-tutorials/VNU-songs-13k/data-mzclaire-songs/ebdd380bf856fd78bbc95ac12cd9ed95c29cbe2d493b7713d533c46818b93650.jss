@@ -1,0 +1,1 @@
+{"s_released":"July 31, 2006 (2006-07-31)","s_format":"Digital download Vinyl","s_recorded":null,"s_genre":"Neo soul","s_length":"4:09","s_label":"Geffen Interscope","s_writer":"Beau Dozier Bruce Boniface","s_producer":"Ron Fair Dozier Tal Herzberg","s_title":"\"Lie About Us\""}

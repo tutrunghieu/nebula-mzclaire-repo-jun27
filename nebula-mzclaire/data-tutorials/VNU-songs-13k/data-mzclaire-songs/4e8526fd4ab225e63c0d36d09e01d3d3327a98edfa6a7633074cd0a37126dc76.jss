@@ -1,0 +1,1 @@
+{"s_released":"September 23, 2009 (2009-09-23) [1]","s_format":"Digital download","s_recorded":null,"s_genre":"Electropop, new wave","s_length":"3:35","s_label":"I Surrender!, Mercury","s_writer":"Dan Kurtz and Martina Sorbara","s_producer":"Dragonette","s_title":"\"Pick Up The Phone\""}

@@ -1,0 +1,1 @@
+{"s_released":"September 7, 2004 (U.S. rock radio)","s_format":null,"s_recorded":"December 2002- April 2003","s_genre":"Alternative metal","s_length":"3:30","s_label":"Roadrunner","s_writer":"Chad Kroeger, Mike Kroeger, Ryan Peake, Ryan Vikedal","s_producer":null,"s_title":"\"Because of You\""}

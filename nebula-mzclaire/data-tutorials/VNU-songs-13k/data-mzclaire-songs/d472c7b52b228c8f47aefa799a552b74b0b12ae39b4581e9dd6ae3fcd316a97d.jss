@@ -1,0 +1,1 @@
+{"s_released":"22 September 1997","s_format":"CD single, 7\" vinyl, 12\" vinyl, cassette","s_recorded":"March 1997","s_genre":"Britpop","s_length":"5:56 (Album version) 4:51 (French radio edit)","s_label":"Creation","s_writer":"Noel Gallagher","s_producer":"Owen Morris, Noel Gallagher","s_title":"\"(I Got) The Fever\" \"My Sister Lover\" \"Going Nowhere\""}

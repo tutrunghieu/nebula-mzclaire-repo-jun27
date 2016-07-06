@@ -1,0 +1,1 @@
+{"s_released":"July 14, 2003","s_format":"CD single, 12\"","s_recorded":"2002; Olympic Recording Studios (Barnes, London)","s_genre":"Dance-pop folk rock","s_length":"4:24","s_label":"Maverick Warner Bros","s_writer":"Madonna Mirwais Ahmadzaï","s_producer":"Madonna Mirwais Ahmadzaï","s_title":"\"Hollywood\""}

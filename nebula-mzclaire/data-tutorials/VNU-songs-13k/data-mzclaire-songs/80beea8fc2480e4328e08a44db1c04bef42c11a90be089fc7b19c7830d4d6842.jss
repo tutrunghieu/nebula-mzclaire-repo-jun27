@@ -1,0 +1,1 @@
+{"s_released":"2 September 1996","s_format":null,"s_recorded":"Summer 1996","s_genre":"Heavy metal","s_length":"6:14 3:54 (short version)","s_label":"EMI","s_writer":"Blaze Bayley, Dave Murray, Janick Gers, Steve Harris","s_producer":null,"s_title":"\"My Generation\" \"Doctor Doctor\" \"Prowler\" \"Invasion\" \"Sanctuary\" \"Wrathchild\""}

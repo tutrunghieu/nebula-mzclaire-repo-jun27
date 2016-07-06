@@ -1,0 +1,1 @@
+{"s_released":null,"s_format":null,"s_recorded":"at Conway Recording Studios, Los Angeles, California, United States; Dean Street Studios, London, England; The Vault in Stockholm, Sweden.","s_genre":null,"s_length":"4:12","s_label":"J Sony Syco","s_writer":"Arnthor Birgisson Ina Wroldsen","s_producer":"Arnthor Birgisson Leona Lewis","s_title":"\"My Hands\""}

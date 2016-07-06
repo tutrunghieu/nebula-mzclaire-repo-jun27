@@ -1,0 +1,1 @@
+{"s_released":"21 December 1980","s_format":"7 inch","s_recorded":"Compass Point Studios, The Bahamas, spring 1980","s_genre":"Hard rock[1]","s_length":"4:15","s_label":"Atlantic","s_writer":"Angus Young Malcolm Young Brian Johnson","s_producer":"Robert John \"Mutt\" Lange","s_title":"\"What Do You Do for Money Honey\""}

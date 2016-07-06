@@ -1,0 +1,1 @@
+{"s_released":"July 6, 2010","s_format":"CD single, digital download","s_recorded":"2010","s_genre":"Pop","s_length":"2:57","s_label":"Walt Disney","s_writer":"Toby Gad, Arama Brown","s_producer":"Toby Gad","s_title":"\"Ordinary Girl\""}

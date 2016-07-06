@@ -1,0 +1,1 @@
+{"s_released":"January 10, 2009","s_format":"CD single digital download","s_recorded":"2008","s_genre":"Synthpop bubblegum pop","s_length":"2:57","s_label":"Streamline Kon Live Cherrytree Interscope","s_writer":"Stefani Germanotta Martin Kierszenbaum[1]","s_producer":"Martin Kierszenbaum","s_title":"\"Eh, Eh (Nothing Else I Can Say)\""}

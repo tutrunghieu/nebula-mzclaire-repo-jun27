@@ -1,0 +1,1 @@
+{"s_released":"January 25, 1997","s_format":"CD 12\" single","s_recorded":"February 26, 1995","s_genre":"Latin, disco","s_length":null,"s_label":"EMI","s_writer":"Paul Jabara, Van McCoy, Donna Summer","s_producer":"A.B. Quintanilla III and Bebu Silvetti","s_title":"\"Last Dance/The Hustle/On The Radio\""}

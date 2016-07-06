@@ -1,0 +1,1 @@
+{"s_released":"November 1975","s_format":"7\" single","s_recorded":"1975","s_genre":"Europop, Pop","s_length":"3:35","s_label":"CBS Cupol","s_writer":"Björn Ulvaeus Benny Andersson Stig Anderson","s_producer":"Benny Andersson Björn Ulvaeus Agnetha Fältskog","s_title":"\"SOS\""}

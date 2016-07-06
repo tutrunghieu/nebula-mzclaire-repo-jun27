@@ -1,0 +1,1 @@
+{"s_released":"December 6, 2006","s_format":"Digital single","s_recorded":"2006 at the Blasting Room, Fort Collins, Colorado","s_genre":"Melodic hardcore, punk rock","s_length":"3:27","s_label":"DGC, Interscope","s_writer":"Tim McIlrath","s_producer":"Platinum (RIAA)[1]","s_title":"\"Prayer of the Refugee\""}

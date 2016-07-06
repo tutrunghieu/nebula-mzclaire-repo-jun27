@@ -1,0 +1,1 @@
+{"s_released":"22 April 2016","s_format":"Digital download","s_recorded":null,"s_genre":"Pop rock alternative rock","s_length":"6:45 (album version) 3:58 (radio edit) 4:10 (official video)","s_label":"Parlophone","s_writer":"Coldplay","s_producer":"Rik Simpson Stargate","s_title":"\"Up & Up\""}

@@ -1,0 +1,1 @@
+{"s_released":"20 February 1985 (US) 8 April 1985 (UK)","s_format":"12\" 7\"","s_recorded":"10 July 1984","s_genre":"New wave , Pop Rock, Synthpop","s_length":"4:20 6:32 (extended version) 7:17 (12\")","s_label":"Virgin A&M (US)","s_writer":"Keith Forsey Steve Schiff","s_producer":null,"s_title":"\"A Brass Band in African Chimes\""}

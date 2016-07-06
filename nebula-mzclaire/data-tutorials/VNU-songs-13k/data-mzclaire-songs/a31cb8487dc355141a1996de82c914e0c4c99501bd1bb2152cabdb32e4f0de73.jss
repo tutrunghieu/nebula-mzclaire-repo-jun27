@@ -1,0 +1,1 @@
+{"s_released":"February 8, 2010","s_format":"Digital download","s_recorded":"August 15, 1992; Sound Works Studio (Astoria, New York)","s_genre":"R&B soul","s_length":"3:32","s_label":"Columbia","s_writer":"John Davenport Eddie Cooley Peggy Lee (uncredited)","s_producer":"Chink Santana Beyoncé Knowles","s_title":"\"Fever\""}

@@ -1,0 +1,1 @@
+{"s_released":"2 March 1981","s_format":null,"s_recorded":"1980","s_genre":"Heavy metal","s_length":"2:32","s_label":null,"s_writer":"Steve Harris Dave Murray","s_producer":"Iron Maiden Martin Birch","s_title":"\"Wrathchild\"[1]"}

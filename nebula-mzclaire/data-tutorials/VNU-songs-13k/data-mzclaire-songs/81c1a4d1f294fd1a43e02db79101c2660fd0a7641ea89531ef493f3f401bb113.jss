@@ -1,0 +1,1 @@
+{"s_released":"20 August 2010 (2010-08-20)","s_format":"CD digital download","s_recorded":null,"s_genre":"Vocal trance","s_length":"2:53","s_label":"Armada All Around the World","s_writer":"Olivia Nervo Miriam Nervo Sophie Ellis-Bextor","s_producer":"Armin van Buuren Benno de Goeij","s_title":"\"Not Giving Up on Love\""}

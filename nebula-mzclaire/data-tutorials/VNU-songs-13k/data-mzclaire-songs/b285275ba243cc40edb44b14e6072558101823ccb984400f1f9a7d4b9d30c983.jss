@@ -1,0 +1,1 @@
+{"s_released":"1982 March 22, 1982 (US)","s_format":"7 inch","s_recorded":"1981","s_genre":"Hard rock","s_length":"5:44 (Single/Album version) 3:50 (edit)","s_label":"Atlantic","s_writer":"Angus Young, Malcolm Young, Brian Johnson","s_producer":"Robert John \"Mutt\" Lange","s_title":"\"Let There Be Rock\" (live) T.N.T. (live, US)"}

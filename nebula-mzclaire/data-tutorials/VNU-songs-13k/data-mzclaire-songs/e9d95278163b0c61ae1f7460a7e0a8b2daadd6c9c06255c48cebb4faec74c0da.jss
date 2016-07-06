@@ -1,0 +1,1 @@
+{"s_released":"February 27, 1996","s_format":"CD single, maxi single, cassette","s_recorded":null,"s_genre":"Pop rock","s_length":"3:48","s_label":"Maverick, Warner Bros.","s_writer":"Alanis Morissette, Glen Ballard","s_producer":"Glen Ballard","s_title":"\"Ironic\""}

@@ -1,0 +1,1 @@
+{"s_released":"September 13, 1989","s_format":"CD, 7\" single","s_recorded":"1988","s_genre":"Latin","s_length":"3:01","s_label":"EMI","s_writer":"Hachidai Nakamura","s_producer":"A.B. Quintanilla III","s_title":"\"Sukiyaki\""}

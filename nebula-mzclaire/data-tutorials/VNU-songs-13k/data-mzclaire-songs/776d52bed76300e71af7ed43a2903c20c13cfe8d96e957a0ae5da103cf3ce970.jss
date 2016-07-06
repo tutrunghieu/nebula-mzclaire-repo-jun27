@@ -1,0 +1,1 @@
+{"s_released":"20 October 1980 (US) 24 October 1980 (UK)","s_format":"7\"","s_recorded":"1980","s_genre":"Rock, pop rock","s_length":"3:56 (Original Release) 4:26 (Stripped Down) 4:17 (Promotional radio edit)","s_label":"Geffen","s_writer":"John Lennon","s_producer":"Gold (RIAA)","s_title":"\"Kiss Kiss Kiss\" (Yoko Ono)"}

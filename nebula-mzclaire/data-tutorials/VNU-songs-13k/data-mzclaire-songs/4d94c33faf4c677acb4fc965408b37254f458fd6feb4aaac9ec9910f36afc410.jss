@@ -1,0 +1,1 @@
+{"s_released":"March 4, 2011 (2011-03-04)","s_format":"CD single digital download","s_recorded":"2011; Conway Studios (Los Angeles)","s_genre":"Dance-pop electropop","s_length":"3:57","s_label":"Jive","s_writer":"Lukasz Gottwald Alexander Kronlund Max Martin Kesha Sebert","s_producer":"Dr. Luke Max Martin Billboard Emily Wright","s_title":"\"Till the World Ends\""}

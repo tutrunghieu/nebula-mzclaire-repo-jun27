@@ -1,0 +1,1 @@
+{"s_released":"July 17, 2012 (2012-07-17)","s_format":"Digital download","s_recorded":null,"s_genre":"Pop rock, grunge","s_length":"2:21","s_label":"Capitol","s_writer":"Shirley Manson Greg Kurstin","s_producer":"Greg Kurstin","s_title":"\"Red Lips\""}

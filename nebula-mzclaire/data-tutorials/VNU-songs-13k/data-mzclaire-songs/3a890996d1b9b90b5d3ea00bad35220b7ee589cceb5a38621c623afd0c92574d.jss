@@ -1,0 +1,1 @@
+{"s_released":null,"s_format":null,"s_recorded":null,"s_genre":"Pop-funk","s_length":"4:24","s_label":"RCA","s_writer":"Pharrell Williams","s_producer":"Pharrell Williams","s_title":"\"#GetItRight\""}

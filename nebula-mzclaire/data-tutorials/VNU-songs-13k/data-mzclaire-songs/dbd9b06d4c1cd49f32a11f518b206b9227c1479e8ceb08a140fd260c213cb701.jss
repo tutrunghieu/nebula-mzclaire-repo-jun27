@@ -1,0 +1,1 @@
+{"s_released":"November 8, 2005 (U.S. rock radio)","s_format":"Radio single","s_recorded":"January–May 2005 at Mountainview Studios, Abbotsford, British Columbia","s_genre":"Alternative metal","s_length":"3:06","s_label":"Roadrunner","s_writer":"Daniel Adair, Chad Kroeger, Mike Kroeger,","s_producer":null,"s_title":"\"Animals\""}

@@ -1,0 +1,1 @@
+{"s_released":"17 September 1995","s_format":"CD single, 7-inch single","s_recorded":"1994–1995","s_genre":"Hard rock","s_length":"4:31","s_label":"Elektra","s_writer":"Angus Young Malcolm Young","s_producer":"Rick Rubin","s_title":"\"Caught with Your Pants Down\""}

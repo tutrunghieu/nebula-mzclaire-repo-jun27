@@ -1,0 +1,1 @@
+{"s_released":"1998","s_format":"CD","s_recorded":null,"s_genre":"Pop","s_length":"3:26","s_label":"Edel Music","s_writer":"Mary S. Applegate","s_producer":"Gary Carolla","s_title":"\"Crazy Little Party Girl\""}

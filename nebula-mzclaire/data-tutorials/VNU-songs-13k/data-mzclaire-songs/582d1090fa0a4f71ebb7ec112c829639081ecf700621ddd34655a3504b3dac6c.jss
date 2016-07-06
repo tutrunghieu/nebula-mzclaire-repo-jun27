@@ -1,0 +1,1 @@
+{"s_released":"November 9, 1999","s_format":"CD single","s_recorded":"1999","s_genre":"Country pop","s_length":"3:50","s_label":"Lyric Street","s_writer":null,"s_producer":"Dann Huff","s_title":"\"Deck the Halls\" (Radio Mix)"}

@@ -1,0 +1,1 @@
+{"s_released":"April 13, 2012","s_format":"Digital download","s_recorded":"2011","s_genre":"Dance-pop house","s_length":"3:39","s_label":"Casablanca","s_writer":"Jason Sellards Scott Hoffman Amanda Ghost Alex Ridha","s_producer":"Scissor Sisters Boys Noize Calvin Harris","s_title":"\"Only the Horses\""}

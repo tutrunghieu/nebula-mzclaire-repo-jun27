@@ -1,0 +1,1 @@
+{"s_released":"14 August 2000","s_format":"12\" CD","s_recorded":"1999","s_genre":"Funky house French house handbag house[1]","s_length":null,"s_label":"Positiva","s_writer":"Cristiano Spiller Sophie Ellis-Bextor Rob Davis","s_producer":"2× Platinum (ARIA) Platinum (BPI)","s_title":"\"Groovejet (If This Ain't Love)\""}

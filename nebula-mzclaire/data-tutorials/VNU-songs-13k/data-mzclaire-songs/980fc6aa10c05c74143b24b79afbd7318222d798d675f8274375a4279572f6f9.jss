@@ -1,0 +1,1 @@
+{"s_released":null,"s_format":null,"s_recorded":"Nightbird Studios (West Hollywood) Conway Recording Studios (Los Angeles) Glenwood Studios, (Burbank)","s_genre":null,"s_length":"2:49","s_label":"RCA","s_writer":"Michael L. Williams II Marquel Middlebrooks Sean Garrett Miley Cyrus","s_producer":"Mike Will Made It Marz","s_title":"\"SMS (Bangerz)\""}

@@ -1,0 +1,1 @@
+{"s_released":"1992","s_format":"CD","s_recorded":"Coast Recorders and Brilliant Studios San Francisco, California January – March 1992[1]","s_genre":"Alternative metal, experimental rock, funk metal","s_length":"3:43","s_label":"Slash (# PRO-CD-5523)","s_writer":"Lyrics: Mike Patton Music: Billy Gould Roddy Bottum","s_producer":"Matt Wallace","s_title":"\"Land of Sunshine\""}

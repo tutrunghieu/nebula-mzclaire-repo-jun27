@@ -1,0 +1,1 @@
+{"s_released":"October 12, 2012 (2012-10-12)","s_format":null,"s_recorded":"2009–12","s_genre":"R&B[1]","s_length":"47:55","s_label":"Chameleon RCA","s_writer":null,"s_producer":"\"Put It Down\" Released: May 4, 2012 \"Wildest Dreams\" Released: August 28, 2012","s_title":"Two Eleven"}

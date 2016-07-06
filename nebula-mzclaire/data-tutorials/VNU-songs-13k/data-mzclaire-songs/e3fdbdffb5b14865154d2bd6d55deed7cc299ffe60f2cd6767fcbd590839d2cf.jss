@@ -1,0 +1,1 @@
+{"s_released":"September 23, 2002","s_format":"Download, 12\" single","s_recorded":"2001; SouthSide Studios (Atlanta, Georgia)","s_genre":"R&B hip hop","s_length":"3:55 (album version)","s_label":"J","s_writer":"Monica Arnold, Jermaine Dupri, Bryan Michael Cox, Harold Lilly","s_producer":"Jermaine Dupri; Bryan Michael Cox (co-production)","s_title":"\"Too Hood\""}

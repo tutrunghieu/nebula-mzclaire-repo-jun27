@@ -1,0 +1,1 @@
+{"s_released":"May 12, 2015 (2015-05-12)","s_format":"Digital download","s_recorded":null,"s_genre":"Hip hop R&B","s_length":"3:50","s_label":"GOOD Def Jam","s_writer":"Ariana Grande Sean Anderson Dacoury Natche Michael Carson Leland Wayne","s_producer":"DJ Dahi Metro Boomin","s_title":"\"Research\""}

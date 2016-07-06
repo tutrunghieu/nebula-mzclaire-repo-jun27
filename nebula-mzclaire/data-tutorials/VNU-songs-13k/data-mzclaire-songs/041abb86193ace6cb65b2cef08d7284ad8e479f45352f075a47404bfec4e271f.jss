@@ -1,0 +1,1 @@
+{"s_released":"April 28, 2008","s_format":"Digital download","s_recorded":"Hitland Studios, Alpharetta; The Record Plant, Los Angeles","s_genre":"R&B","s_length":"5:09 4:19 (B-side without Lil Wayne)","s_label":"LaFace","s_writer":null,"s_producer":"Platinum (RIAA)","s_title":"\"Love in This Club Part II\""}

@@ -1,0 +1,1 @@
+{"s_released":"November 1975","s_format":"7\" single","s_recorded":"1973","s_genre":"Southern soul","s_length":"3:38","s_label":"Malaco","s_writer":"Bob Montgomery","s_producer":"Tom Couch, James Stroud","s_title":"\"Here It Is\""}

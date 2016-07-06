@@ -1,0 +1,1 @@
+{"s_released":"January 7, 2003","s_format":"12-inch single, CD, digital download","s_recorded":"2003","s_genre":"R&B hip hop","s_length":"3:10","s_label":"Columbia","s_writer":"Curtis Jackson, Andre Young, Mike Elizondo","s_producer":"Knowles","s_title":"\"Sexy Lil Thug\""}

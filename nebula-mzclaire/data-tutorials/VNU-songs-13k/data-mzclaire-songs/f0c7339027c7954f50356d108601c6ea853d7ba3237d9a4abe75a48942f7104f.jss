@@ -1,0 +1,1 @@
+{"s_released":"March 26, 2012 (2012-03-26)","s_format":null,"s_recorded":"The Boom Boom Room (Burbank, California)","s_genre":"Electro","s_length":"3:43","s_label":"Capitol","s_writer":"Katy Perry Christopher \"Tricky\" Stewart Monte Neuble Matt Theissen","s_producer":"Stewart Kuk Harrell (vocals)","s_title":"\"Dressin' Up\""}

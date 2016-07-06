@@ -1,0 +1,1 @@
+{"s_released":"March 31, 2014 (2014-03-31)","s_format":"Digital download","s_recorded":null,"s_genre":"R&B","s_length":"3:50","s_label":"RCA","s_writer":"Alicia Cook Pharrell Williams Hans Zimmer Kendrick Duckworth","s_producer":"Pharrell Williams","s_title":"\"It's On Again\""}

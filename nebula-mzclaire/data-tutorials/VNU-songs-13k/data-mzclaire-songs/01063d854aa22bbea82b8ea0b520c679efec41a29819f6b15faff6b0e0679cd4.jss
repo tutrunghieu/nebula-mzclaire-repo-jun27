@@ -1,0 +1,1 @@
+{"s_released":"October 22, 2008","s_format":"Digital download, CD single","s_recorded":"1999-2008","s_genre":"Hard rock, industrial rock, heavy metal","s_length":"4:43","s_label":"Geffen","s_writer":"Axl Rose, Josh Freese, Eric Caudieux, Caram Castanzo, Robin Finck, Dizzy Reed, Tommy Stinson, Paul Tobias","s_producer":"Axl Rose, Caram Costanzo","s_title":"\"Shackler's Revenge\""}

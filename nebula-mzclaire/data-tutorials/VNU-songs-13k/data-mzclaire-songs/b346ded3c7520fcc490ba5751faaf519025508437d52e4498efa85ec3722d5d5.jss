@@ -1,0 +1,1 @@
+{"s_released":"November 21, 2006","s_format":"CD single","s_recorded":"2006","s_genre":"Hard rock","s_length":"3:15","s_label":"Burnett/Epic Records","s_writer":"Tommy Lee Butch Walker Scott Humphrey","s_producer":"Butch Walker","s_title":"\"It's All Love\""}

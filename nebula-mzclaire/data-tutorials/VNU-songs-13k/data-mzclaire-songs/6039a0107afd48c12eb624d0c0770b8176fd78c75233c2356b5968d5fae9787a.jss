@@ -1,0 +1,1 @@
+{"s_released":"August 25, 2008","s_format":null,"s_recorded":"January–June 2008 at The Blasting Room, Fort Collins, Colorado","s_genre":"Melodic hardcore, punk rock","s_length":"3:42","s_label":"Interscope","s_writer":"Tim McIlrath, Joe Principe, Brandon Barnes and Zach Blair","s_producer":"Gold (RIAA)[1]","s_title":"\"Re-Education (Through Labor)\""}

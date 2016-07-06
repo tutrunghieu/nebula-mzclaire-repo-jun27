@@ -1,0 +1,1 @@
+{"s_released":"October 1975","s_format":"7\"","s_recorded":null,"s_genre":"Pop","s_length":"3:25","s_label":"Motown","s_writer":"Michael Masser, Gerald Goffin","s_producer":"Michael Masser","s_title":"\"No One's Gonna Be a Fool Forever\""}

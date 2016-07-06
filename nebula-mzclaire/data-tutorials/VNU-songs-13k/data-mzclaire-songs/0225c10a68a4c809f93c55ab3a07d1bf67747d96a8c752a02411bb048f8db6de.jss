@@ -1,0 +1,1 @@
+{"s_released":"September 13, 2011 (2011-09-13)","s_format":"Digital download","s_recorded":"2011","s_genre":"Hip hop R&B","s_length":"4:31","s_label":"BU Vision Konvict Muzik Island Def Jam","s_writer":"Shama E. Joseph Maurice Simmonds Ashlee Chanel Ross","s_producer":null,"s_title":"\"Boo Thang\""}

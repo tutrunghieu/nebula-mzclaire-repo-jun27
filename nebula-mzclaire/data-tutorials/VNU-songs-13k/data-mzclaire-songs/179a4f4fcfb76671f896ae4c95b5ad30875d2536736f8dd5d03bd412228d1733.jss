@@ -1,0 +1,1 @@
+{"s_released":"June 17, 2008 (2008-06-17)","s_format":"CD single digital download","s_recorded":"2008","s_genre":"Pop punk","s_length":"3:33","s_label":"Hollywood","s_writer":"Miley Cyrus Antonina Armato Tim James","s_producer":"John Fields","s_title":"\"7 Things\""}

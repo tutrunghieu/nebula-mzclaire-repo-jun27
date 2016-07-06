@@ -1,0 +1,1 @@
+{"s_released":"1962","s_format":"7\"","s_recorded":"James Baskett","s_genre":"Pop","s_length":"2:40","s_label":"Philles","s_writer":"Allie Wrubel, Ray Gilbert","s_producer":"Phil Spector","s_title":"\"Flip and Nitty\""}

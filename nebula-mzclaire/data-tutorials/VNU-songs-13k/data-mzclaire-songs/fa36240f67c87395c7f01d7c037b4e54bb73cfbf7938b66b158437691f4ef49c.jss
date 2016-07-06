@@ -1,0 +1,1 @@
+{"s_released":"August 7, 2012","s_format":"Digital download","s_recorded":"2012","s_genre":"Electropop, new wave","s_length":"2:56","s_label":"I Surrender!, Mercury","s_writer":"Dan Kurtz and Martina Sorbara","s_producer":"Dragonette","s_title":"\"Live In This City\""}

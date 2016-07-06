@@ -1,0 +1,1 @@
+{"s_released":"May 6, 2016","s_format":"Digital download","s_recorded":null,"s_genre":"Dance-pop","s_length":"4:04","s_label":"Republic","s_writer":"Max Martin Savan Kotecha Alexander Kronlund Ilya Ariana Grande","s_producer":"Martin Ilya","s_title":"\"Into You\""}

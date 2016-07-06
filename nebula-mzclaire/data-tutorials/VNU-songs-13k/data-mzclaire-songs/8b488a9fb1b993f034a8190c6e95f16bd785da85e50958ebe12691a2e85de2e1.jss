@@ -1,0 +1,1 @@
+{"s_released":"October 1987[1]","s_format":"CD single cassette single 7\" single","s_recorded":"1987","s_genre":"Dance-rock","s_length":"4:36","s_label":"Arista","s_writer":"Billy Steinberg Tom Kelly","s_producer":"Narada Michael Walden","s_title":"\"For the Love of You\""}

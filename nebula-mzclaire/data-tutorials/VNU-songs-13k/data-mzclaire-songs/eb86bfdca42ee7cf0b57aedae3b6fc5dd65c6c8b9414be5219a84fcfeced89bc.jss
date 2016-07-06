@@ -1,0 +1,1 @@
+{"s_released":"May 27, 2009","s_format":"CD Single, digital download","s_recorded":null,"s_genre":null,"s_length":"10:09 minutes","s_label":"EMI Music Japan / Virgin Music","s_writer":"Shiina Ringo, Tomotaka Imamichi, Jazztronik","s_producer":"Uni Inoue","s_title":"\"Ariamaru Tomi\""}

@@ -1,0 +1,1 @@
+{"s_released":"16 July 2010","s_format":"Digital download, CD single","s_recorded":"2010","s_genre":"Electronic rock, pop","s_length":"2:48","s_label":"Universal","s_writer":"Tom DeLonge Mark Hoppus","s_producer":"Jerry Finn","s_title":"\"All the Small Things\""}

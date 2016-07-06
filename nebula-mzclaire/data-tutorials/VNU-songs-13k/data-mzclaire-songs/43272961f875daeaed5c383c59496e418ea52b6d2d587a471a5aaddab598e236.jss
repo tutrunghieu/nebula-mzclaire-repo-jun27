@@ -1,0 +1,1 @@
+{"s_released":"October 19, 2003 (2003-10-19)","s_format":"CD single 12\"","s_recorded":"2002, South Beach Studios (Miami, Florida)","s_genre":"R&B soul","s_length":"5:01 (album version) 3:59 (radio/video edit)","s_label":"Columbia","s_writer":"Beyoncé Knowles Scott Storch Robert Waller","s_producer":"Gold (US)","s_title":"\"Me, Myself and I\""}

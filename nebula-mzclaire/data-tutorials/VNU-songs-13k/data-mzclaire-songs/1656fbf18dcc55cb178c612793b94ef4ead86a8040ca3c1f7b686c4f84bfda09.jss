@@ -1,0 +1,1 @@
+{"s_released":"April 26, 2010","s_format":"7\", digital download","s_recorded":"2010","s_genre":"Pop","s_length":"3:22","s_label":"Epic, Portrait, CBS","s_writer":"Robert Hazard","s_producer":"Rick Chertoff, William Wittman","s_title":"\"Girls Just Want to Have Fun\""}

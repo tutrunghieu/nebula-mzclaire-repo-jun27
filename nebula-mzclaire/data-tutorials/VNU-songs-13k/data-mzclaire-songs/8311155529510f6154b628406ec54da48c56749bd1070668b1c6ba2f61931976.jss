@@ -1,0 +1,1 @@
+{"s_released":"\"It's So Easy\" (UK) \"Welcome to the Jungle\" (US)","s_format":null,"s_recorded":"1987","s_genre":"Hard rock heavy metal","s_length":"3:48","s_label":"Geffen","s_writer":"Izzy Stradlin Slash","s_producer":"Mike Clink","s_title":"\"Mr. Brownstone\""}

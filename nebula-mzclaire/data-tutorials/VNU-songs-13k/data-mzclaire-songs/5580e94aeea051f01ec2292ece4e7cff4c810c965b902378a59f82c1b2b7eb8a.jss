@@ -1,0 +1,1 @@
+{"s_released":"May 23, 2011","s_format":null,"s_recorded":"2010; Bus Tour, Europe","s_genre":"Mariachi house techno Latin","s_length":"4:06","s_label":"Streamline Interscope Kon Live","s_writer":"Stefani Germanotta Fernando Garibay DJ White Shadow Cheche Alara","s_producer":"Lady Gaga Fernando Garibay DJ White Shadow","s_title":"\"Americano\""}

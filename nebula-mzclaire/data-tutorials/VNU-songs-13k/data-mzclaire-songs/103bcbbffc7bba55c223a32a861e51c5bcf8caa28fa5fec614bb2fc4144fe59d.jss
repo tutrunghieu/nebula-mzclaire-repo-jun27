@@ -1,0 +1,1 @@
+{"s_released":"14 August 2006","s_format":"7\", CD","s_recorded":"Mayfair Studios, London","s_genre":null,"s_length":"3:52","s_label":"Domino","s_writer":"Alex Turner","s_producer":"Track one Jim Abbiss Track two & three Mike Crossey","s_title":"\"Put Your Dukes Up John\" \"Baby I'm Yours\""}

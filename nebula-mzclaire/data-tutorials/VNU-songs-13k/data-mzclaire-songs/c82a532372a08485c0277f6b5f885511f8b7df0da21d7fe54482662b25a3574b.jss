@@ -1,0 +1,1 @@
+{"s_released":"November 30, 1988 (US) March 13, 1989 (UK)","s_format":"7\" vinyl 10\" vinyl 12\" vinyl CS CD","s_recorded":"1987","s_genre":"Hard rock heavy metal","s_length":"6:46","s_label":"Geffen","s_writer":"Axl Rose Duff McKagan Izzy Stradlin Slash","s_producer":"Mike Clink","s_title":"\"Move to the City\" (US) \"Used To Love Her\" (UK)"}

@@ -1,0 +1,1 @@
+{"s_released":"April 21, 2015 (2015-04-21)","s_format":"Digital download","s_recorded":null,"s_genre":"Country","s_length":"3:18","s_label":"Lionsgate Television","s_writer":null,"s_producer":null,"s_title":"\"Shotgun\""}

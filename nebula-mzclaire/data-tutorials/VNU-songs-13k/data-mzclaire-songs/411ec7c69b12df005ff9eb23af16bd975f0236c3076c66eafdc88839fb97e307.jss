@@ -1,0 +1,1 @@
+{"s_released":"8 December 1975 (1975-12-08)","s_format":"7\"","s_recorded":"1975 at Albert Studios, Sydney, Australia","s_genre":"Hard rock","s_length":"5:15 (album version) 4:41 (single version)","s_label":"Albert Atlantic","s_writer":"Angus Young Malcolm Young Bon Scott","s_producer":"Harry Vanda George Young","s_title":"\"Can I Sit Next to You Girl\""}

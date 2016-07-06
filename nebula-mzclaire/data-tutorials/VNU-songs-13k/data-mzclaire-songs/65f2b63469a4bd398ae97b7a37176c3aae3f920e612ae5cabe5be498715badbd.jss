@@ -1,0 +1,1 @@
+{"s_released":"May 21, 1996 (1996-05-21)","s_format":"CD","s_recorded":null,"s_genre":"R&B hip hop soul","s_length":"4:30","s_label":"Def Jam Rowdy Arista","s_writer":"Dallas Austin Anthony Criss Dale Warren","s_producer":"Gold (RIAA)","s_title":"\"Ain't Nobody\""}

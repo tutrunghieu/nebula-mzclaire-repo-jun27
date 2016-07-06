@@ -1,0 +1,1 @@
+{"s_released":"5 August 1966","s_format":null,"s_recorded":"6, 7 and 22 April 1966 EMI Studios, London","s_genre":"Psychedelic rock,[1] raga rock,[2] hard rock,[3] experimental rock[4]","s_length":"2:58","s_label":"Parlophone","s_writer":"Lennon–McCartney","s_producer":"George Martin","s_title":"Northern Songs"}

@@ -1,0 +1,1 @@
+{"s_released":"4 July 1994","s_format":"CD, 7\", 12\"","s_recorded":null,"s_genre":"Alternative rock","s_length":null,"s_label":"Mute Records","s_writer":null,"s_producer":"Tony Cohen","s_title":"\"Loverman\""}

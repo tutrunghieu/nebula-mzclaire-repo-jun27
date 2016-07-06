@@ -1,0 +1,1 @@
+{"s_released":"November 25, 2014 (2014-11-25)","s_format":null,"s_recorded":"2014; Oven Studios (Paris); Record Plant (Los Angeles)","s_genre":"Trap hip hop","s_length":"3:33","s_label":"Parkwood Columbia","s_writer":"Beyoncé Knowles Noel \"Detail\" Fisher","s_producer":"Bobby Johnson Detail Sidney Swift","s_title":"\"7/11\""}

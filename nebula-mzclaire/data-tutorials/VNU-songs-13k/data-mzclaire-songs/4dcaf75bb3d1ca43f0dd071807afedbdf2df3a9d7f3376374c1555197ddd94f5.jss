@@ -1,0 +1,1 @@
+{"s_released":"August 31, 1985","s_format":"LP","s_recorded":"February 20 - March 14, 1984 at Sweet Silence Studios Copenhagen, Denmark","s_genre":"Thrash metal","s_length":"5:10","s_label":"Elektra","s_writer":"James Hetfield / Lars Ulrich / Cliff Burton","s_producer":"Metallica, Flemming Rasmussen","s_title":"\"For Whom the Bell Tolls\""}

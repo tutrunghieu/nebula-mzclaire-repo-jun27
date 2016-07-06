@@ -1,0 +1,1 @@
+{"s_released":"July 20, 2007 (2007-07-20)","s_format":"promo","s_recorded":"2007","s_genre":"R&B","s_length":"3:32","s_label":"Blackground, Interscope","s_writer":"Joanna \"JoJo\" Levesque","s_producer":"J.R. Rotem","s_title":"\"Beautiful Girls Reply\""}

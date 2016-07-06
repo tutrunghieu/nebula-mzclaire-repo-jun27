@@ -1,0 +1,1 @@
+{"s_released":"December 5, 1995","s_format":"CD single","s_recorded":"1995","s_genre":"Pop R&B gospel","s_length":"3:30","s_label":"Columbia","s_writer":"Stephen Perry Jonathan Cain","s_producer":"Mariah Carey Walter Afanasieff","s_title":"\"Slipping Away\" \"El Amor Que Soñé\" \"I Am Free\""}

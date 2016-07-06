@@ -1,0 +1,1 @@
+{"s_released":"January 26, 2007 (2007-01-26)","s_format":"CD single digital download","s_recorded":"2006; Record Plant (Los Angeles)","s_genre":"Latin rock","s_length":"4:58","s_label":"Epic","s_writer":"Marc Anthony Julio Reyes Copello Jimena Romero","s_producer":"Marc Anthony Julio Reyes","s_title":"\"Qué Hiciste\""}

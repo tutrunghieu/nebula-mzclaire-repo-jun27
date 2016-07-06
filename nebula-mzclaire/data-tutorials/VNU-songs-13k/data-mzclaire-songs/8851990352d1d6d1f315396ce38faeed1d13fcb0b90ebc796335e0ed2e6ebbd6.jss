@@ -1,0 +1,1 @@
+{"s_released":"May 21, 2013 (2013-05-21)","s_format":"Digital download","s_recorded":"at Setai Recording Studios in Miami Beach, Florida","s_genre":"R&B[1]","s_length":"5:29 (album / single edit) 3:58 (radio edit)","s_label":"Republic","s_writer":"Kelly Rowland Terius \"The-Dream\" Nash Carlos \"Los\" McKinney","s_producer":"The-Dream","s_title":"\"Dirty Laundry\""}

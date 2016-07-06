@@ -1,0 +1,1 @@
+{"s_released":"August 2, 2011","s_format":"Digital download","s_recorded":"2010","s_genre":"Pop rock reggaetón R&B","s_length":"4:22","s_label":"Def Jam SRP","s_writer":"Andrew Harr Jermaine Jackson Stacy Barthe LP Corey Gibson Chris Ivery Avril Lavigne Lauren Christy Scott Spock Graham Edwards","s_producer":"The Runners","s_title":"\"Cheers (Drink to That)\""}

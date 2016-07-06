@@ -1,0 +1,1 @@
+{"s_released":"9 November 1987 (1987-11-09)","s_format":"12-inch single","s_recorded":"1987 (1987)","s_genre":"Alternative rock, twee pop","s_length":"2:33","s_label":"Lazy","s_writer":null,"s_producer":"My Bloody Valentine","s_title":"\"Never Say Goodbye\"/\"Can I Touch You\""}

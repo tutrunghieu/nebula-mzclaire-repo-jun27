@@ -1,0 +1,1 @@
+{"s_released":null,"s_format":null,"s_recorded":"2010","s_genre":"Hip hop","s_length":"4:41","s_label":"Roc-A-Fella, Def Jam","s_writer":"Kanye West, Robert Diggs, Ernest Wilson, Jeff Bhasker, Mike Dean, Malik Jones, Mike Oldfield, Jon Anderson","s_producer":"RZA, Kanye West, No I.D., Jeff Bhasker, Mike Dean","s_title":"\"Dark Fantasy\""}

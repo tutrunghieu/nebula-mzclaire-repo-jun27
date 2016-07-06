@@ -1,0 +1,1 @@
+{"s_released":"August 18, 2009 (2009-08-18)[1] (see release history)","s_format":"CD single, digital download","s_recorded":"2008","s_genre":"R&B, disco, soul, funk, dance-pop","s_length":"3:23","s_label":"Arista","s_writer":"Alicia Keys, Kaseem \"Swizz Beatz\" Dean, Norman Harris","s_producer":"Swizz Beatz, Alicia Keys","s_title":"\"Million Dollar Bill\""}

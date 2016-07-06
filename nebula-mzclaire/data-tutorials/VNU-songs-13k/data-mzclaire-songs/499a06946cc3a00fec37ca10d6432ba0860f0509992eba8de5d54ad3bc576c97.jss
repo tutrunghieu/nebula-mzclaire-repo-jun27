@@ -1,0 +1,1 @@
+{"s_released":"January 18, 2011 (2011-01-18)","s_format":null,"s_recorded":"2010","s_genre":"Hip hop","s_length":"4:59","s_label":"Roc-A-Fella Def Jam","s_writer":"Kanye West Jeff Bhasker Malik Jones Warren Trotter","s_producer":"4x Platinum (RIAA)","s_title":"\"All of the Lights\""}

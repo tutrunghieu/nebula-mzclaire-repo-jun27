@@ -1,0 +1,1 @@
+{"s_released":"June 1, 2010","s_format":"Digital download","s_recorded":"December 2009 – January 2010","s_genre":"Hip hop[1]","s_length":"4:04","s_label":"Young Money Cash Money Universal Motown","s_writer":"Onika Maraj David Freeman Joseph Hughes Andrew Wansel","s_producer":"Oak Pop Wansel","s_title":"\"Your Love\""}

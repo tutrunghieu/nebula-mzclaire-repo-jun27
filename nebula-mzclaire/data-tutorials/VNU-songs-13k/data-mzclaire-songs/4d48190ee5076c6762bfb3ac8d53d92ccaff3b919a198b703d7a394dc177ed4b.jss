@@ -1,0 +1,1 @@
+{"s_released":"April 1, 2002","s_format":"CD single, 12\"","s_recorded":"2001; The Record Plant (Los Angeles, California)","s_genre":"R&B pop neo soul","s_length":"4:08","s_label":"Atlantic","s_writer":"Michael Flowers","s_producer":"Mike City","s_title":"\"Die Without You\""}

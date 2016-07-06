@@ -1,0 +1,1 @@
+{"s_released":"October 9, 2012 (2012-10-09)","s_format":"Digital download","s_recorded":null,"s_genre":"Pop rap","s_length":"3:12","s_label":"Island Def Jam","s_writer":"Erik Bodin, Chris Carmouche, Ricardo Lewis, Yukimi Nagano, Shelton Oliver, Antwan Patton, Ricky Walker, Fredrik Wallin, Jeron Ward, Håkan Wirenstrand","s_producer":"The Flush","s_title":"\"Mama Told Me\""}

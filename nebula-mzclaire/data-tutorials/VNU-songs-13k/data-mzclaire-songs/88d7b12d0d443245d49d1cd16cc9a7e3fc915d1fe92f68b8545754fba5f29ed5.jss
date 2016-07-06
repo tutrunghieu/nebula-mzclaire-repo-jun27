@@ -1,0 +1,1 @@
+{"s_released":"26 February 2001 (2001-02-26)","s_format":"CD, 12-inch","s_recorded":"Wiltshire County, England","s_genre":"Electronic, cabaret","s_length":"3:32 (Single Version) 4:36 (Album Version)","s_label":"Mute","s_writer":"Alison Goldfrapp, Will Gregory, Tim Norfolk, Bob Locke","s_producer":"Goldfrapp, Gregory","s_title":"\"Human\""}

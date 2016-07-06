@@ -1,0 +1,1 @@
+{"s_released":"July 2, 1990","s_format":"CD single, Cassette, Vinyl","s_recorded":"December 1988 Studio D in Sausalito, California","s_genre":"Funk metal, rap metal","s_length":"5:12","s_label":"Slash","s_writer":"Music: Billy Gould Roddy Bottum \"Big\" Jim Martin Lyrics: Mike Patton","s_producer":"Matt Wallace","s_title":"\"Falling to Pieces\""}

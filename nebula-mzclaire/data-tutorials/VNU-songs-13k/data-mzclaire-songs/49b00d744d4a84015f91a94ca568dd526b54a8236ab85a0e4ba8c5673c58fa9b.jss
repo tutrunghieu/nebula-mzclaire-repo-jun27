@@ -1,0 +1,1 @@
+{"s_released":"29 November 1993 (1993-11-29) [16]","s_format":"CD single","s_recorded":null,"s_genre":"Soul","s_length":"2:58","s_label":"Columbia Records","s_writer":"Ralph MacDonald William Salter[10]","s_producer":"Rick Price","s_title":"\"Where is the Love\""}

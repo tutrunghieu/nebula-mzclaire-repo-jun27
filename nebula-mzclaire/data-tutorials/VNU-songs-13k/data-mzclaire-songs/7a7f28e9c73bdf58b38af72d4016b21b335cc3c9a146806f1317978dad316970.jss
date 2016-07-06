@@ -1,0 +1,1 @@
+{"s_released":"September 26, 2005 (2005-09-26)","s_format":"CD digital download","s_recorded":null,"s_genre":"Hip hop soul R&B","s_length":"3:27","s_label":"A&M Interscope","s_writer":"Franne Golde Kasia Livingston Robert Palmer","s_producer":"Ron Fair Tal Herzberg","s_title":"\"Stickwitu\""}

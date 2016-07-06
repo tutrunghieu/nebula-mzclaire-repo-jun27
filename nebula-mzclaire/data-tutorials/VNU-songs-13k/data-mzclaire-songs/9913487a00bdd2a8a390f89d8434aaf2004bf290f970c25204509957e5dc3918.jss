@@ -1,0 +1,1 @@
+{"s_released":"February 27, 2009","s_format":"CD single, digital download","s_recorded":null,"s_genre":"Synthrock, dance-pop, synthpop","s_length":"2:31","s_label":"Hollywood","s_writer":"Miley Cyrus, Antonina Armato, Tim James, Devrim Karaoglu","s_producer":"Antonina Armato, Tim James","s_title":"\"Fly on the Wall\""}

@@ -1,0 +1,1 @@
+{"s_released":"August 7, 2009 (2009-08-07)","s_format":"CD single, digital download","s_recorded":"2009; Conway Recording Studios, Los Angeles, California","s_genre":"Electropop","s_length":"3:21","s_label":"RCA","s_writer":"Kesha, Dr. Luke, Benny Blanco","s_producer":"Dr. Luke, Benny Blanco","s_title":"\"TiK ToK\""}

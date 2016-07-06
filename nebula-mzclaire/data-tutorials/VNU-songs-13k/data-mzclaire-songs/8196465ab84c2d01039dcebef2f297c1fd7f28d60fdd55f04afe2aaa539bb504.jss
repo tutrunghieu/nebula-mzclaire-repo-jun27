@@ -1,0 +1,1 @@
+{"s_released":"September 24, 2004[1]","s_format":"Download, CD, 12\", DVD single","s_recorded":"2003; Hit Factory Criteria (Miami, Florida)","s_genre":"R&B dance-pop","s_length":"3:47","s_label":"Atlantic","s_writer":"Isaac Phillips, Kenisha Pratt, Kenneth Pratt, Tim Mosley","s_producer":"Timbaland","s_title":"\"Sirens\""}

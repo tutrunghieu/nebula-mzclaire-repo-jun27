@@ -1,0 +1,1 @@
+{"s_released":"July 3, 2014 (2014-07-03)","s_format":"Digital download, CD Single","s_recorded":"2014 Conway Studios (Los Angeles) Zedd1 Studio (Santa Monica)","s_genre":"EDM[1] electro house[2] electropop[3]","s_length":"3:34","s_label":"Republic","s_writer":"Anton Zaslavski Max Martin Savan Kotecha","s_producer":"Zedd Max Martin","s_title":"\"Break Free\""}

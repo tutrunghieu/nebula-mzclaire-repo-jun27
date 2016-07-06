@@ -1,0 +1,1 @@
+{"s_released":"June 21, 2000 (2000-06-21)","s_format":"CD Single","s_recorded":null,"s_genre":"J-pop, J-Rock, Alternative rock","s_length":"2:40","s_label":"Toshiba EMI","s_writer":"Ringo Shiina","s_producer":"Ringo Shiina","s_title":"\"Ikenai Ko,\" \"Nippon ni Umarete\""}

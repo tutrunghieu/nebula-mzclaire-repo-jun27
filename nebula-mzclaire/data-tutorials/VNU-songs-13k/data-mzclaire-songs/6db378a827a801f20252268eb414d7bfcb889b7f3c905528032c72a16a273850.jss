@@ -1,0 +1,1 @@
+{"s_released":"2 September 2012","s_format":"Digital download","s_recorded":null,"s_genre":null,"s_length":"3:29","s_label":"Polydor","s_writer":"Alex da Kid Mike Del Rio Jayson DeZuzio Steven Battey Carlos Battey Cheryl Cole","s_producer":"Alex da Kid","s_title":"\"Under the Sun\""}

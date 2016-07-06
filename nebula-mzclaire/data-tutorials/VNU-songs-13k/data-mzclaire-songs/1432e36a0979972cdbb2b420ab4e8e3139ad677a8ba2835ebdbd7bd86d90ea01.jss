@@ -1,0 +1,1 @@
+{"s_released":"January 26, 2014 (2014-01-26)","s_format":null,"s_recorded":null,"s_genre":"Dream pop baroque pop orchestral pop","s_length":"3:23[citation needed]","s_label":"Walt Disney[citation needed]","s_writer":"Jack Lawrence Sammy Fain","s_producer":"Dan Heath[citation needed]","s_title":"\"Once Upon a Dream\""}

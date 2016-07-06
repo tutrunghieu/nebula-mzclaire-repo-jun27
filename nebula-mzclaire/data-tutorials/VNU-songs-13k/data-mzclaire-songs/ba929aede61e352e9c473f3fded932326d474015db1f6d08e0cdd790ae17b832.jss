@@ -1,0 +1,1 @@
+{"s_released":"17 October 1977 (Sweden) 22 October 1977 (UK) Late 1977 (US)","s_format":"7\" single","s_recorded":"31 May 1977 at Marcus Music Studio","s_genre":null,"s_length":"4:51 3:58 (US radio edit)","s_label":"Polar (Sweden) Epic (UK) Atlantic (US)","s_writer":"Benny Andersson Björn Ulvaeus Stig Anderson","s_producer":"Gold (UK)","s_title":"\"I Wonder (Departure)\""}

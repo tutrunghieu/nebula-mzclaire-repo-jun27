@@ -1,0 +1,1 @@
+{"s_released":"April 13, 2008[1]","s_format":"Digital download","s_recorded":null,"s_genre":null,"s_length":"3:30 (Album version) 3:00 (No rap version)[2]","s_label":"Arista, RMG","s_writer":"Steve Morales, Raymond Diaz, Sean Garrett, Ronald Bryant","s_producer":"Steve Morales, Raymond Diaz, Sean Garrett, Cory Rooney, Dr. Luke","s_title":"\"This Boy's Fire\""}

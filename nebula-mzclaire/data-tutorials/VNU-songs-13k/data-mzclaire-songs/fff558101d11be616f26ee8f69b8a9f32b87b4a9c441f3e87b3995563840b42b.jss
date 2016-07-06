@@ -1,0 +1,1 @@
+{"s_released":"September 9, 1996[1]","s_format":"CD single, Cassette, Vinyl","s_recorded":"December 13, 1995 The Plant Studios Sausalito, California","s_genre":null,"s_length":"4:21","s_label":"Elektra","s_writer":"Kirk Hammett, James Hetfield, Lars Ulrich","s_producer":"Bob Rock, James Hetfield, Lars Ulrich","s_title":"(See below)"}

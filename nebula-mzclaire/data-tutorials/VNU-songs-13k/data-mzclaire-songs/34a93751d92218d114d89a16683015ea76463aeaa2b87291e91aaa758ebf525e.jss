@@ -1,0 +1,1 @@
+{"s_released":"21 July 2003 (UK) 10 May 2004 (UK re-release)","s_format":"CD: worldwide 12\": UK Download: worldwide Box set: UK","s_recorded":"Bath, England","s_genre":"Electroclash","s_length":"3:45 (single mix) 3:51 (album version)","s_label":"Mute","s_writer":"Alison Goldfrapp, Will Gregory, Nick Batt","s_producer":"Goldfrapp","s_title":"\"White Soft Rope\""}

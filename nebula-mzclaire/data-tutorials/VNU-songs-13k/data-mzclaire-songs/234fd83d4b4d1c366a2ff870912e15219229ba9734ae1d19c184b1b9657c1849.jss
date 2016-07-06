@@ -1,0 +1,1 @@
+{"s_released":"October 31, 2005","s_format":"CD single, Digital download","s_recorded":"April 21–22, 1999 at Berkeley Community Theatre, Berkeley, California","s_genre":"Pop","s_length":"4:36","s_label":"Mercury","s_writer":"James Hetfield and Lars Ulrich","s_producer":"Mike Peden","s_title":"\"Better Love Next Time\" (Demo)"}

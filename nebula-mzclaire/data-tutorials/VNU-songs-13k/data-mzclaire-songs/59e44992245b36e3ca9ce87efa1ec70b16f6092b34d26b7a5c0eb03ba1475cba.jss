@@ -1,0 +1,1 @@
+{"s_released":"14 April 2008 (2008-04-14)","s_format":"CD single, digital download, 7\" picture disc","s_recorded":null,"s_genre":"Folktronica","s_length":"4:17 (album version) 3:37 (single version)","s_label":"Mute","s_writer":"Alison Goldfrapp, Will Gregory","s_producer":"Alison Goldfrapp, Will Gregory","s_title":"\"Happiness\""}

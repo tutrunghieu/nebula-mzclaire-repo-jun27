@@ -1,0 +1,1 @@
+{"s_released":"December 13, 1989","s_format":null,"s_recorded":"August 16, 1989","s_genre":"Musical theatre","s_length":"3:16","s_label":"Walt Disney","s_writer":"Alan Menken, Howard Ashman","s_producer":"Alan Menken, Howard Ashman","s_title":"\"Part of Your World\""}

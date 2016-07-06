@@ -1,0 +1,1 @@
+{"s_released":null,"s_format":"Digital download","s_recorded":"2012","s_genre":"Alternative rock electropop","s_length":"3:25","s_label":"RCA","s_writer":"Christina Aguilera, Dwayne Abernathy, Candice Pillay, Alexander Grant","s_producer":"Alex da Kid, Christina Aguilera, Candice Pillay","s_title":"\"Circles\""}

@@ -1,0 +1,1 @@
+{"s_released":"May 12, 2009 (2009-05-12) October 20, 2009 (2009-10-20) (iTunes)","s_format":"7\" single","s_recorded":"January–June 2008 at The Blasting Room in Fort Collins, Colorado","s_genre":"Hardcore punk","s_length":"04:03","s_label":"Fat Wreck Chords (FAT 234-7) DGC/Interscope (iTunes release)","s_writer":"Tim McIlrath","s_producer":null,"s_title":"\"Voice of Dissent\""}

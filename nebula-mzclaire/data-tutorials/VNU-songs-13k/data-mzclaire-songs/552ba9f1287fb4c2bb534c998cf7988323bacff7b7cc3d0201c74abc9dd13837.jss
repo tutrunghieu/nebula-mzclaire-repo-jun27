@@ -1,0 +1,1 @@
+{"s_released":"October 21, 2010","s_format":"Digital download","s_recorded":"2010","s_genre":"Metalcore","s_length":"3:08","s_label":"Rise, Velocity, distributed through Fearless","s_writer":"Katy Perry Lukasz Gottwald Max Martin","s_producer":"Cameron Mizell","s_title":"\"Hot 'n Cold\""}

@@ -1,0 +1,1 @@
+{"s_released":"August 5, 2003 (U.S.)","s_format":"CD single","s_recorded":"2002","s_genre":"Post-grunge","s_length":"3:29 (Album Version) 3:15 (Single Version)","s_label":"Roadrunner","s_writer":"Gold (RIAA)","s_producer":null,"s_title":"\"Someday\""}

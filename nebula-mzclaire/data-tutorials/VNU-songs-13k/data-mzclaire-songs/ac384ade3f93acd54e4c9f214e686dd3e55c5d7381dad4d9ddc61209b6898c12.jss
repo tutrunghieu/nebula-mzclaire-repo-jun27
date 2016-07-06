@@ -1,0 +1,1 @@
+{"s_released":"November 13, 2013","s_format":"Digital download","s_recorded":"2013","s_genre":"Electropop, dubstep","s_length":"3:29","s_label":"EMI Records Japan","s_writer":"Ringo Sheena","s_producer":"Yasutaka Nakata","s_title":"\"Netsuai Hakkakuchū\""}

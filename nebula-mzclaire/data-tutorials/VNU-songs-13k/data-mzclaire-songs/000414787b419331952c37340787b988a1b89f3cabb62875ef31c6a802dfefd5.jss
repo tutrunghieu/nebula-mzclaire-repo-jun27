@@ -1,0 +1,1 @@
+{"s_released":"June 7, 1999","s_format":"CD single","s_recorded":"September–October 1998 at The Plant Studios, Sausalito, California","s_genre":"Heavy metal","s_length":"2:29","s_label":"Elektra","s_writer":"Glenn Danzig","s_producer":"Bob Rock, James Hetfield, Lars Ulrich, Mark Whitaker","s_title":"\"Die, Die My Darling\""}

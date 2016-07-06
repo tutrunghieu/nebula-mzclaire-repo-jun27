@@ -1,0 +1,1 @@
+{"s_released":"October 8, 2001","s_format":"CD single 7\" vinyl","s_recorded":"January–March 2001[1] Signature Sound (San Diego, California) Larrabee Studios West, Cello Studios (Hollywood, California)","s_genre":"Pop punk","s_length":"2:51","s_label":"MCA","s_writer":"Tom DeLonge Mark Hoppus Travis Barker","s_producer":"Jerry Finn","s_title":"\"Don't Tell Me It's Over\""}

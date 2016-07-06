@@ -1,0 +1,1 @@
+{"s_released":"16 January 2006","s_format":"7\" 12\" CD digital download","s_recorded":"June – September 2005 at Chapel Studios (Lincolnshire, England)","s_genre":"Indie rock[1] post-punk revival garage rock","s_length":"3:20","s_label":"Domino","s_writer":"Alex Turner","s_producer":"Jim Abbiss","s_title":"\"Stickin' to the Floor\" \"Settle for a Draw\" \"7\""}

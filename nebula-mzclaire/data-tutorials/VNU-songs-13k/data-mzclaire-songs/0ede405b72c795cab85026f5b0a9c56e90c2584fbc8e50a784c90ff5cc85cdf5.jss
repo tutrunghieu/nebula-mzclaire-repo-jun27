@@ -1,0 +1,1 @@
+{"s_released":"December 16, 2006","s_format":"CD single","s_recorded":"2005","s_genre":"Pop punk emo","s_length":"3:13","s_label":"Fueled by Ramen","s_writer":"Hayley Williams (lyrics) Hayley Williams, Josh Farro (music)","s_producer":"James Wisner","s_title":"\"All We Know\""}

@@ -1,0 +1,1 @@
+{"s_released":"10 November 2013 (2013-11-10)","s_format":"CD digital download","s_recorded":"Spiddal House (Spiddal, Ireland)","s_genre":"Pop","s_length":"2:34","s_label":"Polydor","s_writer":"Mike Scott","s_producer":"John Fortis","s_title":"\"How Long Will I Love You\""}

@@ -1,0 +1,1 @@
+{"s_released":"November 14, 2011 (2011-11-14)","s_format":"CD single digital download","s_recorded":"2011 (2011)","s_genre":"Pop[1] reggae[2]","s_length":"3:18","s_label":"Def Jam SRP","s_writer":"Ester Dean Lukasz Gottwald Robyn Fenty John Hill Henry Walter","s_producer":"Dr. Luke Cirkut Kuk Harrell","s_title":"\"You da One\""}

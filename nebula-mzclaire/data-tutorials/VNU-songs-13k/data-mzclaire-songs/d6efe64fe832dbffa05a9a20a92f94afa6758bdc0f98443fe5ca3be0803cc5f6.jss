@@ -1,0 +1,1 @@
+{"s_released":"August 18, 2014 (radio) August 19, 2014 (Digital download)","s_format":"Digital download","s_recorded":"2014","s_genre":"Hard rock[1]","s_length":"4:04","s_label":"Republic","s_writer":"Chad Kroeger, Ryan Peake, Mike Kroeger","s_producer":"Nickeback, Chris Baseford","s_title":"\"Edge of a Revolution\""}

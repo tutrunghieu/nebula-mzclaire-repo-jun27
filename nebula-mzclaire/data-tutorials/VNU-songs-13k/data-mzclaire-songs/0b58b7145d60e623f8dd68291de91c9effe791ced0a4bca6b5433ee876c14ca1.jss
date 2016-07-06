@@ -1,0 +1,1 @@
+{"s_released":"March 24, 2009[1]","s_format":"Digital download","s_recorded":"2008","s_genre":"Acoustic pop","s_length":"3:09 4:44 (extended version)","s_label":"Walt Disney Records","s_writer":"Glen Ballard, Alan Silvestri","s_producer":"Glen Ballard, Alan Silvestri","s_title":"\"Butterfly Fly Away\""}

@@ -1,0 +1,1 @@
+{"s_released":null,"s_format":null,"s_recorded":"Metropolis Studios, London","s_genre":"Disco-pop","s_length":"4:00","s_label":"XL","s_writer":"Adele Adkins Greg Kurstin","s_producer":"Greg Kurstin","s_title":"\"Water Under the Bridge\""}

@@ -1,0 +1,1 @@
+{"s_released":"November 12, 2012","s_format":null,"s_recorded":null,"s_genre":null,"s_length":"4:20","s_label":"Interscope Polydor","s_writer":"Elizabeth Grant Rick Nowels","s_producer":"Rick Nowels DK","s_title":"\"Cola\""}

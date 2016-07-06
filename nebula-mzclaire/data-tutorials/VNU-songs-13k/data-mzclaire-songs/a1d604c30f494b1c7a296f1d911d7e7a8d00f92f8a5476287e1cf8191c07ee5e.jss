@@ -1,0 +1,1 @@
+{"s_released":"August 21, 2007 (2007-08-21)","s_format":"CD single digital download","s_recorded":null,"s_genre":"Hip hop R&B Disco","s_length":"3:05","s_label":"Epic","s_writer":"Ryan Tedder Leonard Caston Anita Poree Frank Wilson","s_producer":"Ryan Tedder Cory Rooney","s_title":"Como Ama una Mujer\" \"Me Haces Falta\""}

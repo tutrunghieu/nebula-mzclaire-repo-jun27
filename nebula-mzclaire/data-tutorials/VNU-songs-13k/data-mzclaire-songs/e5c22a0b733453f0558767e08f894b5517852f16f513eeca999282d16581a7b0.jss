@@ -1,0 +1,1 @@
+{"s_released":"20 March 2012 (2012-03-20)","s_format":"CD single digital download","s_recorded":"October 2011","s_genre":"Dance-pop electropop disco","s_length":"3:41","s_label":"679 Atlantic","s_writer":"Marina Diamandis Julie Frost Lukasz Gottwald Henry Walter","s_producer":"Dr. Luke Cirkut","s_title":"\"Primadonna\""}

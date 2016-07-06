@@ -1,0 +1,1 @@
+{"s_released":"January 9, 1988","s_format":"12\" single, cassette single","s_recorded":null,"s_genre":"R&B, quiet storm, new jack swing","s_length":"4:56","s_label":"Vintertainment/Elektra","s_writer":"Teddy Riley, Keith Sweat","s_producer":"Keith Sweat Teddy Riley","s_title":"\"Make It Last Forever\""}

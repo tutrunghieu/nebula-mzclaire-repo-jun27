@@ -1,0 +1,1 @@
+{"s_released":"7 February 2000","s_format":"CD, 7\" vinyl, 12\" vinyl, cassette","s_recorded":"1999","s_genre":"Alternative rock, neo-psychedelia","s_length":"4:38","s_label":"Big Brother","s_writer":"Noel Gallagher","s_producer":"Mark Stent, Noel Gallagher","s_title":"\"Let's All Make Believe\" \"(As Long as They've Got) Cigarettes in Hell\""}

@@ -1,0 +1,1 @@
+{"s_released":"August 8, 2000","s_format":"CD single","s_recorded":"March 2000[1]","s_genre":"R&B","s_length":"4:33","s_label":"Arista","s_writer":"Rodney Jerkins / Fred Jerkins III / LaShawn Daniels / Tony Estes","s_producer":"Rodney Jerkins, George Michael","s_title":"\"Fine\""}

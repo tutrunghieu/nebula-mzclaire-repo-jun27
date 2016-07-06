@@ -1,0 +1,1 @@
+{"s_released":"April 4, 2013 (2013-04-04)","s_format":"Digital download","s_recorded":null,"s_genre":"Reggae fusion","s_length":"4:06","s_label":"Berhane Sound System Vice Mad Decent RCA","s_writer":"Calvin Broadus Thomas Pentz Ariel Rechtshaid Andrew Hershey Angela Hunte","s_producer":"Major Lazer Ariel Rechtshaid Dre Skull","s_title":"\"Ashtrays and Heartbreaks\""}

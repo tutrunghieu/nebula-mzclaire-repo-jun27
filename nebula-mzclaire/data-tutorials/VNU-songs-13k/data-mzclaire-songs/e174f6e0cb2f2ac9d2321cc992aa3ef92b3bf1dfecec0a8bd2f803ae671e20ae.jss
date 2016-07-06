@@ -1,0 +1,1 @@
+{"s_released":"June 5, 2012","s_format":"Digital download","s_recorded":null,"s_genre":"Hip hop","s_length":"4:16","s_label":"1017 Brick Squad Brick Squad Monopoly Asylum Warner Bros.","s_writer":"Juaquin Malphurs Onika Maraj Michael Stevenson Tramar Dillard Matthew Samuels Harvey Miller","s_producer":"Boi-1da DJ Speedy Breyan Issac","s_title":"\"Get Low\""}

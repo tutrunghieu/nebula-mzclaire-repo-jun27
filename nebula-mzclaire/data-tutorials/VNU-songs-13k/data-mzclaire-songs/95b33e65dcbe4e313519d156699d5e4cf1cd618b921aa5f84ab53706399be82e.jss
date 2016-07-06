@@ -1,0 +1,1 @@
+{"s_released":"September 6, 2011 (2011-09-06) (see release history)","s_format":"Digital download","s_recorded":"2011","s_genre":"Pop rock, R&B, power pop","s_length":"3:37","s_label":"Interscope, Blackground","s_writer":"Joanna Levesque, Gino Barletta, Mario Marchetti, Marc Himmel","s_producer":"Mario Marchetti","s_title":"\"Disaster\""}

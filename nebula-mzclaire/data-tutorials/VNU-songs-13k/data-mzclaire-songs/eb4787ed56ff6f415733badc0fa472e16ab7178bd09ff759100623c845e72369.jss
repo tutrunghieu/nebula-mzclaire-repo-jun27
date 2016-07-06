@@ -1,0 +1,1 @@
+{"s_released":"24 April 1995","s_format":"CD","s_recorded":"March 1995 at Loco Studios, South Wales","s_genre":"Rock, Britpop","s_length":"4:24","s_label":"Creation","s_writer":"Noel Gallagher","s_producer":"Owen Morris, Noel Gallagher","s_title":"\"Acquiesce\""}

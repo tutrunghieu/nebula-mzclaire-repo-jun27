@@ -1,0 +1,1 @@
+{"s_released":"9 March 2012 (2012-03-09)","s_format":"CD single digital download","s_recorded":"2011","s_genre":"Electro house dance-pop","s_length":"3:50","s_label":"RCA Syco Sony","s_writer":"Alexandra Burke Brittany Burton Josh Wilkinson Erick Morillo Harry Romero Jose Nuñez","s_producer":"Erick Morillo Mike Spencer Sympho Nympho","s_title":"\"Elephant\""}

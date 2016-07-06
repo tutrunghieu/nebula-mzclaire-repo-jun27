@@ -1,0 +1,1 @@
+{"s_released":"27 February 2012 (2012-02-27)","s_format":"7\" digital download","s_recorded":"January 2012 in Sheffield, England[1]","s_genre":"Stoner rock[2][3] indie rock[4] garage rock[5] hard rock[6]","s_length":"3:20","s_label":"Domino","s_writer":"Nick O'Malley Alex Turner[7]","s_producer":"Ross Orton","s_title":"\"Electricity\""}

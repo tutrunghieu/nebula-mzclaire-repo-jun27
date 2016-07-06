@@ -1,0 +1,1 @@
+{"s_released":"October 15, 2008 (2008-10-15) (see release history)","s_format":"Digital download","s_recorded":"2008, Boom Boom Room (Burbank, California)","s_genre":"R&B pop","s_length":"3:53","s_label":"Epic","s_writer":"Jeff Bhasker, Rodney Jerkins, Philip Lawrence, Bruno Mars","s_producer":"Rodney Jerkins, Bruno Mars","s_title":"\"Long Distance\""}

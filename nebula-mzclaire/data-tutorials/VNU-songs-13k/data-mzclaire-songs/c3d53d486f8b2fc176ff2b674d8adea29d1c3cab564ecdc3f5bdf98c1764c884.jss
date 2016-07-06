@@ -1,0 +1,1 @@
+{"s_released":"23 June 1975 (1975-06-23)","s_format":"7\"","s_recorded":"1975 at Albert Studios, Sydney, Australia","s_genre":"Hard rock, blues rock","s_length":"4:00","s_label":"Albert Atlantic","s_writer":"Angus Young Malcolm Young Bon Scott","s_producer":"Harry Vanda George Young","s_title":"\"Soul Stripper\" \"Live Wire\""}

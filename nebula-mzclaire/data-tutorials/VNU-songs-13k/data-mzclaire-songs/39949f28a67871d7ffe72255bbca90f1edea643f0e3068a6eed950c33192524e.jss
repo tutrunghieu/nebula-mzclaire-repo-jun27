@@ -1,0 +1,1 @@
+{"s_released":"August 28, 1992","s_format":"CD single, cassette single","s_recorded":"1991; Kaufman Astoria Studios on March 16, 1992","s_genre":"R&B soul jazz","s_length":"3:47","s_label":"Columbia","s_writer":"Mariah Carey, Carole King","s_producer":"Mariah Carey, Walter Afanasieff","s_title":"\"If It's Over\""}

@@ -1,0 +1,1 @@
+{"s_released":"January 21, 2013 (2013-01-21)","s_format":"Digital download","s_recorded":"2012","s_genre":"Electropop dance-pop","s_length":"3:56","s_label":"604 School Boy Interscope","s_writer":"Carly Rae Jepsen Peter Luts Lukas Hilbert Max Martin Clarence Coffee Jr. Shiloh Katerina Loules","s_producer":"Martin Luts Hilbert","s_title":"\"Tonight I'm Getting Over You\""}

@@ -1,0 +1,1 @@
+{"s_released":"10 March 1969 (1969-03-10) (US)","s_format":"7\" 45 rpm record","s_recorded":"Olympic Studios, London, October 1968","s_genre":"Hard rock[1][2] proto-punk[3][4]","s_length":"2:30","s_label":"Atlantic","s_writer":"John Bonham John Paul Jones Jimmy Page","s_producer":"Jimmy Page","s_title":"\"Good Times Bad Times\""}

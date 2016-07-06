@@ -1,0 +1,1 @@
+{"s_released":"1 March 2004 July 2004 (U.S.)","s_format":"CD, DVD, download","s_recorded":"2002 in Bath, England","s_genre":"Trip hop","s_length":"4:56 (album version) 3:54 (single mix)","s_label":"Mute","s_writer":"Allison Goldfrapp, Will Gregory","s_producer":"Goldfrapp, Gregory","s_title":"\"Gone to Earth\""}

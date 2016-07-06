@@ -1,0 +1,1 @@
+{"s_released":"12 January 2004","s_format":"7\" 12\" CD DVD","s_recorded":"2003","s_genre":"Indie rock post-punk revival dance-punk","s_length":"3:57 (album version) 3:24 (UK radio edit)[1]","s_label":"Domino","s_writer":"Alex Kapranos Nicholas McCarthy","s_producer":"Tore Johansson","s_title":"\"Truck Stop\" \"All for You, Sophia\" \"Words So Leisured\" Remixes"}

@@ -1,0 +1,1 @@
+{"s_released":"October 27, 1999 (1999-10-27)","s_format":"CD Single","s_recorded":null,"s_genre":"alternative rock, pop, jazz","s_length":"12:12","s_label":"Toshiba EMI / East World","s_writer":"Ringo Sheena","s_producer":"Uni Inoue","s_title":"\"Honnō\""}

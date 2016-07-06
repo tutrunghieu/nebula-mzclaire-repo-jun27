@@ -1,0 +1,1 @@
+{"s_released":"November 16, 1998","s_format":"CD single","s_recorded":"September–October 1998","s_genre":"Hard rock","s_length":"6:06","s_label":"Elektra","s_writer":"Bob Seger","s_producer":null,"s_title":"\"Bleeding Me\"/\"Stone Cold Crazy\"/\"The Wait\""}

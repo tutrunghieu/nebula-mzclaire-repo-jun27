@@ -1,0 +1,1 @@
+{"s_released":"December 4, 2012 (2012-12-04)","s_format":null,"s_recorded":"2012","s_genre":"Country pop","s_length":"4:13","s_label":"RCA","s_writer":"Steve Robson Claude Kelly Wayne Hector","s_producer":"Robson Aguilera (vocals) Kelly","s_title":"\"Just a Fool\""}

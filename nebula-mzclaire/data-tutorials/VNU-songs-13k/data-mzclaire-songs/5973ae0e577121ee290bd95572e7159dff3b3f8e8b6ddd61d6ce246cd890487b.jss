@@ -1,0 +1,1 @@
+{"s_released":"July 5, 1995","s_format":"CD single, cassette","s_recorded":"1995; Cherokee Studios (Los Angeles), Q-Zone Studios (Corpus Christi)","s_genre":"Tejano, mariachi, ranchera","s_length":"3:10","s_label":"EMI","s_writer":"Felipe Valdés Leal","s_producer":"José Hernàndez","s_title":"\"Tú sólo tú\""}

@@ -1,0 +1,1 @@
+{"s_released":"September 17, 2002 (US) September 27, 2002 (UK) November 1, 2002 (JP)","s_format":"12\", CD Maxi, 2 x 12\"","s_recorded":null,"s_genre":"R&B, pop, hip hop, dance","s_length":"3:35","s_label":"Arista","s_writer":"Whitney Houston, Andre Lewis, Tammie Harris, Jerry Muhammad","s_producer":"Bobby Brown, Muhammad 2G","s_title":"\"Whatchulookinat\""}

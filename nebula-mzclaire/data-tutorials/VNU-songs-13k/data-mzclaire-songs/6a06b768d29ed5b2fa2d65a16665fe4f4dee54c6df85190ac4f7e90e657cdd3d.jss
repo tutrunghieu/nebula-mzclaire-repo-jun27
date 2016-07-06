@@ -1,0 +1,1 @@
+{"s_released":"November, 2015","s_format":"7-inch vinyl Digital download","s_recorded":"2015, México","s_genre":"Classical crossover","s_length":"3:12","s_label":"Sony Music, Syco Music and Columbia Records.","s_writer":"Luis Demetrio Norman Gimbel","s_producer":"Julio Reyes Copello","s_title":"\"¿Quién será?\""}

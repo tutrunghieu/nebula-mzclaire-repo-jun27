@@ -1,0 +1,1 @@
+{"s_released":"1 March 1993","s_format":null,"s_recorded":"1992","s_genre":"Heavy metal","s_length":"7:22","s_label":"EMI","s_writer":"Steve Harris","s_producer":null,"s_title":"\"Bring Your Daughter... to the Slaughter (Live)\" \"Be Quick or Be Dead (Live)\" \"Tailgunner (Live)\" \"Hooks in You (Live)\""}

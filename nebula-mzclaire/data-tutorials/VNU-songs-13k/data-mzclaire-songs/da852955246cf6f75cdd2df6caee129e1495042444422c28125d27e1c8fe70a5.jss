@@ -1,0 +1,1 @@
+{"s_released":"July 31, 2005","s_format":"Digital download CD Single","s_recorded":"2004–2005","s_genre":"Pop punk emo","s_length":"3:05","s_label":"Fueled by Ramen","s_writer":"Hayley Williams (lyrics) Hayley Williams, Josh Farro (music)","s_producer":"Gold (RIAA)[1]","s_title":"\"Pressure\""}

@@ -1,0 +1,1 @@
+{"s_released":"July 26, 2010 (2010-07-26)","s_format":"Digital download","s_recorded":null,"s_genre":"R&B","s_length":"3:45","s_label":"Universal Motown","s_writer":"Mikkel S. Eriksen Tor E. Hermansen Magnus Beite Bernt Stray Shaffer Smith","s_producer":"StarGate","s_title":"\"Grown Woman\""}

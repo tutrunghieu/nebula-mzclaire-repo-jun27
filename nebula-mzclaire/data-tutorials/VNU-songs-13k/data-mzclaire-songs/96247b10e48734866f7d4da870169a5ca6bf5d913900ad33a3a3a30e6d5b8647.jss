@@ -1,0 +1,1 @@
+{"s_released":"February 4, 2014 (2014-02-04)","s_format":"Promotional CD single 12\" vinyl","s_recorded":"2012 in Los Angeles","s_genre":"Pop rock funk rock new wave alternative rock new jack swing","s_length":"4:56","s_label":"Fueled by Ramen Warner Bros.","s_writer":"Hayley Williams Taylor York","s_producer":"2x Platinum (RIAA)[1]","s_title":"\"Ain't It Fun\""}

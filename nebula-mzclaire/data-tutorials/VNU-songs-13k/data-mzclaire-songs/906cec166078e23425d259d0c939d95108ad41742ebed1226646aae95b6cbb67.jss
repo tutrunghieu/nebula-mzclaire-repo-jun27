@@ -1,0 +1,1 @@
+{"s_released":"November 9, 2012","s_format":"Digital download","s_recorded":"2012","s_genre":"Baroque pop","s_length":"3:57","s_label":"Interscope Polydor","s_writer":"Lana Del Rey Dan Heath","s_producer":"Heath","s_title":"\"Bel Air\""}

@@ -1,0 +1,1 @@
+{"s_released":"March 18, 1979","s_format":"7″ vinyl single","s_recorded":"1978","s_genre":"Soul disco","s_length":"8:24 (LP version)","s_label":"Cotillion","s_writer":"Bernard Edwards Nile Rodgers","s_producer":"Gold (RIAA)","s_title":"\"Easier to Love\""}

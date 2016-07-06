@@ -1,0 +1,1 @@
+{"s_released":"November 28, 2014 (Vinyl) December 5, 2014 (Digital)","s_format":"Digital download, 7\" single","s_recorded":"Oakland, California, U.S.","s_genre":"Rap rock[1] funk rock[2] alternative metal[3]","s_length":"3:33","s_label":"Ipecac","s_writer":null,"s_producer":"Billy Gould[4]","s_title":"\"Motherfucker\" (J. G. Thirlwell remix)"}

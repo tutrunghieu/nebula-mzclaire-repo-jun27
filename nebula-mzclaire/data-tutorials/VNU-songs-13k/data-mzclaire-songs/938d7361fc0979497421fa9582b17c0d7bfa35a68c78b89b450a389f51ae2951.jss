@@ -1,0 +1,1 @@
+{"s_released":"November 6, 2013","s_format":"Digital download","s_recorded":"2013; The Record Plant (Hollywood, California); CRC Studios (Chicago, Illinois)","s_genre":"Europop electropop","s_length":"4:09","s_label":"Streamline Interscope","s_writer":"Stefani Germanotta RedOne Hugo Leclercq Paul \"DJ White Shadow\" Blair","s_producer":"Madeon Lady Gaga","s_title":"\"Gypsy\""}

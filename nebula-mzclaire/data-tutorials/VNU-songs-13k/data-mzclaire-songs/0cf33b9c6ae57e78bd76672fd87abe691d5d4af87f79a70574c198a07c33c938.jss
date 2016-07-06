@@ -1,0 +1,1 @@
+{"s_released":"January 26, 2012","s_format":"\"Blue Jeans\"","s_recorded":"2011","s_genre":"Baroque pop","s_length":"4:08","s_label":"Universal","s_writer":"Lana Del Rey Justin Parker","s_producer":"\"Carmen\" on YouTube","s_title":"\"Carmen\""}

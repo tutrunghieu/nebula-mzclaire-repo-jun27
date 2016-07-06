@@ -1,0 +1,1 @@
+{"s_released":"August 10, 2013 (2013-08-10)","s_format":"CD single digital download","s_recorded":"March 2013","s_genre":"Power pop","s_length":"3:42","s_label":"Capitol","s_writer":"Katy Perry Lukasz Gottwald Max Martin Bonnie McKee Henry Walter","s_producer":"Dr. Luke Max Martin Cirkut","s_title":"\"Roar\""}

@@ -1,0 +1,1 @@
+{"s_released":"October 21, 2011 (2011-10-21) (see release history)","s_format":"CD Single, digital download","s_recorded":"2011","s_genre":"Torch song, waltz, pop","s_length":"3:00","s_label":"EMI Music Japan","s_writer":"Ringo Sheena","s_producer":"Ringo Sheena","s_title":"\"Watashi no Aisuru Hito\" \"Jinsei wa Omoidōri\""}

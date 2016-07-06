@@ -1,0 +1,1 @@
+{"s_released":null,"s_format":null,"s_recorded":"at Maratone Studios, Stockholm, Sweden and Germano Studios, New York.","s_genre":"Electropop Eurodance","s_length":"3:39","s_label":"J Sony Syco","s_writer":"Savan Kotecha Max Martin Johan Schuster","s_producer":"Max Martin Shellback","s_title":"\"Outta My Head\""}

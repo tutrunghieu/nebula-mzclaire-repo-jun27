@@ -1,0 +1,1 @@
+{"s_released":"March 14, 2013","s_format":"Digital download CD Single","s_recorded":"2012 in Los Angeles, CA","s_genre":"Power pop pop rock new wave","s_length":"3:36","s_label":"Fueled by Ramen","s_writer":"Hayley Williams Taylor York","s_producer":"2x Platinum (RIAA)[1]","s_title":"\"Still Into You\""}

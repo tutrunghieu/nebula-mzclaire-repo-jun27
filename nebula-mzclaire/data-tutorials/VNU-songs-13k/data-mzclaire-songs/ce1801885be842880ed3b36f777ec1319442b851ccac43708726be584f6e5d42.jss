@@ -1,0 +1,1 @@
+{"s_released":"January 1999","s_format":null,"s_recorded":"1998","s_genre":"Post-grunge","s_length":"2:57","s_label":"Atlantic","s_writer":"Ed Roland","s_producer":"Ed Roland, Anthony J. Resta","s_title":"\"Heavy\""}

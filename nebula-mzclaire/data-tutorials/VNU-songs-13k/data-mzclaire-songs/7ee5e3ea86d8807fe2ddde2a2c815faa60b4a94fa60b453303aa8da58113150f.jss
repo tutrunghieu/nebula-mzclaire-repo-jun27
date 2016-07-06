@@ -1,0 +1,1 @@
+{"s_released":"February 17, 2015","s_format":"Digital download","s_recorded":null,"s_genre":"Dance-rock,[1] pop rock[2]","s_length":"3:57","s_label":"Republic Records","s_writer":"Chad Kroeger, Jacob Kasher, Josh Ramsay","s_producer":"Nickelback, Chris Baseford","s_title":"\"She Keeps Me Up\""}

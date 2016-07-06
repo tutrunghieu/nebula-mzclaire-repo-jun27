@@ -1,0 +1,1 @@
+{"s_released":"January 17, 2007","s_format":"CD Single, digital download","s_recorded":null,"s_genre":null,"s_length":"10:09 minutes","s_label":"Toshiba EMI / Virgin Music","s_writer":"Ringo Sheena, Neko Saito","s_producer":"Inoue Uni","s_title":"\"Kono Yo no Kagiri\""}

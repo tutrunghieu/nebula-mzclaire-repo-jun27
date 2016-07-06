@@ -1,0 +1,1 @@
+{"s_released":"August 21, 2008 (2008-08-21)","s_format":"Digital download, CD single","s_recorded":"2008","s_genre":"Pop R&B","s_length":"3:34","s_label":null,"s_writer":"Babyface Ronnie Walton","s_producer":"Babyface Antonio \"L.A.\" Reid","s_title":"\"Just Stand Up!\""}

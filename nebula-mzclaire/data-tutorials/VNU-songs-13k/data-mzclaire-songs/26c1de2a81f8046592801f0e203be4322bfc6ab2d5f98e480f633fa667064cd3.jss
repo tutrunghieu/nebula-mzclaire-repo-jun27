@@ -1,0 +1,1 @@
+{"s_released":"August 13, 1985","s_format":"CD single, cassette single, 7\" single","s_recorded":"1984","s_genre":"R&B, soul","s_length":"3:57","s_label":"Arista","s_writer":"Michael Masser, Gerry Goffin","s_producer":"Gold (RIAA)","s_title":"\"Nobody Loves Me Like You Do\" \"All at Once\" \"Greatest Love of All\" \"How Will I Know\""}

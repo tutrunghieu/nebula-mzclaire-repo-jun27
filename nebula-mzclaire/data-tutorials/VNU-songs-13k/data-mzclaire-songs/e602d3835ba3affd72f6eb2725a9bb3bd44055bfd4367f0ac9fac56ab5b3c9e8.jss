@@ -1,0 +1,1 @@
+{"s_released":"1992","s_format":"CD","s_recorded":"1991","s_genre":"Hard rock, instrumental rock","s_length":"1:03 min","s_label":"ATCO","s_writer":null,"s_producer":"Bruce Fairbairn","s_title":"\"Hells Bells\" (live), \"The Jack\" (live)"}

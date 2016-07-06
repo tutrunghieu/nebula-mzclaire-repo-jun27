@@ -1,0 +1,1 @@
+{"s_released":null,"s_format":null,"s_recorded":"2009; Metropolis Studios (London)","s_genre":"R&B","s_length":"4:01","s_label":"Def Jam SRP","s_writer":"Shaffer Smith Mikkel S. Eriksen Tor Erik Hermansen","s_producer":"StarGate Ne-Yo Makeba Riddick","s_title":"\"Stupid in Love\""}

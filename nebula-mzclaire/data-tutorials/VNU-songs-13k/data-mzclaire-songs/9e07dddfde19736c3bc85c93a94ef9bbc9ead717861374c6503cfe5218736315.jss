@@ -1,0 +1,1 @@
+{"s_released":"March 1972","s_format":null,"s_recorded":"6–21 December 1971 Montreux, Switzerland","s_genre":"Hard rock, heavy metal","s_length":"4:34 19:54 (Made in Japan version) 4:52 (The 1997 Remixes version)","s_label":"EMI (UK) Warner Bros. (US)","s_writer":"Ian Gillan Ritchie Blackmore Roger Glover Jon Lord Ian Paice","s_producer":"","s_title":"\"Space Truckin'\""}

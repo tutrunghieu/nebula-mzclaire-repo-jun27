@@ -1,0 +1,1 @@
+{"s_released":"February 22, 1994 (1994-02-22)","s_format":"CD single, cassette single, 7\" single, 12\" maxi single","s_recorded":"1993","s_genre":"R&B","s_length":"3:46","s_label":"Columbia","s_writer":"Mariah Carey, Babyface","s_producer":"Babyface, Mariah Carey, Daryl Simmons","s_title":"\"Without You\""}

@@ -1,0 +1,1 @@
+{"s_released":"May 21, 2008","s_format":"CD single","s_recorded":null,"s_genre":"Pop punk","s_length":null,"s_label":"Ki/oon Records","s_writer":"Avril Lavigne, Butch Walker","s_producer":"Butch Walker","s_title":"\"All Because Of You\""}

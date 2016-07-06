@@ -1,0 +1,1 @@
+{"s_released":"1969 (1969)","s_format":"7\"","s_recorded":null,"s_genre":"Pop","s_length":"3:55","s_label":"A&M","s_writer":"Burt Bacharach Hal David","s_producer":"Herb Alpert and Jerry Moss","s_title":"\"This Girl's in Love with You\""}

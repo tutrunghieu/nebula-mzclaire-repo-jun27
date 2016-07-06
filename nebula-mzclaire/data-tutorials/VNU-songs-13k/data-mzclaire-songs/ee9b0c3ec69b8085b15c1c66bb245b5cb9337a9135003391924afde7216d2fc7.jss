@@ -1,0 +1,1 @@
+{"s_released":"July 11, 2013 (2013-07-11)[59]","s_format":"Digital download[59]","s_recorded":"2013[citation needed]","s_genre":"House[60]","s_length":"3:34[59]","s_label":"Spinnin'","s_writer":"Lana Del Rey Rick Nowels","s_producer":"Cedric Gervais[citation needed], Carlos Luis \"CID\"","s_title":"\"Summertime Sadness (Remix)\""}

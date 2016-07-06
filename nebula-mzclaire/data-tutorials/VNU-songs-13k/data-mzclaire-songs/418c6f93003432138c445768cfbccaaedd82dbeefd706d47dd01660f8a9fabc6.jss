@@ -1,0 +1,1 @@
+{"s_released":"August 7, 2007 (2007-08-07)","s_format":"Digital download 12\" single","s_recorded":"2006; Hit Factory Criteria (Miami, Florida)","s_genre":"R&B hip hop crunk","s_length":"2:55","s_label":"Columbia","s_writer":"Durrell Babbs Lonny Bereal Calvin Broadus Kelly Rowland","s_producer":"Tank","s_title":"\"Ghetto\""}

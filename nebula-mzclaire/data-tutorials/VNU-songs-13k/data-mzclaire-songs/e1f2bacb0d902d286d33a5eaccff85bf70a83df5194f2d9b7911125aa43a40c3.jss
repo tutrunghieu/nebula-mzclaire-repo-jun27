@@ -1,0 +1,1 @@
+{"s_released":null,"s_format":null,"s_recorded":"2010; The Bunker Studios, (Paris, France)","s_genre":"Pop R&B","s_length":"3:27","s_label":"Def Jam SRP","s_writer":"Jamal Jones Ester Dean","s_producer":"Polow da Don Kuk Harrell Veronika Bozeman","s_title":"\"Fading\""}

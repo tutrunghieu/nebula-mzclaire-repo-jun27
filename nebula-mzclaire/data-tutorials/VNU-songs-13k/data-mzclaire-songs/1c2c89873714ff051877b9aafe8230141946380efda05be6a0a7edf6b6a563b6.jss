@@ -1,0 +1,1 @@
+{"s_released":"January 26, 2000 (2000-01-26)","s_format":"CD Single","s_recorded":null,"s_genre":"Rock, pop, kayōkyoku","s_length":"11:34","s_label":"Toshiba EMI / Virgin Music","s_writer":"Ringo Sheena, Michio Yamagami, Kenji Sawada","s_producer":"Uni Inoue","s_title":"\"Gips\""}

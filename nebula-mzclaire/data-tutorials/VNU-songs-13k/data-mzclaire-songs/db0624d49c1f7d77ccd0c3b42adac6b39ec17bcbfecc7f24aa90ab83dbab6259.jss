@@ -1,0 +1,1 @@
+{"s_released":"10 October 1994","s_format":"CD, 7\" vinyl, 12\" vinyl, cassette","s_recorded":"Clear Studios, Manchester, 1994","s_genre":"Alternative rock, Britpop, hard rock","s_length":"4:48","s_label":"Creation","s_writer":"Noel Gallagher","s_producer":"Oasis, Mark Coyle & Owen Morris","s_title":"\"I Am the Walrus\" (live) \"Listen Up\" \"Fade Away\""}

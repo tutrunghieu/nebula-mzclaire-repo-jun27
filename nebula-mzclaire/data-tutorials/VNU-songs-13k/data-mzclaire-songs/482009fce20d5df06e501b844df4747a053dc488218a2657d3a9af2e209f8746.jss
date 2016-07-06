@@ -1,0 +1,1 @@
+{"s_released":"December 3, 2014","s_format":"Digital download","s_recorded":"2014","s_genre":"Hip hop","s_length":"4:53 4:04 (album edit – international deluxe)","s_label":"Young Money Cash Money Republic","s_writer":"Onika Maraj Matthew Samuels Ester Dean Anderson Hernandez Allen Ritter","s_producer":"Boi-1da Vinylz Ritter","s_title":"\"All Things Go\""}

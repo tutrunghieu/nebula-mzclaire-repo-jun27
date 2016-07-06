@@ -1,0 +1,1 @@
+{"s_released":null,"s_format":null,"s_recorded":"2006","s_genre":"Soul Soft rock","s_length":"4:42","s_label":"Columbia Records","s_writer":"Beyoncé Knowles Millsap Nelson Mayfield Solange Knowles","s_producer":"Millsap Nelson Knowles","s_title":"\"Resentment\""}

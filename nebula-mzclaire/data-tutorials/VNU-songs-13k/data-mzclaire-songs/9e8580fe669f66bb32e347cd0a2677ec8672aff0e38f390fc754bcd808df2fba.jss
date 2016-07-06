@@ -1,0 +1,1 @@
+{"s_released":"October 9, 1992","s_format":"CD maxi, CD single, cassette single","s_recorded":null,"s_genre":null,"s_length":"4:12","s_label":"Gee Street, Island, LaFace, Arista","s_writer":"Attrell Cordes","s_producer":"Gold (RIAA)","s_title":"\"I'd Die Without You\""}

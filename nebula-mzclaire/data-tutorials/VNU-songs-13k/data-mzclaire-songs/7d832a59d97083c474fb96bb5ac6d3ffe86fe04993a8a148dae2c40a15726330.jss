@@ -1,0 +1,1 @@
+{"s_released":"23 September 2015","s_format":"Digital download","s_recorded":"2015","s_genre":"Deep house UK garage synthpop tropical house","s_length":"3:19","s_label":"PMR Island","s_writer":"Guy Lawrence Howard Lawrence James Napier Ella Marija Lani Yelich-O'Connor","s_producer":"Disclosure","s_title":"\"Magnets\""}

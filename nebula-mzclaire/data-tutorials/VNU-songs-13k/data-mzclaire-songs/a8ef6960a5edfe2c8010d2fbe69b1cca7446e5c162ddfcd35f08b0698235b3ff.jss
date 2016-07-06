@@ -1,0 +1,1 @@
+{"s_released":"September 1990","s_format":"CD, 7\" vinyl, 12\" vinyl","s_recorded":"April–July 1990","s_genre":"Grunge, punk rock[1]","s_length":"2:14","s_label":"Sub Pop","s_writer":"Kurt Cobain","s_producer":"Jack Endino","s_title":"\"Dive\""}

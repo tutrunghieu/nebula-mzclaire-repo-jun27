@@ -1,0 +1,1 @@
+{"s_released":"October 4, 1992 (1992-10-04)","s_format":"CD single, 12\" vinyl","s_recorded":"1991–1992 Hollywood, California","s_genre":"Tejano, Latin pop, Mexican cumbia","s_length":"3:02","s_label":"EMI Latin","s_writer":"Ricky Vela, A.B. Quintanilla III, Selena, Pete Astudillo","s_producer":"Quintanilla III","s_title":"\"La Carcacha\""}

@@ -1,0 +1,1 @@
+{"s_released":"24 November 1998","s_format":"7\" 12\"","s_recorded":"May 1995 – February 1996","s_genre":"Heavy metal, speed metal","s_length":"4:04","s_label":"Elektra","s_writer":"Eddie Clarke Lemmy Kilmister Phil Taylor","s_producer":"Bob Rock James Hetfield Lars Ulrich","s_title":"\"Overkill\""}

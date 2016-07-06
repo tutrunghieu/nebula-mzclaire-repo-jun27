@@ -1,0 +1,1 @@
+{"s_released":"July 1, 2008","s_format":"12\" single digital download","s_recorded":"2007","s_genre":"R&B hip hop soul pop","s_length":"3:01 (Album Version - Solo) 3:50 (Single Remix feat. T.I.)","s_label":"Island Def Jam","s_writer":"Carey, Aldrin Davis, Crystal Johnson and Clifford Harris,","s_producer":"Mariah Carey, DJ Toomp","s_title":"\"I'll Be Lovin' U Long Time\""}

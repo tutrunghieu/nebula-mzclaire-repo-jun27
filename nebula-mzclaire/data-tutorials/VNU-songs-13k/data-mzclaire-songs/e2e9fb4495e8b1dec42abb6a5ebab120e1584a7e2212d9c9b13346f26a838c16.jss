@@ -1,0 +1,1 @@
+{"s_released":"May 31, 1983 November 12, 1991 (reissue)","s_format":null,"s_recorded":null,"s_genre":"R&B soul quiet storm soul jazz","s_length":"42:00","s_label":"Beverly Glen Elektra (reissue)","s_writer":null,"s_producer":"\"Angel\" \"You're the Best Thing Yet\" \"No More Tears\" \"Feel the Need\"","s_title":"The Songstress"}

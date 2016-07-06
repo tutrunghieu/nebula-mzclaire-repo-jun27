@@ -1,0 +1,1 @@
+{"s_released":"December 20, 2004","s_format":"CD single, digital download","s_recorded":"2004","s_genre":"Pop rock","s_length":"3:12","s_label":"Sony BMG","s_writer":"Phil Collins","s_producer":"Mariah Carey, Steve Mac","s_title":"\"Against All Odds\""}

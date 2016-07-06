@@ -1,0 +1,1 @@
+{"s_released":"March 17, 2001 (Europe)","s_format":"Vinyl record CD single digital download","s_recorded":"2000","s_genre":"R&B pop","s_length":"4:32","s_label":"Atlantic","s_writer":"Phil Collins","s_producer":"Gold (IFPI Germany)[38]","s_title":"\"Another Day in Paradise\""}

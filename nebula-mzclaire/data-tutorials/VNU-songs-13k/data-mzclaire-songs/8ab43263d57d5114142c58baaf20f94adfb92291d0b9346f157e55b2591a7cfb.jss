@@ -1,0 +1,1 @@
+{"s_released":"22 July 1974 (1974-07-22)","s_format":"7\"","s_recorded":"January–February 1974[1] EMI Studios, Sydney, Australia","s_genre":"Hard rock[2]","s_length":"3:05","s_label":"Albert","s_writer":"Malcolm Young Angus Young","s_producer":"Harry Vanda George Young","s_title":"\"Rockin' in the Parlour\""}

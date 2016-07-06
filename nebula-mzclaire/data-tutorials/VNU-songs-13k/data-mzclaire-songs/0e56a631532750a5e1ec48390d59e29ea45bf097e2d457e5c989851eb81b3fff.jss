@@ -1,0 +1,1 @@
+{"s_released":"6 December 1995 (1995-12-06)","s_format":"CD","s_recorded":"1995","s_genre":"Hard rock","s_length":"5:14","s_label":"Elektra","s_writer":"Angus Young, Malcolm Young","s_producer":"Rick Rubin","s_title":"\"Whiskey on the Rocks\" \"Whole Lotta Rosie\" (Live)"}

@@ -1,0 +1,1 @@
+{"s_released":"November 18, 2009 (2009-11-18)","s_format":null,"s_recorded":"September 2009 Record Plant (Los Angeles, California)","s_genre":"Pop","s_length":"3:41","s_label":null,"s_writer":"Lady Gaga Taja Riley Pete Wyoming Bender Teddy Riley[a]","s_producer":"Lady Gaga Teddy Riley","s_title":"\"Teeth\""}

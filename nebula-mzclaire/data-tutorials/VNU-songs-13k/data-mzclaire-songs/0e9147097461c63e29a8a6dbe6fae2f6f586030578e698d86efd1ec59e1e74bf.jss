@@ -1,0 +1,1 @@
+{"s_released":"May 28, 2013 (2013-05-28)","s_format":"Digital download","s_recorded":"Kaufman Astoria Studios; March 16, 1992","s_genre":"bachata","s_length":"3:32","s_label":"Universal Music Latin Entertainment","s_writer":"Berry Gordy, Bob West, Willie Hutch, Hal Davis","s_producer":"Arthur Hanlon, David Cabrera","s_title":"\"I'll Be There (Alli Estaré)\""}

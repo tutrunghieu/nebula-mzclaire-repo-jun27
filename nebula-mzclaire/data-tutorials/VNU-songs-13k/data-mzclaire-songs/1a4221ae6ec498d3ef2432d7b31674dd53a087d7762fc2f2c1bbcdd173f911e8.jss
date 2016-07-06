@@ -1,0 +1,1 @@
+{"s_released":"January 1977","s_format":"7-inch single","s_recorded":"1976","s_genre":"Hard rock","s_length":"3:13","s_label":"ATCO","s_writer":null,"s_producer":"Harry Vanda, George Young","s_title":"\"Problem Child\""}

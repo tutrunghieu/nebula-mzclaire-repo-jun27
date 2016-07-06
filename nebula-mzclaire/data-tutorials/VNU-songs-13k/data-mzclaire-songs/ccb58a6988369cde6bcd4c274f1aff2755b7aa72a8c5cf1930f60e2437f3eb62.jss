@@ -1,0 +1,1 @@
+{"s_released":"21 April 2009","s_format":"12\" CD digital download","s_recorded":"2008–09 at Gum Prod Studios (Paris, France)","s_genre":"Electro house dance-pop","s_length":"3:10","s_label":"Virgin EMI","s_writer":"David Guetta Miriam Nervo Olivia Nervo Kelly Rowland Frédéric Riesterer","s_producer":"David Guetta Frédéric Riesterer","s_title":"\"When Love Takes Over\""}

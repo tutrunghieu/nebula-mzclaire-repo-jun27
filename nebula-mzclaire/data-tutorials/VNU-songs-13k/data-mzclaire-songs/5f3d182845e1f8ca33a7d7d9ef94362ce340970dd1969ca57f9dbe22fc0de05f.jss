@@ -1,0 +1,1 @@
+{"s_released":"17 December 2008","s_format":"CD single digital download","s_recorded":"2008","s_genre":"R&B","s_length":"3:39","s_label":"Syco","s_writer":"Leonard Cohen","s_producer":"Quiz & Larossi","s_title":"\"Candyman\" (Live on The X Factor) \"Without You\" (Live on The X Factor)"}

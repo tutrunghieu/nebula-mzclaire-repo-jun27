@@ -1,0 +1,1 @@
+{"s_released":"December 8, 2009 (2009-12-08)","s_format":"Digital download","s_recorded":"2009","s_genre":"Electro-R&B","s_length":"3:48","s_label":"Epic","s_writer":"Terius \"The-Dream\" Nash C. \"Tricky\" Stewart","s_producer":"C. \"Tricky\" Stewart Terius \"The-Dream\" Nash Kuk Harrell","s_title":"\"Louboutins\""}

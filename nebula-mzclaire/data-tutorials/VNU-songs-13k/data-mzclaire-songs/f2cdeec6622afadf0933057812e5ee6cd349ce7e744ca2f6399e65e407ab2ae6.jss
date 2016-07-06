@@ -1,0 +1,1 @@
+{"s_released":"13 June 1994","s_format":"CD, 7\" vinyl, 12\" vinyl, cassette","s_recorded":"March 1994","s_genre":"Britpop, psychedelic rock","s_length":"5:08","s_label":"Creation","s_writer":"Noel Gallagher","s_producer":"Oasis, Mark Coyle & Owen Morris","s_title":"\"D'Yer Wanna Be a Spaceman?\" \"Alive\" (8-track demo) \"Bring It On Down\" (live)"}

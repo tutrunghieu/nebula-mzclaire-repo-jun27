@@ -1,0 +1,1 @@
+{"s_released":"May 4, 2012","s_format":"Digital download","s_recorded":"2012","s_genre":"R&B","s_length":"4:08","s_label":"Chameleon, RCA","s_writer":"Shondrae Crawford, Sean Garrett, Chris Brown, Dwayne Abernathy","s_producer":"Bangladesh, Sean Garrett, Dem Jointz (co.)","s_title":"\"Put It Down\""}

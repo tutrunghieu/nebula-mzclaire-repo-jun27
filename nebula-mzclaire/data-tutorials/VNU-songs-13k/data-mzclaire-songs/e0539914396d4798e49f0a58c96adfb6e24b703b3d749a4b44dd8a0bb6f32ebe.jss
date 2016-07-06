@@ -1,0 +1,1 @@
+{"s_released":"December 11, 2007","s_format":"CD single, digital download","s_recorded":null,"s_genre":"Pop rock","s_length":"3:27","s_label":"Hollywood","s_writer":"Fefe Dobson, Anne Preven, Scott Cutler","s_producer":"Jason Morey","s_title":"\"Start All Over\""}

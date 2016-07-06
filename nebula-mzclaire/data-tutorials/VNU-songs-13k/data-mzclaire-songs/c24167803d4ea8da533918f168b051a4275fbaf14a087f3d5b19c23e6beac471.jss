@@ -1,0 +1,1 @@
+{"s_released":"April 27, 2010","s_format":"Digital download","s_recorded":null,"s_genre":"EDM","s_length":"5:30","s_label":"Smile in Bed Records","s_writer":"Nadia Ali","s_producer":"\"Fantasy (Morgan Page Remix)\" on YouTube \"Fantasy (Radio Edit)\" on YouTube","s_title":"\"Fantasy\""}

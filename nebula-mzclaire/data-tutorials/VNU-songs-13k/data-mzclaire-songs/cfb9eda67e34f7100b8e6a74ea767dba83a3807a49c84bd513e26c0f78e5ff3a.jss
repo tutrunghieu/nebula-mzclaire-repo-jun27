@@ -1,0 +1,1 @@
+{"s_released":"December 2, 2000 (2000-12-02)","s_format":"Cassette CD DVD 7\" 12\"","s_recorded":"August 2000","s_genre":"Pop R&B","s_length":"3:42","s_label":"Epic","s_writer":"Damon Sharpe Greg Lawson Georgette Franklin Jeremy Monroe Amille D. Harris","s_producer":"Ric Wake Richie Jones Cory Rooney","s_title":"\"Amor Se Paga Con Amor\" \"On the 6 Megamix\""}

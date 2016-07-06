@@ -1,0 +1,1 @@
+{"s_released":"April 1999","s_format":"CD single 12\" vinyl 7\" vinyl","s_recorded":"January–March 1999[1] Signature Sound (San Diego, California)","s_genre":"Pop punk","s_length":"2:26","s_label":"MCA","s_writer":"Mark Hoppus Tom DeLonge","s_producer":"Jerry Finn","s_title":"\"What's My Age Again?\""}

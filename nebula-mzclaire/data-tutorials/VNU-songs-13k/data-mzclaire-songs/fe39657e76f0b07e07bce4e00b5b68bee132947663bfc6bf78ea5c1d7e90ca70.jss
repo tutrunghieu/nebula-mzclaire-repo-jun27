@@ -1,0 +1,1 @@
+{"s_released":"December 19, 2014[131]","s_format":"CD single","s_recorded":"2012; Roc the Mic Studios (New York City); Westlake Recording Studios (Los Angeles)","s_genre":"Electronic pop","s_length":"4:05","s_label":"Columbia RCA","s_writer":"Sia Furler Benjamin Levin Mikkel Eriksen Tor Hermansen","s_producer":"Benny Blanco StarGate Kuk Harrell","s_title":"\"Diamonds\""}

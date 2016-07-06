@@ -1,0 +1,1 @@
+{"s_released":"1974","s_format":null,"s_recorded":"April–May 1974","s_genre":"Rock","s_length":"3:34","s_label":"United Artists","s_writer":"Nick Lowe","s_producer":"Dave Edmunds","s_title":"\"(What's So Funny 'Bout) Peace, Love, and Understanding\""}

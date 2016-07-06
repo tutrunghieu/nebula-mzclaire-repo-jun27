@@ -1,0 +1,1 @@
+{"s_released":"April 26, 2005 (2005-04-26)","s_format":"CD digital download maxi single vinyl","s_recorded":null,"s_genre":"R&B","s_length":"4:32","s_label":"A&M Interscope","s_writer":"Anthony Ray Thomas Callaway Trevor Smith","s_producer":"CeeLo Green","s_title":"\"Don't Cha\""}

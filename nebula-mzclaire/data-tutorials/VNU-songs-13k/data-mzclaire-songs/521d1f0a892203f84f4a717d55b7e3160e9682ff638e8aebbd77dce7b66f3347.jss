@@ -1,0 +1,1 @@
+{"s_released":"November 2001","s_format":"12-inch single, 7-inch single","s_recorded":"1981","s_genre":"Industrial rock, electronic rock[35]","s_length":"3:20","s_label":"Nothing/Interscope/Universal Records","s_writer":"Ed Cobb","s_producer":"Marilyn Manson, Tim Sköld","s_title":"\"Tainted Love\""}

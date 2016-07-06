@@ -1,0 +1,1 @@
+{"s_released":"September 20, 2011 (2011-09-20) (radio) October 18, 2011 (2011-10-18) (Remix)","s_format":null,"s_recorded":null,"s_genre":"Hip hop","s_length":"3:17 (Album version) 3:40 (Remix)","s_label":"GOOD Music, Def Jam","s_writer":"Sean Anderson, Onika Maraj, Marcos Palacios, Ernest Clark, Marlyn Banks","s_producer":"3x Platinum (RIAA)","s_title":"\"Dance (Ass)\""}

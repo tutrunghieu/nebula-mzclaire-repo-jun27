@@ -1,0 +1,1 @@
+{"s_released":"July 6, 2012","s_format":"Download, CD single","s_recorded":"2012","s_genre":"Dance-pop","s_length":"3:24","s_label":"Embassy of Music","s_writer":"Olivier Bloch-Lainé, Kate Markowitz, Joe Hammer, Christina Trulio","s_producer":"Marek Pompetzki, Paul NZA, Cecil Remmler","s_title":"\"Summer Dreaming 2012\""}

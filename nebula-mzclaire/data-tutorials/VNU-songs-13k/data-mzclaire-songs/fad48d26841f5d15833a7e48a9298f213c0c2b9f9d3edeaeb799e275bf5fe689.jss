@@ -1,0 +1,1 @@
+{"s_released":"January 23, 2015 (2015-01-23)","s_format":"Digital download","s_recorded":null,"s_genre":"Hip hop house[1][2]","s_length":"3:40","s_label":"Young Money Cash Money Republic","s_writer":"Onika Maraj Aubrey Graham Dwayne Carter Paul Jefferies Maya Jane Coles","s_producer":"Nineteen85","s_title":"\"Truffle Butter\""}

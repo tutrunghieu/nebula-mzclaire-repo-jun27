@@ -1,0 +1,1 @@
+{"s_released":"4 February 1997","s_format":"12\" CD single","s_recorded":"1995; Larrabee North and CTS Studios","s_genre":"Orchestral pop","s_length":"5:34","s_label":"Warner Bros.","s_writer":"Andrew Lloyd Webber Tim Rice","s_producer":"Nigel Wright Alan Parker Andrew Lloyd Webber David Caddick","s_title":"\"Don't Cry for Me Argentina\""}

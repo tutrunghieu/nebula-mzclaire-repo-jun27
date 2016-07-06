@@ -1,0 +1,1 @@
+{"s_released":"September 4, 2006","s_format":null,"s_recorded":"2006","s_genre":"R&B funk hip hop","s_length":"3:20","s_label":"Columbia","s_writer":"Beyoncé Knowles Rich Harrison Makeba Riddick","s_producer":"Rich Harrison","s_title":"\"Freakum Dress\""}

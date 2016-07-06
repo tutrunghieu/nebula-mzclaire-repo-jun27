@@ -1,0 +1,1 @@
+{"s_released":"9 December 2013 (2013-12-09)","s_format":"Digital download, 7\" vinyl","s_recorded":"Sage & Sound Recording, Los Angeles, California Rancho De La Luna, Joshua Tree, California","s_genre":"Rock","s_length":"3:26","s_label":"Domino","s_writer":"Alex Turner[1]","s_producer":"James Ford Ross Orton","s_title":"\"You're So Dark\""}

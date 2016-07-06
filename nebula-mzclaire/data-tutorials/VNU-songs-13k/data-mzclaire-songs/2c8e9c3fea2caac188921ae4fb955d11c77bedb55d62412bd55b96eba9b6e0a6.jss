@@ -1,0 +1,1 @@
+{"s_released":"11 January 1988 [1]","s_format":"7 inch, 12 inch, CD","s_recorded":"August – September 1987; Miraval Studios, in Correns of Le Val, France","s_genre":"Hard rock","s_length":"3:43","s_label":"Albert Productions, Atlantic Records","s_writer":null,"s_producer":"Harry Vanda, George Young","s_title":"\"Go Zone\", \"Snake Eye\" (12\"-vinyl and 3\"-CD only)"}

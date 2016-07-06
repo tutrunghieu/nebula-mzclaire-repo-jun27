@@ -1,0 +1,1 @@
+{"s_released":"October 1, 2008","s_format":"CD single digital download","s_recorded":"2008","s_genre":"Alternative rock emo","s_length":"4:21","s_label":"Fueled by Ramen Warner Bros.","s_writer":"Hayley Williams Josh Farro Taylor York","s_producer":"Platinum (RIAA) (RIANZ)","s_title":"\"Decode\""}

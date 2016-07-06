@@ -1,0 +1,1 @@
+{"s_released":"May 22, 2012","s_format":"CD single digital download","s_recorded":"2012 at Nightbird Recording Studios (Los Angeles, California)","s_genre":"Dance-pop","s_length":"3:41","s_label":"Capitol","s_writer":"Katy Perry Lukasz Gottwald Max Martin Henry Walter Bonnie McKee","s_producer":"Dr. Luke Cirkut","s_title":"\"Wide Awake\""}

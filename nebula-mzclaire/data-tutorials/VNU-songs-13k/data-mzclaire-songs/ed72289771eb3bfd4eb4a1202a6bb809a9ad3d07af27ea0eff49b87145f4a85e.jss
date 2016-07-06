@@ -1,0 +1,1 @@
+{"s_released":"7 March 2014 (2014-03-07)","s_format":"CD single digital download","s_recorded":"2013; Venice House Studios","s_genre":"Pop R&B funk","s_length":"2:46","s_label":"Mercury","s_writer":"Jack Splash Thomas Callaway Claude Kelly Harry Casey Richard Finch Billy Nichols James Brown","s_producer":"Jack Splash","s_title":"\"Nasty\""}

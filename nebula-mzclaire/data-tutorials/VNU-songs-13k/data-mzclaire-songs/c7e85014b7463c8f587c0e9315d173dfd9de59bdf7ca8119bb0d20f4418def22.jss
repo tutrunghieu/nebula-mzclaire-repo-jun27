@@ -1,0 +1,1 @@
+{"s_released":"January 20, 2009 (2009-01-20)","s_format":"CD digital download","s_recorded":"2008; Manfield Studios (Los Angeles); Germano Studios and Roc the Mic Studios (New York City)","s_genre":"Pop R&B","s_length":"4:21","s_label":"Columbia","s_writer":"Beyoncé Knowles Ryan Tedder E. Kidd Bogart","s_producer":"Tedder Knowles","s_title":"\"Halo\""}

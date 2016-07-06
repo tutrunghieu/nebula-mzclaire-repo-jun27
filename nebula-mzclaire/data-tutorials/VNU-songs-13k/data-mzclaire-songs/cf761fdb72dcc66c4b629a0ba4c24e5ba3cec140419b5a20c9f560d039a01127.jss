@@ -1,0 +1,1 @@
+{"s_released":"September 10, 2013 (2013-09-10)","s_format":"Digital download","s_recorded":null,"s_genre":"Hip hop","s_length":"4:12","s_label":"Interscope","s_writer":"Michael Williams Jordan Houston Cameron Thomaz Theron Thomas Timothy Thomas Pierre Ramon Slaughter[1]","s_producer":"Mike WiLL Made-It","s_title":"\"23\""}

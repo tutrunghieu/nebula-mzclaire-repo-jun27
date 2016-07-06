@@ -1,0 +1,1 @@
+{"s_released":"June 28, 2012","s_format":"Digital download, promotional single","s_recorded":"2012","s_genre":"Dance-pop, electropop, Eurodance","s_length":"3:45","s_label":"Sony Music Greece/Day 1","s_writer":"Pink Noisy (George Kartsakis), GiorGio Sopidis, Faidon Samsidis","s_producer":"Pink Noisy","s_title":"\"Avra\""}

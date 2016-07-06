@@ -1,0 +1,1 @@
+{"s_released":"3 August 2010","s_format":"Digital download","s_recorded":"2010[1]","s_genre":"Dance-pop, synthpop[2]","s_length":"3:41 3:19 (without Minaj)","s_label":"Cash Money/Republic","s_writer":"Kamaljeet Singh Jhooti, Onika Maraj, J-Remy, Bobby Bass, Jared Cotter, J. Perkins","s_producer":"J-Remy & Bobbybass","s_title":"\"2012 (It Ain't the End)\""}

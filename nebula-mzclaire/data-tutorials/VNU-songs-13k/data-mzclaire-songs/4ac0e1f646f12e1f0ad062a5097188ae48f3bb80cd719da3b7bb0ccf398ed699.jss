@@ -1,0 +1,1 @@
+{"s_released":"June 3, 2014 (2014-06-03) (Digital download)","s_format":"Digital download Stream","s_recorded":"March 2012 - 2013 In New York, United States at Red Wire Audio with Bryan Russell","s_genre":"Soft rock pop rock","s_length":"4:33","s_label":null,"s_writer":"Suzie Zeldin Jesse Gabriel","s_producer":"Bryan Russell","s_title":"\"Chasing a Feeling\""}

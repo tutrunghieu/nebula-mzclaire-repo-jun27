@@ -1,0 +1,1 @@
+{"s_released":"November 23, 2009","s_format":"7\" vinyl digital download CD Single","s_recorded":"2009 at Lightning Sound Studios in California, United States[1]","s_genre":"Pop punk alternative rock emo","s_length":"4:13","s_label":"Fueled by Ramen","s_writer":"Hayley Williams Josh Farro","s_producer":"Rob Cavallo Paramore","s_title":"\"Brick by Boring Brick\""}

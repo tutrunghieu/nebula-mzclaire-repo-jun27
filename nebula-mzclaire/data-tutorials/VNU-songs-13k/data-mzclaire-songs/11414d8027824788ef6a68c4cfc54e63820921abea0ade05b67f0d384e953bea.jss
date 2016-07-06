@@ -1,0 +1,1 @@
+{"s_released":"November 25, 2003 (2003-11-25) (see release history)","s_format":"CD Single, digital download","s_recorded":"2003","s_genre":"jazz, kayōkyoku, Latin","s_length":"3:29","s_label":"Toshiba EMI / Virgin Music","s_writer":"Ringo Sheena","s_producer":"Ringo Sheena","s_title":"\"La salle de bain\" \"Ringo Catalogue (Kuroko Jidai Saihen-san)\""}

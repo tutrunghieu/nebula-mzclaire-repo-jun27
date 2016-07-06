@@ -1,0 +1,1 @@
+{"s_released":"June 12, 2013 (2013-06-12) (see release history)","s_format":"CD Single, digital download","s_recorded":"2013","s_genre":"Jazz, punk jazz","s_length":"2:35","s_label":"Victor Entertainment","s_writer":"Ringo Sheena, Tabu Zombie","s_producer":"","s_title":"\"Pimp Panther\" \"Spy High\""}

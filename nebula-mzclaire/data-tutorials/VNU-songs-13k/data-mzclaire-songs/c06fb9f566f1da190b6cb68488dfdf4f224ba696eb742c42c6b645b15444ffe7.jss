@@ -1,0 +1,1 @@
+{"s_released":"23 October 2015","s_format":"Digital download","s_recorded":"2015","s_genre":"Pop","s_length":"3:25","s_label":"Sony Music","s_writer":"Christina Aguilera, Jamie Hartman, David Glass, Phil Bentley","s_producer":"Tracklacers, Jamie Hartman (co-producer), Christina Aguilera (vocals)","s_title":"\"Army of Me\""}

@@ -1,0 +1,1 @@
+{"s_released":"January 9, 1967","s_format":"7\" single","s_recorded":"December 5, 1966 at Gold Star Recording Studio, Hollywood","s_genre":"Folk rock[1] psychedelic rock[2]","s_length":"2:37","s_label":"Atco","s_writer":"Stephen Stills","s_producer":null,"s_title":"\"Do I Have to Come Right Out and Say It?\""}

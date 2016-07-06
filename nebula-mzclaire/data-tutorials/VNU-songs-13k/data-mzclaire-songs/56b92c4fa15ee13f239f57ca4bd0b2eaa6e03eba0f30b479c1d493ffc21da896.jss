@@ -1,0 +1,1 @@
+{"s_released":"23 May 1980","s_format":null,"s_recorded":"January-April 1980","s_genre":"Heavy metal","s_length":"3:12","s_label":"EMI","s_writer":"Iron Maiden[1]","s_producer":"Will Malone","s_title":"\"Drifter\" (Live) \"I've Got the Fire\" (Live - Montrose cover)"}

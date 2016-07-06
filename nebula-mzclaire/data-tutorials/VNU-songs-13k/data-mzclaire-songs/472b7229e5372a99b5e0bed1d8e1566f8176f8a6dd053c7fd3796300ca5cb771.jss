@@ -1,0 +1,1 @@
+{"s_released":null,"s_format":null,"s_recorded":"2013 Circle House Studios (Miami, Florida) Glenwood Studios (Burbank, California)","s_genre":"Country rap[1]","s_length":"3:11","s_label":"RCA","s_writer":"Pharrell Williams Cornell Haynes Miley Cyrus","s_producer":"Williams","s_title":"\"4x4\""}

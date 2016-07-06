@@ -1,0 +1,1 @@
+{"s_released":"May 23, 2011","s_format":null,"s_recorded":"2010 Tour Bus, Europe","s_genre":"Dance-pop","s_length":"3:45","s_label":"Streamline Interscope Kon Live","s_writer":"Stefani Germanotta Nadir Khayat[1]","s_producer":"Lady Gaga, RedOne","s_title":"\"Scheiße\""}

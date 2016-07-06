@@ -1,0 +1,1 @@
+{"s_released":"4 July 2011","s_format":"CD digital download","s_recorded":"2010","s_genre":"Pop soul","s_length":"4:02","s_label":"XL Columbia","s_writer":"Adele Adkins Fraser T Smith","s_producer":"Fraser T Smith","s_title":"\"Set Fire to the Rain\""}

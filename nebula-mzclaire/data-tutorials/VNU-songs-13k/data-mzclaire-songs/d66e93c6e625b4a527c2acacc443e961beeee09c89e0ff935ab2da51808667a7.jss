@@ -1,0 +1,1 @@
+{"s_released":"13 May 1996","s_format":"CD","s_recorded":"June 1995","s_genre":"Britpop, psychedelic rock","s_length":"7:27 (album version) 5:08 (radio edit)","s_label":"Creation","s_writer":"Noel Gallagher","s_producer":"Gold (RIAA)","s_title":"\"Slide Away\""}

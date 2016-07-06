@@ -1,0 +1,1 @@
+{"s_released":"June 23, 2009[1]","s_format":"Digital download","s_recorded":"2008","s_genre":"Pop rock","s_length":"3:00","s_label":"Walt Disney","s_writer":"Kara DioGuardi, Mitch Allan","s_producer":"Kara DioGuardi, Mitch Allan","s_title":"\"He Could Be the One\""}

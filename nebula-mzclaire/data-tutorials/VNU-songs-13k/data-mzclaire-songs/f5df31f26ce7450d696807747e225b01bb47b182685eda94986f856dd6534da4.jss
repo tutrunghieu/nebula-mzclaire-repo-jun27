@@ -1,0 +1,1 @@
+{"s_released":"February 4, 2011 (2011-02-04)","s_format":null,"s_recorded":null,"s_genre":"Dance pop","s_length":"2:59","s_label":"RCA","s_writer":"Christina Aguilera C. \"Tricky\" Stewart Claude Kelly","s_producer":"C. \"Tricky\" Stewart Claude Kelly","s_title":"\"Show Me How You Burlesque\""}

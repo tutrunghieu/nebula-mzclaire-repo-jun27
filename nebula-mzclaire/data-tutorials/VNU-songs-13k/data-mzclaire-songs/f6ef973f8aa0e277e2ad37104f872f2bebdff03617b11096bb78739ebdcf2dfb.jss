@@ -1,0 +1,1 @@
+{"s_released":"November 2, 2012 (2012-11-02)","s_format":"CD single Digital download","s_recorded":"2012","s_genre":"Alternative hip hop[1] R&B","s_length":"4:47","s_label":"Young Money, Cash Money, Republic","s_writer":"Onika Maraj, Matthew Samuels, Matthew Burnett","s_producer":"Boi-1da, Matthew Burnett","s_title":"\"Freedom\""}

@@ -1,0 +1,1 @@
+{"s_released":"14 January 2008[1]","s_format":"CD digital download","s_recorded":"Compass Point Studios in Nassau, Bahamas in 2007","s_genre":"Pop soul blues","s_length":"3:30","s_label":"XL","s_writer":"Adele Eg White","s_producer":"Platinum (RIAA)","s_title":"\"That's It, I Quit, I'm Movin' On\" (live)"}

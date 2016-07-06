@@ -1,0 +1,1 @@
+{"s_released":"1983","s_format":"7\"","s_recorded":"1983","s_genre":"Hard rock","s_length":"3:13","s_label":"Atlantic Records","s_writer":"Angus Young, Malcolm Young, Brian Johnson,","s_producer":"Angus Young, Malcolm Young, Brian Johnson, Cliff Williams, Phil Rudd","s_title":"\"Badlands\""}

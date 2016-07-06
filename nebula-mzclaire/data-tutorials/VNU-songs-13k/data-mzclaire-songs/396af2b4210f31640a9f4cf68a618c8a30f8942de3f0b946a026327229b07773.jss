@@ -1,0 +1,1 @@
+{"s_released":"April 20, 2010 (2010-04-20) (see release history)","s_format":"Digital download","s_recorded":null,"s_genre":"Hip hop R&B","s_length":"4:01","s_label":"EMI, Slip-n-Slide","s_writer":"Katrina Taylor, Derrick Baker, Josh Augustus Burke, Cainon Lamb, Michael Sterling","s_producer":"Bigg D, Lamb","s_title":"\"Always\""}

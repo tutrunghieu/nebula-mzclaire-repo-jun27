@@ -1,0 +1,1 @@
+{"s_released":"January 23, 2007 (2007-01-23)","s_format":"7\" single","s_recorded":"1983","s_genre":"Alternative, pop","s_length":"2:25","s_label":"A&M Interscope","s_writer":null,"s_producer":"Ron Fair","s_title":"\"Right Now\""}

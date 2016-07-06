@@ -1,0 +1,1 @@
+{"s_released":"March 28, 2005 (2005-03-28) (see release history)","s_format":"CD single","s_recorded":"2003–2004 Whitecoat Sound, (Malibu, California); The Boat, (Los Angeles, California)","s_genre":"Pop punk, post-grunge","s_length":"2:59","s_label":"Arista, RCA","s_writer":"Avril Lavigne Chantal Kreviazuk","s_producer":"Raine Maida","s_title":"\"He Wasn't\""}

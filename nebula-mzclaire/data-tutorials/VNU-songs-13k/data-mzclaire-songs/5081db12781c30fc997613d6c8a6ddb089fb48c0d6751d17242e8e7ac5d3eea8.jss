@@ -1,0 +1,1 @@
+{"s_released":"November 7, 1995 (1995-11-07)","s_format":"CD single, 12\" single","s_recorded":"1995","s_genre":"R&B, soul","s_length":"3:25","s_label":"Arista","s_writer":"Babyface","s_producer":"Platinum (US)","s_title":"\"Dancin' on the Smooth Edge\""}

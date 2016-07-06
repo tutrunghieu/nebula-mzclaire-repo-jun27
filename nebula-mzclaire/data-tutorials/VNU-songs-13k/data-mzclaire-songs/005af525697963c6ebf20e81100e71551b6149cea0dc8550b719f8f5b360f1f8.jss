@@ -1,0 +1,1 @@
+{"s_released":null,"s_format":null,"s_recorded":"2006","s_genre":"R&B","s_length":"3:55","s_label":"Columbia","s_writer":"Beyoncé Knowles Pharrell Williams Makeba Riddick Shawn \"Jay-Z\" Carter","s_producer":"The Neptunes Knowles","s_title":"\"Kitty Kat\""}

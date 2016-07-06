@@ -1,0 +1,1 @@
+{"s_released":"October 7, 2011","s_format":"Digital download","s_recorded":"2009-11","s_genre":"Hip hop, R&B","s_length":"4:40","s_label":"Maybach Music Group, Def Jam, Slip-n-Slide","s_writer":"Onika Maraj, William Leonard Roberts II, Kevin Erondu","s_producer":"K.E","s_title":"\"You the Boss\""}

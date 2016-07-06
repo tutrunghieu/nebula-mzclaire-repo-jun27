@@ -1,0 +1,1 @@
+{"s_released":"24 November 2003","s_format":null,"s_recorded":null,"s_genre":"Heavy metal","s_length":"3:48[1]","s_label":"EMI","s_writer":"Dave Murray Steve Harris Bruce Dickinson","s_producer":"Steve Harris Kevin Shirley","s_title":"\"Dance of Death (orchestral version)\" \"More Tea Vicar\""}

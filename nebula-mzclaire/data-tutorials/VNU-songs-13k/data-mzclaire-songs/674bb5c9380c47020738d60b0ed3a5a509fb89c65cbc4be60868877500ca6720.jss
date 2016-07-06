@@ -1,0 +1,1 @@
+{"s_released":"1988","s_format":null,"s_recorded":"1988","s_genre":"Pop","s_length":"2:39","s_label":"A&M Records","s_writer":"Jackie DeShannon, Jimmy Holiday, Randy Myers","s_producer":"David A. Stewart","s_title":"\"A Great Big Piece of Love\" by The Spheres of Celestial Influence"}

@@ -1,0 +1,1 @@
+{"s_released":"September 28, 1987 October 24, 1988 (2nd release)","s_format":"7\" vinyl 12\" vinyl 12\" picture disc CD","s_recorded":"1987","s_genre":"Heavy metal[1]","s_length":"4:31","s_label":"Geffen","s_writer":"Axl Rose, Slash, Duff McKagan","s_producer":"Mike Clink","s_title":"Whole Lotta Rosie (Live) (1987) Mr. Brownstone (US 1988) Nightrain (UK 1988, as AA side)"}

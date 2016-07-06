@@ -1,0 +1,1 @@
+{"s_released":"September 3, 2008 (2008-09-03) (see release history)","s_format":"CD Single, CD+DVD, digital download","s_recorded":"2008","s_genre":"Pop-rock, pop","s_length":"3:51","s_label":"J Storm","s_writer":"Ringo Sheena, Kazuaki Yamashita","s_producer":null,"s_title":"\"Kachū no Otoko\", \"Jōshō Shikō\""}

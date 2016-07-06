@@ -1,0 +1,1 @@
+{"s_released":"November 24, 2014 (2014-11-24)","s_format":"Digital download","s_recorded":"2014","s_genre":"Christmas","s_length":"3:24","s_label":"Republic","s_writer":"Ariana Grande Savan Kotecha Ilya","s_producer":"Ilya","s_title":"\"Santa Tell Me\""}

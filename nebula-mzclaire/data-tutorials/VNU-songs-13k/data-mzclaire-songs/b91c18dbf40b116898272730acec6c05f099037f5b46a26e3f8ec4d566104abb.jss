@@ -1,0 +1,1 @@
+{"s_released":"22 December 2003","s_format":"CD single","s_recorded":"2003","s_genre":"Dance-pop","s_length":"3:40","s_label":"Polydor Records","s_writer":"Sophie Ellis-Bextor Gregg Alexander Matt Rowe","s_producer":"Gregg Alexander Matt Rowe","s_title":"\"Yes Sir, I Can Boogie\""}

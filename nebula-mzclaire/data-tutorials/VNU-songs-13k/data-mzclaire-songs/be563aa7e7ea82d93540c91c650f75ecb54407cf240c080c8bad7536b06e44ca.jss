@@ -1,0 +1,1 @@
+{"s_released":"March 21 2004 UK, June 15, 2004 (U.S.)","s_format":"CD","s_recorded":"December 2002- April 2003","s_genre":"Post-grunge","s_length":"4:16 (Album Version) 3:50 (Single Version)","s_label":"Roadrunner","s_writer":"Chad Kroeger, Mike Kroeger, Ryan Peake, Ryan Vikedal","s_producer":null,"s_title":"\"Feelin' Way Too Damn Good\""}

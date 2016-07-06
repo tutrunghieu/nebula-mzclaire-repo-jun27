@@ -1,0 +1,1 @@
+{"s_released":"14 March 2005","s_format":"CD single","s_recorded":"1984","s_genre":"Electro house tech house","s_length":"3:28","s_label":"Kontor","s_writer":"Benny Andersson Björn Ulvaeus (composers) Tim Rice Björn Ulvaeus (lyricists)","s_producer":"Vinylshakerz","s_title":"\"One Night in Bangkok\""}

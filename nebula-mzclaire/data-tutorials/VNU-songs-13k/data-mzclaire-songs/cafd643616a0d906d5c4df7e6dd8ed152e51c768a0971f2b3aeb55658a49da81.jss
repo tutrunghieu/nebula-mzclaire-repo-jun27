@@ -1,0 +1,1 @@
+{"s_released":"December 4, 1990","s_format":"CD single, Cassette single, 7\" single, Video single","s_recorded":"1989","s_genre":"R&B, pop, soul","s_length":"4:11","s_label":"Arista","s_writer":"Dean Pitchford, Michael Gore","s_producer":"Gold (US)","s_title":"\"Dancin' on the Smooth Edge\""}

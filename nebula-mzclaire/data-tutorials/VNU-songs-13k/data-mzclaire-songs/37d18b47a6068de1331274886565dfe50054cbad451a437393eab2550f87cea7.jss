@@ -1,0 +1,1 @@
+{"s_released":"1979 (as album track) 1980 (single)","s_format":"Vinyl","s_recorded":"1979","s_genre":"Hard rock","s_length":"4:26 6:34 (Original version)","s_label":"Atlantic Records","s_writer":"Angus Young, Malcolm Young, Bon Scott","s_producer":"Robert John \"Mutt\" Lange","s_title":"\"Live Wire\" (live), \"Shot Down in Flames\" (live)"}

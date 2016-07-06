@@ -1,0 +1,1 @@
+{"s_released":"18 October 2009 (2009-10-18)","s_format":"CD digital download","s_recorded":"2009 SubZero Studios Santa Monica, CA","s_genre":"Pop dance-pop R&B","s_length":"3:46","s_label":"Fascination","s_writer":"Steve Kipner Wayne Wilkins Andre Merritt","s_producer":"Wayne Wilkins Steve Kipner","s_title":"\"Didn't I\""}

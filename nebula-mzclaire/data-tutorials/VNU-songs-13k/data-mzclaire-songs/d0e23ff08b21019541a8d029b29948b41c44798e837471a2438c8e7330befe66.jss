@@ -1,0 +1,1 @@
+{"s_released":"1979","s_format":"7\"","s_recorded":"1978; A&R Recording, Inc., 799 7th Avenue at 52nd Street, New York City","s_genre":"soft rock","s_length":"3:53","s_label":"Columbia","s_writer":"Billy Joel","s_producer":"Phil Ramone","s_title":"\"The Mexican Connection\", \"Root Beer Rag\""}

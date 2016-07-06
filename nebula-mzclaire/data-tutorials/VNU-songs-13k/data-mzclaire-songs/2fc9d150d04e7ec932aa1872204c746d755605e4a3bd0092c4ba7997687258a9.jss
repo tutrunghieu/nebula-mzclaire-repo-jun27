@@ -1,0 +1,1 @@
+{"s_released":"May 1, 2009","s_format":"CD digital download","s_recorded":"2007; Westlake Recording Studios (Los Angeles, California)","s_genre":"Rockabilly","s_length":"3:07","s_label":"Warner Bros.","s_writer":"Christopher Stewart Terius Nash Kuk Harrell Shawn Carter","s_producer":"Tricky Stewart Kuk Harrell","s_title":"\"Umbrella\""}

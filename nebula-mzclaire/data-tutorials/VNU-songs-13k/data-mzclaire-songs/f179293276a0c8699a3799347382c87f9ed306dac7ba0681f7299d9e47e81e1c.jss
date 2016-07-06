@@ -1,0 +1,1 @@
+{"s_released":"August 10, 2015 (2015-08-10)","s_format":"CD single digital download","s_recorded":"2015","s_genre":"Trap-pop[discuss]","s_length":"4:17","s_label":"Interscope Polydor","s_writer":"Lana Del Rey Rick Nowels Kieron Menzies","s_producer":"Del Rey Nowels Menzies","s_title":"\"High by the Beach\""}

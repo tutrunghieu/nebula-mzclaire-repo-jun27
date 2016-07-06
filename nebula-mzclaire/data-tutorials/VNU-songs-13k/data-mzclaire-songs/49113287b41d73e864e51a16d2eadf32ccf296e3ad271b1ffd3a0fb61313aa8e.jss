@@ -1,0 +1,1 @@
+{"s_released":"April 8, 2008 (2008-04-08)","s_format":"CD single digital download 12\" 7\"","s_recorded":"Record Plant Studios, Hollywood, Los Angeles, California","s_genre":"Synthpop dance-pop","s_length":"4:01","s_label":"Streamline Interscope Kon Live","s_writer":"Lady Gaga Nadir \"RedOne\" Khayat Aliaune \"Akon\" Thiam[1]","s_producer":"RedOne","s_title":"\"Just Dance\""}

@@ -1,0 +1,1 @@
+{"s_released":null,"s_format":null,"s_recorded":null,"s_genre":"Synthpop","s_length":"3:34","s_label":"Interscope","s_writer":"Lady Gaga Paul \"DJ White Shadow\" Blair Martin Bresso William Grigahcine","s_producer":"Paul \"DJ White Shadow\" Blair Lady Gaga Nick Monson Dino Zisis","s_title":"\"Sexxx Dreams\""}

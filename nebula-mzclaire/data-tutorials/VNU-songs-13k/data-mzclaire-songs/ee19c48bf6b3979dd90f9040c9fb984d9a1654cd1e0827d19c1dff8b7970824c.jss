@@ -1,0 +1,1 @@
+{"s_released":"28 August 2008","s_format":"Digital download, 7-inch vinyl, DVD single","s_recorded":"March–April 2008","s_genre":"Hard rock","s_length":"4:21","s_label":"Columbia","s_writer":"Angus Young, Malcolm Young","s_producer":"Brendan O'Brien","s_title":"\"War Machine\""}

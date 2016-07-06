@@ -1,0 +1,1 @@
+{"s_released":"8 March 2010 (2010-03-08)","s_format":"CD single, digital download","s_recorded":null,"s_genre":"Synthpop, electropop","s_length":"3:51","s_label":"Mute","s_writer":"Alison Goldfrapp, Will Gregory","s_producer":"Alison Goldfrapp, Will Gregory, Pascal Gabriel","s_title":"\"Rocket\""}

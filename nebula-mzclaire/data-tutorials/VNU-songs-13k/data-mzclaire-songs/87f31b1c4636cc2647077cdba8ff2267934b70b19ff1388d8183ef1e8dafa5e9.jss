@@ -1,0 +1,1 @@
+{"s_released":"24 July 2015 (2015-07-24)","s_format":"Digital download radio airplay","s_recorded":"Kite Music Studios, Los Angeles","s_genre":null,"s_length":"3:43","s_label":"Def Jam","s_writer":"Leona Lewis Toby Gad","s_producer":"Toby Gad","s_title":"\"Thunder\""}

@@ -1,0 +1,1 @@
+{"s_released":"May 1976","s_format":null,"s_recorded":"July 1975","s_genre":"Blues Rock","s_length":"5:53","s_label":"Albert Productions","s_writer":"Angus Young, Malcolm Young, Bon Scott","s_producer":"Harry Vanda, George Young","s_title":"\"The Jack\""}

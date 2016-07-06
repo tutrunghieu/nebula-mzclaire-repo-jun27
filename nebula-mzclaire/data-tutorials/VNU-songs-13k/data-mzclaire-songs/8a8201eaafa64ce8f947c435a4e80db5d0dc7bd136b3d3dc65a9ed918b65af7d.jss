@@ -1,0 +1,1 @@
+{"s_released":"May 14, 2014","s_format":"Digital download","s_recorded":"2013","s_genre":"Pop","s_length":"5:19","s_label":"EMI Records Japan","s_writer":"Ringo Sheena Robbie Clark","s_producer":"Keiichi Tomita","s_title":"\"Seishun no Matataki\""}

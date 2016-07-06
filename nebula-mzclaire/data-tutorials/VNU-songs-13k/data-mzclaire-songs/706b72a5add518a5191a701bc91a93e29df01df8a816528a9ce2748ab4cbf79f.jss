@@ -1,0 +1,1 @@
+{"s_released":"November 23, 2011 (2011-11-23)","s_format":"CD Single, digital download","s_recorded":"2011","s_genre":"Pop-rock, Rock","s_length":"3:49","s_label":"Defstar Records","s_writer":"Ringo Sheena","s_producer":null,"s_title":"\"Seishun no Matataki\""}

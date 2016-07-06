@@ -1,0 +1,1 @@
+{"s_released":"22 March 1996","s_format":"CD","s_recorded":"1995","s_genre":"Hard rock, Blues rock","s_length":"4:32","s_label":"Elektra","s_writer":"Angus Young and Malcolm Young.","s_producer":"Rick Rubin","s_title":"\"Love Bomb\", \"Ballbreaker\""}

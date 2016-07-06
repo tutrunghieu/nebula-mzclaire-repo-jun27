@@ -1,0 +1,1 @@
+{"s_released":null,"s_format":null,"s_recorded":"2013 Russel's of Clapton (London) Fetalmus Studio Jungle City Studios Oven Studios (New York City)","s_genre":"Chillwave","s_length":"3:48","s_label":"Parkwood Columbia","s_writer":"James Fauntleroy Beyoncé Knowles Caroline Polachek","s_producer":"Caroline Polachek Beyoncé Knowles Boots (add.)","s_title":"\"No Angel\""}

@@ -1,0 +1,1 @@
+{"s_released":"March 27, 2001 (2001-03-27)","s_format":"Vinyl record, CD Single","s_recorded":null,"s_genre":null,"s_length":"11:55","s_label":"Toshiba EMI / Virgin Music","s_writer":"Ringo Sheena","s_producer":"Uni Inoue","s_title":"\"Mayonaka wa Junketsu\""}

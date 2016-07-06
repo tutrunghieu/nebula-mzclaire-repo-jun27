@@ -1,0 +1,1 @@
+{"s_released":"1979","s_format":null,"s_recorded":"1978","s_genre":"Jazz rock soft rock[1] disco","s_length":"4:09","s_label":"Columbia Records","s_writer":"David Paich[2]","s_producer":"Toto","s_title":"\"Child's Anthem\""}

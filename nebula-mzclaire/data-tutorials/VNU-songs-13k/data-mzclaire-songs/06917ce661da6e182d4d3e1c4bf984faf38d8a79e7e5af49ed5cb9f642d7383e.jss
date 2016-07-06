@@ -1,0 +1,1 @@
+{"s_released":"August 1, 2000","s_format":"CD","s_recorded":null,"s_genre":"Pop rap","s_length":"3:24","s_label":"Jive","s_writer":"Kierulf/Schwartz/L. Wienecke","s_producer":null,"s_title":"\"(Have Some) Fun with the Funk\""}

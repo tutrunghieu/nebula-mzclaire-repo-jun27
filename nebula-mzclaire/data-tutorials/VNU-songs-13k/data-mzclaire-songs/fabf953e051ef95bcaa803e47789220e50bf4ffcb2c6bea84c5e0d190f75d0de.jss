@@ -1,0 +1,1 @@
+{"s_released":"November 28, 2001","s_format":"CD Single DVD single digital download 12\"","s_recorded":"2001 (Bunkamura Studio, Shibuya, Tokyo)","s_genre":"Dance-pop","s_length":"5:17","s_label":"Toshiba EMI","s_writer":"Utada Hikaru","s_producer":"Utada Hikaru Teruzane Utada Akira Miyake","s_title":"\"Traveling\""}

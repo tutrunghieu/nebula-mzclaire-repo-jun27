@@ -1,0 +1,1 @@
+{"s_released":"February 23, 2010","s_format":null,"s_recorded":"2009","s_genre":"Hip hop","s_length":"3:37","s_label":"DTP, Def Jam","s_writer":"Christopher Bridges, Onika Maraj, Samuel Lindley, Derrelle Davidson","s_producer":"Platinum (RIAA)","s_title":"\"My Chick Bad\""}

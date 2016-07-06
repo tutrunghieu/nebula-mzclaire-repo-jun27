@@ -1,0 +1,1 @@
+{"s_released":"1995","s_format":"CD, 7\" vinyl","s_recorded":"Spring 1994","s_genre":"Rock Britpop hard rock","s_length":"5:23","s_label":"Creation","s_writer":"Noel Gallagher","s_producer":"Oasis, Mark Coyle & Owen Morris","s_title":"\"Rock 'n' Roll Star\""}

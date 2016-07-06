@@ -1,0 +1,1 @@
+{"s_released":"6 September 2013[1]","s_format":"Digital download","s_recorded":"At Golden Age Studios, Morningside, Auckland, New Zealand","s_genre":"Chamber pop electropop","s_length":"3:41","s_label":"Universal","s_writer":"Ella Yelich-O'Connor Joel Little","s_producer":"Joel Little","s_title":"\"Bravado\""}

@@ -1,0 +1,1 @@
+{"s_released":"March 30, 2016 (2016-03-30)","s_format":null,"s_recorded":"Jungle City Studios, (New York City)","s_genre":"Pop R&B","s_length":"4:13","s_label":"Roc Nation Westbury Road","s_writer":"Jeff Bhasker John Glass Teddy Sinclair Robyn Fenty","s_producer":"Jeff Bhasker Glass John Kuk Harrell","s_title":"\"Kiss It Better\""}

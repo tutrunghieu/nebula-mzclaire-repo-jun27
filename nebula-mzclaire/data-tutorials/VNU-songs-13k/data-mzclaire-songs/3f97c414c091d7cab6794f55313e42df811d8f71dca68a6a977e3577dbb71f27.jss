@@ -1,0 +1,1 @@
+{"s_released":"April 3, 2006 (2006-04-03)","s_format":"CD digital download","s_recorded":"November 2004","s_genre":"R&B hip hop","s_length":"3:44","s_label":"Island","s_writer":"Mariah Carey Chad Hugo Pharrell Williams Snoop Dogg","s_producer":"The Neptunes","s_title":"\"Say Somethin'\""}

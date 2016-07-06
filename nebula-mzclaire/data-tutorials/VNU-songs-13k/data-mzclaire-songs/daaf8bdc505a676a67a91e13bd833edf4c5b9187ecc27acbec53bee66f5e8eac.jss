@@ -1,0 +1,1 @@
+{"s_released":"2000","s_format":"CD","s_recorded":"1999","s_genre":"Hard rock, blues rock","s_length":"3:47","s_label":"EMI, Eastwest","s_writer":"Angus Young and Malcolm Young","s_producer":"George Young and AC/DC","s_title":"\"Let There Be Rock\" (live Plaza De Toros, Madrid 1996)"}

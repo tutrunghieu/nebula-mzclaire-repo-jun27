@@ -1,0 +1,1 @@
+{"s_released":null,"s_format":"Digital download","s_recorded":"2014[1][2]","s_genre":"Rap","s_length":"3:58","s_label":"Young Money Cash Money Republic","s_writer":"Nicki Minaj Beyoncé SZA Hit-Boy","s_producer":"Beyoncé Hit-Boy","s_title":"\"Feeling Myself\""}

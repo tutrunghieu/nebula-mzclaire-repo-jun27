@@ -1,0 +1,1 @@
+{"s_released":"23 January 2012","s_format":"7\", Digital download","s_recorded":null,"s_genre":"Indie rock","s_length":"3:35","s_label":"Domino","s_writer":"Alex Turner","s_producer":"James Ford","s_title":"\"You and I\""}

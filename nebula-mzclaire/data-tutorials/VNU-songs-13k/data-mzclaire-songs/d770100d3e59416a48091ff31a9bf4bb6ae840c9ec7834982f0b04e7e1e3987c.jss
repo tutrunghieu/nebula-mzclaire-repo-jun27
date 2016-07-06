@@ -1,0 +1,1 @@
+{"s_released":"29 January 2010 (2010-01-29) (see release history)","s_format":"CD single, digital download","s_recorded":"January 2010","s_genre":"Rock","s_length":"3:35 (Original version) 5:00 (Extended version)","s_label":"Buena Vista","s_writer":"Avril Lavigne","s_producer":"Butch Walker","s_title":"\"Welcome to Mystery\""}

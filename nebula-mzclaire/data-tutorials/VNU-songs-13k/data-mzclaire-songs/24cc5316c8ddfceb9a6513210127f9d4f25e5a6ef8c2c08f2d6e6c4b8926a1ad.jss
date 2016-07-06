@@ -1,0 +1,1 @@
+{"s_released":"October 20, 2004 (2004-10-20) (see release history)","s_format":"CD Single, digital download","s_recorded":"2004","s_genre":"Alternative rock, pop-rock","s_length":"3:23","s_label":"Toshiba EMI","s_writer":"Ringo Sheena","s_producer":null,"s_title":"\"Dynamite\" \"Kokoro\""}

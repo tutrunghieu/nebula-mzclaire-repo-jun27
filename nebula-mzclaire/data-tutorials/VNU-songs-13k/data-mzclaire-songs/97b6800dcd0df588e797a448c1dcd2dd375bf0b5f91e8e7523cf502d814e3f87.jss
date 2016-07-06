@@ -1,0 +1,1 @@
+{"s_released":"July 11, 2006","s_format":"Promo, digital download","s_recorded":null,"s_genre":"Teen pop, Country pop, Pop rock","s_length":"3:02","s_label":"Walt Disney","s_writer":"Matthew Gerrard,Robbie Nevil and Jay Landers","s_producer":"Matthew Gerrard","s_title":"\"This Is The Life\""}

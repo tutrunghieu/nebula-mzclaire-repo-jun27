@@ -1,0 +1,1 @@
+{"s_released":null,"s_format":null,"s_recorded":"2011; Conway Studios (Los Angeles; California) and Jungle City Studios (New York City; New York)","s_genre":"Electro hop hardcore hip hop","s_length":"3:05","s_label":"Young Money Cash Money Universal Republic","s_writer":"Onika Maraj Chauncey Hollis","s_producer":"Hit-Boy","s_title":"\"Come on a Cone\""}

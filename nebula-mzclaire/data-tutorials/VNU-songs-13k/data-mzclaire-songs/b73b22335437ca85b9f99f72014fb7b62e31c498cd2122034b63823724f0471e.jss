@@ -1,0 +1,1 @@
+{"s_released":"November 18, 2009","s_format":null,"s_recorded":"2009; Record Plant Studios, Los Angeles, California","s_genre":"Rock","s_length":"4:31","s_label":"Streamline Kon Live Cherrytree Interscope","s_writer":"Stefani Germanotta","s_producer":"Ron Fair Lady Gaga[1]","s_title":"\"Speechless\""}

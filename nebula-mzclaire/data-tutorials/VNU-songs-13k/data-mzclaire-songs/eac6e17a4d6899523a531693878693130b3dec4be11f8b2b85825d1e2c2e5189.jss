@@ -1,0 +1,1 @@
+{"s_released":"May 2, 2000 (2000-05-02)","s_format":"CD single 12\" single","s_recorded":"2000","s_genre":"Hip hop R&B funk","s_length":"03:20","s_label":"So So Def Columbia","s_writer":"Jermaine Dupri Bryan-Michael Cox Nasir Jones Monica Arnold Peter Gabriel","s_producer":"Jermaine Dupri Bryan Michael Cox (co-pro)","s_title":"\"I've Got to Have It\""}

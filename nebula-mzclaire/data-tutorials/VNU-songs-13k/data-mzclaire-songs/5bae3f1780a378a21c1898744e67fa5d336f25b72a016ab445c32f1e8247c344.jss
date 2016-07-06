@@ -1,0 +1,1 @@
+{"s_released":"October 22, 1976 (1976-10-22)","s_format":"7\" single","s_recorded":null,"s_genre":"Punk rock","s_length":null,"s_label":"Stiff","s_writer":"Brian James","s_producer":"Nick Lowe","s_title":"\"Help!\""}

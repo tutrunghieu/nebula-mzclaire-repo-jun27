@@ -1,0 +1,1 @@
+{"s_released":null,"s_format":null,"s_recorded":"Rumbo Studios, Take One Studio & Image Studio","s_genre":"Folk rock, acoustic rock","s_length":"6:09","s_label":"Geffen Records","s_writer":"Axl Rose","s_producer":"Guns N' Roses Mike Clink","s_title":"\"One in a Million\""}

@@ -1,0 +1,1 @@
+{"s_released":"July 2, 2010 (2010-07-02)","s_format":"Digital download","s_recorded":"2008","s_genre":"Dance-pop R&B","s_length":"3:37","s_label":"Columbia","s_writer":"Beyoncé Knowles Solange Knowles Angela Beyincé Eddie Smith III Jesse Rankins Jonathan Wells","s_producer":"Bama Boyz Knowles","s_title":"\"Why Don't You Love Me\""}

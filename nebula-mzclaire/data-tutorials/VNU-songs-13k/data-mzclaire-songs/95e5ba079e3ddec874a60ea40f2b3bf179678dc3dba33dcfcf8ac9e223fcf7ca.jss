@@ -1,0 +1,1 @@
+{"s_released":"16 July 1973","s_format":"Vinyl record (7\")","s_recorded":"May 1973 at Château d'Hérouville, France","s_genre":"Hard rock glam rock","s_length":"4:57 (album version) 4:12 (single version)","s_label":"MCA DJM","s_writer":"Elton John Bernie Taupin","s_producer":"Gus Dudgeon","s_title":"\"Jack Rabbit\" \"Whenever You're Ready (We'll Go Steady Again)\""}

@@ -1,0 +1,1 @@
+{"s_released":"21 June 1985","s_format":"7\", 12\"","s_recorded":"1985","s_genre":"Hard rock","s_length":"4:24","s_label":"Atlantic","s_writer":"Malcolm Young, Angus Young and Brian Johnson","s_producer":"Angus Young, Malcolm Young","s_title":"\"Back in Business\" \"Hell or High Water\" (Australia, New Zealand)"}

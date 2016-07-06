@@ -1,0 +1,1 @@
+{"s_released":"September 16, 2012 (2012-09-16)","s_format":"CD digital download","s_recorded":null,"s_genre":"Dance electropop R&B","s_length":"4:00","s_label":"RCA","s_writer":"Savan Kotecha Max Martin Shellback Tiffany Amber","s_producer":"Max Martin Shellback","s_title":"\"Your Body\""}

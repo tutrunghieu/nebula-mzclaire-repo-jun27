@@ -1,0 +1,1 @@
+{"s_released":"June 26, 1995","s_format":"Promotional recording, digital download","s_recorded":"December 1994—25 March 1995","s_genre":"Pop, R&B, soul","s_length":"4:41","s_label":"EMI Latin","s_writer":"Keith Thomas","s_producer":"Keith Thomas","s_title":"\"I Could Fall in Love\""}

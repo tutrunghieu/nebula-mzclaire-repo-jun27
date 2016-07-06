@@ -1,0 +1,1 @@
+{"s_released":"April 1, 2009 (2009-04-01)","s_format":"Digital download","s_recorded":null,"s_genre":"R&B, soul","s_length":"4:26 (solo version) 4:13 (duet album version)","s_label":"Geffen","s_writer":"Donald Alford, Keyshia Cole, Frederick Taylor","s_producer":"Toxic, Ron Fair","s_title":"\"Trust\""}

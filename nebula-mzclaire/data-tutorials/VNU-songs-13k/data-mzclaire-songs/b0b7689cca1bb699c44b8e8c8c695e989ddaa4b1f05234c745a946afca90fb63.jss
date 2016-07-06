@@ -1,0 +1,1 @@
+{"s_released":"September 24, 2013 (2013-09-24)","s_format":"Digital download","s_recorded":"2013 at Heavy Duty Studios (Los Angeles)","s_genre":"Indie rock electropop","s_length":"3:57","s_label":"Capitol","s_writer":"Sky Ferreira Ariel Rechtshaid Justin Raisen Daniel Nigro","s_producer":"Rechtshaid Raisen","s_title":"\"You're Not the One\""}

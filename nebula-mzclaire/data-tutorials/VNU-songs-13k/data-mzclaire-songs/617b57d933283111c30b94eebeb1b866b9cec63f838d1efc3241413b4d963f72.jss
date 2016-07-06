@@ -1,0 +1,1 @@
+{"s_released":"July 4, 2000[1]","s_format":"CD single","s_recorded":null,"s_genre":"Hip hop, R&B","s_length":"3:17","s_label":"Roc-A-Fella, Columbia, Sony Music Distribution","s_writer":"Samuel Barnes, Shawn Carter, Makeda Davis, LeShan Lewis, Jean-Claude \"Poke\" Olivier, Tamy Smith, Amil Whitehead","s_producer":"Trackmasters","s_title":"\"4 Da Fam\""}

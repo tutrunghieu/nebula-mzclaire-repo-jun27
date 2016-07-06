@@ -1,0 +1,1 @@
+{"s_released":"1977","s_format":"7\" 12\"","s_recorded":"1977","s_genre":"Disco","s_length":"16:12 (Original 1977 album version)","s_label":"Casablanca","s_writer":"Bennie Benjamin Gloria Caldwell Sol Marcus","s_producer":"Nicolas Skorsky Jean Manuel de Scarano","s_title":"\"Don't Let Me Be Misunderstood\""}

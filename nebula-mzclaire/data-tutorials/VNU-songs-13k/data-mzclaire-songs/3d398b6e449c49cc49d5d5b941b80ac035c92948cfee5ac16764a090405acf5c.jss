@@ -1,0 +1,1 @@
+{"s_released":"7 March 2000","s_format":"CD single Cassette 12\" vinyl Airplay","s_recorded":"1999","s_genre":"Pop, Europop","s_length":"3:52 (Album Version) 3:20 (UK Radio Edit)","s_label":"Universal Music Group","s_writer":"B. Andersson, S. Anderson, B. Ulvaeus","s_producer":"Ole Evenrude","s_title":"\"Dancing Queen\""}

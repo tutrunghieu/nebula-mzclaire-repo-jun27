@@ -1,0 +1,1 @@
+{"s_released":"6 August 2007 (2007-08-06)","s_format":"CD single","s_recorded":null,"s_genre":"Pop","s_length":"4:18","s_label":"Fascination","s_writer":"Sophie Ellis-Bextor Steve Robson Nina Woodford","s_producer":"Jeremy Wheatley Brio Taliaferro","s_title":"\"Duel\""}

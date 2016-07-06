@@ -1,0 +1,1 @@
+{"s_released":"March 1, 1999 (EU)","s_format":"CD single, vinyl","s_recorded":"1998","s_genre":"R&B","s_length":"4:11","s_label":"Arista 13577 BMG International","s_writer":"Diane Warren","s_producer":"David Foster","s_title":"\"Inside\""}

@@ -1,0 +1,1 @@
+{"s_released":"October 17, 2002","s_format":"CD 12\"","s_recorded":"2002","s_genre":"Pop R&B","s_length":"4:48","s_label":"Island","s_writer":"Mariah Carey Lionel Cole","s_producer":"Mariah Carey Jimmy Jam and Terry Lewis","s_title":"\"Through the Rain\""}

@@ -1,0 +1,1 @@
+{"s_released":"August 14, 2006 (2006-08-14) (digital download) September 4, 2006 (2006-09-04)","s_format":"Digital download, 7\" picture disc","s_recorded":"2005–06","s_genre":"Electronic, glam rock","s_length":"6:15","s_label":"Mute","s_writer":null,"s_producer":"Goldfrapp, The Flaming Lips","s_title":"\"Boys Will Be Boys\""}

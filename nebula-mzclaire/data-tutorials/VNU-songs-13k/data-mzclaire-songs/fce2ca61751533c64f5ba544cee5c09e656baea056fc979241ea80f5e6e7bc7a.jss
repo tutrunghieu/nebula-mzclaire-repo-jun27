@@ -1,0 +1,1 @@
+{"s_released":null,"s_format":null,"s_recorded":"2011; Eightysevenfourteen Studios (Los Angeles, California); Eyeknowasecret Studio (Brentwood, California)","s_genre":null,"s_length":"4:15","s_label":"Def Jam SRP","s_writer":"Ester Dean Lukasz Gottwald Henry Walter","s_producer":"Dr. Luke Cirkut Kuk Harrell","s_title":"\"Fool in Love\""}

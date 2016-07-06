@@ -1,0 +1,1 @@
+{"s_released":"September 6, 2004 (2004-09-06)","s_format":"CD single, digital download","s_recorded":"The Underlab (Los Angeles, California)","s_genre":"Pop, R&B","s_length":"3:11","s_label":"Da Family, Blackground","s_writer":"Harvey Mason, Jr., Damon Thomas, Eric Dawkins, Antonio Dixon","s_producer":"Gold (RIAA, ARIA)","s_title":"\"Leave (Get Out)\""}

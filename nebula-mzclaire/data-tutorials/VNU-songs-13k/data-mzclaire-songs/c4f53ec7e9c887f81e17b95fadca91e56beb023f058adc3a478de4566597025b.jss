@@ -1,0 +1,1 @@
+{"s_released":"20 July 2012 (2012-07-20)","s_format":"Digital download","s_recorded":null,"s_genre":"Electropop power pop","s_length":"3:46","s_label":"679 Atlantic","s_writer":"Marina Diamandis Steve Angello","s_producer":"Greg Kurstin","s_title":"\"Power & Control\""}

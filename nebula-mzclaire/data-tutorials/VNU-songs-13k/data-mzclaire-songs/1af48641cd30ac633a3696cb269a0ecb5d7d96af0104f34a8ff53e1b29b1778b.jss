@@ -1,0 +1,1 @@
+{"s_released":"September 1, 2003 (UK)","s_format":"CD single","s_recorded":null,"s_genre":"Industrial metal, nu metal","s_length":"4:20","s_label":"Nothing, Interscope","s_writer":null,"s_producer":"Marilyn Manson Tim Skold","s_title":"\"This Is the New Shit\""}

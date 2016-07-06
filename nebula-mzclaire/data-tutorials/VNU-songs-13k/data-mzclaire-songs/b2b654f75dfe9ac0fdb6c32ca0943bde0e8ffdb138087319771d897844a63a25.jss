@@ -1,0 +1,1 @@
+{"s_released":"10 July 2012 (2012-07-10)","s_format":"Digital download","s_recorded":"2012; Red Rhino Studios (Montreal, Quebec)","s_genre":"Synthpop dream pop downtempo dubstep","s_length":"3:22 (album version) 4:16 (featuring Tinie Tempah)","s_label":"Polydor","s_writer":"Patrick James Grossi Ariel Rechtshaid Patrick Okogwu","s_producer":"Billboard","s_title":"\"Hanging On\""}

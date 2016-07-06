@@ -1,0 +1,1 @@
+{"s_released":"July 29, 2013 (see release history)","s_format":null,"s_recorded":"2013 at S.M. Studios, Seoul","s_genre":"Korean","s_length":null,"s_label":"S.M. Entertainment","s_writer":null,"s_producer":"\"Rum Pum Pum Pum\" Released: July 29, 2013[3]","s_title":"Pink Tape"}

@@ -1,0 +1,1 @@
+{"s_released":"September 29, 1998 (U.S.)","s_format":"CD single, 12\", cassette","s_recorded":"1997[1]","s_genre":"Pop R&B soul","s_length":"4:26","s_label":"Atlantic","s_writer":"Diane Warren","s_producer":"David Foster","s_title":"\"Have You Ever?\""}

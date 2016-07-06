@@ -1,0 +1,1 @@
+{"s_released":"August 28, 2009 (2009-08-28)","s_format":"CD single digital download","s_recorded":"2008; Roc the Mic Studios (New York City)","s_genre":"Pop","s_length":"4:38","s_label":"Columbia","s_writer":"Kenneth \"Babyface\" Edmonds Mikkel S. Eriksen Tor Erik Hermansen Beyoncé Knowles","s_producer":"StarGate Knowles","s_title":"\"Video Phone\" \"Poison\""}

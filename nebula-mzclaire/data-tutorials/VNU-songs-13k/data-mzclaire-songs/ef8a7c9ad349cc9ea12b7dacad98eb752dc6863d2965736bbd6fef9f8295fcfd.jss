@@ -1,0 +1,1 @@
+{"s_released":"4 November 2002","s_format":"CD single, cassette single","s_recorded":"2002","s_genre":"Dance-pop, house","s_length":"3:45","s_label":"Universal Music Group","s_writer":"Sophie Ellis-Bextor, Gregg Alexander, Matt Rowe","s_producer":"Gregg Alexander","s_title":"\"Music Gets the Best of Me\""}

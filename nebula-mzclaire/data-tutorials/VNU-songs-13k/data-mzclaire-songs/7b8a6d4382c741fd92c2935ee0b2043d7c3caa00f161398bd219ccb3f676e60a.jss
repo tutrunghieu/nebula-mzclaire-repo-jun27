@@ -1,0 +1,1 @@
+{"s_released":"December 2000 (2000-12)","s_format":"CD single","s_recorded":null,"s_genre":"Latin pop","s_length":"4:26","s_label":"RCA","s_writer":"Rudy Pérez","s_producer":"Rudy Pérez","s_title":"Ven Conmigo (Solamente Tu)[5]"}

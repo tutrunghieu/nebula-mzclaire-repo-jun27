@@ -1,0 +1,1 @@
+{"s_released":"November 26, 2013","s_format":"Digital download","s_recorded":null,"s_genre":"West Coast hip hop electro-hop","s_length":"4:13","s_label":"Interscope","s_writer":"William Adams Jean-Baptiste Dijon McFarlane Karim Kharbouch Mike Free Cameron Jibril Thomaz","s_producer":"DJ Mustard[a]","s_title":"\"Feelin' Myself\""}

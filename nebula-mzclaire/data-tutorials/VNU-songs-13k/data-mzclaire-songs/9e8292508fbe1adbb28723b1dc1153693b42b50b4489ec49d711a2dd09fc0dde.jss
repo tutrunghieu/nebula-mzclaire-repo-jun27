@@ -1,0 +1,1 @@
+{"s_released":"1994 (1994)","s_format":null,"s_recorded":"1993","s_genre":"Hard rock, glam metal","s_length":"3:55","s_label":"Geffen","s_writer":"Dan McCafferty, Pete Agnew, Manny Charlton, Darrell Sweet","s_producer":"Guns N' Roses and Mike Clink","s_title":"\"Hair of the Dog\""}

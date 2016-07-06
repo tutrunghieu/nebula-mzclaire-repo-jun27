@@ -1,0 +1,1 @@
+{"s_released":"May 23, 2000","s_format":"CD single","s_recorded":"1997[1]","s_genre":"R&B pop","s_length":"4:29 (radio edit) 5:08 (album version)","s_label":"Atlantic","s_writer":"Brandy Norwood, Rodney Jerkins, LaShawn Daniels, Fred Jerkins III, Japhe Tajeda, Rick Williams","s_producer":"Rodney Jerkins","s_title":"\"Never Say Never\""}

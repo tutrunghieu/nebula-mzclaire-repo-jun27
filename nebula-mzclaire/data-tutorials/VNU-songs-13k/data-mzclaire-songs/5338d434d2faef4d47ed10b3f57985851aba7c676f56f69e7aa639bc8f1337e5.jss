@@ -1,0 +1,1 @@
+{"s_released":"October 21, 2014","s_format":"Digital download","s_recorded":null,"s_genre":"Punk rock, alternative rock","s_length":"4:17","s_label":"Interscope","s_writer":"Tim McIlrath","s_producer":null,"s_title":"\"Tragedy + Time\""}

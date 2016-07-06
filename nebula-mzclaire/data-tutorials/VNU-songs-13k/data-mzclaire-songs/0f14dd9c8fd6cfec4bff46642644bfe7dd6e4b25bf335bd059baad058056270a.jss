@@ -1,0 +1,1 @@
+{"s_released":"April 16, 1988","s_format":"CD","s_recorded":"1988","s_genre":"Pop, R&B","s_length":"4:13","s_label":"Columbia","s_writer":"Maurice Starr","s_producer":"Maurice Starr","s_title":"\"Please Don't Go Girl\""}

@@ -1,0 +1,1 @@
+{"s_released":"May 14, 2010 (2010-05-14)","s_format":"CD single digital download","s_recorded":null,"s_genre":null,"s_length":"2:48","s_label":"Hollywood","s_writer":"Miley Cyrus Antonina Armato Tim James Paul Neumann Marek Pompetzki","s_producer":"Antonina Armato Tim James","s_title":"\"Can't Be Tamed\""}

@@ -1,0 +1,1 @@
+{"s_released":"17 March 1983 (1983-03-17)","s_format":"7\" single 12\" single","s_recorded":"1982; The Power Station (New York City)","s_genre":"Funk[1] post-disco[2] dance-pop[3] funk rock[4]","s_length":"7:37","s_label":"EMI – EA152","s_writer":"David Bowie","s_producer":"Gold (RIAA and BPI)","s_title":"\"Cat People (Putting Out Fire)\""}

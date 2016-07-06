@@ -1,0 +1,1 @@
+{"s_released":"7 June 2010 (2010-06-07)","s_format":"Digital download, 7\" single","s_recorded":null,"s_genre":"Synthpop, disco","s_length":"3:28","s_label":"Mute","s_writer":"Alison Goldfrapp, Will Gregory","s_producer":"Alison Goldfrapp, Will Gregory, Richard X","s_title":"\"Alive\""}

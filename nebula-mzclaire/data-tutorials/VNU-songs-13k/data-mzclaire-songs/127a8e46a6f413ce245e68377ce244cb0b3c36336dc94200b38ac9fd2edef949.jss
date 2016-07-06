@@ -1,0 +1,1 @@
+{"s_released":"February 15, 1982","s_format":"5\" single, 7\" single, 12\" single","s_recorded":"1981","s_genre":"Post-disco[1][2]","s_length":"5:40 (12\"/LP), 4:16(7\")","s_label":"Sound of New York/Becket Records SNY-5102","s_writer":"Michael Cleveland","s_producer":"Mike Cleveland, Reggie Thompson","s_title":"\"Last Night a D.J. Saved My Life\""}

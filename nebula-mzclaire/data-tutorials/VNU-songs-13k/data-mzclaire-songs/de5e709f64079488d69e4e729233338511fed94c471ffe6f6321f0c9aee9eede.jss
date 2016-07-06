@@ -1,0 +1,1 @@
+{"s_released":"7 March 1995 (CD, LP) 14 March 1995 (cassette)","s_format":"7\" single, 12\" single, Cassette single, CD maxi-single","s_recorded":"1995","s_genre":"Reggae fusion","s_length":"4:20","s_label":"Sony","s_writer":"Diana King Andy Marvel Kingsley Gardner","s_producer":"Gold (RIAA)","s_title":"\"Shy Guy\""}

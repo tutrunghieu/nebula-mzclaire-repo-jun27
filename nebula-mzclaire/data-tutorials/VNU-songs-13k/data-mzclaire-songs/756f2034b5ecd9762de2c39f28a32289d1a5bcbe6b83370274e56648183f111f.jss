@@ -1,0 +1,1 @@
+{"s_released":"August 1983 (1983-08)","s_format":"45 rpm single","s_recorded":null,"s_genre":"Hard rock","s_length":"3:24","s_label":"Atlantic","s_writer":"Angus Young, Malcolm Young, Brian Johnson","s_producer":"AC/DC","s_title":"\"Landslide\""}

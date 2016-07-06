@@ -1,0 +1,1 @@
+{"s_released":"October 26, 2010","s_format":"CD single digital download","s_recorded":"2010 at Roc the Mic Studios (New York City, New York)","s_genre":"Dance-pop dance-rock","s_length":"3:47","s_label":"Capitol","s_writer":"Katy Perry Mikkel S. Eriksen Tor Erik Hermansen Sandy Wilhelm Ester Dean","s_producer":"StarGate Sandy Vee","s_title":"\"Firework\""}

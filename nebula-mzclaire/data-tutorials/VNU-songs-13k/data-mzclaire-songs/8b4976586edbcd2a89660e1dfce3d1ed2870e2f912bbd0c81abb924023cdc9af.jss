@@ -1,0 +1,1 @@
+{"s_released":null,"s_format":null,"s_recorded":"2011; Sofitel Paris Le Faubourg (Paris) ; Fasthalle Venue Dressing Room (Frankfurt)","s_genre":"Pop R&B","s_length":"4:16","s_label":"Def Jam SRP","s_writer":"Ester Dean Alexander Grant","s_producer":"Alex da Kid Kuk Harrell","s_title":"\"Farewell\""}

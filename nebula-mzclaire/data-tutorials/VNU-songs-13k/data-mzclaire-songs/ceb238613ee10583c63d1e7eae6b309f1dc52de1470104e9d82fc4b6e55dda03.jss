@@ -1,0 +1,1 @@
+{"s_released":"July, 1989 (US) November 27, 1989 (UK)","s_format":"CD single","s_recorded":"Spring 1989","s_genre":"New jack swing, dance-pop","s_length":"5:37 4:49 (Single Edit)","s_label":null,"s_writer":"Albert Hammond, Diane Warren","s_producer":"Narada Michael Walden (album version) Gene Griffin, Teddy Riley (remix version)","s_title":"\"If Ever A Love There Was\""}

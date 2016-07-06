@@ -1,0 +1,1 @@
+{"s_released":"August 2006","s_format":"Promotional single","s_recorded":"2005","s_genre":"Indie rock,[1] garage rock","s_length":"2:57","s_label":"Domino","s_writer":"Alex Turner","s_producer":"Jim Abbiss and Alan Smyth","s_title":"\"Fake Tales of San Francisco\""}

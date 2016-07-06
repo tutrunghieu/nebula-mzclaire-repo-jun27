@@ -1,0 +1,1 @@
+{"s_released":"October 28, 2003","s_format":"12\" vinyl","s_recorded":null,"s_genre":"R&B","s_length":"3:54","s_label":"Columbia","s_writer":"Keti Hilson Beyoncé Knowles Angela Beyincé Sean \"P. Diddy\" Combs Steven \"Steven J.\" Jordan Adonis Shropshire Varick \"Smitty\" Smith Mario Winans","s_producer":"Winans P. Diddy","s_title":"\"Crazy in Love\""}

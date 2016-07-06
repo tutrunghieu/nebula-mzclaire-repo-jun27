@@ -1,0 +1,1 @@
+{"s_released":"13 February 2006 (2006-02-13)","s_format":"CD, DVD, 12\", digital download","s_recorded":"Red Bus Studios, London","s_genre":"Electroclash","s_length":"4:41","s_label":"Mute","s_writer":"Alison Goldfrapp, Will Gregory, Nick Batt","s_producer":"Alison Goldfrapp, Will Gregory","s_title":"\"Boys Will Be Boys\""}

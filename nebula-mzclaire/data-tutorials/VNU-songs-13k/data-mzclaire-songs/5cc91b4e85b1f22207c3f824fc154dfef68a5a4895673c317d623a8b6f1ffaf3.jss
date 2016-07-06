@@ -1,0 +1,1 @@
+{"s_released":"August 14, 2012 (2012-08-14)","s_format":"Digital download","s_recorded":"2012","s_genre":"R&B","s_length":"4:09","s_label":"Republic","s_writer":"Dwayne Carter, Sean Garrett, Kelly Rowland, Noel \"Detail\" Fisher","s_producer":"Noel \"Detail\" Fisher, Sean Garrett","s_title":"\"Ice\""}

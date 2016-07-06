@@ -1,0 +1,1 @@
+{"s_released":"1977","s_format":null,"s_recorded":null,"s_genre":"Pop","s_length":"4:23","s_label":"Prambors Cassette","s_writer":"James F. Sundah","s_producer":null,"s_title":"\"Lilin-Lilin Kecil\""}

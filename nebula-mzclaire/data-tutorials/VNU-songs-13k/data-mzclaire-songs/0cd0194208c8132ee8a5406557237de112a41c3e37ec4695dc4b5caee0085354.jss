@@ -1,0 +1,1 @@
+{"s_released":"July 19, 1954","s_format":"7\" single","s_recorded":"July 5, 1954, Sun Studio, Memphis, Tennessee","s_genre":"Rockabilly","s_length":"1:57","s_label":"Sun (original) RCA Victor (reissue)","s_writer":"Arthur Crudup","s_producer":"Sam Phillips","s_title":"\"Blue Moon of Kentucky\""}

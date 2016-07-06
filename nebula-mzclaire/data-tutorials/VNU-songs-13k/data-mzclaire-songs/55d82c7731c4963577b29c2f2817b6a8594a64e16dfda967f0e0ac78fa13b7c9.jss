@@ -1,0 +1,1 @@
+{"s_released":"June 20, 2009","s_format":"Promo, digital download","s_recorded":null,"s_genre":"Country pop, dance-pop, teen pop, synthpop","s_length":"3:07","s_label":"Walt Disney","s_writer":"Matthew Gerrard, Robbie Nevil","s_producer":"Matthew Gerrard","s_title":"\"Ice Cream Freeze (Let's Chill)\""}

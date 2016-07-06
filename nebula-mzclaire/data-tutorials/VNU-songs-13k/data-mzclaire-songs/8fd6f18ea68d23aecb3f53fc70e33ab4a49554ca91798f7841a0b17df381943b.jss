@@ -1,0 +1,1 @@
+{"s_released":"February 13, 1996 (1996-02-13)","s_format":"CD maxi single cassette single 7\" single","s_recorded":"1995","s_genre":"R&B hip hop soul new jack swing","s_length":"4:41 (album version)","s_label":"Rowdy/Arista","s_writer":"Dallas Austin, Colin Wolfe, Malik Edwards","s_producer":"Dallas Austin and Colin Wolfe","s_title":"\"Like This and Like That\""}

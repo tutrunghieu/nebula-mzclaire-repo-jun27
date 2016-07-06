@@ -1,0 +1,1 @@
+{"s_released":"1985 (1985)","s_format":"7\"","s_recorded":"October 1985 (1985-10) at Silent Studio in London, United Kingdom","s_genre":"Post-punk","s_length":"3:20","s_label":"Fever","s_writer":"David Conway, Kevin Shields","s_producer":"My Bloody Valentine","s_title":"\"Moonlight\""}

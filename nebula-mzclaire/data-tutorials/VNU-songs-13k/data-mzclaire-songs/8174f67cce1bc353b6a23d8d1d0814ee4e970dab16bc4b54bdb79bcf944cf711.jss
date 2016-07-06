@@ -1,0 +1,1 @@
+{"s_released":"July 30, 2007 (2007-07-30)","s_format":"Digital download","s_recorded":"2006; Sony Music Studios (New York City, New York)","s_genre":"R&B funk","s_length":"3:29","s_label":"Columbia","s_writer":"Beyoncé Knowles Pharrell Williams Sean Garrett","s_producer":"The Neptunes Knowles","s_title":"\"Green Light\""}

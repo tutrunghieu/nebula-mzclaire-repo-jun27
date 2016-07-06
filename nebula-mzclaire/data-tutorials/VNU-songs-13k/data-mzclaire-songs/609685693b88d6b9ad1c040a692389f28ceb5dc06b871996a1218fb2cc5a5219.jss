@@ -1,0 +1,1 @@
+{"s_released":"October 2, 1953","s_format":"7\"","s_recorded":"July 1953[1]","s_genre":"Christmas jazz","s_length":null,"s_label":"RCA Victor (47–5502)","s_writer":"Joan Javits Philip Springer Tony Springer[citation needed]","s_producer":null,"s_title":"\"Under the Bridges of Paris\"[1]"}

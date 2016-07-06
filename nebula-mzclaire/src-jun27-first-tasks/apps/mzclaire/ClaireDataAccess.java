@@ -26,4 +26,18 @@ public class ClaireDataAccess extends FolderDataAccess {
 		return res;
 	}
 	
+	public File getSongCatalogFile() {
+		return new File(System.getProperty("user.home") + "/Desktop/song-list.txt");
+	}
+	
+	public List<String> getSongCatalogLinks() throws Exception {
+		File path = getSongCatalogFile();
+		
+		BufferedReader br = new BufferedReader(new FileReader(path));
+		 
+		List<String> res = br.lines().collect(Collectors.toList());
+		br.close();
+		
+		return res;
+	}
 }

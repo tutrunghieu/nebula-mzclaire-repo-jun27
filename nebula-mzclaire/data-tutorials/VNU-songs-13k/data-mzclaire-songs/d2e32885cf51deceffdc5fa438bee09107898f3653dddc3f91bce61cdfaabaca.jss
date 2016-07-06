@@ -1,0 +1,1 @@
+{"s_released":"September 30, 2013","s_format":"Digital download","s_recorded":"Apmamman and MXM Studios (Stockholm, Sweden) Conway Recording Studios (Hollywood, California)","s_genre":"Deep house","s_length":"3:42","s_label":"Capitol","s_writer":"Katy Perry Klas Åhlund Max Martin Adam Baptiste Caméla Leierth","s_producer":"Åhlund Max Martin","s_title":"\"Walking on Air\""}

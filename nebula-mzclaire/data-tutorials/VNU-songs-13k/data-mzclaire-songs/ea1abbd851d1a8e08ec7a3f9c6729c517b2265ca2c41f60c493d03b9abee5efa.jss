@@ -1,0 +1,1 @@
+{"s_released":null,"s_format":"7\" vinyl and digital download","s_recorded":null,"s_genre":"Post-punk revival, indie rock[1]","s_length":"4:56 (\"Matador\") 2:22 (\"Da Frame 2R\")","s_label":"Domino Records (RUG258)","s_writer":"Alex Turner","s_producer":"James Ford, Mike Crossey","s_title":"\"Matador/Da Frame 2R\""}

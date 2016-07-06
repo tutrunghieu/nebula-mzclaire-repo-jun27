@@ -1,0 +1,1 @@
+{"s_released":"November 14, 2006 (2006-11-14)","s_format":"CD single digital download","s_recorded":null,"s_genre":"Hip hop","s_length":"4:10","s_label":"Bad Boy Atlantic","s_writer":"Elizabeth Bingham Sean Combs Stephen \"Static Major\" Garrett Shannon Jones Jack Knight Shannon Lawrence Ryan \"Royce\" Montgomery Leroy Watson","s_producer":"Just Blaze","s_title":"\"Tell Me\""}

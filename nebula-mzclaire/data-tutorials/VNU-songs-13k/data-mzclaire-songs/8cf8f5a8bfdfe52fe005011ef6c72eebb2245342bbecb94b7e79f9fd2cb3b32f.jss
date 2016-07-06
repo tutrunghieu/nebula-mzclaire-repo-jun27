@@ -1,0 +1,1 @@
+{"s_released":"10 May 1999","s_format":"CD Single Cassette vinyl 12\" airplay","s_recorded":"January 1999","s_genre":"Pop, Europop","s_length":"3:44 (Album Version) 3:42 (Radio Edit)","s_label":"Universal Music Group","s_writer":"B. Andersson S. Anderson B. Ulvaeus","s_producer":"Ole Evenrude","s_title":"\"Mamma Mia\""}

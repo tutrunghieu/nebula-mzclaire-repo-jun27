@@ -1,0 +1,1 @@
+{"s_released":"April 20, 2010","s_format":"CD single digital download 7\"","s_recorded":"July 19, 2009 FC Walvisch, (Amsterdam) Sonic Vista Studios, (Ibiza, Spain)[1]","s_genre":"Synthpop","s_length":"4:34","s_label":"Streamline Kon Live Cherrytree Interscope","s_writer":"Stefani Germanotta Nadir Khayat[2]","s_producer":"RedOne Lady Gaga[1]","s_title":"\"Alejandro\""}

@@ -1,0 +1,1 @@
+{"s_released":"October 7, 2014 (2014-10-07)","s_format":"Digital download","s_recorded":"2014","s_genre":"Baroque rock[1][2] baroque pop[3][4] psychedelic rock[5][6] experimental pop[7] art pop[8]","s_length":"2:25","s_label":"BBC Music","s_writer":"Brian Wilson Tony Asher","s_producer":"Ethan Johns","s_title":"\"God Only Knows\""}

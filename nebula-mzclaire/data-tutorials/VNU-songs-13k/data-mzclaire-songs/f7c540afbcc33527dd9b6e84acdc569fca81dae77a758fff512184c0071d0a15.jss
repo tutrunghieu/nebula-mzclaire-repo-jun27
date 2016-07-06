@@ -1,0 +1,1 @@
+{"s_released":"November 23, 2015","s_format":null,"s_recorded":null,"s_genre":"Christmas dance","s_length":null,"s_label":null,"s_writer":"Katy Perry","s_producer":"Duke Dumont","s_title":"\"Every Day Is a Holiday\""}

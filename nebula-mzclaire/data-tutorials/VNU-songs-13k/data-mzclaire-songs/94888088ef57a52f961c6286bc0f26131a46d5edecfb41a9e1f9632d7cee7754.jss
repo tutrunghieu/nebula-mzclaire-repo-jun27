@@ -1,0 +1,1 @@
+{"s_released":"July 15, 2003","s_format":"CD single","s_recorded":"2002","s_genre":"Pop, Europop, dance","s_length":"3:01 (Album Version) 3:00 (Single Mix)","s_label":"Universal Music Group","s_writer":"Mack, Habolin, Jansson","s_producer":"Habolin, Jansson, Stefan Åberg (Single Mix) Håkan Fredriksson (Single Mix)","s_title":"\"A Perfect Match\""}

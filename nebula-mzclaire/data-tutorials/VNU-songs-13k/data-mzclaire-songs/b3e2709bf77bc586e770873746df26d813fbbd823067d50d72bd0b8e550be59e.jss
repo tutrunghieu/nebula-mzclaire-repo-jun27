@@ -1,0 +1,1 @@
+{"s_released":null,"s_format":null,"s_recorded":"2013","s_genre":"Pop","s_length":"3:51","s_label":"RCA","s_writer":"Rami Samir Afuni Maureen McDonald Miley Cyrus Karim Kharbouch","s_producer":"Afuni","s_title":"\"FU\""}

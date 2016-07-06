@@ -1,0 +1,1 @@
+{"s_released":"26 May 1978","s_format":"45rpm single","s_recorded":"March 1978,[1] Albert Studios, Sydney, Australia","s_genre":"Hard rock","s_length":"3:05","s_label":"Atlantic","s_writer":null,"s_producer":"Harry Vanda, George Young","s_title":"\"Sin City\""}

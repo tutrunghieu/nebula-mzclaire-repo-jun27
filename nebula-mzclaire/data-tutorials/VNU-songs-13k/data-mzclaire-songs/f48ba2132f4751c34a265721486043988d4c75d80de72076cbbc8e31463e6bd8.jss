@@ -1,0 +1,1 @@
+{"s_released":"1981","s_format":"7\"","s_recorded":null,"s_genre":"Hardcore punk, comedy","s_length":"3:08","s_label":"WXYZ","s_writer":"Nick \"Animal\" Kulmer Chris \"Magoo\" Exall Clive \"Winston\" Blake","s_producer":"Unknown","s_title":"\"So What?\""}

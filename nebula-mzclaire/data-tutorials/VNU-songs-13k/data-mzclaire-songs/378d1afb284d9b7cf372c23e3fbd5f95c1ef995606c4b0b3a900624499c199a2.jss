@@ -1,0 +1,1 @@
+{"s_released":"April 30, 2013 (2013-04-30) (see release history)","s_format":"CD Single, digital download","s_recorded":"2013","s_genre":"Pop","s_length":"3:19","s_label":"EMI Music Japan","s_writer":"Ringo Sheena","s_producer":"Ringo Sheena","s_title":"\"Irohanihoheto\""}

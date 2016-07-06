@@ -1,0 +1,1 @@
+{"s_released":"January 18, 1988","s_format":"CD, vinyl","s_recorded":"Mid 1986, Studio D in Sausalito, California","s_genre":"Funk metal","s_length":"4:02","s_label":"Slash","s_writer":"Chuck Mosley, Roddy Bottum, Billy Gould","s_producer":"Matt Wallace, Steve Berlin, Faith No More","s_title":"\"We Care a Lot\""}

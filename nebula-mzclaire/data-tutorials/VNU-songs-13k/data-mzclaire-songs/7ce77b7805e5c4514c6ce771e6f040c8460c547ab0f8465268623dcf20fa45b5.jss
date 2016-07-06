@@ -1,0 +1,1 @@
+{"s_released":"March 9, 2010 (2010-03-09)[1]","s_format":"Digital download","s_recorded":null,"s_genre":null,"s_length":"4:07","s_label":"Bet I Penned It Music, Atlantic","s_writer":"Sean Garrett, Onika Maraj","s_producer":"Sean Garrett","s_title":"\"Get It All\""}

@@ -1,0 +1,1 @@
+{"s_released":"20 March 1988","s_format":"CD vinyl (7\") picture disc (cut-to-shape)","s_recorded":"1987-88","s_genre":"Heavy metal","s_length":"3:31","s_label":"EMI","s_writer":"Adrian Smith Bruce Dickinson Steve Harris","s_producer":"Martin Birch","s_title":"\"Black Bart Blues\" \"Massacre\""}

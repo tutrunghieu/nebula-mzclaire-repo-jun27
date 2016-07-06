@@ -1,0 +1,1 @@
+{"s_released":"April 8, 2003","s_format":"CD","s_recorded":"Fort Collins, Colorado, USA","s_genre":"Punk rock","s_length":"2:47","s_label":"Fat Wreck Chords","s_writer":"Tim McIlrath, Joe Principe, Brandon Barnes, Todd Mohney","s_producer":"Jason Livermore, Bill Stevenson","s_title":"\"Like the Angel\""}

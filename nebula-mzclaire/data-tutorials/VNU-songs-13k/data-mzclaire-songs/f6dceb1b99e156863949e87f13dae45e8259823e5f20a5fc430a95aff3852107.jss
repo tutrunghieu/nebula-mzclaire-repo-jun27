@@ -1,0 +1,1 @@
+{"s_released":"January 27, 1996","s_format":"CD Promo single","s_recorded":"1994–1995","s_genre":"Tejano, Mariachi","s_length":"2:54","s_label":"EMI","s_writer":"Cuco Sanchez","s_producer":"AB Quintanilla III","s_title":"\"Siempre Hace Frio\""}

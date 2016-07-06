@@ -1,0 +1,1 @@
+{"s_released":"February 22, 2010 (see release history)","s_format":"Digital download","s_recorded":"2009","s_genre":"R&B, soul","s_length":"3:36","s_label":"RCA, J","s_writer":"Alicia Keys, Al Shuckburgh, Shawn Carter, Jane't Sewell-Ulepic, Angela Hunte, Bert Keyes, Sylvia Robinson","s_producer":"Alicia Keys, Al Shux[1]","s_title":"\"We're Almost There\""}

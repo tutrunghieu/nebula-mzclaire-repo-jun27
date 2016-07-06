@@ -1,0 +1,1 @@
+{"s_released":"August 4, 2003 (2003-08-04) (See release history)","s_format":"CD single, vinyl single","s_recorded":"2002","s_genre":"Pop rock","s_length":"3:23 (radio edit) 3:43 (album version)","s_label":"Columbia","s_writer":"Rob Fusari, Sylvester Jordan, Tiaa Wells, Balewa Muhammad","s_producer":"Rob Fusari","s_title":"\"Train on a Track\""}

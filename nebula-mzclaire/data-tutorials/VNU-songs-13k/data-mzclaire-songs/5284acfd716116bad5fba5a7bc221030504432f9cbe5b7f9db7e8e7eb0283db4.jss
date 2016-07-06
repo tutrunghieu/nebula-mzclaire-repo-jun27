@@ -1,0 +1,1 @@
+{"s_released":"October 28, 2008 (2008-10-28)","s_format":"Digital download radio airplay","s_recorded":"Stone Groove Studios","s_genre":"R&B","s_length":"3:31","s_label":"Island Def Jam","s_writer":"Mariah Carey Bryan-Michael Cox Adonis Shropshire Kendrick Dean","s_producer":"Carey Cox","s_title":"\"I Stay in Love\""}

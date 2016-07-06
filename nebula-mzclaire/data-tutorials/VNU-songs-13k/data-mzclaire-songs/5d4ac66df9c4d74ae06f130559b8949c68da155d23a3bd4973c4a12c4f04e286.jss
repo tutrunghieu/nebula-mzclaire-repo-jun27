@@ -1,0 +1,1 @@
+{"s_released":"September 17, 1991","s_format":null,"s_recorded":"June 9–10, 1991 at Metalworks Recording Studios","s_genre":"Hard rock, heavy metal","s_length":"5:41","s_label":"Geffen","s_writer":"Duff McKagan Slash Axl Rose","s_producer":"Mike Clink Guns N' Roses","s_title":"\"Get in the Ring\""}

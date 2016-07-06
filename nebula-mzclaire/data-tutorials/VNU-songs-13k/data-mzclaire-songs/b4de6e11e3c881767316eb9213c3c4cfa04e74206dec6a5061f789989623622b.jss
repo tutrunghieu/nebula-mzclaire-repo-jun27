@@ -1,0 +1,1 @@
+{"s_released":"1966","s_format":"7\" single","s_recorded":"1966","s_genre":"Folk rock","s_length":"2:44","s_label":"Imperial","s_writer":"Sonny Bono","s_producer":"Sonny Bono","s_title":"\"Needles and Pins\" \"Our Day Will Come\""}

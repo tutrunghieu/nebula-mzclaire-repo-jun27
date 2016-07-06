@@ -1,0 +1,1 @@
+{"s_released":"February 5, 2002","s_format":"CD single, digital download","s_recorded":"March 2001","s_genre":"Hip hop","s_length":"4:19","s_label":"Atlantic","s_writer":"William Ray Norwood Jr., Chad Hugo, Pharrell Williams","s_producer":"The Neptunes","s_title":"\"Formal Invite\""}

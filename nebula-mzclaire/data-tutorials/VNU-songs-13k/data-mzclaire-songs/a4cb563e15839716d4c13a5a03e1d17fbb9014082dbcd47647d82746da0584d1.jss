@@ -1,0 +1,1 @@
+{"s_released":"September 10, 1991 (1991-09-10)","s_format":"CD cassette 7\" 12\"","s_recorded":"May 1991 at Sound City Studios, Van Nuys, California","s_genre":"Grunge alternative rock","s_length":"5:01 (album version) 4:36 (single version)","s_label":"DGC","s_writer":"Nirvana","s_producer":"Platinum (RIAA)","s_title":"\"Drain You\" \"Even in His Youth\" \"Aneurysm\""}

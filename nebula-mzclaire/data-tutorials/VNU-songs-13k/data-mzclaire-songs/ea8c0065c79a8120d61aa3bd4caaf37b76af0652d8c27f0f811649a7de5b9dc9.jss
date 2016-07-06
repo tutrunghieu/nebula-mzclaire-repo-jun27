@@ -1,0 +1,1 @@
+{"s_released":"March 23, 2010 (2010-03-23)","s_format":"Digital download","s_recorded":"2009","s_genre":"Electropop, new wave","s_length":"3:47","s_label":"I Surrender!, Mercury","s_writer":"Dan Kurtz and Martina Sorbara","s_producer":"Dragonette","s_title":"\"Easy\""}

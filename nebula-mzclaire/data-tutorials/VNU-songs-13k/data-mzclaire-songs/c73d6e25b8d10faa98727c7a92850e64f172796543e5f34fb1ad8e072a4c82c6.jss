@@ -1,0 +1,1 @@
+{"s_released":"11 June 2001 (UK)","s_format":"CD, 12\"","s_recorded":"Wiltshire County, England","s_genre":"Electronic, dream pop","s_length":"3:49","s_label":"Mute Mute264","s_writer":"Alison Goldfrapp Will Gregory","s_producer":"Goldfrapp Gregory","s_title":"\"UK Girls (Physical)\""}

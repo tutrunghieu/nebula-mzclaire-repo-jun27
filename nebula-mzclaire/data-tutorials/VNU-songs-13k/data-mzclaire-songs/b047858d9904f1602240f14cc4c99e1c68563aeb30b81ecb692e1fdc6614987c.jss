@@ -1,0 +1,1 @@
+{"s_released":"November 2, 1999","s_format":null,"s_recorded":"1999","s_genre":"Industrial metal,[1] heavy metal","s_length":"3:40","s_label":"Geffen","s_writer":"Axl Rose, Paul Tobias, Dizzy Reed, Josh Freese, Tommy Stinson, Sean Riggs","s_producer":"Sean Beavan","s_title":"\"Oh My God\""}

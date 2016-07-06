@@ -1,0 +1,1 @@
+{"s_released":"1990[17]","s_format":"CD single","s_recorded":"1990","s_genre":"Thrash metal","s_length":"2:17","s_label":"Elektra","s_writer":"Freddie Mercury Brian May Roger Taylor John Deacon","s_producer":"Metallica","s_title":"\"Stone Cold Crazy\""}

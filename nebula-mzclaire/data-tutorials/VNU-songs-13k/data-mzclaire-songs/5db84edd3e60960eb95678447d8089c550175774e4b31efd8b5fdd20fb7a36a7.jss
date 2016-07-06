@@ -1,0 +1,1 @@
+{"s_released":"December 21, 2010","s_format":"digital download","s_recorded":"2010","s_genre":"Dance-pop, teen pop, power pop","s_length":"3:40","s_label":"Columbia","s_writer":"Avril Lavigne, Max Martin, Shellback","s_producer":"Max Martin, Shellback","s_title":"\"Dancing Crazy\""}

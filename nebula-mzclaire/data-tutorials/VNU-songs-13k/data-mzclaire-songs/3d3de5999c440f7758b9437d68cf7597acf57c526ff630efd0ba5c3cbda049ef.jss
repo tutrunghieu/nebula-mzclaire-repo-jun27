@@ -1,0 +1,1 @@
+{"s_released":"1992","s_format":"CD, 12-inch single","s_recorded":"1991","s_genre":"Hard rock","s_length":"5:02","s_label":"ATCO","s_writer":"Angus Young Malcolm Young Bon Scott.","s_producer":"Bruce Fairbairn","s_title":"\"Shoot to Thrill\" (live)"}

@@ -1,0 +1,1 @@
+{"s_released":"June 21, 2004","s_format":"CD single 7\" picture disc","s_recorded":"2003","s_genre":"Alternative rock, pop punk","s_length":"3:03","s_label":"Geffen","s_writer":"Tom DeLonge Mark Hoppus Travis Barker","s_producer":"Jerry Finn","s_title":"\"Down\""}

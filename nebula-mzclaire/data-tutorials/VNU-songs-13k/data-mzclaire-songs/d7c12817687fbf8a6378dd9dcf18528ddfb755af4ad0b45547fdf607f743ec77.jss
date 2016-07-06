@@ -1,0 +1,1 @@
+{"s_released":"September 28, 2007 (2007-09-28)","s_format":"CD single digital download","s_recorded":null,"s_genre":null,"s_length":"3:44","s_label":"RCA","s_writer":"Christina Aguilera Derryck Thornton Mark Rankin Liz Thornton Kara DioGuardi Bruno Coulais Christophe Barratier","s_producer":"Big Tank Q L Boggie Christina Aguilera","s_title":"\"Oh Mother\""}

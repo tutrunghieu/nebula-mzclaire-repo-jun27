@@ -1,0 +1,1 @@
+{"s_released":"8 August 1994","s_format":"CD 7\" vinyl 12\" vinyl cassette","s_recorded":"March 1994 at Clear Studios, Manchester, England","s_genre":"Britpop","s_length":"4:36","s_label":"Creation","s_writer":"Noel Gallagher","s_producer":"Oasis Mark Coyle Owen Morris","s_title":"\"Up in the Sky\" (acoustic) \"Cloudburst\" \"Supersonic\" (live)"}

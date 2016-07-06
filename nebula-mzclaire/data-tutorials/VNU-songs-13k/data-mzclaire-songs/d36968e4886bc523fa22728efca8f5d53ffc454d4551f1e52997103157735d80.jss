@@ -1,0 +1,1 @@
+{"s_released":"September 17, 1991","s_format":null,"s_recorded":"A&M Studios, Record Plant Studios, Studio 56, Image Recording, Conway Studios & Metalworks Recording Studios 1990-1991","s_genre":"Hard rock, heavy metal","s_length":"10:13","s_label":"Geffen Records","s_writer":"Slash and Axl Rose","s_producer":"Mike Clink and Guns N' Roses","s_title":"\"Coma\""}

@@ -1,0 +1,1 @@
+{"s_released":"January 25, 2011","s_format":"CD single digital download","s_recorded":"The Blasting Room, Fort Collins, Colorado","s_genre":"Punk rock melodic hardcore","s_length":"3:57","s_label":"DGC Interscope","s_writer":"Rise Against","s_producer":"Bill Stevenson Jason Livermore","s_title":"\"Help Is on the Way\""}

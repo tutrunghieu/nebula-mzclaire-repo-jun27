@@ -1,0 +1,1 @@
+{"s_released":"March 15, 1981","s_format":"7 inch","s_recorded":"April–May 1980","s_genre":"Hard rock, blues rock","s_length":"4:12","s_label":"Atlantic","s_writer":"Angus Young, Malcolm Young and Brian Johnson","s_producer":"Robert John \"Mutt\" Lange","s_title":"\"Hells Bells\""}

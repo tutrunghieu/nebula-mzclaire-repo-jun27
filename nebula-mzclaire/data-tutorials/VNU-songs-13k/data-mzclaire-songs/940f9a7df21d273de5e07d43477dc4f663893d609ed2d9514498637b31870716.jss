@@ -1,0 +1,1 @@
+{"s_released":"March 5, 2007 (UK)","s_format":"10\", CD, Maxi-CD","s_recorded":"Discoball: May 2005-2006","s_genre":"Pop rock","s_length":"5:31 (album version) 4:03 (radio edit)","s_label":"EMI, Polydor","s_writer":"Babydaddy, Jake Shears","s_producer":"Scissor Sisters","s_title":"\"Transistor\""}

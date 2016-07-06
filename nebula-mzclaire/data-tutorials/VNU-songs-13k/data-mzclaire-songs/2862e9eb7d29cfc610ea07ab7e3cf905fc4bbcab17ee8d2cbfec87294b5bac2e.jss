@@ -1,0 +1,1 @@
+{"s_released":"May 8, 1995","s_format":null,"s_recorded":"Bearsville Studios, Bearsville, New York","s_genre":"Soul[1] funk[2] R&B[3] jazz[4]","s_length":"4:53","s_label":"Slash","s_writer":"Billy Gould Mike Bordin Trey Spruance Mike Patton","s_producer":"Andy Wallace Faith No More","s_title":"\"Evidence\""}

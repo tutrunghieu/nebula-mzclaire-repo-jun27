@@ -1,0 +1,1 @@
+{"s_released":"8 December 1990","s_format":"7 inch, 12 inch, CD single, cassette single","s_recorded":"1990","s_genre":"Hard rock","s_length":"3:45","s_label":"ATCO Records","s_writer":"Angus Young and Malcolm Young","s_producer":"Bruce Fairbairn","s_title":"\"Mistress for Christmas\", \"Borrowed Time\" (U.K.), Down On The Borderline (Australia)"}

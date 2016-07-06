@@ -1,0 +1,1 @@
+{"s_released":"June 15, 1998","s_format":"CD single","s_recorded":"February 1998","s_genre":"Pop","s_length":"3:33","s_label":"Hollywood RCA","s_writer":"Matthew Wilder David Zippel","s_producer":"Matthew Wilder","s_title":"\"Reflection\""}

@@ -1,0 +1,1 @@
+{"s_released":"October 1977","s_format":"7\", 12\"","s_recorded":"1977, 1976","s_genre":"Hard rock, blues rock","s_length":"6:10","s_label":"ATCO","s_writer":null,"s_producer":"Harry Vanda, George Young","s_title":"\"Problem Child\""}

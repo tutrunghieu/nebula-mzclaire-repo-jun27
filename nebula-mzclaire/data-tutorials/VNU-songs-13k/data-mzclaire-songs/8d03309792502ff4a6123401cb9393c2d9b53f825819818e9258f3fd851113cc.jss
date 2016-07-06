@@ -1,0 +1,1 @@
+{"s_released":"November 1, 2011","s_format":"CD digital download vinyl","s_recorded":"September 2010–January 2011 at The Blasting Room, Fort Collins, Colorado","s_genre":"Punk rock, melodic hardcore","s_length":"3:58","s_label":"DGC, Interscope","s_writer":"Tim McIlrath","s_producer":"Bill Stevenson, Jason Livermore","s_title":"\"Satellite\""}

@@ -1,0 +1,1 @@
+{"s_released":"1977","s_format":"CD single","s_recorded":"1976","s_genre":"Blues rock","s_length":"5:53","s_label":"Albert Records","s_writer":"Angus Young, Malcolm Young, Bon Scott","s_producer":"Harry Vanda, George Young","s_title":"\"Ride On\""}

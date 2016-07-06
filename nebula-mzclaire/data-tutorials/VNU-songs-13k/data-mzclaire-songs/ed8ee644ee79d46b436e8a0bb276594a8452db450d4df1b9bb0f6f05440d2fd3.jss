@@ -1,0 +1,1 @@
+{"s_released":"November 28, 2005","s_format":"CD 7\" vinyl","s_recorded":"January–October 2003 Signature Sound, Rolling Thunder (San Diego, California) Conway Recording Studios (Hollywood, California)","s_genre":"Pop punk","s_length":"4:23","s_label":"Geffen","s_writer":"Tom DeLonge Mark Hoppus Travis Barker","s_producer":"Jerry Finn","s_title":"\"Not Now\""}

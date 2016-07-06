@@ -1,0 +1,1 @@
+{"s_released":"May 13, 2013","s_format":null,"s_recorded":null,"s_genre":"R&B, rap","s_length":"3:32","s_label":"Epic","s_writer":"Kelly Rowland TJ Oosterhuis Yosef Wolde-Mariam Tshawe Baqwa Katerina Bramley","s_producer":"TJ Oosterhuis","s_title":"\"One Life\""}

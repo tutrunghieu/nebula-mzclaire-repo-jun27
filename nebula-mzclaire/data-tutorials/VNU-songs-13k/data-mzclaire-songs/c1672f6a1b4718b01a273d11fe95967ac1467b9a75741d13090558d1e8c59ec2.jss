@@ -1,0 +1,1 @@
+{"s_released":"1998","s_format":"CD Promo single","s_recorded":"September 1989","s_genre":"Salsa","s_length":"5:51","s_label":"RMM","s_writer":"Juan Gabriel","s_producer":"Isidro Infante","s_title":"\"Costumbres\""}

@@ -1,0 +1,1 @@
+{"s_released":"June 9, 2014[1]","s_format":"Digital download","s_recorded":null,"s_genre":"Melodic hardcore, punk rock","s_length":"3:59","s_label":"Interscope","s_writer":"Tim McIlrath","s_producer":null,"s_title":"\"I Don't Want to Be Here Anymore\""}

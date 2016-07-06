@@ -1,0 +1,1 @@
+{"s_released":"5 June 2011","s_format":"Digital download, EP","s_recorded":"2009","s_genre":"Synthpop, dance-pop","s_length":"4:22 3:30 (radio edit)","s_label":"EBGB's","s_writer":"Sophie Ellis-Bextor, Richard X, Hannah Robinson","s_producer":"Richard X","s_title":"\"Starlight\""}

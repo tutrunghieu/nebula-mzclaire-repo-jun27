@@ -1,0 +1,1 @@
+{"s_released":"August 21, 2015 (2015-08-21)","s_format":"Digital download","s_recorded":null,"s_genre":null,"s_length":"4:51","s_label":"Interscope Polydor","s_writer":"Lana Del Rey Rick Nowels","s_producer":"\"Terrence Loves You\" on YouTube","s_title":"\"Terrence Loves You\""}

@@ -1,0 +1,1 @@
+{"s_released":"August 28, 1990","s_format":"CD single 12\" single","s_recorded":"1989","s_genre":"Mexican cumbia","s_length":"2:57","s_label":"EMI Latin","s_writer":"A.B. Quintanilla, Pete Astudillo","s_producer":"A.B. Quintanilla","s_title":"La Carcacha"}

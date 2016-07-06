@@ -1,0 +1,1 @@
+{"s_released":"25 May 2010","s_format":"Digital download","s_recorded":"2010","s_genre":"Pop","s_length":"3:22","s_label":"SonicAngel","s_writer":"Jesse McCartney Ryan Tedder","s_producer":"Ryan Tedder","s_title":"\"Bleeding Love\""}

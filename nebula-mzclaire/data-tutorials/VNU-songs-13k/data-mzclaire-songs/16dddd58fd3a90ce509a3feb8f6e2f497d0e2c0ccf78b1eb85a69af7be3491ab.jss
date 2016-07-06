@@ -1,0 +1,1 @@
+{"s_released":"August 19, 2014","s_format":"Digital download","s_recorded":"1928","s_genre":"Jazz","s_length":"3:13","s_label":"Streamline Interscope Columbia","s_writer":"Dorothy Fields","s_producer":"Jimmy McHugh","s_title":"\"I Can't Give You Anything but Love\""}

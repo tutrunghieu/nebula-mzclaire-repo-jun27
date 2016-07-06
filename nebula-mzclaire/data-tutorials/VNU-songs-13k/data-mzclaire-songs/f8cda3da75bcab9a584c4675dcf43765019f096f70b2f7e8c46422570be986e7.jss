@@ -1,0 +1,1 @@
+{"s_released":null,"s_format":null,"s_recorded":"1994 at Westbeach Recorders, Los Angeles, California","s_genre":"Punk rock, skate punk","s_length":"2:40 (Buddha version) 3:15 (Cheshire Cat version)","s_label":"Cargo Music / Grilled Cheese","s_writer":"Tom DeLonge and Mark Hoppus","s_producer":"O (Otis Barthoulameu), Blink-182","s_title":"\"Carousel\""}

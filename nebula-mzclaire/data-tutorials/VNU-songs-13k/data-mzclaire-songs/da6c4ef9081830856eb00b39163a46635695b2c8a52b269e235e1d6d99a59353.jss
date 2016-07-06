@@ -1,0 +1,1 @@
+{"s_released":null,"s_format":"Digital download","s_recorded":"2011–12","s_genre":"Electropop R&B","s_length":"3:37","s_label":"Polydor","s_writer":"Megan Nicolle Thomaston Kingsley Brown Daniel Traynor Jermaine Scott","s_producer":"HyGrade","s_title":"\"Screw You\""}

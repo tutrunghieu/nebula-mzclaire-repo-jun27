@@ -1,0 +1,1 @@
+{"s_released":"1994","s_format":null,"s_recorded":null,"s_genre":"Worldbeat, rock and roll","s_length":"02:49","s_label":"Walt Disney","s_writer":"Tim Rice, Elton John","s_producer":null,"s_title":"\"I Just Can't Wait to Be King\""}

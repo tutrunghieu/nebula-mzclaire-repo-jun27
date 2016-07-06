@@ -1,0 +1,1 @@
+{"s_released":"December 24, 2012","s_format":"Digital download","s_recorded":"2012","s_genre":"Pop, Hip Hop","s_length":"3:21","s_label":"Sony Music Greece/Day 1","s_writer":"METH, EY.O., MAGEDA","s_producer":"METH","s_title":"\"Ase Me\""}

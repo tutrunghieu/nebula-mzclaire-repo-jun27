@@ -1,0 +1,1 @@
+{"s_released":"September 3, 2001 (2001-09-03)","s_format":"CD","s_recorded":"2001","s_genre":"Pop rap, dance-pop","s_length":"3:07","s_label":"Jive","s_writer":"Mickey Power Lucas Secon","s_producer":null,"s_title":"\"Not Too Young, Not Too Old\""}

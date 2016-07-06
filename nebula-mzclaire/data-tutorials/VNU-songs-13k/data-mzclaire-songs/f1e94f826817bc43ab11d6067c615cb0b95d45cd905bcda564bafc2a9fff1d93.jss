@@ -1,0 +1,1 @@
+{"s_released":"1 May 2006","s_format":"CD, Digital download, 12-inch, DVD","s_recorded":"2004 in Bath, England","s_genre":"Electroclash","s_length":"4:25 (album version) 3:37 (single version)","s_label":"Mute","s_writer":"Alison Goldfrapp, Will Gregory","s_producer":"Goldfrapp, Gregory","s_title":"\"Boys Will Be Boys\""}

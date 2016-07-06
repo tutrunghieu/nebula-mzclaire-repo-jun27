@@ -1,0 +1,1 @@
+{"s_released":"17 February 2013","s_format":"CD digital download","s_recorded":"2012","s_genre":"Pop rock[1]","s_length":"2:37","s_label":"Syco","s_writer":"Deborah Harry Nigel Harrison John O'Neill","s_producer":"Julian Bunetta John Ryan","s_title":"\"One Way or Another (Teenage Kicks)\""}

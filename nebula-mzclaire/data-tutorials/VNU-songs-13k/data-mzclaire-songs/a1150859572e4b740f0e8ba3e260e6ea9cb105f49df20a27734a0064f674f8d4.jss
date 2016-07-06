@@ -1,0 +1,1 @@
+{"s_released":"14 December 2011","s_format":"CD single 12\" vinyl digital download","s_recorded":"2011","s_genre":"EDM","s_length":"3:19","s_label":"Astralwerks Capitol","s_writer":"David Guetta Onika Maraj Giorgio Tuinfort Ester Dean","s_producer":"Guetta Tuinfort Black Raw","s_title":"\"Turn Me On\""}

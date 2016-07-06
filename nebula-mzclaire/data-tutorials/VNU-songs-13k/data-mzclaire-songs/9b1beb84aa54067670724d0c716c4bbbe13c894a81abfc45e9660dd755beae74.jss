@@ -1,0 +1,1 @@
+{"s_released":"December 1, 2006 (2006-12-01)","s_format":null,"s_recorded":"June 26, 2006; Windsor Racecourse (London, UK)","s_genre":null,"s_length":null,"s_label":"Jeff Gripe Ginger Ramsey-Grippe","s_writer":null,"s_producer":"","s_title":"Live from London"}

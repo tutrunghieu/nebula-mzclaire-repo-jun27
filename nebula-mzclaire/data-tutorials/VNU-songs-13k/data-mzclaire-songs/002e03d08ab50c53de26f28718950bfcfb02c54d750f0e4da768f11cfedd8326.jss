@@ -1,0 +1,1 @@
+{"s_released":"20 December 2009","s_format":"CD single digital download","s_recorded":"2009; Record Plant Studios (Los Angeles, California)","s_genre":"Dance-pop","s_length":"4:04","s_label":"Fascination","s_writer":"William Adams Cheryl Cole George Pajon","s_producer":"will.i.am","s_title":"\"Boys\""}

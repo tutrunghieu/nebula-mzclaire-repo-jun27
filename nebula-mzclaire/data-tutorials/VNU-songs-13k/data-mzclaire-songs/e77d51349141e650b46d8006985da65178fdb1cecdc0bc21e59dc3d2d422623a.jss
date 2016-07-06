@@ -1,0 +1,1 @@
+{"s_released":"July 27, 2010 (see release history)","s_format":null,"s_recorded":"June 2010","s_genre":"Hip hop R&B","s_length":"4:02","s_label":"Songbook Atlantic","s_writer":"Milton L James Daniel A Johnson Nicki Minaj Edrick Miles Tremaine Neverson Tony E. Scales","s_producer":"3x Platinum (RIAA)","s_title":"\"Bottoms Up\""}

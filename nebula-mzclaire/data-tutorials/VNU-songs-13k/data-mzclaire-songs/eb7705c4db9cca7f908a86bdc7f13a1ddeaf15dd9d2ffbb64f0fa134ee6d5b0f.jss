@@ -1,0 +1,1 @@
+{"s_released":"November 3, 1979","s_format":"7\" single 12\" single","s_recorded":"December 1978 – June 1979","s_genre":"R&B soul disco","s_length":"3:39","s_label":"Epic","s_writer":"Rod Temperton","s_producer":"Platinum (U.S.) Gold (New Zealand)","s_title":"\"Get on the Floor\" \"Working Day and Night\""}

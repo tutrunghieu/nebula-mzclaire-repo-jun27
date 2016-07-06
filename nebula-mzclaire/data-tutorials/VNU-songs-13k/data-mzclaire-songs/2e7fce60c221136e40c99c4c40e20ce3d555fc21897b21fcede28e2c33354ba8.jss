@@ -1,0 +1,1 @@
+{"s_released":"August 6, 1996","s_format":"CD single","s_recorded":"June 1996","s_genre":"R&B, pop, soul, gospel","s_length":"4:22","s_label":"Elektra Records","s_writer":"Gordon Chambers, Barry Eastmond","s_producer":"Barry Eastmond","s_title":"\"Missing You\""}

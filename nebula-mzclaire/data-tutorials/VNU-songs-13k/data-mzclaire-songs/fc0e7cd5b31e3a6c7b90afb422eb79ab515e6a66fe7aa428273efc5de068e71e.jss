@@ -1,0 +1,1 @@
+{"s_released":"September 28, 2010","s_format":"Digital download 7\" vinyl CD Single","s_recorded":"2009; Lightning Sound Studios (Hidden Hills, California)","s_genre":"Soft rock, folk rock","s_length":"13:27","s_label":"Fueled by Ramen","s_writer":"Hayley Williams Josh Farro","s_producer":"Platinum (RIAA)[3]","s_title":"The Only Exception"}

@@ -1,0 +1,1 @@
+{"s_released":"1984","s_format":null,"s_recorded":"February 20 - March 14, 1984 at Sweet Silence Studios, Copenhagen, Denmark","s_genre":"Thrash metal","s_length":"7:50","s_label":"Megaforce, Elektra","s_writer":"Sean Harris, Brian Tatler","s_producer":"Metallica, Flemming Rasmussen","s_title":"\"Am I Evil?\""}

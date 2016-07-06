@@ -1,0 +1,1 @@
+{"s_released":"July 1978[60]","s_format":"7\"","s_recorded":"September 1977","s_genre":"Psychedelic rock","s_length":"5:11","s_label":"RSO","s_writer":"Lennon–McCartney","s_producer":"George Martin","s_title":"\"Nowhere Man\""}

@@ -1,0 +1,1 @@
+{"s_released":"31 October 1988 (1988-10-31)","s_format":null,"s_recorded":"1988 (1988)","s_genre":null,"s_length":"13:26","s_label":"Creation","s_writer":null,"s_producer":"My Bloody Valentine","s_title":"Feed Me with Your Kiss"}

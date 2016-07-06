@@ -1,0 +1,1 @@
+{"s_released":"November 17, 1998","s_format":"CD","s_recorded":"December 1996–January 1997 Big Fish Studios (Encinitas, California)","s_genre":"Pop punk[1] punk rock[2] skate punk[3]","s_length":"3:19","s_label":"MCA Records Cargo Music","s_writer":"Mark Hoppus Tom DeLonge Scott Raynor","s_producer":"Mark Trombino","s_title":"\"Josie\""}

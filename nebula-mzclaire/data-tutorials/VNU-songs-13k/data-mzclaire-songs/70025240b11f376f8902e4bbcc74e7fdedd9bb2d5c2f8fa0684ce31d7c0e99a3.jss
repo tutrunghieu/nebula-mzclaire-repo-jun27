@@ -1,0 +1,1 @@
+{"s_released":"November 3, 2008 (2008-11-03)","s_format":"Music download","s_recorded":"Studio Piccolo, Bananaboat Studios","s_genre":"Soul blues","s_length":"2:58","s_label":"Columbia","s_writer":"Mack Gordon, Harry Warren","s_producer":"Humberto Gatica, Guy Roche","s_title":"\"At Last\""}

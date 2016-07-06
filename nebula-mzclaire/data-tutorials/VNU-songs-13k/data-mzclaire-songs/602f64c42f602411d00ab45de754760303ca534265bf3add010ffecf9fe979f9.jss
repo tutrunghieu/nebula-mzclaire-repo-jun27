@@ -1,0 +1,1 @@
+{"s_released":null,"s_format":null,"s_recorded":null,"s_genre":null,"s_length":null,"s_label":null,"s_writer":null,"s_producer":null,"s_title":"Elvis Presley, Doris Day, Bing Crosby and the Andrews Sisters, Pat Boone, Ray Conniff Singers, Alvin and the Chipmunks, Bob B. Soxx & the Blue Jeans, Willie Nelson, The Wiggles, Billy Idol, Bob Dylan, Mariah Carey, Chicago"}

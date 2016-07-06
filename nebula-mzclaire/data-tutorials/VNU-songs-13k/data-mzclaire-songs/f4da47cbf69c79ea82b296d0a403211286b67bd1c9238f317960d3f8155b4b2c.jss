@@ -1,0 +1,1 @@
+{"s_released":"February 22, 1985","s_format":"7\", 12\" single","s_recorded":"1984","s_genre":"R&B, soul, quiet storm","s_length":"4:33 (Album version) 4:06 (Radio edit)","s_label":"Arista","s_writer":"La Forrest Cope","s_producer":"Gold (U.S.)","s_title":"\"Greatest Love of All\" \"Someone for Me\" \"Thinking About You\""}

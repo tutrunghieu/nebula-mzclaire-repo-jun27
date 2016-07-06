@@ -1,0 +1,1 @@
+{"s_released":"December 2, 2003 (U.S.)","s_format":"CD","s_recorded":"December 2002- April 2003","s_genre":"Post-grunge","s_length":"3:48","s_label":"Roadrunner","s_writer":"Gold (RIAA)","s_producer":null,"s_title":"\"Figured You Out\""}
