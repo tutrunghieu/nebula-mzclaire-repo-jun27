@@ -1,0 +1,1 @@
+{"s_released":"April 2007","s_format":"Digital download","s_recorded":"2007","s_genre":"Pop rock, soft rock, country pop","s_length":"4:44","s_label":"Walt Disney","s_writer":"Andy Dodd, Adam Watts","s_producer":"Andy Dodd, Adam Watts","s_title":"\"Make Some Noise\""}

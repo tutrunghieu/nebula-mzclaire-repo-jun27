@@ -1,0 +1,1 @@
+{"s_released":null,"s_format":null,"s_recorded":"Sarm Studios (London); Westlake Recording Studios (Los Angeles)","s_genre":"Electronica new wave electro-R&B","s_length":"6:58","s_label":"Def Jam SRP","s_writer":"Terius Nash Robyn Fenty Carlos \"Los\" McKinney","s_producer":"Terius Nash Carlos McKinney Kuk Harrell","s_title":"\"Love Without Tragedy / Mother Mary\""}

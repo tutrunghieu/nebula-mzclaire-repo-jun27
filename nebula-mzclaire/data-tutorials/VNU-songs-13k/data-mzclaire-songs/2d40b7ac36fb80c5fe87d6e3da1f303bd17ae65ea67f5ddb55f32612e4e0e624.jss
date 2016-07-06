@@ -1,0 +1,1 @@
+{"s_released":"September 14, 2010","s_format":"12\" digital download","s_recorded":"2009","s_genre":"Indie pop neo-psychedelia alternative rock","s_length":"4:00 (Album version) 3:38 (Radio edit)","s_label":"Columbia Startime","s_writer":"Mark Foster","s_producer":"Mark Foster","s_title":"\"Pumped Up Kicks\" (A cappella) \"Pumped Up Kicks\" (Instrumental) (12\")"}

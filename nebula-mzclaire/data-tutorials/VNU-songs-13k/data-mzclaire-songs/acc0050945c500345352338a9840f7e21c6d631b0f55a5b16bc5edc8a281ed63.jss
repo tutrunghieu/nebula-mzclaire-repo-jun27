@@ -1,0 +1,1 @@
+{"s_released":"14 August 2006","s_format":"CD, 10\" clear vinyl disc","s_recorded":"Sarm West Studios, London in 2006","s_genre":"Heavy metal","s_length":"7:21[1]","s_label":"Columbia Records, EMI Europe","s_writer":"Dave Murray, Steve Harris","s_producer":"Kevin Shirley","s_title":"Hallowed Be Thy Name (CD)"}

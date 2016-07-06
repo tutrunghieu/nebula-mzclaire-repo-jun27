@@ -1,0 +1,1 @@
+{"s_released":"December 30, 2011","s_format":"CD digital download 7\"","s_recorded":null,"s_genre":null,"s_length":"4:46","s_label":"Stranger Interscope Polydor","s_writer":"Elizabeth Grant Justin Parker","s_producer":"Parker Emile Haynie","s_title":"\"Born to Die\""}

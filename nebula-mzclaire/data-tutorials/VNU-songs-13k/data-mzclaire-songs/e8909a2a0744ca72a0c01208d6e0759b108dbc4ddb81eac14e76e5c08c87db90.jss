@@ -1,0 +1,1 @@
+{"s_released":"September 20, 2005 (2005-09-20) (See release history)","s_format":"CD single, digital download","s_recorded":null,"s_genre":"Alternative rock, post-grunge","s_length":"4:19 (album version) 3:55 (radio edit)","s_label":"Roadrunner","s_writer":"Chad Kroeger, Mike Kroeger, Ryan Peake, Daniel Adair","s_producer":"Gold RIAA","s_title":"\"We Will Rock You\""}

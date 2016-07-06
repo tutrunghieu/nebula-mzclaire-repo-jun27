@@ -1,0 +1,1 @@
+{"s_released":"1969 (1969)","s_format":null,"s_recorded":null,"s_genre":"Soul, R&B","s_length":"02:57","s_label":null,"s_writer":"Eddie Hinton, Donnie Fritts","s_producer":null,"s_title":"\"Breakfast in Bed\""}

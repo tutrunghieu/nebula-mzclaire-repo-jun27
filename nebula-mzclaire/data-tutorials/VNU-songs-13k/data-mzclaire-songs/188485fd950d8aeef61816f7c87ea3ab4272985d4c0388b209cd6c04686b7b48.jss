@@ -1,0 +1,1 @@
+{"s_released":"March 18, 2006","s_format":"CD single, digital download","s_recorded":null,"s_genre":"Pop rock, bubblegum pop","s_length":"3:04","s_label":"Walt Disney","s_writer":"Jeannie Lurie, Holly Mathis","s_producer":"Antonina Armato, Tim James","s_title":"\"The Best of Both Worlds\""}

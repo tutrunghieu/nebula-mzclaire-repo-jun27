@@ -1,0 +1,1 @@
+{"s_released":"10 December 2001","s_format":"CD Single, airplay","s_recorded":"2001","s_genre":"Pop, Europop","s_length":"4:07 (Ray Hedges 7\" Mix/Radio Edit) 4:08 (Ballad Version/Album Version) 4:06 (Single Mix)","s_label":"Universal Music Group","s_writer":"Cathy Dennis, Jan Kask, Peter Mansson","s_producer":"Jan Kask, Peter Mansson","s_title":"\"Heartbreak Lullaby\""}

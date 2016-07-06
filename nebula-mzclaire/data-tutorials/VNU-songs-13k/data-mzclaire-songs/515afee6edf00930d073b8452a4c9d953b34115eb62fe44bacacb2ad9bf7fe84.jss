@@ -1,0 +1,1 @@
+{"s_released":"July 1983","s_format":null,"s_recorded":"1982","s_genre":"Glam metal, heavy metal","s_length":"4:50 (Album Version) 3:20 (Single Edit)","s_label":"Pasha","s_writer":"Noddy Holder, Jim Lea","s_producer":"Spencer Proffer","s_title":"\"Run For Cover\""}

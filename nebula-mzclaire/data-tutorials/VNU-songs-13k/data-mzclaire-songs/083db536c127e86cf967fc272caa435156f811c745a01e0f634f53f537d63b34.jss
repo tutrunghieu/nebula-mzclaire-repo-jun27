@@ -1,0 +1,1 @@
+{"s_released":"30 May 1986","s_format":"7\" 12\"","s_recorded":"December 1985","s_genre":"Dance-pop","s_length":"3:50","s_label":"London","s_writer":"Robbie van Leeuwen","s_producer":"Gold (RIAA)","s_title":"\"White Train\""}

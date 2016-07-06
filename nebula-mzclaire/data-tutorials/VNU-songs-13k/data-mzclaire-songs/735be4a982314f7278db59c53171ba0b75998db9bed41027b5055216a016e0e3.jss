@@ -1,0 +1,1 @@
+{"s_released":"May 20, 1996[1]","s_format":"CD single, Cassette, Vinyl","s_recorded":"1995","s_genre":"Hard rock","s_length":"4:30","s_label":"Elektra","s_writer":"James Hetfield, Lars Ulrich","s_producer":"Bob Rock, James Hetfield, Lars Ulrich","s_title":"2 X 4 (live)/ F.O.B.D (Demo)./ Kill/ Ride Medley (live)/ Until it Sleeps (Herman Melville Mix)/ Overkill (live)"}

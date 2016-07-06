@@ -1,0 +1,1 @@
+{"s_released":"October 1, 2014","s_format":"Digital download","s_recorded":"2014","s_genre":"Pop","s_length":"4:18","s_label":"EMI Records Japan","s_writer":"Ringo Sheena","s_producer":"Ringo Sheena","s_title":"\"Arikitari na Onna\""}

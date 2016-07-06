@@ -1,0 +1,1 @@
+{"s_released":"March 25, 1974","s_format":"7\" single","s_recorded":"1972","s_genre":"Pop","s_length":"3:52","s_label":"A&M 1521","s_writer":"Paul Williams; Roger Nichols","s_producer":"Jack Daugherty","s_title":"\"One Love\""}

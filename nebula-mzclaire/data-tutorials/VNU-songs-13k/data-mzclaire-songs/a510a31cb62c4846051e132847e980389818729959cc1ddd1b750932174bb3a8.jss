@@ -1,0 +1,1 @@
+{"s_released":"November 29, 1994","s_format":"CD vinyl CS","s_recorded":"Late 1993 Fantasy Studios (Berkeley, California)","s_genre":"Punk rock[1] pop punk[2]","s_length":"3:01","s_label":"Reprise","s_writer":"Billie Joe Armstrong Mike Dirnt Tré Cool","s_producer":"Rob Cavallo Green Day","s_title":"\"Basket Case\""}

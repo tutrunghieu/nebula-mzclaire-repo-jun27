@@ -1,0 +1,1 @@
+{"s_released":"23 September 2013","s_format":"Digital download","s_recorded":"Golden Age Studios (Auckland)","s_genre":null,"s_length":"4:06","s_label":"UMG","s_writer":"Ella Yelich-O'Connor Joel Little","s_producer":"Joel Little Ella Yelich-O'Connor","s_title":"\"Buzzcut Season\""}

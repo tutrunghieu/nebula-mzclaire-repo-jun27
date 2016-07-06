@@ -1,0 +1,1 @@
+{"s_released":"December 1, 1997","s_format":"CD single","s_recorded":"June 1997","s_genre":"Pop R&B gospel","s_length":"4:33","s_label":"Columbia","s_writer":"Mariah Carey","s_producer":"Mariah Carey, Walter Afanasieff","s_title":"\"Fly Away (Butterfly Reprise)\""}

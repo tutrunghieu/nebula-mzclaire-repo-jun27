@@ -1,0 +1,1 @@
+{"s_released":null,"s_format":null,"s_recorded":"Jungle Studios, New York City","s_genre":null,"s_length":"3:58","s_label":"Parkwood Columbia","s_writer":"Mike Dean Ingrid Burley Beyoncé","s_producer":"Dean Beyoncé","s_title":"\"Love Drought\""}

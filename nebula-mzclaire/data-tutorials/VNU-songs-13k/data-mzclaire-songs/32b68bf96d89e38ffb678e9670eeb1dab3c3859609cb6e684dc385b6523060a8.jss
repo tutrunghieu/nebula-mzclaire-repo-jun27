@@ -1,0 +1,1 @@
+{"s_released":"February 24, 2004 (2004-02-24)","s_format":"CD single, digital download","s_recorded":"2003, Soulpower Studios, Westlake Studios (Los Angeles, California)","s_genre":"Pop, R&B","s_length":"4:02","s_label":"Da Family, Blackground","s_writer":"Soulshock, Kenneth Karlin, Alex Cantrell","s_producer":"Soulshock & Karlin","s_title":"\"Not That Kinda Girl\""}

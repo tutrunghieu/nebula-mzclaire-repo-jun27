@@ -1,0 +1,1 @@
+{"s_released":"28 November 2005","s_format":"10\" vinyl, CD single, DVD single","s_recorded":"2004","s_genre":"Rock","s_length":"5:31","s_label":"Big Brother","s_writer":"Noel Gallagher","s_producer":"Noel Gallagher","s_title":"\"Sittin' Here in Silence (On My Own)\" \"Rock 'n' Roll Star\" (live)"}

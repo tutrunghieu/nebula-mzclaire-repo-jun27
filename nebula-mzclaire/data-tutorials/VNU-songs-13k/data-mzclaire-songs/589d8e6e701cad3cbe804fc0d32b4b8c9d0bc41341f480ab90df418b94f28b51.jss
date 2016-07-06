@@ -1,0 +1,1 @@
+{"s_released":"19 August 1980","s_format":"7 inch","s_recorded":"1980","s_genre":"Hard rock","s_length":"3:32","s_label":"Atlantic","s_writer":null,"s_producer":"Robert John \"Mutt\" Lange","s_title":"\"Have a Drink on Me\""}

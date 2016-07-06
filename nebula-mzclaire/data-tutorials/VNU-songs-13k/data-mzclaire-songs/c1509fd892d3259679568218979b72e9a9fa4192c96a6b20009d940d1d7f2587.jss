@@ -1,0 +1,1 @@
+{"s_released":"November 7, 2010","s_format":"CD single, digital download","s_recorded":"2009-2010","s_genre":"Dance-pop, pop rock, electropop","s_length":"3:42","s_label":"Sony","s_writer":"Chad Kroeger, Ryan Peake, Mike Kroeger, Daniel Adair","s_producer":"Ray Hedges, Nigel Butler, Cutfather, David Kopatz","s_title":"\"Future Love\""}

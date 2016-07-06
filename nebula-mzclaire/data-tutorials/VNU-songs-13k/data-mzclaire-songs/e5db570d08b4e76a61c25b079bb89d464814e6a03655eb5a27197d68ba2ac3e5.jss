@@ -1,0 +1,1 @@
+{"s_released":"May 25, 2011 (2011-05-25)","s_format":"Digital download","s_recorded":"Studio at the Palms (Palms; Paradise, Nevada) Triangle Sound Studio (Atlanta, Georgia)","s_genre":"R&B soul","s_length":"4:32","s_label":"Columbia","s_writer":"Terius Nash, Christopher Stewart, Beyoncé Knowles","s_producer":"The-Dream, Tricky Stewart, Beyoncé Knowles","s_title":"\"1+1\""}

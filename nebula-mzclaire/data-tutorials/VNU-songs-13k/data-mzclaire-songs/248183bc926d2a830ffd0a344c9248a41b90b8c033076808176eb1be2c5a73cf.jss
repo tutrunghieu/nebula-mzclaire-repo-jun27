@@ -1,0 +1,1 @@
+{"s_released":"August 15, 2010 (2010-08-15)","s_format":"CD single, 12\", Digital download","s_recorded":null,"s_genre":"Synthpop, electropop, nu-disco","s_length":"6:14","s_label":null,"s_writer":"Babydaddy, Jake Shears, Ana Matronic,","s_producer":"Stuart Price","s_title":"\"Invisible Light\""}

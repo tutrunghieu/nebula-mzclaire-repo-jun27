@@ -1,0 +1,1 @@
+{"s_released":"October 23, 2010 (2010-10-23)","s_format":null,"s_recorded":"2010","s_genre":"Hip hop","s_length":"6:18 (Album version) 4:17 (Radio edit)","s_label":"Roc-A-Fella, Def Jam","s_writer":"Kanye West, Jay-Z, Rick Ross, Nicki Minaj, Justin Vernon, Daniel Lynas","s_producer":"Kanye West, Mike Dean, Plain Pat","s_title":"\"Monster\""}

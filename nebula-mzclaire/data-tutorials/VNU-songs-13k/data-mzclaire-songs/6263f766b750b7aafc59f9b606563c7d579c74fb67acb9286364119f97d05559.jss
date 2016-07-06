@@ -1,0 +1,1 @@
+{"s_released":"September 22, 1975","s_format":null,"s_recorded":"Kendun Recorders, Burbank, California, 1975","s_genre":"Smooth soul, quiet storm","s_length":"5:38 (Album version) 4:44 (7\" edit)","s_label":"T-Neck/Epic","s_writer":"The Isley Brothers Chris Jasper","s_producer":"The Isley Brothers","s_title":"\"For the Love of You\""}

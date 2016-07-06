@@ -1,0 +1,1 @@
+{"s_released":"March 1992 (1992-03)","s_format":"CD","s_recorded":"1989 (1989)–1991 (1991)","s_genre":"Shoegazing, alternative rock","s_length":"4:17","s_label":"Creation (UK) Sire (US) Virgin (FR)","s_writer":"Kevin Shields, Bilinda Butcher","s_producer":"Kevin Shields, Colm Ó Cíosóig","s_title":"\"Sugar\"/\"Instrumental\""}

@@ -1,0 +1,1 @@
+{"s_released":"April 16, 2013 (2013-04-16)","s_format":"Rhythmic contemporary radio","s_recorded":"2012","s_genre":"Hip hop R&B","s_length":"3:38","s_label":"Young Money Cash Money Republic","s_writer":"Onika Maraj Dwayne Carter Matthew Samuels Tyler Williams","s_producer":"Boi-1da T-Minus","s_title":"\"High School\""}

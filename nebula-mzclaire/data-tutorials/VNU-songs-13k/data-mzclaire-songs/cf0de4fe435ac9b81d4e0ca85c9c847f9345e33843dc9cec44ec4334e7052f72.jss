@@ -1,0 +1,1 @@
+{"s_released":"May 4, 2015","s_format":"Digital download","s_recorded":"2015","s_genre":"R&B hip hop","s_length":"3:20","s_label":"RCA","s_writer":"Monica Brown Dwayne Carter Jocelyn Donald Jamal Jones Warren \"Pete\" Moore Smokey Robinson","s_producer":"Polow da Don","s_title":"\"Just Right for Me\""}

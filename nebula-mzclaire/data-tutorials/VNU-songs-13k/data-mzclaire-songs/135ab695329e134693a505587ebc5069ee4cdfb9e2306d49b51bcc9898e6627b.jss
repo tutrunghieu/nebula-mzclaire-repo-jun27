@@ -1,0 +1,1 @@
+{"s_released":"14 May 2002 (2002-05-14) (see release history)","s_format":"CD single, digital download","s_recorded":"2002","s_genre":"Pop rock[3]","s_length":"4:04","s_label":"Arista","s_writer":"Avril Lavigne, Lauren Christy, Scott Spock, Graham Edwards","s_producer":"2× Multi-Platinum[4] (ARIA Charts) Platinum[5](ABPD – Brazil)","s_title":"\"I Don't Give\" \"Why\"[1][2]"}

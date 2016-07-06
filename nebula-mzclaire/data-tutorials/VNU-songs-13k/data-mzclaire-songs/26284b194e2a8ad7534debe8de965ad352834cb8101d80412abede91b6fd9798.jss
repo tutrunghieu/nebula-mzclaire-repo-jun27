@@ -1,0 +1,1 @@
+{"s_released":"16 November 1979 (1979-11-16)","s_format":"7\"","s_recorded":"30 August 1979 at Lower Gate Farm, Sussex","s_genre":"Christmas pop rock synthrock","s_length":"3:45","s_label":"Parlophone Columbia","s_writer":"Paul McCartney","s_producer":"Paul McCartney","s_title":"\"Rudolph the Red-Nosed Reggae\""}

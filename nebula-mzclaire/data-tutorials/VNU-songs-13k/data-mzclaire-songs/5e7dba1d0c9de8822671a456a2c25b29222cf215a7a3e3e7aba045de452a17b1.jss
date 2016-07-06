@@ -1,0 +1,1 @@
+{"s_released":"January 17, 1994","s_format":"CD single","s_recorded":"1991","s_genre":"Hard rock, progressive rock, blues rock, heavy metal","s_length":"9:23","s_label":"Geffen","s_writer":"Axl Rose","s_producer":"Mike Clink, Guns N' Roses","s_title":"\"The Garden\" (LP version)"}

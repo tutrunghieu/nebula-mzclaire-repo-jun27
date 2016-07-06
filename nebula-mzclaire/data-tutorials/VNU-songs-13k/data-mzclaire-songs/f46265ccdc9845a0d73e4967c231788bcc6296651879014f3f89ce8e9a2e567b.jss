@@ -1,0 +1,1 @@
+{"s_released":"January 19, 2011","s_format":"Digital download","s_recorded":"2010","s_genre":"Hardcore hip hop","s_length":"3:49","s_label":"Young Money, Cash Money, Universal Motown","s_writer":"Kaseem Dean, Dwayne Carter, T. Smith, Onika Maraj","s_producer":"Swizz Beatz","s_title":"\"Roman's Revenge\""}

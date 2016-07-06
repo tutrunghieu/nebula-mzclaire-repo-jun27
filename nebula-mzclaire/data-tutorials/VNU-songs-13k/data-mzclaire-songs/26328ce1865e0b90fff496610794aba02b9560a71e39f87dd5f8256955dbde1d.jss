@@ -1,0 +1,1 @@
+{"s_released":"May 27, 1989","s_format":"CD single","s_recorded":"1988","s_genre":"Tejano , folk , ranchera","s_length":"3:12","s_label":"EMI Latin","s_writer":"Alejandro Montealegre","s_producer":"A.B. Quintanilla III","s_title":"\"Contigo Quiero Estar\""}

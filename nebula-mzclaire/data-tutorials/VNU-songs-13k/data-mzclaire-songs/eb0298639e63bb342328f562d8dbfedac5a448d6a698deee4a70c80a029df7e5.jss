@@ -1,0 +1,1 @@
+{"s_released":null,"s_format":"Digital download","s_recorded":"2003","s_genre":"R&B","s_length":"4:58","s_label":"Columbia","s_writer":"Beyoncé Knowles Mark Batson","s_producer":"Beyoncé Knowles Mark Batson","s_title":"\"Daddy\""}

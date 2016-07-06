@@ -1,0 +1,1 @@
+{"s_released":null,"s_format":"Digital download","s_recorded":"MSR Studios, New York City; Honeywest Studios, New York City.","s_genre":"Neo soul soul","s_length":"4:01","s_label":"Island","s_writer":"Mariah Carey James Poyser","s_producer":"Carey Poyser","s_title":"\"Mine Again\""}

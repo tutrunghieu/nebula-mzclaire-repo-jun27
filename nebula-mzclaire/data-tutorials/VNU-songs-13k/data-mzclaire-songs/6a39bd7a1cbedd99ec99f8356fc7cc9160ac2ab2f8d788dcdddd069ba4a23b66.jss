@@ -1,0 +1,1 @@
+{"s_released":"February 9, 1999","s_format":null,"s_recorded":"1998 Atlanta, Georgia (Tree Studios)","s_genre":"Alternative rock","s_length":"4:03","s_label":"Atlantic","s_writer":"Ross Childress","s_producer":null,"s_title":"\"Dandy Life\""}

@@ -1,0 +1,1 @@
+{"s_released":"May 17, 2011 (2011-05-17)","s_format":"Digital download","s_recorded":"2010; Record Plant Recording Studios (Los Angeles)","s_genre":"Pop R&B","s_length":"4:22","s_label":"Interscope","s_writer":"James Scheffer Ester Dean Curtis Jackson Frank Romano Daniel Morris","s_producer":"Jim Jonsin Harvey Mason, Jr.","s_title":"\"Right There\""}

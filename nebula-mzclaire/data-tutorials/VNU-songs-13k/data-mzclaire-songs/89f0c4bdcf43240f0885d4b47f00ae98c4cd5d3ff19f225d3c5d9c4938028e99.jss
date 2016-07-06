@@ -1,0 +1,1 @@
+{"s_released":"March 30, 2000[5]","s_format":"CD single vinyl","s_recorded":"2000","s_genre":"Pop","s_length":"4:05","s_label":"RCA","s_writer":"Rudy Pérez Diane Warren","s_producer":"Rudy Pérez Guy Roche Ron Fair (executive producer) Diane Warren (executive producer)","s_title":"\"Por Siempre Tu\""}

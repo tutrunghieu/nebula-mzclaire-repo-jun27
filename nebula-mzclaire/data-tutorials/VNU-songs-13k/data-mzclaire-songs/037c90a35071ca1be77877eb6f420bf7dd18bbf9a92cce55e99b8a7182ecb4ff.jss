@@ -1,0 +1,1 @@
+{"s_released":"25 January 2016","s_format":"Digital download","s_recorded":null,"s_genre":"Pop rock indie R&B","s_length":"4:18 (album version) 4:00 (radio edit) 3:32 (SeeB Remix)","s_label":"Parlophone","s_writer":"Coldplay","s_producer":"Rik Simpson Stargate Digital Divide Tim Bergling","s_title":"\"Hymn for the Weekend\""}

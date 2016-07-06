@@ -1,0 +1,1 @@
+{"s_released":"August 14, 1995 (1995-08-14)","s_format":"CD single","s_recorded":null,"s_genre":"Technocumbia","s_length":"3:47 (Amor Prohibido) 4:45 (Dreaming of You)","s_label":"EMI, EMI Latin","s_writer":"Pete Astudillo, A.B. Quintanilla","s_producer":"A.B. Quintanilla","s_title":"Dreaming of You"}

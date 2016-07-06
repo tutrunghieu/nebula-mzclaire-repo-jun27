@@ -1,0 +1,1 @@
+{"s_released":"3 June 2013 (2013-06-03)","s_format":"CD digital download","s_recorded":"2012 Golden Age, Morningside, Auckland","s_genre":"Art pop electropop minimal","s_length":"3:10","s_label":"Lava Republic Universal Virgin","s_writer":"Lorde Joel Little","s_producer":"Joel Little","s_title":"\"400 Lux\" \"Bravado\" \"Tennis Court\""}

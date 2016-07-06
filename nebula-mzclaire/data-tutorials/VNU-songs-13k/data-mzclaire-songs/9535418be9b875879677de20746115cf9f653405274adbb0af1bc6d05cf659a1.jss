@@ -1,0 +1,1 @@
+{"s_released":"June 9, 2014 (2014-06-09)","s_format":null,"s_recorded":"2013","s_genre":"Synthpop","s_length":"3:57","s_label":"Capitol","s_writer":"Sky Ferreira Ariel Rechtshaid Justin Raisen Daniel Nigro Jordan Benik","s_producer":"Ariel Rechtshaid Justin Raisen","s_title":"\"I Blame Myself\""}

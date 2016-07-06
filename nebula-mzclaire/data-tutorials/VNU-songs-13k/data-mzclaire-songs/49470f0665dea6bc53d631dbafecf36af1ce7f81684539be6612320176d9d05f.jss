@@ -1,0 +1,1 @@
+{"s_released":"February 21, 2012 (2012-02-21)","s_format":null,"s_recorded":"2011","s_genre":"Club[1] pop rap[2] R&B[3]","s_length":"4:37","s_label":"Aspire Young Money Cash Money Republic","s_writer":"Aubrey Graham Noah Shebib Anthony Palman Jamie Smith Brook Benton","s_producer":"Jamie xx 40","s_title":"\"Take Care\""}

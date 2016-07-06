@@ -1,0 +1,1 @@
+{"s_released":"February 1987 (1987-02)","s_format":"7\", 12\"","s_recorded":"December 1986 (1986-12) at Alaska Studios in London, United Kingdom","s_genre":"Alternative rock, indie pop","s_length":"2:30","s_label":"Lazy","s_writer":"David Conway, Kevin Shields","s_producer":"My Bloody Valentine","s_title":"\"Paint a Rainbow\"/\"Kiss the Eclipse/\"Sylvie's Head\""}

@@ -1,0 +1,1 @@
+{"s_released":"August 28, 2000","s_format":"Maxi single, 12\", CD single","s_recorded":"Fall 1999, Triangle Sound Studios (Atlanta, Georgia)","s_genre":"R&B","s_length":"3:56","s_label":"Interscope","s_writer":"Christopher Stewart, Traci Hale, Thabiso \"Tab\" Nkhereanyne","s_producer":"Platinum (ARIA)","s_title":"\"Case of the Ex\""}

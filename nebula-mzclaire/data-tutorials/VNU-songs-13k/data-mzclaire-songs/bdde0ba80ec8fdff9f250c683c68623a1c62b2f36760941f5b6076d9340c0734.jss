@@ -1,0 +1,1 @@
+{"s_released":"October 23, 2001","s_format":"CD single, 12\" single","s_recorded":"2001","s_genre":"Pop R&B adult contemporary","s_length":"4:21 3:58 (Edit)","s_label":"Virgin","s_writer":"Mariah Carey, James Harris, Terry Lewis","s_producer":"Carey, Jam and Lewis","s_title":"\"Never Too Far\""}

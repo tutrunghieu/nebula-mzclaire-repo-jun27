@@ -1,0 +1,1 @@
+{"s_released":"April 2, 2012","s_format":"Digital download","s_recorded":"2011–12","s_genre":"Hip hop pop rap","s_length":"4:06","s_label":"Young Money, Cash Money, Universal Republic","s_writer":"Onika Maraj, Larry Nacht, Safarree Samuels, Winston Thomas","s_producer":"Blackout","s_title":"\"Roman Holiday\""}

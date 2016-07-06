@@ -1,0 +1,1 @@
+{"s_released":"30 May 2005","s_format":null,"s_recorded":"London, England","s_genre":"Rock, blues rock","s_length":"3:56","s_label":"Big Brother","s_writer":"Noel Gallagher","s_producer":"Noel Gallagher & Dave Sardy","s_title":"\"Mucky Fingers\""}

@@ -1,0 +1,1 @@
+{"s_released":"March 2, 1985","s_format":"12\" 7\" CD cassette","s_recorded":"1984","s_genre":"Pop","s_length":"4:04","s_label":"Geffen CBS (1985) Sire Warner Bros.","s_writer":"John Bettis Jon Lind","s_producer":"John Benitez","s_title":"\"No More Words\""}

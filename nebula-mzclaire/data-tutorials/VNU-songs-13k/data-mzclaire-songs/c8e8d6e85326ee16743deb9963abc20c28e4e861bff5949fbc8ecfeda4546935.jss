@@ -1,0 +1,1 @@
+{"s_released":"April 16, 1991 (USA)","s_format":"CD single, Cassette single, 7\" single","s_recorded":"1989–1990","s_genre":"R&B","s_length":"5:42 (Album Version) 5:00 (Radio Edit)","s_label":"Arista","s_writer":"L.A. Reid, Babyface","s_producer":"L.A. Reid, Babyface","s_title":"\"After We Make Love\""}

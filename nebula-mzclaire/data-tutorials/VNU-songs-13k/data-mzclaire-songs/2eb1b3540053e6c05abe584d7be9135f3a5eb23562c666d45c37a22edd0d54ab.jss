@@ -1,0 +1,1 @@
+{"s_released":"April 3, 2013 (2013-04-03)","s_format":null,"s_recorded":"2012; Westlake Recording Studios, (Los Angeles, California) and Triangle Studios, (Atlanta, Georgia)","s_genre":"R&B","s_length":"4:16","s_label":"Def Jam SRP","s_writer":"Nayvadius Wilburn Denisia \"Blu June\" Andrews Robyn Fenty","s_producer":"Luney Tunez Mex Manny Future","s_title":"\"Loveeeeeee Song\""}

@@ -1,0 +1,1 @@
+{"s_released":"March 15, 1997","s_format":"CD, promo single","s_recorded":"June 6, 1989","s_genre":"Latin pop","s_length":"3:44","s_label":"EMI","s_writer":"Michael Masser, Norman Saleet","s_producer":"Michael Masser, Abraham Quintanilla, Jr.","s_title":"\"Where Did the Feeling Go?\""}

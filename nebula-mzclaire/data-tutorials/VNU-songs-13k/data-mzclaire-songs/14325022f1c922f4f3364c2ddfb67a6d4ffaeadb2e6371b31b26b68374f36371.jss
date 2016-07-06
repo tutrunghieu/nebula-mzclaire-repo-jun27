@@ -1,0 +1,1 @@
+{"s_released":"April 2, 2012 (2012-04-02)","s_format":null,"s_recorded":"2012, Conway Studios (Los Angeles; California)","s_genre":"Eurodance Europop","s_length":"3:15","s_label":"Young Money Cash Money Universal Republic","s_writer":"Onika Maraj Nadir Khayat Alex Papaconstantinou Björn Djupström Bilal Hajji Wayne Hector","s_producer":"RedOne Alex P.","s_title":"\"Whip It\""}

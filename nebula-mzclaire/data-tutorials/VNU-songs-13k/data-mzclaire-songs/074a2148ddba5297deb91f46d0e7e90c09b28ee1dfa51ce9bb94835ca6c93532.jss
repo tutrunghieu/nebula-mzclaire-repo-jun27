@@ -1,0 +1,1 @@
+{"s_released":null,"s_format":null,"s_recorded":"January 2010","s_genre":null,"s_length":"4:20 (Studio version) 4:27 (Live version)","s_label":"MTV","s_writer":"Shawn Carter, David Evans, Paul Hewson, Robyn Fenty [1]","s_producer":"Swizz Beatz, Declan Gaffney","s_title":"\"Stranded (Haiti Mon Amour)\""}

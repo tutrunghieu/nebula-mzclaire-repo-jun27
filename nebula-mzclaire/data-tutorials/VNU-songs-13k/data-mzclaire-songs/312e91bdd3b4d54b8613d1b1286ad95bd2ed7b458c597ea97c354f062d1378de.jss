@@ -1,0 +1,1 @@
+{"s_released":"September 7, 2012","s_format":"Digital download","s_recorded":"2011: Sofitel Paris Le Faubourg, Room 538","s_genre":"Dancehall dubstep hip hop","s_length":"3:39","s_label":"Def Jam SRP","s_writer":"Candice Pillay D. Abernathy Shondrae Crawford Robyn Fenty","s_producer":"Shondrae \"Mr. Bangladesh\" Crawford Kuk Harrell","s_title":"\"Cockiness (Love It) Remix\""}

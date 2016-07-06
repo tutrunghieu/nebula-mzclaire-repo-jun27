@@ -1,0 +1,1 @@
+{"s_released":"11 March 2010 (2010-03-11)","s_format":"CD single digital download","s_recorded":"2009; Metropolis Studios London, United Kingdom","s_genre":"Pop[1][2]","s_length":"3:40","s_label":"Fascination","s_writer":"Ingrid Michaelson Marshall Altman","s_producer":"Syience","s_title":"\"Just Let Me Go\""}

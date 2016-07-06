@@ -1,0 +1,1 @@
+{"s_released":"February 25, 1988","s_format":"CD single, Cassette single, 7\" single","s_recorded":"1986","s_genre":"R&B pop","s_length":"4:38","s_label":"Arista","s_writer":"Frank Wildhorn, Chuck Jackson","s_producer":"Narada Michael Walden For Perfection Light Productions","s_title":"\"Where You Are\" \"If You Say My Eyes Are Beautiful\""}

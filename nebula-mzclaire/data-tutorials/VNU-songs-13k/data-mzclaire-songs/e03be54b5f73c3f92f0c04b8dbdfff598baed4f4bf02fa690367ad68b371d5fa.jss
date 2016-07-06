@@ -1,0 +1,1 @@
+{"s_released":"May 1, 1995","s_format":"CD single, vinyl, cassette","s_recorded":"Bearsville Studios in Bearsville, New York","s_genre":"Alternative metal, alternative rock","s_length":"4:28","s_label":"Slash Records","s_writer":"Music: Mike Patton, Mike Bordin, Billy Gould Lyrics: Mike Patton","s_producer":"Andy Wallace","s_title":"\"Ricochet\""}

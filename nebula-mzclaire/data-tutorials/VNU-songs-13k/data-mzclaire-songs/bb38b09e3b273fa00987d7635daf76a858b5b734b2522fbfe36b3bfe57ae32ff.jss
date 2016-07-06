@@ -1,0 +1,1 @@
+{"s_released":"April 6, 2012 (2012-04-06)","s_format":"7\" CD single digital download","s_recorded":"2011","s_genre":"Trip hop","s_length":"3:30","s_label":"Interscope Polydor Stranger","s_writer":"Lana Del Rey Emile Haynie Dan Heath","s_producer":"Emile Haynie","s_title":"\"Carmen\""}

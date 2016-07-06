@@ -1,0 +1,1 @@
+{"s_released":"January 29, 2009","s_format":null,"s_recorded":"March–July 2008 at Mountain View Studios, Abbotsford, British Columbia","s_genre":"Alternative metal, stoner rock[1]","s_length":"3:28","s_label":"Roadrunner","s_writer":"Chad Kroeger, Mike Kroeger, Joey Moi","s_producer":"Robert John \"Mutt\" Lange, Nickelback, Joey Moi","s_title":"\"Burn It to the Ground\""}

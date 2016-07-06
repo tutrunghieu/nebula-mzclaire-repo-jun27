@@ -1,0 +1,1 @@
+{"s_released":"October 29, 2002","s_format":"CD single","s_recorded":"2002","s_genre":"Dance-pop[27]","s_length":"3:06","s_label":"Walt Disney Universal","s_writer":"Hugo Peretti Luigi Creatore George David Weiss","s_producer":"Mark Hammond","s_title":"\"Can't Help Falling in Love\""}

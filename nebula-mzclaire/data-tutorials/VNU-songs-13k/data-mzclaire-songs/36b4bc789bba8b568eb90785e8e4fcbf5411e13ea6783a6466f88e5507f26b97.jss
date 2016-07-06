@@ -1,0 +1,1 @@
+{"s_released":"June 16, 2009 (2009-06-16)","s_format":"Digital download CD","s_recorded":"2009","s_genre":"R&B hip hop","s_length":"4:02","s_label":"Island","s_writer":"Mariah Carey Terius Nash Christopher Stewart","s_producer":"Carey Stewart Nash","s_title":"\"Obsessed\""}

@@ -1,0 +1,1 @@
+{"s_released":"January 12, 1996 (1996-01-12) (see release history)","s_format":"CD single, 12\" single, Cassette","s_recorded":"January 1995 Bananaboat Studios (Burbank, California)","s_genre":"Electropop","s_length":"4:23","s_label":"EMI Records","s_writer":"Mark Goldenberg, Kit Hain","s_producer":"Guy Roche","s_title":"\"Captive Heart\""}

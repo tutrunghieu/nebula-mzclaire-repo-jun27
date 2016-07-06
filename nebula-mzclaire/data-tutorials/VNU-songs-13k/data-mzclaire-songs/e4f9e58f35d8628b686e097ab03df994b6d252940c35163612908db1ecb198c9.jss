@@ -1,0 +1,1 @@
+{"s_released":"March 18, 2016 (2016-03-18)","s_format":"Digital download","s_recorded":"June 2015","s_genre":"Deep house","s_length":"2:57","s_label":"Republic","s_writer":"Ariana Grande Tommy Brown Victoria McCants Khaled Rohaim Nicholas Audino Lewis Hughes Willie Tafa","s_producer":"Twice as Nice Brown","s_title":"\"Be Alright\""}

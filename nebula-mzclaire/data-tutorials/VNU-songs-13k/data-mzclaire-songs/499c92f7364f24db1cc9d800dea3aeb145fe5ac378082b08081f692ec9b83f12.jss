@@ -1,0 +1,1 @@
+{"s_released":"March 6, 2000","s_format":"CD single, \"12","s_recorded":"2000","s_genre":"Hip hop","s_length":"3:41","s_label":"Def Jam, Desert Storm","s_writer":"Samuel Barnes, Teron Beal, Shawn Carter, Larry Gates, Marcel Hall, Mýa Harrison, Jean Claude-Oliver, Marlon Williams","s_producer":"Trackmasters","s_title":"\"Best of Me Part II\""}

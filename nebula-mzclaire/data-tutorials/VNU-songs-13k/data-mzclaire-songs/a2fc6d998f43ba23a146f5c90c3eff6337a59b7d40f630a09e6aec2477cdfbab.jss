@@ -1,0 +1,1 @@
+{"s_released":"July 12, 2005 (2005-07-12)","s_format":"CD digital download","s_recorded":"2004","s_genre":"R&B, pop","s_length":"3:52","s_label":"Island Mercury","s_writer":"Mariah Carey Jermaine Dupri Bryan-Michael Cox Johntá Austin","s_producer":"Mariah Carey Jermaine Dupri Bryan-Michael Cox Johntá Austin","s_title":"\"Get Your Number\""}

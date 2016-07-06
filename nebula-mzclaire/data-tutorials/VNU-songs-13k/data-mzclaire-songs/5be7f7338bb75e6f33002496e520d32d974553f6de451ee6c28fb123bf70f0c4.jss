@@ -1,0 +1,1 @@
+{"s_released":"8 August 2005 (2005-08-08) (Europe)","s_format":"CD, download, 12\", DVD","s_recorded":"Bath, England","s_genre":"Synthpop, glam rock","s_length":"3:24","s_label":"Mute","s_writer":"Alison Goldfrapp, Will Gregory","s_producer":"Alison Goldfrapp, Will Gregory","s_title":"\"All Night Operator (Part 1)\""}

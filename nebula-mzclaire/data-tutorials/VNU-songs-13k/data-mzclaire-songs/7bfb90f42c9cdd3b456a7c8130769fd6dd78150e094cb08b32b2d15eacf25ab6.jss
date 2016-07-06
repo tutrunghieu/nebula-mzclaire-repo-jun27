@@ -1,0 +1,1 @@
+{"s_released":"June 20, 1996","s_format":"CD single","s_recorded":"1990","s_genre":null,"s_length":"2:54 (original version) 3:43 (remix version)","s_label":"EMI Latin","s_writer":"A.B. Quintanilla III, Pete Astudillo","s_producer":"A.B. Quintanilla III","s_title":"\"No Quiero Saber\""}

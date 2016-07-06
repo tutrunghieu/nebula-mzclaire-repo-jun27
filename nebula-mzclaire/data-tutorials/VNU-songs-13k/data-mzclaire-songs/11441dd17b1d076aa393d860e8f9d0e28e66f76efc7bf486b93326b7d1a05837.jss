@@ -1,0 +1,1 @@
+{"s_released":"5 November 2013 (2013-11-05)","s_format":"Digital download","s_recorded":"2013","s_genre":"Christmas","s_length":"3:59","s_label":"RCA Syco","s_writer":"Leona Lewis Richard Stannard Iain James Jez Ashurst Bradford Ellis","s_producer":"Richard \"Biff\" Stannard Ash Howes Leona Lewis (vocal prod.)","s_title":"\"One More Sleep\""}

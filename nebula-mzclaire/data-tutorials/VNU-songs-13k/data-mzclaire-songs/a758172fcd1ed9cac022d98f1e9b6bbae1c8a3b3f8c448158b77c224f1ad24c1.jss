@@ -1,0 +1,1 @@
+{"s_released":"30 June 2008 (2008-06-30)","s_format":"CD single, Digital download, 7\" picture disc","s_recorded":null,"s_genre":"Folktronica","s_length":"4:07 (album version) 3:40 (edit)","s_label":"Mute","s_writer":"Alison Goldfrapp, Will Gregory","s_producer":"Goldfrapp, Gregory","s_title":"\"Caravan Girl\""}

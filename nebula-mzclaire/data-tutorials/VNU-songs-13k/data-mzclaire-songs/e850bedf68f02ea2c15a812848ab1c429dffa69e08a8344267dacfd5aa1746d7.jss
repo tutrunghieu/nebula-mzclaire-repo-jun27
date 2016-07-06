@@ -1,0 +1,1 @@
+{"s_released":"June 21, 1993","s_format":"CD single, cassette single, 7\" single, 12\" single, Video promo","s_recorded":"1991","s_genre":"R&B","s_length":"4:24","s_label":"Arista","s_writer":"Jud Friedman, Allan Rich","s_producer":"David Foster","s_title":"\"After We Make Love\" \"For the Love of You\""}

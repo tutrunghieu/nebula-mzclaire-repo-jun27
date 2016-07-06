@@ -1,0 +1,1 @@
+{"s_released":"January 22, 2003 (2003-01-22)","s_format":"CD Single","s_recorded":null,"s_genre":null,"s_length":"11:44","s_label":"Toshiba EMI / Virgin Music","s_writer":"Ringo Sheena","s_producer":"Uni Inoue","s_title":"\"Stem\""}

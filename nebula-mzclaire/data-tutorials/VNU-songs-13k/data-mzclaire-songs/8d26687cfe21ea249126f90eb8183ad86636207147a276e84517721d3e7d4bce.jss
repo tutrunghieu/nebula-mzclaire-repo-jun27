@@ -1,0 +1,1 @@
+{"s_released":"October 11, 2004","s_format":"12\" CD","s_recorded":"2003","s_genre":"Piano rock","s_length":"4:41","s_label":"Polydor","s_writer":"Babydaddy Jake Shears","s_producer":"Scissor Sisters","s_title":"\"Mary\""}

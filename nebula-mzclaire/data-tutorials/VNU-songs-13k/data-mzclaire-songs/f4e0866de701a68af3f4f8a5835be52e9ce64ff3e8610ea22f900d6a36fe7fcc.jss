@@ -1,0 +1,1 @@
+{"s_released":"24 January 2014 (2014-01-24)","s_format":null,"s_recorded":"2013","s_genre":"Pop rock power pop","s_length":"2:56","s_label":"Syco Columbia","s_writer":"Julian Bunetta Jamie Scott[1] John Ryan Louis Tomlinson Liam Payne","s_producer":"Julian Bunetta John Ryan","s_title":"\"Midnight Memories\""}

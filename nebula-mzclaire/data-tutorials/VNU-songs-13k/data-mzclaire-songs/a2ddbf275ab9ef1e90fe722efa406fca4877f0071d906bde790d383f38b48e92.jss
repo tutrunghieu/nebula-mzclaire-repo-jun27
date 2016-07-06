@@ -1,0 +1,1 @@
+{"s_released":"April 16, 2013 (2013-04-16)","s_format":"Digital download","s_recorded":null,"s_genre":"Electropop hip hop","s_length":"5:07","s_label":"Interscope","s_writer":"William Adams Lukasz Gottwald Benjamin Levin Henry Walter","s_producer":"Dr. Luke Benny Blanco Cirkut","s_title":"\"Fall Down\""}

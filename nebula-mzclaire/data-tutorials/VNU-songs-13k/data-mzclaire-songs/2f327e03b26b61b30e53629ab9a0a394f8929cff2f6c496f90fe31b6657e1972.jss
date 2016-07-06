@@ -1,0 +1,1 @@
+{"s_released":"February 14, 1961","s_format":"7\"","s_recorded":"January 30, 1961 RCA Studio A (New York City)","s_genre":"Rhythm and blues soul","s_length":"2:27","s_label":"RCA Victor","s_writer":"Roy Alfred Del Serino","s_producer":"Hugo & Luigi","s_title":"\"What Do You Say\""}

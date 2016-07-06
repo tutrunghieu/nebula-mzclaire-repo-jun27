@@ -1,0 +1,1 @@
+{"s_released":"April 16, 2013 (2013-04-16)","s_format":"Digital download","s_recorded":null,"s_genre":"Synthpop dance-pop","s_length":"4:09","s_label":"Capitol Polydor","s_writer":"Sky Ferreira Dev Hynes Ariel Rechtshaid","s_producer":"Dev Hynes Ariel Rechtshaid","s_title":"\"Sad Dream\""}

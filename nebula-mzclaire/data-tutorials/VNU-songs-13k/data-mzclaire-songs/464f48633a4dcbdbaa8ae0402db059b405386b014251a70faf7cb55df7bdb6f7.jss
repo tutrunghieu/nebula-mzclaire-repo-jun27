@@ -1,0 +1,1 @@
+{"s_released":"3 December 1991","s_format":"CD 7\" 12\"","s_recorded":"October 1972","s_genre":"Hard rock","s_length":"3:04","s_label":"Geffen","s_writer":"Paul McCartney Linda McCartney","s_producer":"Mike Clink Guns N' Roses","s_title":"\"Live and Let Die\" (Live at Wembley Stadium, London on 31 August 1991 ) \"Shadow of Your Love\" (Live)"}

@@ -1,0 +1,1 @@
+{"s_released":"September 14, 2010 (see release history)","s_format":"Digital download","s_recorded":"2010","s_genre":"R&B","s_length":"3:55","s_label":"Young Money, Cash Money, Universal Motown","s_writer":"Onika Maraj, Andrew Thielk, Joe Satriani","s_producer":"Gold (RIAA)","s_title":"\"Right Thru Me\""}

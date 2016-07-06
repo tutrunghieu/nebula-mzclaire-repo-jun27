@@ -1,0 +1,1 @@
+{"s_released":"1993","s_format":null,"s_recorded":"A&M Studios, Record Plant Studios, Studio 56, Image Recording, Conway Studios & Metalworks Recording Studios 1990–1991","s_genre":"Hard rock, heavy metal","s_length":"4:17","s_label":"Geffen","s_writer":"Axl Rose","s_producer":"Mike Clink, Guns N' Roses","s_title":"\"Dead Horse\""}

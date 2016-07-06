@@ -1,0 +1,1 @@
+{"s_released":"November 17, 1998 (1998-11-17)","s_format":"CD single","s_recorded":"September 1998[1]","s_genre":"R&B urban hip hop","s_length":"4:04","s_label":"Interscope","s_writer":"Mason Betha Michael Foster Madeline Nelson Teddy Riley Tamara Savage","s_producer":"Platinum (RIANZ)","s_title":"\"Take Me There\""}

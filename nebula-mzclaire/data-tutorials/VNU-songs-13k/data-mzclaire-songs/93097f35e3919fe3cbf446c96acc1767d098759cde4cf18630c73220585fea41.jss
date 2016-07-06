@@ -1,0 +1,1 @@
+{"s_released":"July 22, 1996 (1996-07-22)","s_format":null,"s_recorded":"October 1995","s_genre":"R&B","s_length":"4:37","s_label":"Arista","s_writer":"Babyface","s_producer":"Babyface","s_title":"\"I Wanna Dance With Somebody (Who Loves Me)\" [Junior's Happy Hand Bag Mix]"}

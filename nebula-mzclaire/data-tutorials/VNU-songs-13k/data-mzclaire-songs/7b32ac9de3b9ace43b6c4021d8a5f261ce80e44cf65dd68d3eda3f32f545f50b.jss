@@ -1,0 +1,1 @@
+{"s_released":"April 22, 2011 (2011-04-22)","s_format":"Digital download","s_recorded":"2009; Conway Studios, Hollywood","s_genre":"Electropop","s_length":"4:27","s_label":"Island","s_writer":"Diana Gordon Dernst Emile II","s_producer":"D'Mile Kuk Harrell","s_title":"\"(What Is) Love?\""}

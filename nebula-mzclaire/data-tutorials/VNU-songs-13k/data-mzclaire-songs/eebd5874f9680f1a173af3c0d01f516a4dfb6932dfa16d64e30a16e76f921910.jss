@@ -1,0 +1,1 @@
+{"s_released":"April 14, 2014 (2014-04-14)","s_format":"Digital download","s_recorded":"Easy Eye Sound (Nashville, Tennessee) The Bridge (Glendale, California)","s_genre":"Psychedelic rock[1] desert rock surf rock[2][3]","s_length":"4:16","s_label":"Interscope Polydor","s_writer":"Lana Del Rey Rick Nowels","s_producer":"Dan Auerbach","s_title":"\"West Coast\""}

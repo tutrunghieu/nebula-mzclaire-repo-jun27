@@ -1,0 +1,1 @@
+{"s_released":"January 11, 1985","s_format":"Vinyl Record (7\" 45 RPM)","s_recorded":"1984","s_genre":"R&B, Soul","s_length":"5:24 (Album version) 4:03 (Single version)","s_label":"Arista","s_writer":"Kashif, La La","s_producer":"Kashif","s_title":"\"Someone for Me\""}

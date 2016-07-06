@@ -1,0 +1,1 @@
+{"s_released":"August 22, 1995 (North America)","s_format":"CD single, vinyl single, cassette single","s_recorded":"1993-1995 (remix)","s_genre":"R&B soul pop","s_length":"5:52 (album version) 4:47 (Soulpower Mix)","s_label":"Atlantic","s_writer":"Keith Crouch, Glenn McKinney","s_producer":"Keith Crouch (album) Soulshock & Karlin (single)","s_title":"\"Brokenhearted\""}

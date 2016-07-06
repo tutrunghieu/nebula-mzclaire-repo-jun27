@@ -1,0 +1,1 @@
+{"s_released":"August 1968 (US) 20 July 1971 (UK)","s_format":"7\"","s_recorded":"March–April and May 1968","s_genre":"Hard rock[1] rock and roll[2] raga rock[3]","s_length":"3:09 3:14 (Album version)","s_label":"London 45 LON 909 (US)","s_writer":"Jagger/Richards","s_producer":"Jimmy Miller","s_title":"\"No Expectations\" (US) \"Surprise, Surprise\" (UK)"}

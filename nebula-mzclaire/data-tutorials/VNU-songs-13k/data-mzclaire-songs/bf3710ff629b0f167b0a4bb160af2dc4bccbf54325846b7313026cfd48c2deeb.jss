@@ -1,0 +1,1 @@
+{"s_released":"June 9, 1998 (1998-06-09)","s_format":"CD single, cassette single","s_recorded":"1997","s_genre":"Hip hop, R&B","s_length":"4:26","s_label":"Interscope","s_writer":"Barry Gibb, Maurice Gibb, Robin Gibb, Wyclef Jean, Russell Jones, Pras","s_producer":"Jerry 'Wonda' Duplessis, Wyclef Jean","s_title":"\"Ghetto Supastar (That Is What You Are)\""}

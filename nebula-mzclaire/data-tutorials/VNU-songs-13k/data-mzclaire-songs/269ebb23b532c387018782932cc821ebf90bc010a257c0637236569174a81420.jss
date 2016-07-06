@@ -1,0 +1,1 @@
+{"s_released":"February 14, 2012","s_format":"CD single, digital download","s_recorded":"2011 Mountain View Studios, Vancouver, Canada","s_genre":"Alternative metal","s_length":"3:20","s_label":"Roadrunner","s_writer":"Chad Kroeger","s_producer":"Nickelback","s_title":"\"This Means War\""}

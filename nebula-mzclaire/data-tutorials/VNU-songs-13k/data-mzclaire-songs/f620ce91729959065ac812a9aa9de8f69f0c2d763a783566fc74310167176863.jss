@@ -1,0 +1,1 @@
+{"s_released":"15 June 1980","s_format":"7\", 12\"","s_recorded":"1980","s_genre":"Pop, new wave, synthpop","s_length":"4:24","s_label":"UK Rialto Records","s_writer":"James Warren","s_producer":null,"s_title":"\"Perfect Hostess\""}

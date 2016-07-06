@@ -1,0 +1,1 @@
+{"s_released":null,"s_format":null,"s_recorded":"2012; Sarm Studios and Metropolis Studios (London) R Studios (Los Angeles)","s_genre":"Hip hop rave","s_length":"3:42","s_label":"Def Jam SRP","s_writer":"David Guetta Giorgio Tuinfort Terius Nash Robyn Fenty","s_producer":"David Guetta Giorgio Tuinfort Terius Nash","s_title":"\"Phresh Out the Runway\""}

@@ -1,0 +1,1 @@
+{"s_released":"February 1997","s_format":"CD single","s_recorded":"1996","s_genre":"Alternative rock, post-grunge","s_length":"3:41","s_label":"Atlantic","s_writer":"Ed Roland","s_producer":"Ed Roland, Anthony J. Resta","s_title":"\"Precious Declaration\""}

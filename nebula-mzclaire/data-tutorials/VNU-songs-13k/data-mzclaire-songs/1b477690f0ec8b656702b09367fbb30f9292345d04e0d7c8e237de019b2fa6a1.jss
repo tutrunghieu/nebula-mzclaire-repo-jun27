@@ -1,0 +1,1 @@
+{"s_released":"10 August 2010 (2010-08-10)","s_format":"CD single digital download","s_recorded":null,"s_genre":"Synthpop disco pop","s_length":"3:16","s_label":"will.i.am Cherrytree KonLive Interscope","s_writer":"Natalia Kills Martin Kierszenbaum Akon Giorgio Tuinfort","s_producer":"Akon Giorgio Tuinfort Martin \"Cherry Cherry Boom Boom\" Kierszenbaum","s_title":"\"Mirrors\""}

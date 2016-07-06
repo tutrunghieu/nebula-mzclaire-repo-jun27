@@ -1,0 +1,1 @@
+{"s_released":"8 June 2010 (2010-06-08)","s_format":"CD single digital download","s_recorded":"2009 South Point Studios (Miami, Florida)","s_genre":"Dance-pop • Synthpop • R&B","s_length":"4:15","s_label":"Universal Republic","s_writer":"Enrique Iglesias Jamie Scott Mark Taylor","s_producer":"Mark Taylor","s_title":"\"Heartbeat\""}

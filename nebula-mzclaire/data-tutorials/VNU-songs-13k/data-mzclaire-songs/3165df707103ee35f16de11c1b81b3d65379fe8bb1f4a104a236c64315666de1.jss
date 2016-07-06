@@ -1,0 +1,1 @@
+{"s_released":"October 10, 2010","s_format":"CD single, vinyl, digital download","s_recorded":"2010","s_genre":"Electronica","s_length":"3:08","s_label":"Ego Music, Sellout Sessions","s_writer":"Don Pepijn Schipper, Martina Sorbara","s_producer":"Don Diablo","s_title":"\"Animale\""}

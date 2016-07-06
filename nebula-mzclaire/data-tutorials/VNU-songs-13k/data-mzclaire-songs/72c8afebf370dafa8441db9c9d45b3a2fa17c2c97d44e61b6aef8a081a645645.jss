@@ -1,0 +1,1 @@
+{"s_released":"November 17, 1998 (1998-11-17)","s_format":"CD single, 12\" single","s_recorded":"1998","s_genre":"R&B Pop adult contemporary","s_length":"4:10","s_label":"Arista","s_writer":"Rhett Lawrence, Travon Potts","s_producer":"Platinum (RIAA) Gold (ARIA)","s_title":"\"Angel of Mine\""}

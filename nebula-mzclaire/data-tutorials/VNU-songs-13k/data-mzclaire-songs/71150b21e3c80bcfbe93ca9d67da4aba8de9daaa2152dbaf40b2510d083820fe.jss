@@ -1,0 +1,1 @@
+{"s_released":"January 24, 2011","s_format":"Music download","s_recorded":"2008; Roc the Mic Studios, Strawberrybee Productions, GAD Studios","s_genre":"Country","s_length":"3:32 (radio edit) 3:52 (album version)","s_label":"Valory/Starstruck","s_writer":"BC Jean Toby Gad","s_producer":"Dann Huff","s_title":"\"If I Were a Boy\""}

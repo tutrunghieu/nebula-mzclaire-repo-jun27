@@ -1,0 +1,1 @@
+{"s_released":"January 23, 2007 (2007-01-23)","s_format":"CD single","s_recorded":"2006","s_genre":"Hip hop R&B","s_length":"4:17 3:18 (Beyoncé version)","s_label":"Roc-A-Fella Def Jam","s_writer":"Shawn Carter Shaffer Smith Reggie \"Syience\" Perry","s_producer":"Reggie \"Syience\" Perry Ne-Yo","s_title":"\"Hollywood\""}

@@ -1,0 +1,1 @@
+{"s_released":"September 13, 2005 (2005-09-13) (U.S. download)","s_format":"Digital download CD single 12\"","s_recorded":"July 4, 2005; Brooklyn Academy of Music","s_genre":"R&B","s_length":"4:14","s_label":"J","s_writer":"Alicia Keys Kanye West Harold Lilly Garry Glenn","s_producer":"Alex Coletti","s_title":"\"Unbreakable\""}

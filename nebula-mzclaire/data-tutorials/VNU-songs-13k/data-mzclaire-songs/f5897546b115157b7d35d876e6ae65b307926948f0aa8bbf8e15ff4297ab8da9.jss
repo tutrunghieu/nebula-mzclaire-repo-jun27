@@ -1,0 +1,1 @@
+{"s_released":"April 11, 2011 (2011-04-11)","s_format":"CD single digital download","s_recorded":"2010; Maratone Studios, (Stockholm, Sweden)","s_genre":"Pop punk[1] power pop pop rock","s_length":"3:29","s_label":"RCA","s_writer":"Avril Lavigne Max Martin Shellback","s_producer":"Max Martin Shellback","s_title":"\"Smile\""}

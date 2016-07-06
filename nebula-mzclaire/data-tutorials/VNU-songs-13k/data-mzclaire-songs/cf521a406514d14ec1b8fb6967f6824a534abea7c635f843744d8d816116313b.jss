@@ -1,0 +1,1 @@
+{"s_released":"26 March 1988","s_format":"7 inch, 12 inch, Cassette, CD","s_recorded":"1987","s_genre":"Hard rock","s_length":"3:45","s_label":"Atlantic Records","s_writer":null,"s_producer":"Harry Vanda, George Young","s_title":"\"Kissin' Dynamite\", \"Borrowed Time\""}

@@ -1,0 +1,1 @@
+{"s_released":"30 September 2013","s_format":"Digital download","s_recorded":"2013 Golden Age Studios (Auckland)","s_genre":"Electronica electropop","s_length":"4:18","s_label":"UMG","s_writer":"Ella Yelich-O'Connor Joel Little","s_producer":"Little Yelich-O'Connor (add.)","s_title":"\"Ribs\""}

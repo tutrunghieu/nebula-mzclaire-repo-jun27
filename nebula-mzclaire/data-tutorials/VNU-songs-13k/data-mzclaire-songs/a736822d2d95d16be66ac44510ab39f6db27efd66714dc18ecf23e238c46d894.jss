@@ -1,0 +1,1 @@
+{"s_released":"November 5, 2013 (2013-11-05)","s_format":"Digital download","s_recorded":"2013","s_genre":"Pop R&B","s_length":"4:07","s_label":"Epic Freebandz A1","s_writer":"Nayvadius Wilburn Miley Cyrus Benjamin Hudson McIldowie","s_producer":"Mike Will Made It","s_title":"\"Real and True\""}

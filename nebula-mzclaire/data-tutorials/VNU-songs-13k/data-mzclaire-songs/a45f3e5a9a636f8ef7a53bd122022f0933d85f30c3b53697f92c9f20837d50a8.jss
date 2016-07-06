@@ -1,0 +1,1 @@
+{"s_released":"June 1976","s_format":"7 inch","s_recorded":"January 1976","s_genre":"Hard rock, blues rock","s_length":"4:36","s_label":"Albert Productions","s_writer":"Angus Young Malcolm Young Bon Scott","s_producer":"Harry Vanda, George Young","s_title":"\"Fling Thing\" (Australia and UK) \"Show Business\" (US)"}

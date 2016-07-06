@@ -1,0 +1,1 @@
+{"s_released":"October 10, 2002 (2002-10-10)","s_format":"CD single 12\" single","s_recorded":"August 2002","s_genre":"East Coast hip hop R&B","s_length":"3:25","s_label":"Roc-A-Fella Def Jam","s_writer":"Shawn Carter Kanye West Prince Nelson Tupac Shakur Darryl Harper Ricky Rouse Tyrone Wrice","s_producer":"Kanye West","s_title":"\"'03 Bonnie & Clyde\""}

@@ -1,0 +1,1 @@
+{"s_released":"April 1, 2011 (2011-04-01)","s_format":"Digital download","s_recorded":null,"s_genre":"R&B pop","s_length":"3:20","s_label":"Island","s_writer":"Taio Cruz Mikkel S. Eriksen Tor Erik Hermansen Dwayne Carter","s_producer":"Stargate Kuk Harrell","s_title":"\"I'm Into You\""}

@@ -1,0 +1,1 @@
+{"s_released":"1979","s_format":"12 inch","s_recorded":"1979","s_genre":"Hard rock, blues rock","s_length":"3:23","s_label":"Atlantic","s_writer":"Angus Young, Malcolm Young and Bon Scott.","s_producer":"Mutt Lange","s_title":"\"T.N.T.\""}

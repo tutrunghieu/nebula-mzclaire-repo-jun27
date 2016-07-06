@@ -1,0 +1,1 @@
+{"s_released":"April 1, 2003","s_format":"CD single, digital download, compact cassette","s_recorded":null,"s_genre":"Post-grunge alternative rock","s_length":"3:54","s_label":"Arista","s_writer":"Avril Lavigne, Clif Magness","s_producer":"Gold (RIAA)","s_title":"\"Losing Grip\""}

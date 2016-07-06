@@ -1,0 +1,1 @@
+{"s_released":"October 24, 2006 (2006-10-24)","s_format":null,"s_recorded":null,"s_genre":"Teen pop, pop rock","s_length":"03:05","s_label":"Walt Disney","s_writer":"Jennie Lurie, Ken Hauptman, Aruna Abrams","s_producer":"Antonina Armato, Tim James","s_title":"\"I Got Nerve\""}

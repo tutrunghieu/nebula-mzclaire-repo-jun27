@@ -1,0 +1,1 @@
+{"s_released":"1999","s_format":"LP","s_recorded":null,"s_genre":"Power metal","s_length":"11:08","s_label":"Victor Entertainment","s_writer":"ABBA","s_producer":"Benny Andersson Björn Ulvaeus","s_title":"\"Lay All Your Love On Me\""}

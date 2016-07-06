@@ -1,0 +1,1 @@
+{"s_released":"July 3, 1999 (See release history)","s_format":"CD single, DVD, Video single","s_recorded":"1998","s_genre":"R&B, reggae fusion","s_length":"4:20 (Album Version) 4:03 (Radio Edit)","s_label":"Arista","s_writer":"Wyclef Jean, Jerry Duplessis","s_producer":"Wyclef Jean, Jerry Duplessis","s_title":"\"My Love Is Your Love\""}

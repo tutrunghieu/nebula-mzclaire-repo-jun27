@@ -1,0 +1,1 @@
+{"s_released":"July 7, 1998","s_format":"CD single, 12\", cassette single","s_recorded":"1998","s_genre":"R&B hip hop soul","s_length":"3:55","s_label":"Arista","s_writer":"Jermaine Dupri, Pam Sawyer, Marilyn McLeod, Tamara Savage","s_producer":"Platinum (RIAA)","s_title":"\"Cross the Room\""}

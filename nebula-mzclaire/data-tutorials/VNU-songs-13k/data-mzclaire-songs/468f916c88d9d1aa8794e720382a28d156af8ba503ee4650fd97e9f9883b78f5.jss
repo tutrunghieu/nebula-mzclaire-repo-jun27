@@ -1,0 +1,1 @@
+{"s_released":"March 23, 2009","s_format":"CD single digital download 7\"","s_recorded":"Record Plant Studios Chalice Recording Studios","s_genre":"Electro-R&B","s_length":"3:33","s_label":"Streamline KonLive Cherrytree Interscope","s_writer":"Stefani Germanotta Nadir Khayat[1]","s_producer":"RedOne","s_title":"\"LoveGame\""}

@@ -1,0 +1,1 @@
+{"s_released":"2008","s_format":"Single","s_recorded":null,"s_genre":"Disco[1][2]","s_length":"3:53","s_label":"Polydor Records","s_writer":"Benny Andersson Björn Ulvaeus","s_producer":"Benny Andersson Björn Ulvaeus","s_title":"\"Gimme! Gimme! Gimme! (A Man After Midnight)\""}

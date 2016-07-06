@@ -1,0 +1,1 @@
+{"s_released":"August 12, 2014 (2014-08-12)","s_format":null,"s_recorded":"January - February 2013","s_genre":"Trap","s_length":"3:55","s_label":"Parkwood Columbia","s_writer":"Beyoncé Knowles Onika Maraj Terius Nash Chauncey Hollis Raymond DeAndre Martin","s_producer":"Hit-Boy Knowles Rey Reel Boots","s_title":"\"Flawless\""}

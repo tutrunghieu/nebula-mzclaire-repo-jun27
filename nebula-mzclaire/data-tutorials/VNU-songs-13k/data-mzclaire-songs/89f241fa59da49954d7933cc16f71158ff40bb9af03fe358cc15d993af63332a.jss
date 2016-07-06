@@ -1,0 +1,1 @@
+{"s_released":"14 August 1995","s_format":"CD, 7\" vinyl, 12\" vinyl, cassette","s_recorded":"Rockfield Studios, (South Wales), 1995","s_genre":"Britpop","s_length":"3:59","s_label":"Creation","s_writer":"Noel Gallagher","s_producer":"Owen Morris Noel Gallagher","s_title":"\"It's Better People\" \"Rockin' Chair\" \"Live Forever\" (Live at Glastonbury '95)"}

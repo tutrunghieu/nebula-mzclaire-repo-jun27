@@ -1,0 +1,1 @@
+{"s_released":"June 2002","s_format":"Download, 12\", CD maxi single","s_recorded":"2001; Patchwerk Studios (Atlanta, Georgia)","s_genre":"R&B dance-pop","s_length":"4:00","s_label":"J","s_writer":"Monica Arnold, LaShawn Daniels, James Ingram, Quincy Jones","s_producer":"Rodney \"Darkchild\" Jerkins","s_title":"\"All Eyez on Me\""}

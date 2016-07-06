@@ -1,0 +1,1 @@
+{"s_released":"26 April 2010 (2010-04-26)","s_format":null,"s_recorded":null,"s_genre":"Pop","s_length":"3:48","s_label":"Sony Music Greece/Day 1","s_writer":"Lene Dissing, Hanif Sabzevari, Dimitri Stassos, Marcus Winther-John, Doxas","s_producer":"Giorgos Sabanis","s_title":"\"Sose Me (Lights On)\""}

@@ -1,0 +1,1 @@
+{"s_released":"May 15, 1970","s_format":"7\" single","s_recorded":"1970","s_genre":"Pop","s_length":"4:33 (LP version) 3:40 (7\" single)","s_label":"A&M 1183","s_writer":"Burt Bacharach Hal David","s_producer":"Gold (RIAA)","s_title":"\"I Kept on Lovin' You\""}

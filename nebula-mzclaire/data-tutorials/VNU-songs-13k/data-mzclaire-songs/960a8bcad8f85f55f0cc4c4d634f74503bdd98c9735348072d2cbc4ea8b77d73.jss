@@ -1,0 +1,1 @@
+{"s_released":"August 3, 2003 (2003-08-03)","s_format":"CD 12\"","s_recorded":"2003, South Beach Studios (Miami, Florida)[1]","s_genre":"R&B dancehall reggae","s_length":"4:04","s_label":"Columbia","s_writer":"Beyoncé Knowles Scott Storch Sean Paul Henriques Robert Waller Shawn Carter","s_producer":"Scott Storch Beyoncé Knowles","s_title":"\"Summertime (Remix)\""}

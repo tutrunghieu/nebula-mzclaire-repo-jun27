@@ -1,0 +1,1 @@
+{"s_released":"5 June 2006 (2006-06-05)","s_format":"CD, digital download","s_recorded":null,"s_genre":"Hip hop","s_length":"03:18","s_label":"679","s_writer":"Mike Skinner","s_producer":"Mike Skinner","s_title":"\"Never Went to Church\""}

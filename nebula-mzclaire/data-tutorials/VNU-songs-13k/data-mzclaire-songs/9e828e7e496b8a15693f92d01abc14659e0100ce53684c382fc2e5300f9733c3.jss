@@ -1,0 +1,1 @@
+{"s_released":"6 January 2012","s_format":"Digital download","s_recorded":"2011","s_genre":"Electropop, synthpop","s_length":"3:26","s_label":"Polydor","s_writer":"Nicola Roberts, Dimitri Tikovoi, Maya Von Doll","s_producer":"Dimitri Tikovoi","s_title":"\"Memory of You\" (Solo version) \"Sticks + Stones\" (Demo)"}

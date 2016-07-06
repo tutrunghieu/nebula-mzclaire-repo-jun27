@@ -1,0 +1,1 @@
+{"s_released":"February 28, 1998","s_format":"CD","s_recorded":"December 1996–January 1997 Big Fish Studios (Encinitas, California)","s_genre":"Pop punk","s_length":"3:00","s_label":"Grilled Cheese","s_writer":"Mark Hoppus Tom DeLonge Scott Raynor","s_producer":"Mark Trombino","s_title":"\"Dick Lips\""}

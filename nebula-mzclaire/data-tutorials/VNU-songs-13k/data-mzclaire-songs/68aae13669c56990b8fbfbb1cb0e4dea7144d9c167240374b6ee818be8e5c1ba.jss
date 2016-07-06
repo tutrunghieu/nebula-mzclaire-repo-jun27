@@ -1,0 +1,1 @@
+{"s_released":"January 27, 2014 (2014-01-27)","s_format":"Digital download","s_recorded":"January 2014 (2014-01)","s_genre":"Hip hop R&B","s_length":"3:58 (solo version) 4:40 (album version)","s_label":"Capitol","s_writer":"Dijon McFarlane Asia Bryant Jennifer Lopez","s_producer":"DJ Mustard Cory Rooney Trevor Muzzy Asia Bryant","s_title":"\"Girls\""}

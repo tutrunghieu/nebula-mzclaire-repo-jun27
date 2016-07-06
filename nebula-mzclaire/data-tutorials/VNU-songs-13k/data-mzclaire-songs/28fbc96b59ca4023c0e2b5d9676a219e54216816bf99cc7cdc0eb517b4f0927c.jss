@@ -1,0 +1,1 @@
+{"s_released":"30 April 2007","s_format":"7\" 12\" CD digital download","s_recorded":"2012–13","s_genre":"Alternative R&B","s_length":"3:21","s_label":"Interscope","s_writer":"Amy Winehouse Mark Ronson","s_producer":"Hollywood Holt","s_title":"\"Back to Black\""}

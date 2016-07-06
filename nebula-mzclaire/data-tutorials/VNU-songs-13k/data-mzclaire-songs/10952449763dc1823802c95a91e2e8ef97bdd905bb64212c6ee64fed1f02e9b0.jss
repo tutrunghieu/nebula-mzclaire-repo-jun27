@@ -1,0 +1,1 @@
+{"s_released":"1977","s_format":null,"s_recorded":null,"s_genre":"Pop","s_length":"3:35","s_label":"Irama Mas","s_writer":"Eros Djarot","s_producer":"Yockie Surjoprajogo","s_title":"\"Badai Pasti Berlalu\""}

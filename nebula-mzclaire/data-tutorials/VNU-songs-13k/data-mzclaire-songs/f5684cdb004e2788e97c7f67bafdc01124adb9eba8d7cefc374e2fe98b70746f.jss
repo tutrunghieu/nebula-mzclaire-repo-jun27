@@ -1,0 +1,1 @@
+{"s_released":"June 6, 2000","s_format":"CD, Digital download","s_recorded":"1999","s_genre":"Pop R&B","s_length":"4:32","s_label":"Columbia","s_writer":"Mariah Carey, Diane Warren","s_producer":"Mariah Carey, Jimmy Jam and Terry Lewis","s_title":"\"Can't Take That Away (Mariah's Theme)\""}

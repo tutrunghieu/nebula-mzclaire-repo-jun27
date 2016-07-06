@@ -1,0 +1,1 @@
+{"s_released":"June 1, 2015 (2015-06-01)","s_format":"Digital download","s_recorded":"2014","s_genre":"EDM soul pop R&B","s_length":"3:26","s_label":"Mad Decent Because Warner","s_writer":"Diplo Maxime Picard Clement Picard Ilsey Juber Fran Hall Tarrus Riley","s_producer":"Major Lazer Picard Brothers","s_title":"\"Powerful\""}

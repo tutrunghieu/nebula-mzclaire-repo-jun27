@@ -1,0 +1,1 @@
+{"s_released":"April 25, 1991 (1991-04-25)","s_format":"CD single, cassette single","s_recorded":"1990","s_genre":"R&B pop soul quiet storm","s_length":"4:49","s_label":"Columbia","s_writer":"Mariah Carey, Narada Michael Walden","s_producer":"Narada Michael Walden For Perfection Light Productions","s_title":"\"You Need Me\""}

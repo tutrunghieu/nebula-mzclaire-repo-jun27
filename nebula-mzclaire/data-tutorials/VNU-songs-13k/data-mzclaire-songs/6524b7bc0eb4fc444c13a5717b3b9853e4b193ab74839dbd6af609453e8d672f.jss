@@ -1,0 +1,1 @@
+{"s_released":"19 June 2013 (2013-06-19)","s_format":"7\" digital download","s_recorded":"Sage and Sound Recording, Los Angeles, California Rancho De La Luna, Joshua Tree, California","s_genre":"Stoner rock blues rock","s_length":"4:33","s_label":"Domino","s_writer":"Alex Turner","s_producer":"Ross Orton","s_title":"\"2013\""}

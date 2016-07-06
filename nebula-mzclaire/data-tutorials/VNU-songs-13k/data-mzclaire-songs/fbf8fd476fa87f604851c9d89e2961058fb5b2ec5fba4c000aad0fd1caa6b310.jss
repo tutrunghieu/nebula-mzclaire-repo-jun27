@@ -1,0 +1,1 @@
+{"s_released":"1970 (1970)","s_format":null,"s_recorded":null,"s_genre":null,"s_length":null,"s_label":"Capitol","s_writer":null,"s_producer":"Hal Yoergler","s_title":"Bugaloos"}

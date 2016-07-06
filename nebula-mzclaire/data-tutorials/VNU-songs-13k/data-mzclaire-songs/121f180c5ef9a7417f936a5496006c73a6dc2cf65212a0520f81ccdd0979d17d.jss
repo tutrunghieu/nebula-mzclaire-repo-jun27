@@ -1,0 +1,1 @@
+{"s_released":"February 17, 2004","s_format":"CD single 12\" single digital download","s_recorded":"Kampo Studios (New York City, New York)","s_genre":"R&B soul jazz","s_length":"3:48","s_label":"J","s_writer":"Alicia Keys","s_producer":"Alicia Keys","s_title":"\"If I Ain't Got You\""}

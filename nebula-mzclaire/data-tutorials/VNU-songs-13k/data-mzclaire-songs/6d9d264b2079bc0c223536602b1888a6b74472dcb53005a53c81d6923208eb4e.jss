@@ -1,0 +1,1 @@
+{"s_released":"May 24, 1984","s_format":"Vinyl record (7\" 45 RPM)","s_recorded":null,"s_genre":"R&B, soul","s_length":"6:00 4:53 (7\")","s_label":"Asylum","s_writer":"Michael Masser, Linda Creed","s_producer":"Michael Masser","s_title":"\"Love\""}

@@ -1,0 +1,1 @@
+{"s_released":"March 2, 2011 (2011-03-02) (see release history)","s_format":"CD Single, digital download","s_recorded":"2011","s_genre":"Pop-rock, Rock","s_length":"4:14 4:26","s_label":"Defstar Records","s_writer":"Ringo Sheena","s_producer":null,"s_title":"\"Cat's Eye\""}

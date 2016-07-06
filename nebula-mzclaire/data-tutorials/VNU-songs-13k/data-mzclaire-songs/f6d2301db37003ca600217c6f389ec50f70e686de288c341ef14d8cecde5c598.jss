@@ -1,0 +1,1 @@
+{"s_released":"December 14, 2002","s_format":"CD single, 12\"","s_recorded":"October 16–17, 2002","s_genre":"Hip hop R&B","s_length":"4:17","s_label":"Epic","s_writer":"Jennifer Lopez James Todd Smith Makeba Riddick Curtis Richardson Ron G Dave McPherson Lisa Peters William Jeffrey","s_producer":"Cory Rooney Ron G Dave McPherson","s_title":"\"All I Have\""}

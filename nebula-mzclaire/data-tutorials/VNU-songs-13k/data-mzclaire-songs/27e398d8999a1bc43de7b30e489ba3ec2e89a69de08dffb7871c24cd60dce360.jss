@@ -1,0 +1,1 @@
+{"s_released":"October 27, 2008","s_format":"CD 7\" digital download","s_recorded":"October 2007","s_genre":"Soul pop","s_length":"3:32","s_label":"XL","s_writer":"Bob Dylan","s_producer":"Jim Abbiss","s_title":"\"Make You Feel My Love\""}

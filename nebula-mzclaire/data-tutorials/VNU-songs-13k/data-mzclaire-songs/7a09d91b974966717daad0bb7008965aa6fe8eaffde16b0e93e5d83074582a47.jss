@@ -1,0 +1,1 @@
+{"s_released":"March 2006 (U.S.)","s_format":null,"s_recorded":null,"s_genre":"Classical, pop","s_length":"4:22","s_label":"Sugar Records, Opera & Blues Records, Decca Records","s_writer":"Armando Manzanero","s_producer":"David Foster and Humberto Gatica","s_title":"\"Somos Novios (It's Impossible)\""}

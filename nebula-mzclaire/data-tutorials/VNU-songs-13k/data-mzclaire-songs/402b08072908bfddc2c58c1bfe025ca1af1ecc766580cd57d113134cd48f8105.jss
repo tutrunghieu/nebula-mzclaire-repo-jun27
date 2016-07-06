@@ -1,0 +1,1 @@
+{"s_released":"EUR December 29, 1992 USA April 4, 1993","s_format":null,"s_recorded":"1977","s_genre":"Soft rock • pop rock","s_length":"3:08","s_label":"Slash","s_writer":"Lionel Richie","s_producer":"Matt Wallace Faith No More","s_title":"\"Easy\""}

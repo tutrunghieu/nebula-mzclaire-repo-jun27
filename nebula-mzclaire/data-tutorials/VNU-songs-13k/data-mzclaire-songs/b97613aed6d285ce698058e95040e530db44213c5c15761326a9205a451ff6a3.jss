@@ -1,0 +1,1 @@
+{"s_released":null,"s_format":null,"s_recorded":"Honeysouth Studios, Miami","s_genre":"R&B","s_length":"4:22","s_label":"Island Def Jam","s_writer":"Mariah Carey Scott Storch Young Jeezy Crystal Johnson","s_producer":"Carey Storch","s_title":"\"Side Effects\""}

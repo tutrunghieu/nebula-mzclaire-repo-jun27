@@ -1,0 +1,1 @@
+{"s_released":"May 13, 2011","s_format":"CD single digital download","s_recorded":"2010 at We the Best Studios and Burst HQ","s_genre":"Rock R&B","s_length":"4:12","s_label":"Def Jam SRP","s_writer":"Priscilla Renea Alex Delicata Jermaine Jackson Andrew Harr","s_producer":"The Runners Kuk Harrell (vocals)","s_title":"\"California King Bed\""}

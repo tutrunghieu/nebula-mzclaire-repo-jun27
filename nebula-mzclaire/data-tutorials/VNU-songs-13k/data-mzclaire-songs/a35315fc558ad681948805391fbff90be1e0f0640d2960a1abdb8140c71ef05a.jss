@@ -1,0 +1,1 @@
+{"s_released":"July 9, 2009 September 8, 2009 (with Katy Perry) December 14, 2009 (UK)","s_format":null,"s_recorded":null,"s_genre":null,"s_length":"3:04 (Album Version) 3:22 (Remix feat. Katy Perry)","s_label":"Photo Finish, Capitol","s_writer":"Sean Foreman, Nathaniel Motte","s_producer":"Platinum (RIAA), Gold (BPI)","s_title":"\"Starstrukk\""}

@@ -1,0 +1,1 @@
+{"s_released":"March 19, 2013 (2013-03-19)","s_format":"Digital download","s_recorded":"2012","s_genre":"Hip hop","s_length":"5:10","s_label":"Top Dawg Aftermath Interscope","s_writer":"Kendrick Duckworth Mark Spears Robin Braun Vindahl Friis Lykke Schmidt","s_producer":"Sounwave","s_title":"\"Bitch, Don't Kill My Vibe\""}

@@ -1,0 +1,1 @@
+{"s_released":"June 27, 1995","s_format":"CD single, 12\", cassette","s_recorded":"1994","s_genre":"R&B dance-pop","s_length":"4:48","s_label":"Atlantic","s_writer":"Keith Crouch, Glenn McKinney","s_producer":"Keith Crouch","s_title":"\"Best Friend\""}

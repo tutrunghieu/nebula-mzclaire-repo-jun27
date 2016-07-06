@@ -1,0 +1,1 @@
+{"s_released":"September 3, 2010 (2010-09-03)","s_format":"CD single digital download","s_recorded":"2010","s_genre":"Electropop[1]","s_length":"4:11","s_label":"Interscope","s_writer":"Onika Maraj William Adams Geoff Downes Trevor Horn Bruce Woolley","s_producer":"will.i.am","s_title":"\"Check It Out\""}

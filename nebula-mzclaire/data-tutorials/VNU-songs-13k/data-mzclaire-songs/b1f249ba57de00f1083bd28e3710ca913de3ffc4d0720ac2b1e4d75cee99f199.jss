@@ -1,0 +1,1 @@
+{"s_released":"30 October 1995","s_format":null,"s_recorded":"May 1995, at Rockfield Studios, (South Wales)","s_genre":"Britpop, baroque pop","s_length":"5:23","s_label":"Creation","s_writer":"Noel Gallagher","s_producer":"Owen Morris, Noel Gallagher","s_title":"\"The Masterplan\""}

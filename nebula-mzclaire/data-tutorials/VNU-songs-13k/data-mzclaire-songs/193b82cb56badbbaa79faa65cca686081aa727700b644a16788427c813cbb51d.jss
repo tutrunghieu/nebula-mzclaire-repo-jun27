@@ -1,0 +1,1 @@
+{"s_released":"February 4, 2003 (2003-02-04) (see Release history)","s_format":"CD maxi single download","s_recorded":"2002; The Hit Factory (New York City, New York)","s_genre":"Dance-pop R&B","s_length":"4:04","s_label":"Columbia","s_writer":"Rich Harrison Robert \"Syke Dyke\" Reed Tony Fisher","s_producer":"Rich Harrison","s_title":"\"Can't Nobody\""}

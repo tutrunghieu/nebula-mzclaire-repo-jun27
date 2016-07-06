@@ -1,0 +1,1 @@
+{"s_released":"May 1, 2014 (2014-05-01)","s_format":"Digital download","s_recorded":"February 2014 (2014-02) Conway Studios (Los Angeles) Wolf Cousins Studios (Stockholm)","s_genre":"Pop electropop EDM","s_length":"3:35","s_label":"Capitol","s_writer":"Max Martin Savan Kotecha Ilya Salmanzadeh","s_producer":"Max Martin Ilya Peter Carlsson","s_title":"\"First Love\""}

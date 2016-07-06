@@ -1,0 +1,1 @@
+{"s_released":null,"s_format":"Digital download","s_recorded":"2012","s_genre":"Funk disco R&B electro dance-pop","s_length":"3:06","s_label":"RCA","s_writer":"Christina Aguilera Lucas Secon Olivia Waithe","s_producer":"Lucas Secon","s_title":"\"Red Hot Kinda Love\""}

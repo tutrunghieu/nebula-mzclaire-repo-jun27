@@ -1,0 +1,1 @@
+{"s_released":"July 21, 1987","s_format":null,"s_recorded":"1987","s_genre":"Heavy metal[1]","s_length":"3:50","s_label":"Geffen","s_writer":"Izzy Stradlin","s_producer":"Mike Clink","s_title":"\"Think About You\""}

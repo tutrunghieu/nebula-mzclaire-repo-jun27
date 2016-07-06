@@ -1,0 +1,1 @@
+{"s_released":"24 April 1995","s_format":"CD 7\" vinyl 12\" vinyl cassette","s_recorded":"Rockfield Studios, South Wales, March 1995","s_genre":"Britpop","s_length":"5:28","s_label":"Creation","s_writer":"Noel Gallagher","s_producer":"Owen Morris Noel Gallagher","s_title":"\"Talk Tonight\" \"Acquiesce\" \"Headshrinker\""}

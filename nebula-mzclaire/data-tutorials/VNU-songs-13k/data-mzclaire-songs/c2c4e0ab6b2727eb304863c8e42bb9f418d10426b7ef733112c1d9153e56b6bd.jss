@@ -1,0 +1,1 @@
+{"s_released":"June 7, 2011[1]","s_format":"Digital download, CD Single","s_recorded":"March 2011","s_genre":"Alternative rock post-grunge[2][3]","s_length":"3:18","s_label":"Fueled by Ramen Warner","s_writer":"Hayley Williams Taylor York","s_producer":"Gold (RIAA)[4]","s_title":"\"Monster\""}

@@ -1,0 +1,1 @@
+{"s_released":"17 October 2005 (2005-10-17)","s_format":"7\" 10\" CD","s_recorded":"June – September 2005 at Chapel Studios, Lincolnshire","s_genre":"Garage rock revival indie rock punk rock","s_length":"2:54","s_label":"Domino","s_writer":"Alex Turner","s_producer":"Jim Abbiss","s_title":"\"Bigger Boys and Stolen Sweethearts\" \"Chun Li's Spinning Bird Kick\""}

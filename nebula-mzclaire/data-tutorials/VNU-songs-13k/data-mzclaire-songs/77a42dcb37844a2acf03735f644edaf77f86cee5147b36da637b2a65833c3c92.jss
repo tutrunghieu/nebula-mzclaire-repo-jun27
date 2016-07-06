@@ -1,0 +1,1 @@
+{"s_released":"2002","s_format":"CD Single, vinyl 12\", DVD single","s_recorded":"2002","s_genre":"Pop, Europop, dance","s_length":"3:13","s_label":"Universal Music Group","s_writer":"Grizzly, Tysper, Mack","s_producer":"Grizzly, Tysper","s_title":"\"Floorfiller\""}

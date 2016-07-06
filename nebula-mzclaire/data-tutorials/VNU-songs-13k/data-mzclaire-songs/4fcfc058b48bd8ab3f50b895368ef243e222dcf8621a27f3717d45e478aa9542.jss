@@ -1,0 +1,1 @@
+{"s_released":"May 21, 2002 (2002-05-21)","s_format":"CD single 12\"","s_recorded":"2001 Sony Music Studios The Hit Factory (New York City)","s_genre":null,"s_length":"4:40","s_label":"Epic","s_writer":"Jennifer Lopez Cris Judd Cory Rooney","s_producer":"Cory Rooney Dan Shea","s_title":"\"I'm Gonna Be Alright\""}

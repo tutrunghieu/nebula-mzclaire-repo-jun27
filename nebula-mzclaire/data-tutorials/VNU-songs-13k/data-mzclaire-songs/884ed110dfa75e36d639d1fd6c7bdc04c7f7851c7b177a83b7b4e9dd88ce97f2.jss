@@ -1,0 +1,1 @@
+{"s_released":"January 12, 1998[1]","s_format":"CD","s_recorded":"Brilliant Studios, San Francisco, California","s_genre":"Trip hop[2]","s_length":"4:12","s_label":"Slash","s_writer":"Jon Hudson, Mike Patton, Mike Bordin, Billy Gould","s_producer":"Roli Mosimann, Billy Gould","s_title":"\"Stripsearch\""}

@@ -1,0 +1,1 @@
+{"s_released":"September 2003","s_format":"Download, DVD, CD single","s_recorded":"2003; The Hit Factory Criteria (Miami, Florida)","s_genre":"R&B hip hop","s_length":"3:41","s_label":"J","s_writer":"Missy Elliott Lee Hatim Kanye West","s_producer":"Missy Elliott Kanye West","s_title":"\"Knock Knock\""}

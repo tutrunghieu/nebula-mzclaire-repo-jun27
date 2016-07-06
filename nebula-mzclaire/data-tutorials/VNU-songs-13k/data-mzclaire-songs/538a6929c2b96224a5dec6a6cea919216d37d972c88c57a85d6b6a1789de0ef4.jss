@@ -1,0 +1,1 @@
+{"s_released":"31 July 1994 (1994-07-31)","s_format":"CD single, 12\" single","s_recorded":null,"s_genre":"Mexican cumbia","s_length":"4:14","s_label":"EMI Latin","s_writer":"Selena Quintanilla-Pérez, A.B. Quintanilla, Pete Astudillo","s_producer":"A.B.","s_title":"\"Bidi Bidi Bom Bom\""}

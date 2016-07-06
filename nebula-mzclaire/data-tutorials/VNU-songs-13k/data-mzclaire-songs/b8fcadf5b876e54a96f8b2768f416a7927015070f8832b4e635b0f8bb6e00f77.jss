@@ -1,0 +1,1 @@
+{"s_released":"March 2, 2010 (2010-03-02)","s_format":"Digital download","s_recorded":null,"s_genre":"Country, country rock","s_length":"3:54","s_label":"Poor Boy","s_writer":"Bret Michaels","s_producer":null,"s_title":"\"Nothing to Lose\""}

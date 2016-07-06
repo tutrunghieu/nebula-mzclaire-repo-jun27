@@ -1,0 +1,1 @@
+{"s_released":"4 December, 2006","s_format":"10\", CD, Maxi-CD","s_recorded":"Discoball Jazzfest: May 2005-2006","s_genre":"Pop rock","s_length":"3:50","s_label":"EMI","s_writer":"Jason Sellards, Scott Hoffman","s_producer":"Scissor Sisters","s_title":"\"Hair Baby\""}

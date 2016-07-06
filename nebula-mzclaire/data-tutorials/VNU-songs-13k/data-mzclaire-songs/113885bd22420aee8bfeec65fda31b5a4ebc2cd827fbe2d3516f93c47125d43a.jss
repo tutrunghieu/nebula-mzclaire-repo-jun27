@@ -1,0 +1,1 @@
+{"s_released":"February 8, 2011","s_format":"Digital download","s_recorded":"Sleaze Industries Studios (Miami, Florida)","s_genre":"House/dance/electropop/R&B","s_length":"2:57","s_label":"Ultra","s_writer":"Mýa Harrison Dee Roberts","s_producer":"Cedric Gervais Sandy Vee","s_title":"\"Love Is the Answer\""}

@@ -1,0 +1,1 @@
+{"s_released":"May 15, 2000 (2000-05-15) November 5, 2001 (re-issue)","s_format":"CD, 12-inch","s_recorded":"September 1999 – February 2000 in Wiltshire, England","s_genre":"Baroque pop, trip hop, electronica","s_length":"3:41","s_label":"Mute","s_writer":"Alison Goldfrapp, Will Gregory","s_producer":"Goldfrapp, Gregory","s_title":"\"Lovely Head\""}

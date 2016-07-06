@@ -1,0 +1,1 @@
+{"s_released":null,"s_format":null,"s_recorded":"2006","s_genre":"R&B soul funk","s_length":"3:25","s_label":"Columbia","s_writer":"Beyoncé Knowles Rich Harrison Makeba Riddick Chuck Middleton","s_producer":"Harrison","s_title":"\"Suga Mama\""}

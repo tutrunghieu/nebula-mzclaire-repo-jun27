@@ -1,0 +1,1 @@
+{"s_released":"June 4, 2014 (2014-06-04)","s_format":"Digital download","s_recorded":null,"s_genre":"Rock[1]","s_length":"4:11","s_label":"Interscope Polydor","s_writer":"Lana Del Rey Daniel Heath","s_producer":"Dan Auerbach","s_title":"\"Ultraviolence\""}

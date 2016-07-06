@@ -1,0 +1,1 @@
+{"s_released":"April 15, 2008","s_format":"CD single digital download","s_recorded":"2008","s_genre":"R&B","s_length":"3:49","s_label":"Def Jam SRP","s_writer":"Mikkel S. Eriksen Tor Erik Hermansen Shaffer Smith","s_producer":"StarGate Ne-Yo","s_title":"\"Take a Bow\""}

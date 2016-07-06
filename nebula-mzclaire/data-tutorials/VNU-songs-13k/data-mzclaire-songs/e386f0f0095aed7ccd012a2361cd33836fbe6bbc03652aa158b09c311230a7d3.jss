@@ -1,0 +1,1 @@
+{"s_released":null,"s_format":null,"s_recorded":"2009","s_genre":"Pop","s_length":"4:20","s_label":"Atlantic","s_writer":"James Horner Kuk Harrell","s_producer":"Simon Franglen","s_title":"\"I See You (Theme from Avatar)\""}

@@ -1,0 +1,1 @@
+{"s_released":"27 December 2010","s_format":"CD single digital download","s_recorded":"2010","s_genre":"R&B hip hop","s_length":"3:21","s_label":"Parlophone","s_writer":"Eshraque Mughal Patrick Okogwu Phillipe-Marc Anquetil","s_producer":"iSHi James F Reynolds (mixing)","s_title":"\"Invincible\""}

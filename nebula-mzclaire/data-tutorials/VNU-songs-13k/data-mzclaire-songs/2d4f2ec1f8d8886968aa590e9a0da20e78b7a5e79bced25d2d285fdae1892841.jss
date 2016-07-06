@@ -1,0 +1,1 @@
+{"s_released":"June 25, 2001","s_format":"CD","s_recorded":"January–March 2001[1] Signature Sound (San Diego, California) Larrabee Studios West, Cello Studios (Hollywood, California)","s_genre":"Pop punk[2]","s_length":"2:51","s_label":"MCA","s_writer":"Mark Hoppus Tom DeLonge Travis Barker","s_producer":"Jerry Finn","s_title":"\"The Rock Show\""}

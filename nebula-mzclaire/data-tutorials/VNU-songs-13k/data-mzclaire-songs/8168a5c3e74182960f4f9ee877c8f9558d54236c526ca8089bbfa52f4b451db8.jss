@@ -1,0 +1,1 @@
+{"s_released":"22 March 2010","s_format":"7\", 10\"","s_recorded":null,"s_genre":"Psychedelic rock, neo-psychedelia, indie rock[1]","s_length":"3:28","s_label":"Domino","s_writer":"Alex Turner Jamie Cook","s_producer":"James Ford (track 1) Josh Homme (tracks 2, 3, and 4)","s_title":"\"Joining the Dots\" \"The Afternoon's Hat\" \"Don't Forget Whose Legs You're On\""}

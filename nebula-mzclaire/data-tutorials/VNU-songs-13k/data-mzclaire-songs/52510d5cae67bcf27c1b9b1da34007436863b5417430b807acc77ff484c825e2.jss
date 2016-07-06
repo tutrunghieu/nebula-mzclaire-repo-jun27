@@ -1,0 +1,1 @@
+{"s_released":"1970","s_format":null,"s_recorded":"September 11, 1967","s_genre":"Folk rock","s_length":"2:03","s_label":"ESP-Disk","s_writer":"Charles Manson","s_producer":"Phil Kaufman","s_title":"\"Home Is Where You're Happy\""}

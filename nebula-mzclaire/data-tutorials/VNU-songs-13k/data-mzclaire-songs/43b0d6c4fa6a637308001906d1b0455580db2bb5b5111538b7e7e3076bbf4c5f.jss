@@ -1,0 +1,1 @@
+{"s_released":"June 1, 2009 (2009-06-01)","s_format":"Digital download","s_recorded":"2009","s_genre":"Pop, jazz","s_length":"4:47","s_label":"EMI Music Japan","s_writer":"Ringo Sheena","s_producer":null,"s_title":"\"Shun\""}

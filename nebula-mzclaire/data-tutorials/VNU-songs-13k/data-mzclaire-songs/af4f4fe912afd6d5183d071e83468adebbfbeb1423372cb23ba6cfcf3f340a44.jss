@@ -1,0 +1,1 @@
+{"s_released":"November 25, 2008","s_format":null,"s_recorded":"2011","s_genre":"R&B funk","s_length":"4:13","s_label":"Columbia Records","s_writer":"Beyoncé Knowles Garrett Eriksen Hermansen Taylor","s_producer":"Knowles Taylor","s_title":"\"Lay Up Under Me\""}

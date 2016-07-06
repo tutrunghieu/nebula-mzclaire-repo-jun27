@@ -1,0 +1,1 @@
+{"s_released":"July 3, 1996","s_format":null,"s_recorded":"May 1995 - February 1996 at The Plant Studios, Sausalito, California","s_genre":"Heavy metal","s_length":"5:04","s_label":"Elektra","s_writer":"James Hetfield, Lars Ulrich","s_producer":"Bob Rock, James Hetfield, Lars Ulrich","s_title":"\"Ain't My Bitch\""}

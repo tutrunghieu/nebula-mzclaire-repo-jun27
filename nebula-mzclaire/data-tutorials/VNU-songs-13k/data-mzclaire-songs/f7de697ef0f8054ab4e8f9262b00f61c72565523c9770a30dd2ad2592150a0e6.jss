@@ -1,0 +1,1 @@
+{"s_released":"April 29, 1993","s_format":"CD single and 12\" single","s_recorded":"1993","s_genre":"Tejano, Mexican cumbia","s_length":"3:49","s_label":"EMI Latin","s_writer":"Ricky Vela, A.B. Quintanilla III","s_producer":"A.B. Quintanilla III, Bebu Silvetti","s_title":"\"No Debes Jugar\""}

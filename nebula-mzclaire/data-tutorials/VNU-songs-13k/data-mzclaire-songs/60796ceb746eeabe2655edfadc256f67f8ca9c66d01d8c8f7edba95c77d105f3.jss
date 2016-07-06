@@ -1,0 +1,1 @@
+{"s_released":"September 22, 2011 (2011-09-22)","s_format":"CD digital download","s_recorded":"2011; Fly Eye Studios (London), Westlake Recording Studios (Los Angeles)","s_genre":"Electro house","s_length":"3:35","s_label":"Def Jam SRP","s_writer":"Calvin Harris","s_producer":"Calvin Harris","s_title":"\"We Found Love\""}

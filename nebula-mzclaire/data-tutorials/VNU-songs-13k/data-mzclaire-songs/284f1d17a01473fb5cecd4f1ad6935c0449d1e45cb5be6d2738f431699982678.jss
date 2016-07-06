@@ -1,0 +1,1 @@
+{"s_released":"July 6, 2009 (2009-07-06)","s_format":"CD digital download 7\"","s_recorded":"2007–08 150 Studios (Parsippany-Troy Hills, New Jersey)","s_genre":"Dance-pop","s_length":"3:29","s_label":"Streamline Kon Live Cherrytree Interscope","s_writer":"Stefani Germanotta Rob Fusari","s_producer":"Rob Fusari Lady Gaga","s_title":"\"Paparazzi\""}

@@ -1,0 +1,1 @@
+{"s_released":"December 5, 2006","s_format":"Music download","s_recorded":"The Underlab, Los Angeles: March 2006","s_genre":"Rhythm and blues, soul","s_length":"4:45 (highlights version) 5:06 (soundtrack version)","s_label":"Music World/Columbia","s_writer":"Tom Eyen, Henry Krieger","s_producer":"The Underdogs","s_title":"\"And I Am Telling You I'm Not Going\""}

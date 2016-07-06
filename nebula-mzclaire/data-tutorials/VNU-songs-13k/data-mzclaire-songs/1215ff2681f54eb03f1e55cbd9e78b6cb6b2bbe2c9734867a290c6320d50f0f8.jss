@@ -1,0 +1,1 @@
+{"s_released":"July 30, 2007 (2007-07-30)","s_format":"Digital download","s_recorded":"2007","s_genre":"R&B hip hop","s_length":"3:53","s_label":"Interscope","s_writer":"Sean Garrett Clifford Harris Nicole Scherzinger Jamal Jones","s_producer":"Polow da Don Sean Garrett","s_title":"\"Baby Love\""}

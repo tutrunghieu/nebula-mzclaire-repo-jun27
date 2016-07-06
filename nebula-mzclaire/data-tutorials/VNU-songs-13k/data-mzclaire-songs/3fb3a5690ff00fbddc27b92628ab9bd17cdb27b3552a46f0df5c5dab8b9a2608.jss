@@ -1,0 +1,1 @@
+{"s_released":"November 26, 1995[citation needed]","s_format":"CD Promo single","s_recorded":"1995 February[citation needed]","s_genre":"Latin, Pop","s_length":"4:03","s_label":"EMI","s_writer":"Diane Warren","s_producer":"Rhett Lawrence","s_title":"\"I'm Getting Used to You\""}

@@ -1,0 +1,1 @@
+{"s_released":"April 6, 2010 (2010-04-06)","s_format":"CD single digital download","s_recorded":"2009","s_genre":"Electropop electro-R&B","s_length":"3:05","s_label":"RCA","s_writer":"Jamal Jones Ester Dean Jason Perry Greg Curtis","s_producer":"Polow da Don","s_title":"\"Not Myself Tonight\""}

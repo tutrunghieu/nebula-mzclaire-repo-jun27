@@ -1,0 +1,1 @@
+{"s_released":"December 7, 2010","s_format":null,"s_recorded":"2010","s_genre":"Alternative rock","s_length":"3:47","s_label":"El Music Group","s_writer":"Ed Roland","s_producer":"Ed Roland","s_title":"\"Tremble for My Beloved (Reissue)\""}

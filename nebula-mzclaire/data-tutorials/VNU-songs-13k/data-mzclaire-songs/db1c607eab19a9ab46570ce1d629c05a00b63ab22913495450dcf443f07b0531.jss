@@ -1,0 +1,1 @@
+{"s_released":"September 13, 2011 (2011-09-13)","s_format":"Digital download","s_recorded":"2011","s_genre":"Hip hop","s_length":"3:07","s_label":"Cash Money, Universal Motown","s_writer":"Bryan Williams, Dwayne Carter, Jeremy Coleman, Todd Tolkoff, Onika Tanya Maraj","s_producer":"JMIKE, Mad Max","s_title":"\"Y.U. Mad\""}

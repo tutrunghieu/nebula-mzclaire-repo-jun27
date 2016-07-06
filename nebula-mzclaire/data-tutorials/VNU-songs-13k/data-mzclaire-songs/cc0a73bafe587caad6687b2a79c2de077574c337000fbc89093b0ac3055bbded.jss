@@ -1,0 +1,1 @@
+{"s_released":"May 2, 2002","s_format":"12\"","s_recorded":"2002","s_genre":"Dance-pop","s_length":"5:57 (12 inch mix)","s_label":"A Touch of Class","s_writer":"Jason Sellards, Scott Hoffman","s_producer":"Scissor Sisters","s_title":"\"Electrobix\""}

@@ -1,0 +1,1 @@
+{"s_released":"9 October 1970","s_format":"7\" vinyl","s_recorded":"1 July 1970","s_genre":"Glam rock, psychedelic rock","s_length":null,"s_label":"Fly","s_writer":"Marc Bolan","s_producer":"Tony Visconti","s_title":"\"Is It Love?\" \"Summertime Blues\""}

@@ -1,0 +1,1 @@
+{"s_released":"December 13, 2008 (2008-12-13) (see release history)","s_format":"Airplay, digital download","s_recorded":"2008","s_genre":"Pop rock, dance-rock","s_length":"3:32","s_label":"Walt Disney","s_writer":"Derek George, Tim Owens, Adam Tefteller[1]","s_producer":"Ali Dee Theodore, Jason Gleed, Alana da Fonseca","s_title":"\"Let's Do This\""}

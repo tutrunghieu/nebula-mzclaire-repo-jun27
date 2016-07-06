@@ -1,0 +1,1 @@
+{"s_released":"17 September 2015 (2015-09-17)","s_format":"CD digital download","s_recorded":"2015","s_genre":"Electropop R&B","s_length":"3:33","s_label":"Polydor","s_writer":"Ellie Goulding Max Martin Savan Kotecha Ilya Salmanzadeh","s_producer":"Max Martin Ilya","s_title":"\"On My Mind\""}

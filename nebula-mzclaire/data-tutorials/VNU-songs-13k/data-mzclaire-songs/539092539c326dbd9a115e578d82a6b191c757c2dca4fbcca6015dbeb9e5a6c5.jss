@@ -1,0 +1,1 @@
+{"s_released":null,"s_format":"Digital download","s_recorded":"2012, Larrabee Sound Studios (North Hollywood; California)","s_genre":"R&B","s_length":"3:46","s_label":"Chameleon, RCA","s_writer":"Warryn Campbell, Frank Ocean, Breyon Prescott","s_producer":"Warryn Campbell, Breyon Prescott","s_title":"\"Scared of Beautiful\""}

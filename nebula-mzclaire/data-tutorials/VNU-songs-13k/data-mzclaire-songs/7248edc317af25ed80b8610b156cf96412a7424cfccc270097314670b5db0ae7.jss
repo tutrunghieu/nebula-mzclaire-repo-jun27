@@ -1,0 +1,1 @@
+{"s_released":"June 17, 1964","s_format":"Vinyl record (7\" 45 RPM)","s_recorded":"Hitsville U.S.A. (Studio A); April 8, 1964","s_genre":"R&B, pop, doo-wop","s_length":"2:33","s_label":"Motown M 1060","s_writer":"Holland–Dozier–Holland","s_producer":"Brian Holland Lamont Dozier","s_title":"\"He Means the World to Me\""}

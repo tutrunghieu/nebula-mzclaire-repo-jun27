@@ -1,0 +1,1 @@
+{"s_released":"9 March 2009","s_format":"CD, 7\" vinyl, 12\" vinyl, digital download","s_recorded":"2007 at Abbey Road Studios, London","s_genre":"Psychedelic rock","s_length":"4:27 (album version with extended intro) 4:00 (radio edit)","s_label":"Big Brother","s_writer":"Noel Gallagher","s_producer":"Dave Sardy","s_title":"\"Those Swollen Hand Blues\""}

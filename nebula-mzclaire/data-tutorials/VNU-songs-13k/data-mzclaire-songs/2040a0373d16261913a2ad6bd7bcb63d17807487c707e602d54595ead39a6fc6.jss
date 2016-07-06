@@ -1,0 +1,1 @@
+{"s_released":"May 15, 1990 (1990-05-15)[citation needed]","s_format":"CD, cassette, 7\"","s_recorded":"1988","s_genre":"R&B soul pop","s_length":"3:29","s_label":"CBS","s_writer":"Mariah Carey Ben Margulies","s_producer":"Gold (RIAA, ARIA, RMNZ)","s_title":"\"Sent from Up Above\" \"Prisoner/All in Your Mind/Someday\""}

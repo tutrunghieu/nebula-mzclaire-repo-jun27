@@ -1,0 +1,1 @@
+{"s_released":null,"s_format":null,"s_recorded":"MXM Studios (Stockholm) and The Red Lips Room (Beverly Hills, California)","s_genre":"Dance-pop EDM pop","s_length":"3:21","s_label":"RCA","s_writer":"Max Martin Shellback Savan Kotecha Bonnie McKee Oliver Goldstein Oscar Holter Jakke Erixson","s_producer":"Max Martin Shellback","s_title":"\"Let There Be Love\""}

@@ -1,0 +1,1 @@
+{"s_released":"26 March 2001","s_format":"CD Single, cassette, vinyl 12\"","s_recorded":"2000","s_genre":"Pop, Europop","s_length":"3:40 (Album Version) 3:36 (Radio Edit)","s_label":"Universal Music Group","s_writer":"Tysper, Jonson, Sepehrmanesh","s_producer":"Tysper","s_title":"\"Halfway Around the World\""}

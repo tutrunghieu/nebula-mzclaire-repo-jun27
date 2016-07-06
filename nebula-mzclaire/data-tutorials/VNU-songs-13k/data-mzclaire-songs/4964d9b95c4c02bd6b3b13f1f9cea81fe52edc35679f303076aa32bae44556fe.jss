@@ -1,0 +1,1 @@
+{"s_released":"August 11, 2009 (2009-08-11)","s_format":"CD single digital download","s_recorded":null,"s_genre":"Pop","s_length":"3:22","s_label":"Hollywood","s_writer":"Jessica Cornish Lukasz Gottwald Claude Kelly","s_producer":"Dr. Luke","s_title":"\"Party in the U.S.A.\""}

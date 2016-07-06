@@ -1,0 +1,1 @@
+{"s_released":"September 30, 1984","s_format":null,"s_recorded":"February 20 - March 14, 1984 at Sweet Silence Studios, Copenhagen, Denmark","s_genre":"Heavy metal, thrash metal","s_length":"6:55","s_label":"Megaforce, Elektra","s_writer":"James Hetfield, Lars Ulrich, Cliff Burton, Kirk Hammett","s_producer":"Metallica, Flemming Rasmussen","s_title":"\"Fade to Black\""}

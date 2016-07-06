@@ -1,0 +1,1 @@
+{"s_released":"2003","s_format":null,"s_recorded":"2002","s_genre":"Pop","s_length":"3:24 (Album version) 3:20 (Single mix)","s_label":"Universal Music Group","s_writer":"Grizzly, Tysper, Mack","s_producer":"Grizzly, Tysper","s_title":"\"School's Out\""}

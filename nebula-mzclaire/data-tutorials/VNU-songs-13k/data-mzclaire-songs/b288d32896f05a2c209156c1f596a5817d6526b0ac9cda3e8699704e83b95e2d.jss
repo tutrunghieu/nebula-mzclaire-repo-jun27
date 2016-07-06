@@ -1,0 +1,1 @@
+{"s_released":"21 September 1998","s_format":"CD","s_recorded":"Early 1995","s_genre":"Pop[2]","s_length":"3:03","s_label":"Slash","s_writer":"Barry, Robin & Maurice Gibb","s_producer":"Billy Gould Dean Menta","s_title":"\"I Started a Joke\""}

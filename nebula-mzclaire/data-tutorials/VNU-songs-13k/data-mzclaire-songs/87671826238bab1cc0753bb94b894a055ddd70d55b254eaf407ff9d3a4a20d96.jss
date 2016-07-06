@@ -1,0 +1,1 @@
+{"s_released":"September 20, 2010 (2010-09-20)","s_format":"Digital download Digital EP","s_recorded":"Jeberg Studios in Copenhagen, Denmark","s_genre":"Europop","s_length":"3:34","s_label":"Universal Motown","s_writer":"Jonas Jeberg Andre Merritt Kelly Rowland Samuel Watters","s_producer":"Jonas Jeberg","s_title":"\"Forever and a Day\""}

@@ -1,0 +1,1 @@
+{"s_released":"March 17, 2003","s_format":"CD single, 12\" single","s_recorded":"2002","s_genre":"R&B, hip hop","s_length":"5:24 4:12 (edit)","s_label":"J, Flipmode","s_writer":"Busta Rhymes, Rah Digga, Rampage, Rick Rock, Spliff Star, L. Jones","s_producer":"Rick Rock","s_title":"\"I Know What You Want\""}

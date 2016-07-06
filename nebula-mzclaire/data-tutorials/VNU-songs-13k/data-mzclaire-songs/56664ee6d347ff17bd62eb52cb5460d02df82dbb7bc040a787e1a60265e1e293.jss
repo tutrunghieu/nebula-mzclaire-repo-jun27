@@ -1,0 +1,1 @@
+{"s_released":"7 December 1981 (Sweden) 4 December 1981 (UK)[1] 12 February 1983 (US)","s_format":"7\" single","s_recorded":"21 October 1981 at Polar Music Studios","s_genre":"Pop, europop","s_length":"3:55","s_label":"Polar (Sweden) Epic (UK) Atlantic (US)","s_writer":"Benny Andersson Björn Ulvaeus","s_producer":"Gold (UK)","s_title":"\"Should I Laugh or Cry\""}

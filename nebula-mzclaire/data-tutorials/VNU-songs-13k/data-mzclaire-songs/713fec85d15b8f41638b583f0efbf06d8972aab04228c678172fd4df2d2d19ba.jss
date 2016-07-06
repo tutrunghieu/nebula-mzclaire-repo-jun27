@@ -1,0 +1,1 @@
+{"s_released":"October 5, 2010[1]","s_format":"digital download","s_recorded":"April 2010","s_genre":"R&B, dance-pop, reggae fusion","s_length":"3:18 (Album Version) 1:34 (Video Edit)","s_label":"Walt Disney","s_writer":"Niclas Molinder, Joacim Persson, Johan Alkenas, Drew Ryan Scott,","s_producer":"Twin, Alke","s_title":"\"Gonna Get This\""}

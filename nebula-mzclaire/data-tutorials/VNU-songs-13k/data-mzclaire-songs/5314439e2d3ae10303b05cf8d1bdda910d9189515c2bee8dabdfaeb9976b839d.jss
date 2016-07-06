@@ -1,0 +1,1 @@
+{"s_released":"1991","s_format":null,"s_recorded":null,"s_genre":"Hard rock, blues rock, heavy metal","s_length":"4:17","s_label":"Geffen","s_writer":"Izzy Stradlin, Axl Rose","s_producer":"Mike Clink Guns N' Roses","s_title":"\"14 Years\""}

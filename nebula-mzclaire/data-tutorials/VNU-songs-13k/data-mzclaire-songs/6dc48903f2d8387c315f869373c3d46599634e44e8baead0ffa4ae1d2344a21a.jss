@@ -1,0 +1,1 @@
+{"s_released":"6 January 2009","s_format":"Contemporary hit radio (US radio)","s_recorded":"2007","s_genre":null,"s_length":"3:58","s_label":"Syco Music, J Records, Sony Music","s_writer":"Avril Lavigne, Max Martin, Lukasz Gottwald","s_producer":"Dr. Luke, Matt Beckley and Smit (co-prod)","s_title":"\"I Will Be\""}

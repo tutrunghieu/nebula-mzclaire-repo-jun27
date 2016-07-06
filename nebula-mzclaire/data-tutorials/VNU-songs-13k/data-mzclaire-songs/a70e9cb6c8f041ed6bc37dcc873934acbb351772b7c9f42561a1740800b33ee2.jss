@@ -1,0 +1,1 @@
+{"s_released":"December 5, 1985","s_format":"CD single, 7\"","s_recorded":"1985","s_genre":"R&B, soul, quiet storm","s_length":"3:56 (album version) 4:19[1] (alternate single version)","s_label":"Tommy Boy Warner Bros.","s_writer":"Jimmy Jam and Terry Lewis","s_producer":"Jimmy Jam and Terry Lewis","s_title":"\"Be Mine, Girl\""}

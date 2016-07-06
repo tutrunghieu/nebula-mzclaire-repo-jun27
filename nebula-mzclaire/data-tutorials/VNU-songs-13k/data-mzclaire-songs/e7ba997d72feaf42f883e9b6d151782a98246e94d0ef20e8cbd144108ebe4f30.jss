@@ -1,0 +1,1 @@
+{"s_released":"April 8, 2003 (see release history)","s_format":"Download, CD single","s_recorded":"2003; Hit Factory Criteria (Miami, Florida)","s_genre":"R&B hip hop soul","s_length":"4:02","s_label":"J","s_writer":"Melissa Elliott, Zyah Ahmonuel, Kenneth Cunningham, Jamahl Rye","s_producer":"Missy Elliott; Spike & Jamahl (co-production)","s_title":"\"So Gone\""}

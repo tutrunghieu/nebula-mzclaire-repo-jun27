@@ -1,0 +1,1 @@
+{"s_released":"March 1, 2013 (2013-03-01)","s_format":"CD single digital download","s_recorded":null,"s_genre":"Trip hop","s_length":"4:04 (album version) 3:52 (radio mix)","s_label":"Universal Vertigo","s_writer":"Elizabeth Grant Rick Nowels","s_producer":"Emile Haynie","s_title":"\"Dark Paradise\""}

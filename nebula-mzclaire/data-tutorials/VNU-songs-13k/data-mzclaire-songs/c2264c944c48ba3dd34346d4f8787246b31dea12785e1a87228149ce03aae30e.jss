@@ -1,0 +1,1 @@
+{"s_released":"January 10, 1989","s_format":"CD vinyl cassette","s_recorded":"One on One Studios (Los Angeles, California)","s_genre":"Thrash metal","s_length":"7:27","s_label":"Elektra","s_writer":"James Hetfield Lars Ulrich","s_producer":"Metallica Flemming Rasmussen","s_title":"\"The Prince\""}

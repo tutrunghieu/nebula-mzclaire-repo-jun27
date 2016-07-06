@@ -1,0 +1,1 @@
+{"s_released":"February 19, 2002","s_format":"CD","s_recorded":"January–March 2001[1] Signature Sound (San Diego, California) Larrabee Studios West, Cello Studios (Hollywood, California)","s_genre":"Emo[2]","s_length":"3:59","s_label":"MCA","s_writer":"Tom DeLonge Mark Hoppus Travis Barker","s_producer":"Jerry Finn","s_title":"\"Stay Together for the Kids\""}

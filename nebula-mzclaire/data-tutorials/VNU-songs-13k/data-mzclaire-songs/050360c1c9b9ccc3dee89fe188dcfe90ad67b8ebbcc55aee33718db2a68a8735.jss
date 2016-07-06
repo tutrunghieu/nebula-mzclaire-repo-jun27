@@ -1,0 +1,1 @@
+{"s_released":"September 14, 2000","s_format":"Vinyl, CD Single","s_recorded":"1999","s_genre":"Reggae fusion","s_length":"4:17","s_label":"Virgin","s_writer":"Moses Davis, Chad Hugo, Pharrell Williams","s_producer":"The Neptunes","s_title":"\"Girls Dem Sugar\""}

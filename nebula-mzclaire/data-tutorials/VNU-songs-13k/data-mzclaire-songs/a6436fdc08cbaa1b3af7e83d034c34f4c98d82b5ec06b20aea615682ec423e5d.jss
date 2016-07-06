@@ -1,0 +1,1 @@
+{"s_released":"May 20, 2003 (US) November 25, 2003 (UK)","s_format":"2× vinyl, 12\", Digital Download","s_recorded":"2002","s_genre":null,"s_length":"3:28","s_label":"Arista","s_writer":"Babyface, Rob Fusari, Calvin Gaines, Eritza Laues, Bill Lee, Balewa Muhammad","s_producer":"Babyface, Rob Fusari","s_title":"\"Love That Man\""}

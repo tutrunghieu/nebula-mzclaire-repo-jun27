@@ -1,0 +1,1 @@
+{"s_released":"1974","s_format":"7-inch, 45 rpm","s_recorded":"1974","s_genre":"Glam rock[1]","s_length":"3:06","s_label":"Island Records","s_writer":"Ron Mael","s_producer":"Muff Winwood","s_title":"\"Barbecutie\""}

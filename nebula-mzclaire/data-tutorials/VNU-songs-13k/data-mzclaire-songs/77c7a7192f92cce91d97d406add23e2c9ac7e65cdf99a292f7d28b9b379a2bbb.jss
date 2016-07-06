@@ -1,0 +1,1 @@
+{"s_released":"25 June 1993","s_format":"CD single, 7 inch","s_recorded":"1993","s_genre":"Hard rock","s_length":"4:24","s_label":"ATCO","s_writer":"Angus Young, Malcolm Young","s_producer":"Rick Rubin","s_title":"\"Back in Black\" (live)"}

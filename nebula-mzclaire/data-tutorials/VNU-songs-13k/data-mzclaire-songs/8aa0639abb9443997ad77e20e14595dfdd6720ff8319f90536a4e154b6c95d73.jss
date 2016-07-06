@@ -1,0 +1,1 @@
+{"s_released":"January 14, 1997","s_format":"CD single, promo single, airplay, cassette single","s_recorded":"1996","s_genre":"Soul, R&B","s_length":"4:58 (album version) 4:11 (Radio edit)","s_label":"Sony","s_writer":"Babyface","s_producer":"Babyface","s_title":"\"Every Time I Close My Eyes\""}

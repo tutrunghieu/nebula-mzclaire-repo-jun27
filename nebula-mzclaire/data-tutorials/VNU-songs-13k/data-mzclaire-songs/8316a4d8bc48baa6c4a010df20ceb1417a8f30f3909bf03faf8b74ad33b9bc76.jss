@@ -1,0 +1,1 @@
+{"s_released":"5 November 2011","s_format":null,"s_recorded":"2010","s_genre":"Pop jazz soul","s_length":"3:43","s_label":"XL","s_writer":"Adele Ryan Tedder","s_producer":"Ryan Tedder","s_title":"\"Rumour Has It\""}

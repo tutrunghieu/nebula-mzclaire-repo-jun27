@@ -1,0 +1,1 @@
+{"s_released":"23 October 2000","s_format":null,"s_recorded":"1999-2000","s_genre":"Heavy metal","s_length":"6:25 (album version) 4:10 (single version)","s_label":"EMI","s_writer":"Janick Gers, Bruce Dickinson, Steve Harris","s_producer":null,"s_title":"\"Wasted Years\" (live) \"Aces High\" (live)"}

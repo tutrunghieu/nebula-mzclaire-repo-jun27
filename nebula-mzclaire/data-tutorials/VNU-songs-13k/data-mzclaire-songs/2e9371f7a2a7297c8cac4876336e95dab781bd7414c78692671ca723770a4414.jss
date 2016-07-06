@@ -1,0 +1,1 @@
+{"s_released":"2009","s_format":"CD single","s_recorded":"2008","s_genre":"Alternative rock indie rock","s_length":"3:59","s_label":"EMI Majesty","s_writer":"Björn Dixgård Gustaf Norén","s_producer":"Salla Salazar","s_title":"\"Gloria\""}

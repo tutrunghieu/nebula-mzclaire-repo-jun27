@@ -1,0 +1,1 @@
+{"s_released":"23 October 2015 (2015-10-23)","s_format":"Digital download","s_recorded":null,"s_genre":"Pop folktronica","s_length":"3:36","s_label":"Polydor","s_writer":"Ellie Goulding Carl Falk Max Martin Laleh Pourkarim Joakim Berg","s_producer":"Carl Falk Max Martin","s_title":"\"Lost and Found\""}

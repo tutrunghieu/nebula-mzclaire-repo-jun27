@@ -1,0 +1,1 @@
+{"s_released":"December 24, 1994","s_format":"CD single, 12\", cassette","s_recorded":"1994","s_genre":"R&B hip hop soul dance","s_length":"5:13","s_label":"Atlantic","s_writer":"Keith Crouch, Kipper Jones, Rahsaan Patterson","s_producer":"Platinum","s_title":"\"Baby\""}

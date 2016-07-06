@@ -1,0 +1,1 @@
+{"s_released":"21 September 1992","s_format":"7\" 12\" CD cassette","s_recorded":"1992 at Chipping Norton Recording Studios in Oxfordshire, England","s_genre":"Alternative rock grunge[1][2][3][4]","s_length":"3:59","s_label":"Parlophone EMI","s_writer":"Radiohead Albert Hammond Mike Hazlewood","s_producer":"Sean Slade Paul Q. Kolderie","s_title":"\"Creep\""}

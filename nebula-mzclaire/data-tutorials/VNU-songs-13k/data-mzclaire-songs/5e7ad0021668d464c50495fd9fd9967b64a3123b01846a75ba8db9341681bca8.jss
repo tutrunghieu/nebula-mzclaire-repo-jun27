@@ -1,0 +1,1 @@
+{"s_released":"10 September 1990","s_format":null,"s_recorded":"1990","s_genre":"Heavy metal","s_length":"3:47[1]","s_label":"EMI","s_writer":"Steve Harris Bruce Dickinson","s_producer":null,"s_title":"\"All in Your Mind\" \"Kill Me Ce Soir\""}

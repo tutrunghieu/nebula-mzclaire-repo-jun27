@@ -1,0 +1,1 @@
+{"s_released":"December 1999","s_format":"CD single, vinyl single","s_recorded":"1997—1999","s_genre":"R&B hip hop","s_length":"4:17","s_label":"Arista","s_writer":"D. Austin","s_producer":null,"s_title":"\"Gone Be Fine\""}

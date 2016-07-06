@@ -1,0 +1,1 @@
+{"s_released":null,"s_format":null,"s_recorded":"May 10–27, 1983 at Music America Studios, Rochester, New York","s_genre":"Thrash metal","s_length":"6:54","s_label":"Megaforce","s_writer":"James Hetfield / Lars Ulrich / Dave Mustaine","s_producer":"Paul Curcio, Jon Zazula","s_title":"\"Seek & Destroy\""}

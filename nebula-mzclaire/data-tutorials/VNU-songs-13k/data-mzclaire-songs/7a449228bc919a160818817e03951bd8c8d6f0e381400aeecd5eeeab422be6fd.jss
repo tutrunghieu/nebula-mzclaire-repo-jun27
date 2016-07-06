@@ -1,0 +1,1 @@
+{"s_released":"February 6, 2016 (2016-02-06)","s_format":null,"s_recorded":"Quad Recording Studios, New York City","s_genre":"Bounce[1]","s_length":"3:26","s_label":"Parkwood Columbia","s_writer":"Khalif Brown Jordan Frost Asheton Hogan Michael Len Williams II Beyoncé Knowles","s_producer":"Mike Will Made It Knowles A+","s_title":"\"Formation\""}

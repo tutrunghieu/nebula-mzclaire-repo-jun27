@@ -1,0 +1,1 @@
+{"s_released":"August 5, 1997","s_format":"CD single, Vinyl","s_recorded":"Brilliant Studios, San Francisco, CA","s_genre":"Alternative metal, experimental rock","s_length":"4:12","s_label":"Slash Records","s_writer":"Mike Patton Billy Gould","s_producer":"Roli Mosimann Billy Gould","s_title":"\"Last Cup of Sorrow\""}

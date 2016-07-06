@@ -1,0 +1,1 @@
+{"s_released":"13 December 1994 (US) January 1995 (UK)","s_format":null,"s_recorded":"October 1994","s_genre":"Hard rock, heavy metal","s_length":"7:36","s_label":"Geffen","s_writer":"Jagger/Richards","s_producer":"Guns N' Roses, Mike Clink, Matthias Gohl","s_title":"\"Escape to Paris\" (by Elliot Goldenthal)"}

@@ -1,0 +1,1 @@
+{"s_released":"January 1995","s_format":"\"Fotos y Recuerdos\"","s_recorded":null,"s_genre":null,"s_length":"3:29","s_label":"EMI Latin","s_writer":"Ricky Vela, A.B. Quintanilla","s_producer":"A.B., Bebu Silvetti","s_title":"\"El Chico del Apartamento 512\""}

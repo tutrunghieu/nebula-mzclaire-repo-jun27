@@ -1,0 +1,1 @@
+{"s_released":"March 13, 2000","s_format":"CD single","s_recorded":"April 21–22, 1999 Berkeley Community Theatre Berkeley, California","s_genre":"Symphonic metal","s_length":"5:43","s_label":"Elektra","s_writer":"James Hetfield Lars Ulrich","s_producer":"Metallica, Bob Rock","s_title":"One (S&M version)/Enter Sandman (S&M version)"}

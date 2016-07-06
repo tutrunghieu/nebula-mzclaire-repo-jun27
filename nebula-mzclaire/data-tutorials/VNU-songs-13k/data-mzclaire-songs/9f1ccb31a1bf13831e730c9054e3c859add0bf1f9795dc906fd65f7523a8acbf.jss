@@ -1,0 +1,1 @@
+{"s_released":"6 September 1986","s_format":"Vinyl (7\", 12\")","s_recorded":"1986","s_genre":"Heavy metal","s_length":"5:06[1]","s_label":"EMI","s_writer":"Adrian Smith","s_producer":"Martin Birch","s_title":"\"Reach Out\" (The Entire Population of Hackney cover) \"Sheriff of Huddersfield\""}

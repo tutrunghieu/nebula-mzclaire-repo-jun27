@@ -1,0 +1,1 @@
+{"s_released":"August 11, 2014","s_format":null,"s_recorded":"2013","s_genre":"Dance-pop","s_length":"3:24","s_label":"Capitol","s_writer":"Katy Perry Klas Åhlund Max Martin","s_producer":"Åhlund Max Martin","s_title":"\"This Is How We Do\""}

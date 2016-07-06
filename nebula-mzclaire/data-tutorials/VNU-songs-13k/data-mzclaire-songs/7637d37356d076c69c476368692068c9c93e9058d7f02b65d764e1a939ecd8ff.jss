@@ -1,0 +1,1 @@
+{"s_released":"5 December 2005 11 September 2006 (re-issue)","s_format":"10\" single, CD single","s_recorded":"2005","s_genre":"Indie rock","s_length":"15:46","s_label":"Fantastic Plastic Records","s_writer":null,"s_producer":null,"s_title":"\"Trains to Brazil\""}

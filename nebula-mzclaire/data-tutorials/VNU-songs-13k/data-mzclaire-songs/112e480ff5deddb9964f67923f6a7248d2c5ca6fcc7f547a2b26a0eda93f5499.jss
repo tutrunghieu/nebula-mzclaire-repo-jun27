@@ -1,0 +1,1 @@
+{"s_released":"3 November 2003 (UK) 4 November 2003 (France) 10 November 2003 (download)","s_format":"CD, DVD, download","s_recorded":"England","s_genre":"Electroclash","s_length":"3:32","s_label":"Mute","s_writer":"Alison Goldfrapp Will Gregory","s_producer":"Alison Goldfrapp Will Gregory","s_title":"\"Yes Sir\""}

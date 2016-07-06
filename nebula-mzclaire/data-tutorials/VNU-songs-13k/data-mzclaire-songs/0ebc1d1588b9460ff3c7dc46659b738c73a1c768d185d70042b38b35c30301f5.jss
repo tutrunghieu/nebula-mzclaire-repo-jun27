@@ -1,0 +1,1 @@
+{"s_released":"25th November 1997","s_format":"CD, 7\", 12\"","s_recorded":"April–June 1995 at Thrill Hill West in Los Angeles[1]","s_genre":"Rap metal, alternative metal","s_length":"5 min 38 s","s_label":"Columbia","s_writer":"Bruce Springsteen","s_producer":"Bruce Springsteen, Chuck Plotkin","s_title":"\"The Ghost of Tom Joad\""}

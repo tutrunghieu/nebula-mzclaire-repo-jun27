@@ -1,0 +1,1 @@
+{"s_released":"September 6, 1994","s_format":"CD single, \"12, cassette","s_recorded":"1994","s_genre":"Hip hop","s_length":"4:51","s_label":"Atlantic","s_writer":"Keith Crouch Kipper Jones","s_producer":"Keith Crouch","s_title":"\"I Wanna Be Down\""}

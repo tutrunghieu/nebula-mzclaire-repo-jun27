@@ -1,0 +1,1 @@
+{"s_released":"December 6, 2010","s_format":null,"s_recorded":null,"s_genre":"Electropop","s_length":"4:20","s_label":"RCA","s_writer":"Christina Aguilera C. \"Tricky\" Stewart Claude Kelly","s_producer":"C. \"Tricky\" Stewart Claude Kelly","s_title":"\"Express\""}

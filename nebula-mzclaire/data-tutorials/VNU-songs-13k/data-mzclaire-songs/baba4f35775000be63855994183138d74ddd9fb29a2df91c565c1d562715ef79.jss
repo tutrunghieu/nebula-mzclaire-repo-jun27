@@ -1,0 +1,1 @@
+{"s_released":"November 29, 1999 (UK) February 22, 2000 (US)","s_format":"CD single","s_recorded":"Fall 1998","s_genre":"R&B, pop","s_length":"4:20 3:56 (Radio Edit)","s_label":"Arista","s_writer":"Diane Warren","s_producer":"Gold (RIAA)","s_title":"\"I Learned from the Best\""}

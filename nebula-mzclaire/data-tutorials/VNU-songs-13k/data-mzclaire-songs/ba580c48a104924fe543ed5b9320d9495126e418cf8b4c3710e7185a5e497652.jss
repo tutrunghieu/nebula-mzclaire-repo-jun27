@@ -1,0 +1,1 @@
+{"s_released":"11 March 2014 (2014-03-11)","s_format":null,"s_recorded":"Golden Age Studios","s_genre":"Electropop","s_length":"3:32","s_label":"Lava Republic","s_writer":"Joel Little Ella Yelich-O'Connor","s_producer":"Joel Little","s_title":"\"Glory and Gore\""}

@@ -1,0 +1,1 @@
+{"s_released":"February 1, 2013 (2013-02-01)","s_format":"Digital download","s_recorded":"Eardrum Studios (Atlanta, Georgia)","s_genre":"Electro-R&B","s_length":"4:14","s_label":"Republic","s_writer":"Kelly Rowland Michael L. Williams II Marquel Middlebrooks Timothy Thomas Theron Thomas","s_producer":"Mike Will Made It Marz","s_title":"\"Kisses Down Low\""}

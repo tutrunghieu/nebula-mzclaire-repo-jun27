@@ -1,0 +1,1 @@
+{"s_released":"August 28, 2009","s_format":"CD single, digital download","s_recorded":"2008","s_genre":"Dance-pop, pop rock","s_length":"2:55","s_label":"Walt Disney","s_writer":"Kara DioGuardi, Daniel James","s_producer":"Dreamlab","s_title":"\"Supergirl\""}

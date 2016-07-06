@@ -1,0 +1,1 @@
+{"s_released":"June 17, 2008 (2008-06-17)","s_format":"CD single digital download","s_recorded":"October 2007; Denver, Colorado","s_genre":"Dance-pop electropop","s_length":"3:58","s_label":"Def Jam SRP","s_writer":"Brian Kennedy Chris Brown Robert Allen Andre Merritt","s_producer":"Brian Kennedy Makeba Riddick","s_title":"\"Disturbia\""}

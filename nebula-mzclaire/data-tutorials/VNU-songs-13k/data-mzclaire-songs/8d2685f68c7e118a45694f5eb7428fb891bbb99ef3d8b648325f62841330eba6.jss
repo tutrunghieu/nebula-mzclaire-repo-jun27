@@ -1,0 +1,1 @@
+{"s_released":"October 27, 2009 (2009-10-27)","s_format":"CD single digital download","s_recorded":"2009; Roc the Mic Studios; (New York City)","s_genre":"Pop R&B","s_length":"3:47","s_label":"Def Jam SRP","s_writer":"Shaffer Smith Charles Harmon","s_producer":"Chuck Harmony Ne-Yo Makeba Riddick","s_title":"\"Russian Roulette\""}

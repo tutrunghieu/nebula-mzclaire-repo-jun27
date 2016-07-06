@@ -1,0 +1,1 @@
+{"s_released":"October 30, 2001 (2001-10-30)","s_format":"Vinyl (7\"), 12\", 12\" Maxi","s_recorded":"2001, Battery Studios, New York City","s_genre":"R&B, dance","s_length":"47:29 (US maxi) 22:02 (US vinyl maxi)[24]","s_label":"Columbia","s_writer":"Al Cleveland, Renaldo Benson, Marvin Gaye","s_producer":"Jermaine Dupri, Bono, The Neptunes, Moby","s_title":"What's Going On"}

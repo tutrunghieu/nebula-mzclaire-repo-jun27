@@ -1,0 +1,1 @@
+{"s_released":"March 1, 2014 (2014-03-01)","s_format":"Digital download","s_recorded":null,"s_genre":"Grunge new wave","s_length":"4:40","s_label":"Capitol","s_writer":"Sky Ferreira Ariel Rechtshaid Justin Raisen","s_producer":"Ariel Rechtshaid Justin Raisen","s_title":"\"Boys\""}

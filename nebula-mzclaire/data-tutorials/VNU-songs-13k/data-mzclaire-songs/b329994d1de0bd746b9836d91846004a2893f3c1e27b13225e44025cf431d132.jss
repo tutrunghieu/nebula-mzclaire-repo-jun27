@@ -1,0 +1,1 @@
+{"s_released":"1 December 2008","s_format":"7\" vinyl, CD, digital download","s_recorded":"Abbey Road Studios, London","s_genre":"Alternative rock","s_length":"4:10 (album version) 3:55 (video edit) 3:49 (radio edit)","s_label":"Big Brother","s_writer":"Liam Gallagher","s_producer":"Dave Sardy","s_title":"\"I'm Outta Time\""}

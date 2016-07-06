@@ -1,0 +1,1 @@
+{"s_released":"December 16, 2007 (2007-12-16)","s_format":"CD single digital download","s_recorded":"2007","s_genre":"Pop","s_length":"4:16","s_label":"Syco","s_writer":"Stephen Schwartz","s_producer":"Steve Mac","s_title":"\"When You Believe\""}

@@ -1,0 +1,1 @@
+{"s_released":"May 27, 2013 (2013-05-27) (see release history)","s_format":"CD Single, digital download","s_recorded":"2013","s_genre":"Pop","s_length":"3:04","s_label":"EMI Music Japan","s_writer":"Ringo Sheena, Aya Watanabe","s_producer":"Ringo Sheena","s_title":"\"Kodoku no Akatsuki\""}

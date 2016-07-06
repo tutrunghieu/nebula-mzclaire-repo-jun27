@@ -1,0 +1,1 @@
+{"s_released":"April 15, 2011 (2011-04-15)","s_format":"CD single digital download","s_recorded":"2010; Gang Studios, Paris, France","s_genre":"Electro house","s_length":"4:09","s_label":"Streamline Kon Live Interscope","s_writer":"Stefani Germanotta Nadir Khayat[1]","s_producer":"Lady Gaga RedOne","s_title":"\"Judas\""}

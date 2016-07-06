@@ -1,0 +1,1 @@
+{"s_released":"8 July 2011","s_format":"Digital download","s_recorded":"2011","s_genre":"Acoustic pop","s_length":"4:24","s_label":"Warner Bros.","s_writer":"Adele Paul Epworth","s_producer":"Mike Shinoda Rick Rubin","s_title":"\"Rolling in the Deep\""}

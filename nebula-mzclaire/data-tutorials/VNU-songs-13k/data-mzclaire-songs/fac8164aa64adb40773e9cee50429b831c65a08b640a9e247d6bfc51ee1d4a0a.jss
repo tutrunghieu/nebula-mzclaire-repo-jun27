@@ -1,0 +1,1 @@
+{"s_released":"September 26, 2008","s_format":"CD single digital download 7\"","s_recorded":"Record Plant Studios (Hollywood, California)","s_genre":"Synthpop","s_length":"3:58","s_label":"Streamline KonLive Cherrytree Interscope","s_writer":"Stefani Germanotta Nadir Khayat[1]","s_producer":"RedOne","s_title":"\"Poker Face\""}

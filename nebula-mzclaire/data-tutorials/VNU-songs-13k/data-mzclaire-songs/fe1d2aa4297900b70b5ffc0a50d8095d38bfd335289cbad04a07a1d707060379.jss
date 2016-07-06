@@ -1,0 +1,1 @@
+{"s_released":"May 5, 2008","s_format":"Digital download CD single","s_recorded":"2007","s_genre":"Pop rock pop punk power pop","s_length":"3:40","s_label":"Fueled by Ramen","s_writer":"Platinum (RIAA)[1]","s_producer":null,"s_title":"\"That's What You Get\""}

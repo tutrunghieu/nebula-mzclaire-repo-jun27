@@ -1,0 +1,1 @@
+{"s_released":"February 26, 2002 (U.S.)","s_format":"CD","s_recorded":"June 2001 at Greenhouse Studios, Burnaby, British Columbia","s_genre":"Post-grunge, alternative metal","s_length":"3:52","s_label":"Roadrunner","s_writer":"Chad Kroeger, Mike Kroeger, Ryan Peake, Ryan Vikedal","s_producer":null,"s_title":"\"Yanking Out My Heart\" \"Learn the Hard Way\""}

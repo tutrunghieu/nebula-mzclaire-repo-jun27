@@ -1,0 +1,1 @@
+{"s_released":"October 3, 2005","s_format":"CD single","s_recorded":"2004","s_genre":"Pop R&B","s_length":"3:15","s_label":"Island","s_writer":"Mariah Carey Jermaine Dupri Johntá Austin John Phillips Ashley Ingram Steve Jolley Tony Swain Leee John","s_producer":"Mariah Carey Jermaine Dupri LRoc","s_title":"\"Shake It Off\""}

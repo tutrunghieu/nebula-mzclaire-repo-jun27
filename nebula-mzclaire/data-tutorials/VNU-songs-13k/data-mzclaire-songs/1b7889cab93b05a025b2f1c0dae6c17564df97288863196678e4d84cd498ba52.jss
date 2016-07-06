@@ -1,0 +1,1 @@
+{"s_released":"July 7, 2009","s_format":"Digital download 7\" vinyl CD single","s_recorded":"2009; Lightning Sound Studios (California, United States)[1]","s_genre":"Pop punk alternative rock","s_length":"3:38","s_label":"Fueled by Ramen","s_writer":"Josh Farro Hayley Williams","s_producer":"Gold (RIAA)[2]","s_title":"\"Ignorance\""}

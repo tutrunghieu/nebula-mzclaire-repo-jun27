@@ -1,0 +1,1 @@
+{"s_released":"May 9, 2000","s_format":"CD single","s_recorded":"2000","s_genre":"Heavy metal","s_length":"4:26","s_label":"Warner Bros./Hollywood","s_writer":"James Hetfield Lars Ulrich","s_producer":"Bob Rock James Hetfield Lars Ulrich","s_title":"\"I Disappear\""}

@@ -1,0 +1,1 @@
+{"s_released":"September 18, 2015","s_format":"Digital download","s_recorded":null,"s_genre":"Dance disco funk","s_length":"4:29","s_label":"Warner","s_writer":"Esjay Jones Luis Dubuc Mike Elizondo","s_producer":"Mystery Skulls Cory Kilduff","s_title":"\"Magic\""}

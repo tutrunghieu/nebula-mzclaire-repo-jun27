@@ -1,0 +1,1 @@
+{"s_released":"July 19, 2004 (2004-07-19) May 30, 2006 (2006-05-30) (Reissue)","s_format":"CD single. digital download","s_recorded":"2004; Henson Recording Studios (Hollywood)","s_genre":"Folk pop","s_length":"3:57","s_label":"Walt Disney, RCA","s_writer":"Avril Lavigne, Bridget Benenate, Matthew Gerrard","s_producer":"John Shanks","s_title":"\"Breakaway\""}

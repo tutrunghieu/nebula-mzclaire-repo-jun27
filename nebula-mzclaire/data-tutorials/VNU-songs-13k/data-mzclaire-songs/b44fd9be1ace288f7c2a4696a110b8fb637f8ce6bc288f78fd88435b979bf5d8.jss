@@ -1,0 +1,1 @@
+{"s_released":"March 12, 1986","s_format":"7\" single, 12\" single","s_recorded":"1985","s_genre":"R&B, freestyle, adult contemporary","s_length":null,"s_label":"MCA","s_writer":"Jerry Knight and Aaron Zigman","s_producer":"Don Powell, David Rivkin, Jerry Knight and Aaron Zigman","s_title":"\"Right Before My Eyes\""}

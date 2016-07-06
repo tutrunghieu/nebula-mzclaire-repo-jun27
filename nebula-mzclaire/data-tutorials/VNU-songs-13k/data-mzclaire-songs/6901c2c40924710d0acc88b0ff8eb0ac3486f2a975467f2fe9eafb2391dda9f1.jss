@@ -1,0 +1,1 @@
+{"s_released":"June 8, 2012 (2012-06-08)","s_format":"Digital download","s_recorded":"2012","s_genre":"Electro house hip house","s_length":"4:09","s_label":"Island","s_writer":"Michael Warren Jamahl Listenbee Joseph Angel Sebastian Kole David Quiñones Tramar Dillard","s_producer":"GoonRock Kuk Harrell","s_title":"\"Goin' In\""}

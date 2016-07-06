@@ -1,0 +1,1 @@
+{"s_released":"October 27, 2003 June 7, 2004 (re-issue)","s_format":"12\" CD Maxi-CD","s_recorded":"2003","s_genre":"piano rock Glam rock","s_length":"3:36","s_label":"Polydor","s_writer":"Babydaddy Jake Shears","s_producer":"Scissor Sisters","s_title":"\"Laura\""}

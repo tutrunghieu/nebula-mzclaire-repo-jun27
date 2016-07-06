@@ -1,0 +1,1 @@
+{"s_released":"June 4, 2014 (2014-06-04) (see release history)","s_format":"CD Single, digital download","s_recorded":"2014","s_genre":"Pop rock","s_length":"3:54","s_label":"EMI Music Japan","s_writer":"Ringo Sheena","s_producer":"Ringo Sheena","s_title":"\"Sakasa ni Kazoete\""}

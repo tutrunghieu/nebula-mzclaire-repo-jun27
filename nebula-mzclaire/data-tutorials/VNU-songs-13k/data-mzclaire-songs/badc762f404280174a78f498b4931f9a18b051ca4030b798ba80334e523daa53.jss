@@ -1,0 +1,1 @@
+{"s_released":"November 20, 2000","s_format":"CD","s_recorded":"January–February 1998; Burnaby, British Columbia","s_genre":"Post-grunge","s_length":"3:58","s_label":"Roadrunner","s_writer":"Chad Kroeger, Mike Kroeger, Ryan Peake","s_producer":null,"s_title":"\"Breathe\""}

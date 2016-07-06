@@ -1,0 +1,1 @@
+{"s_released":"10 September 1990","s_format":"7 inch, 12 inch, CD, cassette single","s_recorded":"January 1990","s_genre":"Hard rock[1]","s_length":"4:52","s_label":"ATCO","s_writer":"Angus Young, Malcolm Young","s_producer":"Bruce Fairbairn","s_title":"\"Fire Your Guns\""}

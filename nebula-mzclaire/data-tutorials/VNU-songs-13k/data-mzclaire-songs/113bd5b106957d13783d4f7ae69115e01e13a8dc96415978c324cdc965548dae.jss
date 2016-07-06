@@ -1,0 +1,1 @@
+{"s_released":"October 16, 2001 (2001-10-16)","s_format":"CD","s_recorded":"1997","s_genre":"Punk rock, skate punk","s_length":"3:17","s_label":"MCA","s_writer":"Mark Hoppus Tom DeLonge Scott Raynor","s_producer":"Mark Trombino","s_title":"\"I Won't Be Home for Christmas\""}

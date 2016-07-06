@@ -1,0 +1,1 @@
+{"s_released":null,"s_format":null,"s_recorded":"1990","s_genre":"Freestyle,[1][2] dance-pop","s_length":"4:05 (original version) 2:59 (remix version)","s_label":"EMI Latin","s_writer":"Spanish","s_producer":"","s_title":"\"Enamorada de Ti\""}

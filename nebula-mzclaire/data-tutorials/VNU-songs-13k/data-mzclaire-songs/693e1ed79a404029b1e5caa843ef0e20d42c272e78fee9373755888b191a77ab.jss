@@ -1,0 +1,1 @@
+{"s_released":"May 4, 2015 (Original English version) May 12, 2015 (Spanish version)","s_format":"Digital download","s_recorded":null,"s_genre":null,"s_length":"3:20","s_label":"RCA","s_writer":"Savan Kotecha Ilya Geoffrey Rojas Armando Pérez","s_producer":"Jason Evigan Ilya","s_title":"\"Back It Up\""}

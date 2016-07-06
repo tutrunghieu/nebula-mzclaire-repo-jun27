@@ -1,0 +1,1 @@
+{"s_released":"August 29, 2004 (2004-08-29)","s_format":"CD single digital download","s_recorded":"2004","s_genre":"Hip hop R&B","s_length":"3:50","s_label":"DreamWorks","s_writer":"Norman Whitfield Missy Elliott","s_producer":"Elliott Aguilera Ron Fair T. Herzberg C. Styles Bang Out Silence","s_title":"\"Can't Wait\""}

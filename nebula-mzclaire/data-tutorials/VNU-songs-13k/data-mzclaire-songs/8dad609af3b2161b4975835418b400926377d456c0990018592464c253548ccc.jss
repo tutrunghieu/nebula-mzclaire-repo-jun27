@@ -1,0 +1,1 @@
+{"s_released":"December 16, 2008 (2008-12-16)","s_format":"Digital download","s_recorded":null,"s_genre":"Christmas dance-pop synthpop","s_length":"2:26","s_label":"Streamline Kon Live Cherrytree Interscope","s_writer":"Stefani Germanotta Nicolas Dresti[1]","s_producer":"Martin Kierszenbaum Space Cowboy","s_title":"\"Christmas Tree\""}

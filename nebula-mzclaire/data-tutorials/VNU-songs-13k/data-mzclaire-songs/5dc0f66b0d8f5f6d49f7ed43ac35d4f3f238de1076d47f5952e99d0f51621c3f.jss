@@ -1,0 +1,1 @@
+{"s_released":"December 5, 1990","s_format":"12\" single, CD single, Cassette single","s_recorded":null,"s_genre":"R&B","s_length":"5:36","s_label":"Elektra","s_writer":"Keith Sweat Bobby Wooten","s_producer":"Keith Sweat Bobby Wooten","s_title":"\"I'll Give All My Love to You\""}

@@ -1,0 +1,1 @@
+{"s_released":"11 August 2013 (2013-08-11)","s_format":"Digital download CD 7\"","s_recorded":null,"s_genre":"R&B funk rock blues rock","s_length":"2:41","s_label":"Domino","s_writer":"Alex Turner","s_producer":"James Ford","s_title":"\"Stop the World I Wanna Get Off with You\""}

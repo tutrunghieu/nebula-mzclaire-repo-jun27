@@ -1,0 +1,1 @@
+{"s_released":"28 July 1998","s_format":null,"s_recorded":"1997","s_genre":"Heavy metal","s_length":"3:00","s_label":"EMI","s_writer":"Steve Harris Blaze Bayley","s_producer":null,"s_title":"\"The Evil That Men Do (live)\" \"Man on the Edge (live)\" \"The Angel and the Gambler\" (video)"}

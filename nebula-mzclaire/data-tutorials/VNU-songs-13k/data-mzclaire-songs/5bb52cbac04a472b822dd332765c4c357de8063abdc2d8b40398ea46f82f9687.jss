@@ -1,0 +1,1 @@
+{"s_released":"6 November 2015 (2015-11-06)","s_format":"CD digital download","s_recorded":null,"s_genre":"Pop rock, teen pop","s_length":"3:07","s_label":"Syco Sony","s_writer":"Wayne Hector John Ryan Ed Drewett Julian Bunetta Liam Payne Louis Tomlinson","s_producer":"Julian Bunetta John Ryan","s_title":"\"History\""}

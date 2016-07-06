@@ -1,0 +1,1 @@
+{"s_released":"May 16, 2012 (2012-05-16)","s_format":"Digital single","s_recorded":null,"s_genre":"Pop-rock","s_length":"3:33","s_label":"EMI Music Japan","s_writer":"Ringo Sheena","s_producer":null,"s_title":"\"Jiyū e Michizure\""}

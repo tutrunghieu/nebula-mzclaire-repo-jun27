@@ -1,0 +1,1 @@
+{"s_released":null,"s_format":null,"s_recorded":"2011; MSR Studios (New York City); Real World Studios (Box, Wiltshire)","s_genre":"R&B synthpop","s_length":"6:17 (album version) 5:15 (video version) 4:34 (radio edit)","s_label":"Columbia","s_writer":"Beyoncé Knowles Terius Nash Christopher Stewart","s_producer":"The-Dream Beyoncé","s_title":"\"Dance for You\""}

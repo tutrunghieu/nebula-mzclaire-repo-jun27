@@ -1,0 +1,1 @@
+{"s_released":"October 1969 (U.K.); March 20, 1970 (U.S.)","s_format":null,"s_recorded":"1969, Detroit","s_genre":"Soul, pop","s_length":null,"s_label":"Tamla","s_writer":"Ashford & Simpson","s_producer":"Ashford & Simpson","s_title":"\"California Soul\""}

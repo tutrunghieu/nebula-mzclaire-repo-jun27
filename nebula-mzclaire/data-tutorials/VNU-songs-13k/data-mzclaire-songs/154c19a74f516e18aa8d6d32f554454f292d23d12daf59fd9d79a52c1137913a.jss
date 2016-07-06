@@ -1,0 +1,1 @@
+{"s_released":null,"s_format":null,"s_recorded":"January–October 2003 The Rubin's House, Signature Sound, Rolling Thunder (San Diego, California) Conway Recording Studios (Hollywood, California)","s_genre":"Alternative rock","s_length":"4:40","s_label":"Geffen","s_writer":"Mark Hoppus Tom DeLonge Travis Barker Robert Smith","s_producer":"Jerry Finn","s_title":"\"All of This\""}

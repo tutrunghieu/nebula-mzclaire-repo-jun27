@@ -1,0 +1,1 @@
+{"s_released":"September 18, 2015","s_format":"Digital download","s_recorded":"2015","s_genre":"Pop","s_length":"4:18","s_label":"Interscope","s_writer":"Lady Gaga Diane Warren","s_producer":"Lady Gaga","s_title":"\"Til It Happens to You\""}

@@ -1,0 +1,1 @@
+{"s_released":"21 February 2014 (2014-02-21)","s_format":"Digital download","s_recorded":"2013; British Grove Studios (London); Echo Studios (Los Angeles)","s_genre":"Synthpop","s_length":"3:46","s_label":"Polydor","s_writer":"Greg Kurstin Ellie Goulding Nate Ruess","s_producer":"Greg Kurstin","s_title":"\"Goodness Gracious\""}

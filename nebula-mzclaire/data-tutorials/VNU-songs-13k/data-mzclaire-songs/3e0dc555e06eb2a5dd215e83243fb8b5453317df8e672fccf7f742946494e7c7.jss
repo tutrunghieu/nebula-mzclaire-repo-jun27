@@ -1,0 +1,1 @@
+{"s_released":"8 September 2008 (2008-09-08)","s_format":"CD single, digital download","s_recorded":"2008, Doppler Studios (Atlanta, Georgia); Henson Recording Studios (Los Angeles, California)","s_genre":"R&B, dance-pop, soul","s_length":"3:43","s_label":"Sony BMG, Syco, J","s_writer":"Aliaune Thiam, Claude Kelly, Giorgio Tuinfort","s_producer":"Akon","s_title":"\"Myself\""}

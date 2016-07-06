@@ -1,0 +1,1 @@
+{"s_released":"June 20, 1987","s_format":"CD single 7\"","s_recorded":"1986","s_genre":"Rock and roll chicano rock rock en Español","s_length":"2:54","s_label":"Warner Bros.","s_writer":"Ritchie Valens","s_producer":"Los Lobos","s_title":"\"Charlena\""}

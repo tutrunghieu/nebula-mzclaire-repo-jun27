@@ -1,0 +1,1 @@
+{"s_released":"October 31, 2012 (South Korea)","s_format":null,"s_recorded":"2012 at SM Studios, Seoul","s_genre":"Dance","s_length":"9:42","s_label":"S.M. Entertainment KMP Holdings","s_writer":null,"s_producer":"Junggigo, Stella Attar, Will Simms, Yoo Young-jin","s_title":"\"PYL Younique Volume 1\""}

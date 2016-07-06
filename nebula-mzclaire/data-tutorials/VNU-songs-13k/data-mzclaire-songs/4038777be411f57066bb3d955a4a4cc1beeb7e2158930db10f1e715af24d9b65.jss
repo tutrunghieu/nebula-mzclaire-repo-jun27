@@ -1,0 +1,1 @@
+{"s_released":"September 25, 2006 (2006-09-25)","s_format":"CD digital download","s_recorded":null,"s_genre":"Post-disco","s_length":"3:40","s_label":"A&M Interscope","s_writer":"Rich Harrison Nicole Scherzinger Kara DioGuardi","s_producer":"Rich Harrison Ron Fair","s_title":"\"We Went As Far As We Felt Like Goin'\""}

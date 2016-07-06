@@ -1,0 +1,1 @@
+{"s_released":"25 September 1995","s_format":"CD single 12\" picture disc","s_recorded":null,"s_genre":"Heavy metal","s_length":"4:19","s_label":"EMI[1]","s_writer":"Blaze Bayley Janick Gers[2]","s_producer":null,"s_title":"\"The Edge of Darkness\" \"Judgement Day\" \"Justice of the Peace\" \"I Live My Way\" \"Blaze Bayley Interview\""}

@@ -1,0 +1,1 @@
+{"s_released":"1989","s_format":null,"s_recorded":null,"s_genre":"Musical theatre","s_length":null,"s_label":"Polydor","s_writer":"Andrew Lloyd Webber, Don Black, Charles Hart","s_producer":"Andrew Lloyd Webber","s_title":"\"Love Changes Everything\""}

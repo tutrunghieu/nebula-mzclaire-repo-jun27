@@ -1,0 +1,1 @@
+{"s_released":"December 12, 2011 (2011-12-12)","s_format":"Digital download","s_recorded":"2011","s_genre":"Bubblegum pop teen pop","s_length":"3:30","s_label":"Universal Republic Records","s_writer":"Linda Perry Martin Johnson Matt Squire","s_producer":"Matt Squire","s_title":"\"Put Your Hearts Up\""}

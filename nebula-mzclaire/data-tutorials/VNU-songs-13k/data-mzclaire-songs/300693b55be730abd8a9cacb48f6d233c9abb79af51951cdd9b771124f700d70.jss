@@ -1,0 +1,1 @@
+{"s_released":null,"s_format":null,"s_recorded":"April 2013; Echo Studio (Los Angeles, California)","s_genre":"Pop","s_length":"3:51","s_label":"Capitol","s_writer":"Katy Perry Sia Furler Greg Kurstin","s_producer":"Greg Kurstin","s_title":"\"Double Rainbow\""}

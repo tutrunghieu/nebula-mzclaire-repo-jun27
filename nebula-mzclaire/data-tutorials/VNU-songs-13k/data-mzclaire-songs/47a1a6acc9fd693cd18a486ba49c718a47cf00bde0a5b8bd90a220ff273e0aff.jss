@@ -1,0 +1,1 @@
+{"s_released":null,"s_format":null,"s_recorded":"Roc the Mic Studios Honeysouth Studios Circle House Studios","s_genre":"Hip hop","s_length":"4:17","s_label":"Island Def Jam","s_writer":"Mariah Carey Danja T-Pain The Clutch","s_producer":"Carey Danja","s_title":"\"Migrate\""}

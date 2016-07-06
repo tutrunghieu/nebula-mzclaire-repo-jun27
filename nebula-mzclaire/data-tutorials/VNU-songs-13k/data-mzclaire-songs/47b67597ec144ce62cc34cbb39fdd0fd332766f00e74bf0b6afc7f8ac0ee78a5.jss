@@ -1,0 +1,1 @@
+{"s_released":"October 21, 2005","s_format":"Digital download 7\" vinyl CD Single","s_recorded":"2005","s_genre":"Pop punk emo alternative rock","s_length":"4:00","s_label":"Fueled by Ramen","s_writer":"Hayley Williams Josh Farro","s_producer":"James Wisner","s_title":"\"Emergency\""}

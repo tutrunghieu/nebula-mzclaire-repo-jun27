@@ -1,0 +1,1 @@
+{"s_released":"21 November 2010 (2010-11-21)","s_format":"CD digital download","s_recorded":"July and August 1977 at Hansa Studio by the Wall, West Berlin","s_genre":"Pop","s_length":"4:22","s_label":"Syco","s_writer":"David Bowie Brian Eno","s_producer":"David Bowie Tony Visconti","s_title":"\"Hero\""}

@@ -1,0 +1,1 @@
+{"s_released":"February 21, 2013 (2013-02-21)","s_format":null,"s_recorded":null,"s_genre":"R&B","s_length":"4:02","s_label":"RCA","s_writer":"Alicia Keys Kasseem Dean Trevor Lawrence, Jr. Andre Young Andre Brissett Amber Streeter","s_producer":"Swizz Beatz Dr. Dre","s_title":"\"New Day\""}

@@ -1,0 +1,1 @@
+{"s_released":"May 8, 2012","s_format":null,"s_recorded":"No Excuses Studios (Santa Monica, California)","s_genre":"R&B pop","s_length":"4:09","s_label":"RCA","s_writer":"Jamal Jones, Mansur Zafr, India Boodram, Jazmyn Michel, Kesia Hollins","s_producer":"Polow da Don, Mansur Zafr","s_title":"\"Without You\""}

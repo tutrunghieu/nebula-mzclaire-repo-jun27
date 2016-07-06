@@ -1,0 +1,1 @@
+{"s_released":"14 April 2003 (UK, Australia)","s_format":"CD: Worldwide Vinyl: UK Digital download: Worldwide Box set: UK","s_recorded":"Bath, England","s_genre":"Electroclash","s_length":"4:08","s_label":"Mute","s_writer":"Alison Goldfrapp, Will Gregory","s_producer":null,"s_title":"\"Big Black Cloud, Little White Lie\""}

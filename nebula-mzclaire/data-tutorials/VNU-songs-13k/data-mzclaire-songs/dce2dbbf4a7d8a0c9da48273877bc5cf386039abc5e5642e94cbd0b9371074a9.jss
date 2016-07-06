@@ -1,0 +1,1 @@
+{"s_released":"November 22, 1991 (1991-11-22)","s_format":"CD","s_recorded":"August 1991","s_genre":"Pop","s_length":"3:49","s_label":"EMI Latin","s_writer":"Alvaro Torres","s_producer":"Enrique Elizondo","s_title":"\"Buenos Amigos\""}

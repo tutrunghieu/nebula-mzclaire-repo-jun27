@@ -1,0 +1,1 @@
+{"s_released":"May 8, 2013 (2013-05-08)","s_format":"CD single digital download","s_recorded":"2013","s_genre":"Latin pop","s_length":"4:47","s_label":"Universal Music Latino","s_writer":"Miguel Gallardo","s_producer":"Phil Ramone","s_title":"\"Hoy Tengo Ganas de Ti\""}

@@ -1,0 +1,1 @@
+{"s_released":"25 August 2008","s_format":"Vinyl","s_recorded":null,"s_genre":"Alternative rock hard rock blues rock jazz fusion","s_length":"4:24","s_label":"Third Man Warner Bros.","s_writer":"Brendan Benson and Jack White","s_producer":"Jack White III Brendan Benson","s_title":"\"Many Shades of Black\""}

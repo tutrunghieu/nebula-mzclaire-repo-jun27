@@ -1,0 +1,1 @@
+{"s_released":"June 29, 2004","s_format":"CD single, 12\" single, digital download","s_recorded":"2003; Kampo Studios (New York City, New York)","s_genre":"Soul, R&B, neo soul","s_length":"4:44","s_label":"J","s_writer":"Alicia Keys, Kerry Brothers, Jr.","s_producer":"Alicia Keys","s_title":"\"Diary\""}

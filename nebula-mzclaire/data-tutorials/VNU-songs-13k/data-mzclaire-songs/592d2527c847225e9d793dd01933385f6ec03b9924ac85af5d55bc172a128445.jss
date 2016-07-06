@@ -1,0 +1,1 @@
+{"s_released":"September 9, 1998 (1998-09-09)","s_format":"CD Single","s_recorded":null,"s_genre":null,"s_length":"8:57","s_label":"Toshiba EMI / EAST WORLD","s_writer":"Ringo Sheena, Cyndi Lauper, Tom Kelly, Billy Steinberg","s_producer":"Hiroshi Kitashiro","s_title":"\"Kabukichō no Joō\""}

@@ -1,0 +1,1 @@
+{"s_released":"1965","s_format":"7\"","s_recorded":"18 February 1965, EMI Studios, London","s_genre":"Rock","s_length":"2:20","s_label":"Fontana","s_writer":"Lennon–McCartney","s_producer":"The Beatles","s_title":"\"City Winds\""}

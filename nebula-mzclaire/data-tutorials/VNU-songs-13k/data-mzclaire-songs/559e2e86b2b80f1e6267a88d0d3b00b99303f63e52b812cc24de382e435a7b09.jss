@@ -1,0 +1,1 @@
+{"s_released":"5 July 2013 (2013-07-05)","s_format":"CD digital download","s_recorded":"2013; Studio at the Palms (Las Vegas, Nevada)","s_genre":"Electropop[1]","s_length":"3:51","s_label":"Polydor","s_writer":"Ryan Tedder Ellie Goulding Greg Kurstin Noel Zancanella Brent Kutzle","s_producer":"Greg Kurstin","s_title":"\"Hearts Without Chains\""}

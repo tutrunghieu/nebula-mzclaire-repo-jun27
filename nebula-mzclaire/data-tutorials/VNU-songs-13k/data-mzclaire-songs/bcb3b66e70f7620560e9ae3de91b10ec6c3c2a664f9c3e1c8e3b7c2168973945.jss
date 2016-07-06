@@ -1,0 +1,1 @@
+{"s_released":null,"s_format":null,"s_recorded":"2012 Record Plant Studios (Hollywood, California)","s_genre":"Techno","s_length":"4:07","s_label":"Streamline Interscope","s_writer":"Stefani Germanotta Paul \"DJ White Shadow\" Blair Nick Monson Dino Zisis","s_producer":"Paul \"DJ White Shadow\" Blair Lady Gaga Nick Monson Dino Zisis","s_title":"\"Artpop\""}

@@ -1,0 +1,1 @@
+{"s_released":"July 8, 2003 (2003-07-08)","s_format":"12\" CD","s_recorded":null,"s_genre":"Hip hop R&B","s_length":"4:14","s_label":"RCA","s_writer":"Christina Aguilera Scott Storch Matt Morris","s_producer":"Scott Storch","s_title":"\"Can't Hold Us Down\""}

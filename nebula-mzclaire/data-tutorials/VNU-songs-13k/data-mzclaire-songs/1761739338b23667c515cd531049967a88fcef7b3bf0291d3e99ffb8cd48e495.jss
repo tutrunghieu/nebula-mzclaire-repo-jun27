@@ -1,0 +1,1 @@
+{"s_released":"5 July 2009","s_format":null,"s_recorded":"March–April 2008","s_genre":"Hard rock","s_length":"4:15","s_label":"Columbia","s_writer":"Angus Young, Malcolm Young","s_producer":"Brendan O'Brien","s_title":"\"Money Made\""}

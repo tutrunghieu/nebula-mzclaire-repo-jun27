@@ -1,0 +1,1 @@
+{"s_released":"March 24, 2009[1]","s_format":"Digital download","s_recorded":"2008","s_genre":"Dance-rock, pop rock, teen pop, synthpop","s_length":"2:35","s_label":"Walt Disney","s_writer":"Colleen Fitzpatrick, Michael Kotch, Dave Derby, Michael “Smidi” Smith, Stefanie Ridel, Mim Nervo, Liv Nervo","s_producer":"The Collective, Smidi","s_title":"\"Let's Get Crazy\""}

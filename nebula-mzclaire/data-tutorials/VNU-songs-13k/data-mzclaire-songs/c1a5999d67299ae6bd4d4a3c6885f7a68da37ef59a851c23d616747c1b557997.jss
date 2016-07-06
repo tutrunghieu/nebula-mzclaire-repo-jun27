@@ -1,0 +1,1 @@
+{"s_released":"May 23, 2011 (2011-05-23)","s_format":null,"s_recorded":"Officine Meccaniche (Milan, Italy)","s_genre":"Electro-rock","s_length":"4:12","s_label":"Streamline KonLive Interscope","s_writer":"Stefani Germanotta Paul Blair","s_producer":"Lady Gaga Paul Blair","s_title":"\"Electric Chapel\""}

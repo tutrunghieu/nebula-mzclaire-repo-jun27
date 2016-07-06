@@ -1,0 +1,1 @@
+{"s_released":null,"s_format":"Digital download","s_recorded":"at DARP Studios, Atlanta. GA; Doppler Studios, Atlanta, GA; Battery Studios, New York City.","s_genre":"Gospel-pop","s_length":"3:27","s_label":"J Sony Syco","s_writer":"Novel Stevenson Tony Reyes Leona Lewis","s_producer":"Novel Dallas Austin","s_title":"\"Whatever It Takes\""}

@@ -1,0 +1,1 @@
+{"s_released":"28 December 1970 (US only)","s_format":"7\" vinyl","s_recorded":"September–October 1970","s_genre":"Rock","s_length":"5:34 (album version) 3:53 (single edit) 3:50 (demo version)","s_label":null,"s_writer":"John Lennon","s_producer":"Phil Spector, John Lennon and Yoko Ono","s_title":"\"Why\" (Yoko Ono)"}

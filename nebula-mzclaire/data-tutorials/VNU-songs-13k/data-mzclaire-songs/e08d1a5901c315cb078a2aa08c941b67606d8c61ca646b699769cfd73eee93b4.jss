@@ -1,0 +1,1 @@
+{"s_released":"May 24, 2011 (2011-05-24)","s_format":"Digital download","s_recorded":"May 20, 2011","s_genre":"New jack swing","s_length":"2:51","s_label":"Universal Republic","s_writer":"Andy Samberg Akiva Schaffer Jorma Taccone Justin Timberlake Alex Schwartz Joe Khajadourian","s_producer":"The Futuristics Asa Taccone Ryan & Smitty","s_title":"\"3-Way (The Golden Rule)\""}

@@ -1,0 +1,1 @@
+{"s_released":"August 30, 2011","s_format":null,"s_recorded":"2010","s_genre":"Pop-rap[1]","s_length":"3:32","s_label":"Young Money Cash Money Universal Motown Universal Republic","s_writer":"Kevin Hissink W. Jordan Onika Maraj Jonathan \"J.R.\" Rotem Clemm Rishad","s_producer":"J.R. Rotem Kevin Hissink","s_title":"\"Fly\""}

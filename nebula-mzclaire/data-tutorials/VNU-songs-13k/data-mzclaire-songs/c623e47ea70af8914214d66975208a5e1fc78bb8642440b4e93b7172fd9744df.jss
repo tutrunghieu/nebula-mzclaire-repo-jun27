@@ -1,0 +1,1 @@
+{"s_released":"January 13, 1973","s_format":null,"s_recorded":"1972","s_genre":null,"s_length":"4:26","s_label":"Columbia Records","s_writer":"Steven Tyler","s_producer":"Adrian Barber","s_title":"\"Mama Kin\""}

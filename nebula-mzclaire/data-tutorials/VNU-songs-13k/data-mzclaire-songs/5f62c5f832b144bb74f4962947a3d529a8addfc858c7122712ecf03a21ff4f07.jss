@@ -1,0 +1,1 @@
+{"s_released":"5 March 2013","s_format":"Digital download","s_recorded":"2012","s_genre":"Pop","s_length":"3:36","s_label":"Sony Music Greece, Sony Music Spain & LaDans","s_writer":"Marsal Ventura, Ivan Torrent, Jordi Garrido","s_producer":"Marsal Ventura","s_title":"\"Time to Love\""}

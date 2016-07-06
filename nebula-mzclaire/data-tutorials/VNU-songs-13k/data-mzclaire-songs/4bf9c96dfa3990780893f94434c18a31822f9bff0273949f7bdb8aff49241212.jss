@@ -1,0 +1,1 @@
+{"s_released":"December 7, 2010","s_format":"CD single, digital download","s_recorded":"2010","s_genre":"Hip hop R&B","s_length":"4:39","s_label":"Young Money, Cash Money, Universal Motown","s_writer":"Onika Maraj, Aubrey Graham, Nikhil Seetharam, Tyler Williams","s_producer":"Platinum (RIAA)","s_title":"\"Super Bass\""}

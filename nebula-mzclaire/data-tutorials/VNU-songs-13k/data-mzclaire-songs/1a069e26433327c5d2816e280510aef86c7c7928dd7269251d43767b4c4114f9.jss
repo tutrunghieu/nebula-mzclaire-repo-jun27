@@ -1,0 +1,1 @@
+{"s_released":"July 17, 2007 (See release history)","s_format":"Download, 12\", CD Single","s_recorded":"2006","s_genre":"R&B","s_length":"3:39","s_label":"Universal Motown","s_writer":"Esther Dean, Traci C. Hale, Mýa Harrison, Jevon Sims, Christopher \"Tricky\" Stewart","s_producer":"Christopher \"Tricky\" Stewart","s_title":"\"Ridin'\""}

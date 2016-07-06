@@ -1,0 +1,1 @@
+{"s_released":"January 12, 2009 (2009-01-12)","s_format":"CD single digital download","s_recorded":"2007–08; Deathstar Studios, Butch's Old House (Los Feliz)","s_genre":"Pop rock soft rock","s_length":"4:08","s_label":"Capitol","s_writer":"Katy Perry","s_producer":"Butch Walker","s_title":"\"Thinking of You\""}

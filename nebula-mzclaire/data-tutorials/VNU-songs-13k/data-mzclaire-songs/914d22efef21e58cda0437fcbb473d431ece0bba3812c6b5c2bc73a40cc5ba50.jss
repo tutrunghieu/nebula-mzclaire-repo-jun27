@@ -1,0 +1,1 @@
+{"s_released":"April 17, 2013 (2013-04-17)","s_format":"Digital download","s_recorded":"2012–2013","s_genre":"R&B, hip hop","s_length":"4:30","s_label":"RCA","s_writer":"Fantasia Barrino Harmony Samuels Al Sherrod Lambert Melissa Elliott Kyle Stewart","s_producer":"Harmony Samuels","s_title":"\"Without Me\""}

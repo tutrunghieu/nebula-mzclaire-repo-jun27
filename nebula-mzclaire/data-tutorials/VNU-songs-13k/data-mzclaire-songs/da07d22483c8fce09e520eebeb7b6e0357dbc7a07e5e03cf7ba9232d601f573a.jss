@@ -1,0 +1,1 @@
+{"s_released":"June 5, 2001","s_format":"CD Single","s_recorded":"2001","s_genre":"Pop, R&B","s_length":"4:00","s_label":"Disney/Interscope","s_writer":"James Newton Howard, Diane Warren","s_producer":"Jay Selvester, Robbie Buchanan, Ron Fair","s_title":"\"Where the Dream Takes You\""}

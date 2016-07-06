@@ -1,0 +1,1 @@
+{"s_released":"November 1, 2004","s_format":"CD 7\" picture disc","s_recorded":"2003","s_genre":"Pop punk, new wave","s_length":"4:12","s_label":"Geffen","s_writer":"Tom DeLonge Mark Hoppus Travis Barker","s_producer":"Jerry Finn","s_title":"\"I Miss You (Live In Minneapolis)\""}

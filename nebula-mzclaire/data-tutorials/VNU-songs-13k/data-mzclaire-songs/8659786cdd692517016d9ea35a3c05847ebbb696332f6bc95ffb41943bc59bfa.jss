@@ -1,0 +1,1 @@
+{"s_released":"August 8, 1983","s_format":"Cassette, Vinyl","s_recorded":"May 10–27, 1983 at Music America Studios, Rochester, New York","s_genre":"Thrash metal","s_length":"4:06","s_label":"Megaforce","s_writer":"James Hetfield / Lars Ulrich / Dave Mustaine","s_producer":"Paul Curcio, Johny Zazula","s_title":"\"Whiplash\" (Neckbrace Remix)"}

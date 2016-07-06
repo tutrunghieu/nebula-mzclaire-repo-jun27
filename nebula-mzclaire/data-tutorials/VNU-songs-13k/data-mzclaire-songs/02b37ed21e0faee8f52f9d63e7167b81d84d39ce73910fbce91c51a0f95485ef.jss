@@ -1,0 +1,1 @@
+{"s_released":"October 9, 2012","s_format":"Digital download","s_recorded":"2012","s_genre":"Hip hop, R&B","s_length":"4:05","s_label":"Def Jam/DTP","s_writer":"Christopher Bridges, Richard Butler, James Scheffer, Frank Romano, Michael Mule, Issac De Bonni","s_producer":"Jim Jonsin, Rico Love","s_title":"\"Representin\""}

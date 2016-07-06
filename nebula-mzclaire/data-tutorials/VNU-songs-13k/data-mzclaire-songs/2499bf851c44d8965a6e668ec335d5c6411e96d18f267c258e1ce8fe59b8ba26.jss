@@ -1,0 +1,1 @@
+{"s_released":"April 13, 1999","s_format":"Maxi single, Cassette, CD single, CD5","s_recorded":"1998 Silent Sounds Studios (Atlanta, Georgia)","s_genre":"R&B, pop","s_length":"5:38 (album version) 4:29 (Ric Wake Remix)","s_label":"Interscope","s_writer":"Babyface, Diane Warren","s_producer":"Daryl Simmons","s_title":"\"My First Night with You\""}

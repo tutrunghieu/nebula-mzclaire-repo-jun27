@@ -1,0 +1,1 @@
+{"s_released":"January, 2007","s_format":"CD single","s_recorded":"2006","s_genre":"Hard rock","s_length":"4:04","s_label":"Burnett/Epic Records","s_writer":"Lukas Rossi and Dominic Cifarelli","s_producer":"Butch Walker","s_title":"\"Headspin\""}

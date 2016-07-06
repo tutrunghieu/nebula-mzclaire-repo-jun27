@@ -1,0 +1,1 @@
+{"s_released":"2009","s_format":"Digital download","s_recorded":"2008","s_genre":"Country pop, pop rock","s_length":"3:44","s_label":"Walt Disney","s_writer":"Taylor Swift, Martin Johnson","s_producer":"Matthew Gerrard","s_title":"\"You'll Always Find Your Way Back Home\""}

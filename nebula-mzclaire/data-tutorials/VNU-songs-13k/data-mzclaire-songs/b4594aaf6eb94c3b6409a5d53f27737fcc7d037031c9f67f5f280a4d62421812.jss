@@ -1,0 +1,1 @@
+{"s_released":"December 15, 1998 (1998-12-15)","s_format":"CD single 12\" 7\" video single","s_recorded":"September 1998[1]","s_genre":"R&B","s_length":"4:40 (single & album versions) 4:03 (radio mix & video version)","s_label":"Arista","s_writer":"Carsten Schack Kenneth Karlin Tamara Savage","s_producer":"Platinum","s_title":"\"Heartbreak Hotel\""}

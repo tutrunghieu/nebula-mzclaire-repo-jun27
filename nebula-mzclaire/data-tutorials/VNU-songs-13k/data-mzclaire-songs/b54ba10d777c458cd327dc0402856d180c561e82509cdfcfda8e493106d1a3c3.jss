@@ -1,0 +1,1 @@
+{"s_released":"April 15, 2008","s_format":"CD single digital download","s_recorded":"2007","s_genre":"R&B pop","s_length":"4:26","s_label":"Island","s_writer":"Mariah Carey Mikkel S. Eriksen Tor Erik Hermansen Johntá Austin","s_producer":"Stargate Carey","s_title":"\"Bye Bye\""}

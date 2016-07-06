@@ -1,0 +1,1 @@
+{"s_released":"29 September 2014 (2014-09-29)","s_format":"Digital download","s_recorded":"28–29 August 2014; Lakehouse Recording Studios, Asbury Park, New Jersey","s_genre":"Art pop electropop","s_length":"3:52","s_label":"Republic","s_writer":"Ella Yelich-O'Connor Joel Little","s_producer":"Paul Epworth Joel Little","s_title":"\"Yellow Flicker Beat\""}

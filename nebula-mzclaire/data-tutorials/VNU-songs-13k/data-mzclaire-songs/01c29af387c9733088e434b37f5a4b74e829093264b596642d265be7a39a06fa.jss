@@ -1,0 +1,1 @@
+{"s_released":"September 2008 (Radio) 14 October 2008 (iTunes)","s_format":"Digital download CD single 12\" single 7\" single","s_recorded":"2008","s_genre":"Canadian hip hop dancehall","s_length":"3:42","s_label":"Kon Live/Geffen/Black Jays","s_writer":"Jason Harrow Dwayne Chin-Quee John Holt","s_producer":"Gold (CRIA)[74]","s_title":"\"Nina\""}

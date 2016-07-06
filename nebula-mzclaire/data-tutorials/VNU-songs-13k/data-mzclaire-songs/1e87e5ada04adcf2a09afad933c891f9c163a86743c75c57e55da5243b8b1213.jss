@@ -1,0 +1,1 @@
+{"s_released":"1985","s_format":"7 inch, 12 inch","s_recorded":"1985","s_genre":"Hard rock","s_length":"4:10","s_label":"Atlantic Records","s_writer":null,"s_producer":"Angus Young, Malcolm Young","s_title":"\"Stand Up\" (7\" and 12\") \"Jailbreak\" (Live in Dallas 1985 – 12\" only)"}

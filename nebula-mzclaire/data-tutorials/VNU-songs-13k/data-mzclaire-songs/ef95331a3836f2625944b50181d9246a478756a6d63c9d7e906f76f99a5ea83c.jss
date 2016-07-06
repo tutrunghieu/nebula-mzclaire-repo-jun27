@@ -1,0 +1,1 @@
+{"s_released":"March 2007","s_format":"Digital download","s_recorded":"January–May 2005 at Mountainview Studios, Abbotsford, British Columbia","s_genre":"Alternative metal, groove metal","s_length":"3:00","s_label":"Roadrunner","s_writer":"Daniel Adair, Chad Kroeger, Mike Kroeger,","s_producer":null,"s_title":"\"Side of a Bullet\""}

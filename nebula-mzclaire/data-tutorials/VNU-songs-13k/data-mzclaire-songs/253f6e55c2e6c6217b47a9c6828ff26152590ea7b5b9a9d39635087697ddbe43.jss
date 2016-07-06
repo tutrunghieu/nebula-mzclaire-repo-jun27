@@ -1,0 +1,1 @@
+{"s_released":"March 30, 2010 (2010-03-30)","s_format":"Digital download","s_recorded":"Los Angeles, California (Chalice Recording Studios)","s_genre":"Acid house[1] EDM[2]","s_length":"4:23","s_label":"Bad Boy","s_writer":"Marcella Araica Richard Butler Clifford Harris Nathaniel Hills","s_producer":"Danja","s_title":"\"Angels\""}

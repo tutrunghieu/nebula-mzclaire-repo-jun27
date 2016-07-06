@@ -1,0 +1,1 @@
+{"s_released":"4 June 2007","s_format":"12\" CD digital download","s_recorded":"2006","s_genre":"Electro house synthpop dance-punk nu-disco","s_length":"3:52 (radio edit) 5:15 (album version)","s_label":"Fly Eye Columbia Sony","s_writer":"Calvin Harris","s_producer":"Calvin Harris","s_title":"\"Rock N Roll Attitude\""}

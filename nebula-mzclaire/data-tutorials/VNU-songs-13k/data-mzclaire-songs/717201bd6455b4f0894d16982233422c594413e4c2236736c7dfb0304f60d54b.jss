@@ -1,0 +1,1 @@
+{"s_released":"April 10, 1993","s_format":"CD single, 7\" single, cassette single","s_recorded":"December 1991 – early 1992","s_genre":"R&B, pop","s_length":"4:51","s_label":"RCA","s_writer":"Brian Alexander Morgan","s_producer":"Platinum (RIAA)[1]","s_title":"\"Weak\""}

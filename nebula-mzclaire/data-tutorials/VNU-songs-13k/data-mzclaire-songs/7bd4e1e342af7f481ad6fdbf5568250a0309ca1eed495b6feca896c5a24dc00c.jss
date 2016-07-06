@@ -1,0 +1,1 @@
+{"s_released":"14 November 2014[1]","s_format":"CD digital download","s_recorded":"2014","s_genre":"Pop","s_length":"3:47 (album version) 4:00 (video version)","s_label":"Syco Columbia","s_writer":"Harry Styles Niall Horan Zayn Malik Liam Payne Louis Tomlinson Jamie Scott Julian Bunetta John Ryan","s_producer":"Bunetta Ryan Jamie Scott","s_title":"\"Night Changes\""}

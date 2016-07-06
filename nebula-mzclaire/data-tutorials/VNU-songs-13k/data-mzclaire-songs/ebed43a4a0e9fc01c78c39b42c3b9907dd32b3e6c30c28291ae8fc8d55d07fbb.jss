@@ -1,0 +1,1 @@
+{"s_released":"September 10, 2007 (See release history)","s_format":"CD single 2x 7\" single Promo CD","s_recorded":"2007","s_genre":"Alternative rock pop punk emo","s_length":"3:23","s_label":"Fueled by Ramen","s_writer":"Hayley Williams Josh Farro","s_producer":"David Bendeth","s_title":"\"Decoy\""}

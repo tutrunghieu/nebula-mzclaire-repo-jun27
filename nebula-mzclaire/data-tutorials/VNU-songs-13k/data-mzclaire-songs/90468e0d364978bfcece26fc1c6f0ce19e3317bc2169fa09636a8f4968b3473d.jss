@@ -1,0 +1,1 @@
+{"s_released":"26 June 2006","s_format":"7\", CD","s_recorded":"2005-2006","s_genre":"Rock","s_length":"3:41","s_label":"Polydor","s_writer":null,"s_producer":"Fyfe Dangerfield","s_title":"\"Made-Up Lovesong #43\""}

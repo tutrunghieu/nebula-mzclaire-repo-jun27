@@ -1,0 +1,1 @@
+{"s_released":"April 1996[1] 2 February 1996[2]","s_format":null,"s_recorded":"1995","s_genre":"Heavy metal","s_length":"5:03","s_label":"EMI","s_writer":"Steve Harris Janick Gers","s_producer":null,"s_title":"\"My Generation\" \"Doctor Doctor\""}

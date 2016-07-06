@@ -1,0 +1,1 @@
+{"s_released":"October 27, 2013 (2013-10-27)","s_format":"Digital download","s_recorded":"2013","s_genre":"Synthpop dance-pop","s_length":"3:54","s_label":"Streamline Interscope","s_writer":"Stefani Germanotta Paul \"DJ White Shadow\" Blair Hugo Leclercq Dino Zisis Nick Monson Sun Ra","s_producer":"Lady Gaga Madeon Monson","s_title":"\"Venus\""}

@@ -1,0 +1,1 @@
+{"s_released":"30 July 2013","s_format":"CD single digital download maxi single","s_recorded":"December 2012","s_genre":null,"s_length":"3:22 (album version) 6:12 (video version)","s_label":"Syco Columbia","s_writer":"Wayne Hector John Ryan Ed Drewett Julian Bunetta","s_producer":"Julian Bunetta John Ryan Matt Rad","s_title":"\"Kiss You\" \"Last First Kiss\""}

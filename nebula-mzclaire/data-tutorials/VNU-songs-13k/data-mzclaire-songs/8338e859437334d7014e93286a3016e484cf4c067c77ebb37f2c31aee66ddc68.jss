@@ -1,0 +1,1 @@
+{"s_released":"1994","s_format":null,"s_recorded":null,"s_genre":"Alternative rock[1]","s_length":"6:10","s_label":"Mute Records","s_writer":"Mick Harvey, Nick Cave and Thomas Wydler","s_producer":"Tony Cohen","s_title":"\"Red Right Hand\""}

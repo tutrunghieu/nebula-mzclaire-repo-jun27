@@ -1,0 +1,1 @@
+{"s_released":"23 September 2002","s_format":"7\", 12\", CD, DVD","s_recorded":null,"s_genre":"Rock","s_length":"3:11","s_label":"Big Brother","s_writer":"Noel Gallagher","s_producer":"Oasis","s_title":"\"My Generation\""}

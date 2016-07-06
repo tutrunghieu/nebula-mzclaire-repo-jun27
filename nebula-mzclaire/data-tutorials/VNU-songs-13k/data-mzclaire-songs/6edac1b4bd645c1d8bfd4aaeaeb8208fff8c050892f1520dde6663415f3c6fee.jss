@@ -1,0 +1,1 @@
+{"s_released":"February 5, 2006[1]","s_format":"CD single digital download","s_recorded":null,"s_genre":"Hip hop dance pop","s_length":"3:53","s_label":"Def Jam","s_writer":"James Todd Smith Jermaine Dupri James Phillips Ryan Toby Arthur Baker John Robie Afrika Bambaataa John Miller","s_producer":"Jermaine Dupri","s_title":"\"Control Myself\""}

@@ -1,0 +1,1 @@
+{"s_released":"September 12, 2012 (2012-09-12)","s_format":null,"s_recorded":"October–December 2011","s_genre":"Dance electropop","s_length":"3:03","s_label":"Young Money Cash Money Universal","s_writer":"Onika Maraj Lukasz Gottwald Allan Grigg Max Martin Henry Walter","s_producer":"Dr. Luke Kool Kojak Cirkut","s_title":"\"Va Va Voom\""}

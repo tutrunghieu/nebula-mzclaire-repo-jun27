@@ -1,0 +1,1 @@
+{"s_released":"June 15, 1987 (1987-06-15)","s_format":"7\" 12\"","s_recorded":"1986-1987","s_genre":null,"s_length":"3:24","s_label":"Geffen","s_writer":"Duff McKagan West Arkeen","s_producer":"Mike Clink","s_title":"\"Mr. Brownstone\""}

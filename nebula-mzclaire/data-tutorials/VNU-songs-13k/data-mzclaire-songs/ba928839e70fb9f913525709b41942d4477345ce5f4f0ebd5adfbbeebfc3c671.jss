@@ -1,0 +1,1 @@
+{"s_released":"April 30, 2007 (2007-04-30)","s_format":"CD single digital download 7\" single 12\" single","s_recorded":null,"s_genre":"Synthpop new wave","s_length":"3:28","s_label":"Mercury","s_writer":"Martina Sorbara Dan Kurtz","s_producer":"Dragonette","s_title":"\"Shockbox\""}

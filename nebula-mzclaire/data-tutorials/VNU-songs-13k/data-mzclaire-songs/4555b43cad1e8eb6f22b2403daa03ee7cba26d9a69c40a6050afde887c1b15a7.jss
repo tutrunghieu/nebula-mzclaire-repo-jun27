@@ -1,0 +1,1 @@
+{"s_released":"12 January 1998","s_format":"CD, 7\" vinyl, 12\" vinyl, cassette","s_recorded":"November 1996 - April 1997","s_genre":"Britpop symphonic rock","s_length":"9:20 (Album version) 9:38 (Single version)","s_label":"Creation - CRE 282","s_writer":"Noel Gallagher","s_producer":"Owen Morris, Noel Gallagher","s_title":"\"The Fame\" \"Flashbax\" \"Street Fighting Man\""}

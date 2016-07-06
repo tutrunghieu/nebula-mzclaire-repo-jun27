@@ -1,0 +1,1 @@
+{"s_released":"April 28, 2014 (2014-04-28)","s_format":"CD single digital download","s_recorded":"Conway Studios (Los Angeles), Wolf Cousins Studios (Stockholm)","s_genre":"Dance-pop","s_length":"3:13","s_label":"Republic","s_writer":"Max Martin Savan Kotecha Ilya Salmanzadeh Amethyst Kelly[1]","s_producer":"Max Martin Shellback Ilya Peter Carlsson","s_title":"\"Problem\""}

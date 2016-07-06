@@ -1,0 +1,1 @@
+{"s_released":"31 October 1980","s_format":"7 inch","s_recorded":"Spring 1980 at Compass Point Studios in The Bahamas","s_genre":"Hard rock[1]","s_length":"5:12","s_label":"Atlantic Records","s_writer":null,"s_producer":"Robert John \"Mutt\" Lange","s_title":"\"What Do You Do for Money Honey\""}

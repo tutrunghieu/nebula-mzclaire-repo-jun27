@@ -1,0 +1,1 @@
+{"s_released":"1997","s_format":"CD","s_recorded":"1989","s_genre":"Latin","s_length":"4:12","s_label":"EMI","s_writer":null,"s_producer":"Abraham Quintanilla Jr.","s_title":"\"Only Love\""}

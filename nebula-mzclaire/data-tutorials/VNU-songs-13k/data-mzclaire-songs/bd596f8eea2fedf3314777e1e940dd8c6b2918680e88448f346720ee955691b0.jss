@@ -1,0 +1,1 @@
+{"s_released":"December 13, 2011 (United States)","s_format":"Digital download","s_recorded":"2011 Planet 9 Studios","s_genre":"House, techno","s_length":"3:07","s_label":"Planet 9","s_writer":"Mýa Harrison Stacie & Lacie","s_producer":"Reco Lynch","s_title":"\"Somebody Come Get This Bitch\""}

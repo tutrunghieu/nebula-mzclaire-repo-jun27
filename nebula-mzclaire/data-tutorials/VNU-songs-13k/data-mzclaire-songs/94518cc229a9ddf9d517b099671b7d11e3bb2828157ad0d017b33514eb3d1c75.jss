@@ -1,0 +1,1 @@
+{"s_released":"19 January 2016 (2016-01-19)","s_format":null,"s_recorded":"2015; Echo Studio (Los Angeles, California)","s_genre":"Electropop","s_length":"3:47","s_label":"Cherrytree Interscope","s_writer":"Ellie Goulding Greg Kurstin","s_producer":"Greg Kurstin","s_title":"\"Something in the Way You Move\""}

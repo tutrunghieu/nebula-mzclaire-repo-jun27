@@ -1,0 +1,1 @@
+{"s_released":null,"s_format":null,"s_recorded":"2012","s_genre":"Pop rock","s_length":"3:21","s_label":"Syco","s_writer":"Henry Walter Lukasz Gottwald Allan Grigg Peter Svensson Sam Hollander Breanna Smith","s_producer":"Cirkut Dr. Luke Kool Kojak","s_title":"\"Rock Me\""}

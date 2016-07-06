@@ -1,0 +1,1 @@
+{"s_released":"27 October 2008 (2008-10-27)","s_format":"CD digital download","s_recorded":"1992–93","s_genre":"Pop R&B","s_length":"4:21","s_label":"Syco","s_writer":"Mariah Carey Walter Afanasieff","s_producer":"Mariah Carey Walter Afanasieff","s_title":"\"Hero\""}

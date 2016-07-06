@@ -1,0 +1,1 @@
+{"s_released":"February 20, 1999 (1999-02-20)","s_format":"CD Single","s_recorded":null,"s_genre":null,"s_length":"12:12","s_label":"Toshiba EMI, East World","s_writer":"Ringo Sheena","s_producer":"Hiroshi Kitashiro","s_title":"\"Koko de Kiss Shite.\""}

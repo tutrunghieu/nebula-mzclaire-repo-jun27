@@ -1,0 +1,1 @@
+{"s_released":"2013","s_format":"7\" 12\"","s_recorded":null,"s_genre":"New wave","s_length":"2:35","s_label":"Republic Mercury","s_writer":"Roland Orzabal Ian Stanley Chris Hughes","s_producer":"Tears for Fears","s_title":"\"Everybody Wants to Rule the World\""}

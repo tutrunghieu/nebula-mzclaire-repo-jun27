@@ -1,0 +1,1 @@
+{"s_released":"November 11, 2006 (2006-11-11)","s_format":"digital download","s_recorded":null,"s_genre":"Jazz","s_length":"2:31","s_label":"Toshiba EMI","s_writer":"Ringo Sheena, Soil & \"Pimp\" Sessions","s_producer":"Uni Inoue","s_title":"\"Karisome Otome\""}

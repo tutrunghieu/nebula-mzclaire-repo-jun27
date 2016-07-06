@@ -1,0 +1,1 @@
+{"s_released":"April 2000 (UK only)","s_format":"CD","s_recorded":"1999 (CDSTIFF 100)","s_genre":"Hard rock, blues rock","s_length":"3:35","s_label":"Eastwest","s_writer":"Angus Young, Malcolm Young","s_producer":"George Young, AC/DC","s_title":"\"Hard as a Rock\" (Live), \"Ballbreaker\" (Live)"}

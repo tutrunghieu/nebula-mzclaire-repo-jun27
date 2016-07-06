@@ -1,0 +1,1 @@
+{"s_released":null,"s_format":"Digital download","s_recorded":null,"s_genre":"Teen pop","s_length":"3:15","s_label":"Walt Disney","s_writer":"Matthew Gerrard, Robbie Nevil, Jay Landers","s_producer":"Matthew Gerrard","s_title":"\"Who Said\""}

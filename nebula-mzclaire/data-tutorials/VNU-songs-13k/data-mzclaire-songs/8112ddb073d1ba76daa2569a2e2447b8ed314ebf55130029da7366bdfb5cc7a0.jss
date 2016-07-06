@@ -1,0 +1,1 @@
+{"s_released":"April 2, 1996","s_format":"CD, Promo single","s_recorded":"March 2, 1995","s_genre":"Latin","s_length":null,"s_label":"EMI","s_writer":"Leonard Bernstein Stephen Sondheim","s_producer":"Abraham Quintanilla Jr","s_title":"\"A Boy Like That\""}

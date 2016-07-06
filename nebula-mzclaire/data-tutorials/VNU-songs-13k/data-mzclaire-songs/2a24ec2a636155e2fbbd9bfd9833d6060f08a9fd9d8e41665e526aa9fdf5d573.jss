@@ -1,0 +1,1 @@
+{"s_released":"August 28, 2012 (2012-08-28)","s_format":"Digital download","s_recorded":null,"s_genre":"R&B","s_length":"4:28","s_label":"Chameleon, RCA","s_writer":"Sean Garrett, Justin Henderson, Christopher Whitacre","s_producer":"Tha Bizness, Sean Garrett","s_title":"\"Wildest Dreams\""}

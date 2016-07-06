@@ -1,0 +1,1 @@
+{"s_released":"May 18, 2004","s_format":"Digital download, 7\" single","s_recorded":"2002; SouthSide Studios (Atlanta, Georgia)","s_genre":"R&B","s_length":"4:17 (album version)","s_label":"J","s_writer":"Monica Arnold, Jermaine Dupri, Harold Lilly","s_producer":"Dupri, Bryan Michael Cox (co.)","s_title":"\"U Should've Known Better\""}

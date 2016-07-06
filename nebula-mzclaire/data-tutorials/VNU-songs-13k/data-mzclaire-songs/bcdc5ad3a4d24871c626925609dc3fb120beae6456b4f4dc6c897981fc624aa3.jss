@@ -1,0 +1,1 @@
+{"s_released":"24 April 2006","s_format":null,"s_recorded":"September 2005","s_genre":"Indie rock,[1] garage rock, post-punk revival","s_length":"3:38","s_label":"Domino","s_writer":"Alex Turner, Jamie Cook","s_producer":"Jim Abiss","s_title":"\"The View from The Afternoon\""}

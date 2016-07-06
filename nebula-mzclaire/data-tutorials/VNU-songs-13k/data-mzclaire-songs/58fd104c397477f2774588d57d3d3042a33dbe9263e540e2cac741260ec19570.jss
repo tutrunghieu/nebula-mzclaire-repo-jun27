@@ -1,0 +1,1 @@
+{"s_released":"18 January 2010 (see release history)","s_format":null,"s_recorded":"2009","s_genre":"Dance-pop, synthpop, R&B","s_length":"3:35 (single) 4:10 (album)","s_label":"Syco","s_writer":"Nadir Khayat,[1] Bilal Hajji, Savan Kotecha","s_producer":"RedOne","s_title":"\"Broken Heels\""}

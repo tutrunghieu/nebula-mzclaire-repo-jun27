@@ -1,0 +1,1 @@
+{"s_released":"December 24, 1995","s_format":"CD promo single","s_recorded":"1994","s_genre":"Latin","s_length":"2:19","s_label":"EMI","s_writer":"Felipe Bermejo","s_producer":"José Hernàndez","s_title":"\"El Toro Relajo\""}

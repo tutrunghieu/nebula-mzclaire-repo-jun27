@@ -1,0 +1,1 @@
+{"s_released":"February 28, 2006 (2006-02-28)","s_format":"V-Single CD 12\"","s_recorded":null,"s_genre":"Pop funk","s_length":"3:49","s_label":"A&M Interscope","s_writer":"Will \"will.i.am\" Adams Kara DioGuardi Jeff Lynne","s_producer":"will.i.am Ron Fair","s_title":"\"Beep\""}

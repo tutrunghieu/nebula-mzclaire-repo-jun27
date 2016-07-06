@@ -1,0 +1,1 @@
+{"s_released":"November 16, 2002 (2002-11-16)","s_format":"CD digital download vinyl","s_recorded":null,"s_genre":"Pop","s_length":"3:58","s_label":"RCA","s_writer":"Linda Perry","s_producer":"Linda Perry","s_title":"\"Dame Lo Que Yo Te Doy\""}

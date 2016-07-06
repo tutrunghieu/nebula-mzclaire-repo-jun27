@@ -1,0 +1,1 @@
+{"s_released":"February 25, 2014 (2014-02-25)","s_format":"Digital download","s_recorded":"2012 (2012)","s_genre":"Latin Dance Reggaeton","s_length":"3:55","s_label":"Sony Music Latin","s_writer":"Jennifer Lopez Ricky Martin Juan Luis Morera José Torres Carlos E. Ortiz","s_producer":"Chris Jeday","s_title":"\"Adrenalina\""}

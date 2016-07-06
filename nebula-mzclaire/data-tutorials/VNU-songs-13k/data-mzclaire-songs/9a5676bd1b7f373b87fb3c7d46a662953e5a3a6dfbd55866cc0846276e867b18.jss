@@ -1,0 +1,1 @@
+{"s_released":"September 23, 2009 (download)","s_format":"Digital download","s_recorded":"2008–2009 (Barcelona, Spain) (New York City)","s_genre":"Latin music, R&B","s_length":"4:41","s_label":"WEA Latina","s_writer":"Alejandro Sanz, Alicia Keys","s_producer":"Tommy Torres","s_title":"\"Looking for Paradise\""}

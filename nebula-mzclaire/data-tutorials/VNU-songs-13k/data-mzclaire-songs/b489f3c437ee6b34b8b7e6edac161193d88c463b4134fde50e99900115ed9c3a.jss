@@ -1,0 +1,1 @@
+{"s_released":"August 6, 2013","s_format":"Digital download","s_recorded":"2013","s_genre":"Pop hip hop R&B","s_length":"4:07","s_label":"Republic","s_writer":"Harmony Samuels H. \"Carmen Reece\" Culver J. \"Lonny\" Bereal James \"J-Doe\" Smith Al Sherrod Lambert Ariana Grande Sean Anderson Jeff Lorber","s_producer":"Harmony Samuels Ariana Grande","s_title":"\"Right There\""}

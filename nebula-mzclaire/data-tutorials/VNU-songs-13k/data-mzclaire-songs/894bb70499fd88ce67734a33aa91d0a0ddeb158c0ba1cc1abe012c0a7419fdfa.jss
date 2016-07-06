@@ -1,0 +1,1 @@
+{"s_released":"24 May 1986","s_format":"7-inch, 12-inch","s_recorded":"December 1985","s_genre":"Hard rock","s_length":"3:27","s_label":"Atlantic","s_writer":null,"s_producer":"Harry Vanda, George Young","s_title":"\"Guns For Hire\" (live, Detroit '83)"}

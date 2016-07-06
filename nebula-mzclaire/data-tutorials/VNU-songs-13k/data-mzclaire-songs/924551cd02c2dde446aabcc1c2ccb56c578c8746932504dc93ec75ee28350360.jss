@@ -1,0 +1,1 @@
+{"s_released":"15 October 2013","s_format":"CD single digital download","s_recorded":"2013","s_genre":"Pop rock","s_length":"4:29 (Album Version) 3:57 (Radio Edit)","s_label":"Epic","s_writer":"Avril Lavigne Chad Kroeger David Hodges","s_producer":"Chad Kroeger David Hodges","s_title":"\"Let Me Go\""}

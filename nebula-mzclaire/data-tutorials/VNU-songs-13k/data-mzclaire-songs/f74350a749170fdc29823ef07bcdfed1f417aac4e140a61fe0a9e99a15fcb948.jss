@@ -1,0 +1,1 @@
+{"s_released":null,"s_format":null,"s_recorded":"Metropolis Studios, London","s_genre":"Folk[1]","s_length":"3:47","s_label":"XL","s_writer":"Adele Adkins Greg Kurstin","s_producer":"Greg Kurstin","s_title":"\"Million Years Ago\""}

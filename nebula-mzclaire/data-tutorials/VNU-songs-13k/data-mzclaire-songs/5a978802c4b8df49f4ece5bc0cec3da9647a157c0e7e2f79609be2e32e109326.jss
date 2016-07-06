@@ -1,0 +1,1 @@
+{"s_released":"June 27, 2010 (2010-06-27)","s_format":"CD single digital download","s_recorded":"The Red Lips Room (Beverly Hills, California)","s_genre":null,"s_length":"4:17","s_label":"RCA","s_writer":"Christina Aguilera Sia Furler Samuel Dixon","s_producer":"Samuel Dixon Sia Furler (vocals)","s_title":"\"You Lost Me\""}

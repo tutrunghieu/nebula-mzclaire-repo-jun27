@@ -1,0 +1,1 @@
+{"s_released":"12 January 2009","s_format":"CD single 7\" picture disc digital download","s_recorded":"2008","s_genre":"Synthpop dance-pop","s_length":"3:53 (album version) 3:59 (radio mix)","s_label":"Fascination","s_writer":"Miranda Cooper Brian Higgins Tim Powell Neil Tennant Chris Lowe","s_producer":"Xenomania","s_title":"\"Memory of You\" \"Girls on 45 Megamix\""}

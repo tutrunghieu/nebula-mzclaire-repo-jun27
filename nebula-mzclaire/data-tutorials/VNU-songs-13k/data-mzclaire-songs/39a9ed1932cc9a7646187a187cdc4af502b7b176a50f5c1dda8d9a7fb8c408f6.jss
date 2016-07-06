@@ -1,0 +1,1 @@
+{"s_released":"July 18, 2000","s_format":"CD single","s_recorded":"1999","s_genre":"R&B hip hop","s_length":"5:20","s_label":"Columbia","s_writer":"Mariah Carey, Snoop Dogg, Teddy Riley, Aaron Hall, Timmy Gatling, Gene Griffin","s_producer":"Mariah Carey, Damizza","s_title":"\"Crybaby\""}

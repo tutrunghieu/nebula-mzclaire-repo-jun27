@@ -1,0 +1,1 @@
+{"s_released":"6 July 2009 (Digital download) 17 August 2009 (Vinyl release)","s_format":"7\", 10\"","s_recorded":null,"s_genre":"Stoner rock[1]","s_length":"3:43","s_label":"Domino","s_writer":"Alex Turner","s_producer":"Josh Homme (track 1) James Ford (track 3)","s_title":"\"Red Right Hand\" \"I Haven't Got My Strange\""}

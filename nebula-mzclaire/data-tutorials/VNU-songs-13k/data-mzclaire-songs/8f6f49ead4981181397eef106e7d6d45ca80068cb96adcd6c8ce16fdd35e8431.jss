@@ -1,0 +1,1 @@
+{"s_released":"September 23, 2003[1]","s_format":"7\" 12\" CD","s_recorded":"2000–02 at Stankonia Studios, Tree Sound Studios, Larrabee Sound Studios","s_genre":"Pop soul funk","s_length":"3:55","s_label":"LaFace RCA","s_writer":"André 3000","s_producer":"André 3000","s_title":"\"Ghetto Musick\" \"My Favourite Things\" Instrumental"}

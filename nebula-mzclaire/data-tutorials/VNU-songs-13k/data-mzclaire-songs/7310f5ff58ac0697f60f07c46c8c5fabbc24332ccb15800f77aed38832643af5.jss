@@ -1,0 +1,1 @@
+{"s_released":"18 September 2015","s_format":"Digital download","s_recorded":"2015","s_genre":"Breakbeat soul R&B","s_length":"3:33","s_label":"Naughty Boy Virgin EMI","s_writer":"Jonny Coffer Naughty Boy Beyoncé Arrow Benjamin Carla Marie Williams","s_producer":"Naughty Boy","s_title":"\"Runnin' (Lose It All)\""}

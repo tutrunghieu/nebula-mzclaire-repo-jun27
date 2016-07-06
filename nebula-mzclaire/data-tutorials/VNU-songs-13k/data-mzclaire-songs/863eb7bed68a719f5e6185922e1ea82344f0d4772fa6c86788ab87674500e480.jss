@@ -1,0 +1,1 @@
+{"s_released":null,"s_format":null,"s_recorded":"Roc the Mic, New York City","s_genre":"R&B","s_length":"4:07","s_label":"Columbia","s_writer":"Shaffer \"Ne-Yo\" Smith Shea Taylor Beyoncé Knowles Solange Knowles","s_producer":"Taylor B. Knowles","s_title":"\"Flaws and All\""}

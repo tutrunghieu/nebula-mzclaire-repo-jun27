@@ -1,0 +1,1 @@
+{"s_released":"August 19, 2013 (2013-08-19)","s_format":null,"s_recorded":null,"s_genre":null,"s_length":"3:30 (soundtrack version) 5:28 (album version)","s_label":"Republic Island[1]","s_writer":"Ariana Grande Harmony Samuels Carmen Reece Al Sherrod Lambert Olaniyi-Akinpelu Moses Samuels","s_producer":"Moses Samuels","s_title":"\"Almost Is Never Enough\""}

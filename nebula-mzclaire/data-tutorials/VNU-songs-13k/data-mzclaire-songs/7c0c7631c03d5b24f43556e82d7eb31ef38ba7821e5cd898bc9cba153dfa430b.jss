@@ -1,0 +1,1 @@
+{"s_released":"March 13, 2001","s_format":"Maxi, 12\", CD single","s_recorded":"Summer 2000 at Flyte Tyme Studios (Edina, Minnesota)","s_genre":"R&B, pop","s_length":"5:21","s_label":"Interscope","s_writer":"Jimmy Jam, Mýa Harrison, Terry Lewis, Alexander Richbourg, Tony Tolbert","s_producer":"Platinum (ARIA)","s_title":"\"Free\""}

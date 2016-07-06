@@ -1,0 +1,1 @@
+{"s_released":"May 3, 2011 (2011-05-03)","s_format":"Digital download","s_recorded":"The Village Westlake Recording Studios","s_genre":"Reggae","s_length":"4:28","s_label":"Def Jam SRP","s_writer":"Shama Joseph Timothy Thomas Theron Thomas Shontelle Layne","s_producer":"Sham Kuk Harrell Bobby Campbell","s_title":"\"Man Down\""}

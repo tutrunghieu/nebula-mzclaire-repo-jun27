@@ -1,0 +1,1 @@
+{"s_released":"November 23, 2015 (2015-11-23)","s_format":"Digital download","s_recorded":"2015; Beluga Heights Studio (Los Angeles, California)","s_genre":"Pop doo wop","s_length":"3:14","s_label":"Silent Republic Big Machine","s_writer":"Jake Hagood Jonathan Rotem Jason Gantt Bob DiPiero","s_producer":"J.R. Rotem","s_title":"\"Boys Like You\""}

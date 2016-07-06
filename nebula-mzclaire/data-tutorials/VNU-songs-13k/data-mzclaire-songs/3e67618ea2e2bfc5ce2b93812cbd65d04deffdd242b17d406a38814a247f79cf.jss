@@ -1,0 +1,1 @@
+{"s_released":"September 9, 2011 (2011-09-09)","s_format":"CD single, digital download","s_recorded":"2010; Maratone Studios, (Stockholm, Sweden)","s_genre":"Soft rock, acoustic rock","s_length":"3:45","s_label":"RCA","s_writer":"Avril Lavigne Max Martin Shellback","s_producer":"Max Martin Shellback","s_title":"\"Wish You Were Here\""}

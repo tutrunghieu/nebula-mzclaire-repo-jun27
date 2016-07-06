@@ -1,0 +1,1 @@
+{"s_released":"6 August 1984","s_format":"Vinyl (7\", 12\")","s_recorded":"1984","s_genre":"Heavy metal","s_length":"6:04","s_label":"EMI","s_writer":"Adrian Smith Bruce Dickinson","s_producer":"Martin Birch","s_title":"\"Rainbow's Gold\" (Beckett cover) *\"Mission from 'Arry\""}

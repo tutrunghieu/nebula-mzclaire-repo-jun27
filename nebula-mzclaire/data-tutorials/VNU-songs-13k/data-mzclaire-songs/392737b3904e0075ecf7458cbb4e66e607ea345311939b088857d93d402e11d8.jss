@@ -1,0 +1,1 @@
+{"s_released":"November 24, 1998","s_format":null,"s_recorded":"September–October 1998 at The Plant Studios, Sausalito, California.","s_genre":"Southern rock","s_length":"9:05","s_label":"Elektra Records","s_writer":"Ronnie Van Zant Allen Collins","s_producer":"Bob Rock James Hetfield Lars Ulrich Mark Whitaker","s_title":"\"Tuesday's Gone\""}

@@ -1,0 +1,1 @@
+{"s_released":"May 1, 1992","s_format":null,"s_recorded":"1992","s_genre":"Punk rock","s_length":"13:50","s_label":"Fat Wreck Chords","s_writer":null,"s_producer":null,"s_title":"The Longest Line"}

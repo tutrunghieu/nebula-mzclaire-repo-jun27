@@ -1,0 +1,1 @@
+{"s_released":"December 20, 2011","s_format":"\"Starships\" (German and UK CD single)","s_recorded":"2011","s_genre":"Electro-hop bounce[1] hip-hop","s_length":"3:16","s_label":"Young Money Cash Money Universal Republic","s_writer":"Onika Maraj Tina Dunham Safaree Samuels","s_producer":"DJ Diamond Kuts Pink Friday Productions","s_title":"\"Stupid Hoe\""}

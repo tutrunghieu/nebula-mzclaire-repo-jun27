@@ -1,0 +1,1 @@
+{"s_released":"22 November 1968","s_format":null,"s_recorded":"9–10 September 1968, EMI Studios, London","s_genre":"Hard rock[1][2] heavy metal[3] proto-punk[4]","s_length":"4:30 (stereo LP) 3:40 (mono LP)","s_label":"Apple","s_writer":"Lennon–McCartney","s_producer":"George Martin","s_title":"Northern Songs"}

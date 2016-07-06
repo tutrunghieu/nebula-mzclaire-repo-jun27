@@ -1,0 +1,1 @@
+{"s_released":"November 9, 2009 (2009-11-09)","s_format":"Digital download","s_recorded":"2009; Metropolis Studios, London, England","s_genre":null,"s_length":"4:49","s_label":"Streamline Kon Live Cherrytree Interscope","s_writer":"Stefani Germanotta Fernando Garibay","s_producer":"Lady Gaga Fernando Garibay","s_title":"\"Dance in the Dark\""}

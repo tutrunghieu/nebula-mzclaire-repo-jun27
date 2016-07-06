@@ -1,0 +1,1 @@
+{"s_released":"24 October 2010 (2010-10-24)","s_format":"CD single digital download","s_recorded":"2010; Sub Zero Studios, Santa Monica, California","s_genre":"Dance-pop","s_length":"3:23","s_label":"Fascination","s_writer":"Priscilla Hamilton Wayne Wilkins Christopher Jackson","s_producer":"Wayne Wilkins","s_title":"\"Promise This\""}

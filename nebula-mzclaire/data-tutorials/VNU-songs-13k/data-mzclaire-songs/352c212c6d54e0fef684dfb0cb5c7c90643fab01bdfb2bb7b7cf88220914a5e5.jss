@@ -1,0 +1,1 @@
+{"s_released":"November 20, 2007 (2007-11-20)","s_format":"CD single digital download","s_recorded":"2007 at Rocket Carousel Studio (Los Angeles, CA)","s_genre":"Trip hop","s_length":"3:39","s_label":"Capitol","s_writer":"Katy Perry Greg Wells","s_producer":"Greg Wells","s_title":"\"Ur So Gay\""}

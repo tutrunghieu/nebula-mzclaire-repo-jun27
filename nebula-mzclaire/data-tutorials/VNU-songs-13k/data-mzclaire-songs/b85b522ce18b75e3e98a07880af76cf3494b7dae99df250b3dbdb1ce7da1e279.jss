@@ -1,0 +1,1 @@
+{"s_released":"28 September 1981","s_format":null,"s_recorded":"January 1981","s_genre":"Dance[1]","s_length":"3:45","s_label":"MCA","s_writer":"Steve Kipner Terry Shaddick","s_producer":"John Farrar","s_title":"\"The Promise (The Dolphin Song)\""}

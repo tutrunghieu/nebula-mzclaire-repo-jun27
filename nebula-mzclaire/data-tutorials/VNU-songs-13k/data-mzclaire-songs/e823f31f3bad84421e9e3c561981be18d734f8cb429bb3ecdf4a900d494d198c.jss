@@ -1,0 +1,1 @@
+{"s_released":"1 September 1992","s_format":null,"s_recorded":"1992","s_genre":"Heavy metal","s_length":"5:51","s_label":"EMI","s_writer":"Bruce Dickinson Janick Gers","s_producer":null,"s_title":"\"Tailgunner (Live)\" \"Holy Smoke (Live)\" \"The Assassin (Live)\""}

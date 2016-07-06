@@ -1,0 +1,1 @@
+{"s_released":"March 29, 2004","s_format":"12\" CD","s_recorded":"2003","s_genre":"Glam rock piano rock","s_length":"4:31","s_label":"Polydor","s_writer":"Babydaddy Jake Shears","s_producer":"Scissor Sisters","s_title":"\"Take Your Mama\""}

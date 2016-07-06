@@ -1,0 +1,1 @@
+{"s_released":"7 April 1978","s_format":"Vinyl record (7\")","s_recorded":"January 1978","s_genre":"Reggae rock[1][2] new wave[3]","s_length":"3:12","s_label":"A&M","s_writer":"Sting","s_producer":"The Police","s_title":"\"Peanuts\""}

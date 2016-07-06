@@ -1,0 +1,1 @@
+{"s_released":"November 6, 1984","s_format":"7\" 12\" CD","s_recorded":"April 1984 Power Station studios (New York, New York)","s_genre":"Dance-pop","s_length":"3:38","s_label":"Sire Warner Bros.","s_writer":"Billy Steinberg Tom Kelly","s_producer":"Nile Rodgers","s_title":"\"Stay\""}

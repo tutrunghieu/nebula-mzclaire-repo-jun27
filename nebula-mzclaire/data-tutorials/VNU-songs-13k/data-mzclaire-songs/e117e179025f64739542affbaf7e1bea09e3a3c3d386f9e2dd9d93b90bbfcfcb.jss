@@ -1,0 +1,1 @@
+{"s_released":"March 23, 2012 (2012-03-23)","s_format":null,"s_recorded":"2011; MSR Studios (New York City)","s_genre":"R&B","s_length":"3:59","s_label":"Columbia","s_writer":"Jeff Bhasker Chad Hugo Beyoncé Knowles","s_producer":"Bhasker Knowles","s_title":"\"I Care\""}

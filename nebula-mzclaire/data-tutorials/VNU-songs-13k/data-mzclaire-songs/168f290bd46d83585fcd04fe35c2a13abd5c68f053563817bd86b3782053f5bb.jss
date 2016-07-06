@@ -1,0 +1,1 @@
+{"s_released":"September 20, 2012 (2012-09-20)","s_format":"Digital download","s_recorded":null,"s_genre":"Traditional pop","s_length":"2:36","s_label":"Interscope","s_writer":"Bernie Wayne Lee Morris","s_producer":"Emile Haynie","s_title":"\"Blue Velvet\""}

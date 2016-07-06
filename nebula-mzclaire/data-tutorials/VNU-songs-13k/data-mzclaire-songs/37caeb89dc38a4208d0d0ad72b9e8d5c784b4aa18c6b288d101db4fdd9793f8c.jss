@@ -1,0 +1,1 @@
+{"s_released":"July 5, 1988","s_format":"CD single, cassette, vinyl single","s_recorded":"1986–1987","s_genre":"Dance-pop","s_length":"5:25","s_label":"Arista","s_writer":"Toni C. (Toni Colandreo)","s_producer":"John \"Jellybean\" Benitez","s_title":"\"Love Will Save the Day\""}

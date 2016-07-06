@@ -1,0 +1,1 @@
+{"s_released":"13 September 2013","s_format":"7\" CD digital download","s_recorded":"Golden Age Studios (Morningside, Auckland, New Zealand)","s_genre":"Alternative pop electro-hop","s_length":"3:13","s_label":"Universal NZ Lava Republic","s_writer":"Joel Little Ella Yelich-O'Connor","s_producer":"Joel Little Ella Yelich-O'Connor (add.)","s_title":"\"White Teeth Teens\""}

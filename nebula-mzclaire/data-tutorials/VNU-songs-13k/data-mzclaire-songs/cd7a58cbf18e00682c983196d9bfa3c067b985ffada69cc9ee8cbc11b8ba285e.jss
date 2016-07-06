@@ -1,0 +1,1 @@
+{"s_released":"5 March 2007 (2007-03-05) (UK) 19 May 2008 (UK) (re-release)","s_format":"Vinyl record (7\")","s_recorded":null,"s_genre":"Dance-punk, electroclash, glam punk, new rave","s_length":"3:58","s_label":"WayOutWest","s_writer":"Sam Eastgate","s_producer":null,"s_title":"\"Space and the Woods\""}

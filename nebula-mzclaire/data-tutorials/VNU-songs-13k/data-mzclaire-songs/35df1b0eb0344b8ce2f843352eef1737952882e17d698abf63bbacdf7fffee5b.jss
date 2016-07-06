@@ -1,0 +1,1 @@
+{"s_released":"12 December 2014 (2014-12-12)","s_format":"Digital download","s_recorded":null,"s_genre":"Pop[1]","s_length":"4:04","s_label":"Atlantic","s_writer":"Marina Diamandis","s_producer":"David Kosten Marina Diamandis","s_title":"\"Happy\""}

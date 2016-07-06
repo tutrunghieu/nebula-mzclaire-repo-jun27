@@ -1,0 +1,1 @@
+{"s_released":"1980 (1980)","s_format":"7\"","s_recorded":"1979","s_genre":"Heavy metal","s_length":"3:57","s_label":"Albert","s_writer":"Alexander Young under the name George Alexander","s_producer":"Dirk Steffens","s_title":"\"No Time to Lose\""}

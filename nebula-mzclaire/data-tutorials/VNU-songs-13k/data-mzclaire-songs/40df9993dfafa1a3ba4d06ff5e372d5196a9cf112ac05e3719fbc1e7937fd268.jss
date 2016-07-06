@@ -1,0 +1,1 @@
+{"s_released":"March 4, 2008 (U.S. digital)[2] May 5, 2008 (UK)[3] August 1, 2008 (GER)[4]","s_format":"Download, vinyl single, CD single","s_recorded":"2007; Fresh Kills (New York City, New York)","s_genre":"R&B, hip hop","s_length":"3:33","s_label":"Columbia","s_writer":"Bobby Womack, Harold Payne","s_producer":"S*A*M & Sluggo","s_title":"\"Daylight\""}

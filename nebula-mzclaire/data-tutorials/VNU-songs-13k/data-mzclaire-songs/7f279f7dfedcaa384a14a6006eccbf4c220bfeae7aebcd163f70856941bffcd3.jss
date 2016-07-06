@@ -1,0 +1,1 @@
+{"s_released":"May 17, 2010 (2010-05-17)","s_format":"CD single digital download Digital EP","s_recorded":"Gum Prod Studios (Paris, France)","s_genre":"EDM house R&B [1][2]","s_length":"3:38","s_label":"Universal Motown","s_writer":"Kelly Rowland Rico Love David Guetta Sandy Vee","s_producer":"David Guetta Rico Love (vocals) Sandy Vee","s_title":"\"Commander\""}

@@ -1,0 +1,1 @@
+{"s_released":"July 2, 1986","s_format":"7\" 12\"","s_recorded":"1985 at Sweet Silence Studios (Copenhagen, Denmark)","s_genre":"Thrash metal","s_length":"8:36","s_label":"New Electric Way Music for Nations Elektra","s_writer":"Cliff Burton Kirk Hammett James Hetfield Lars Ulrich","s_producer":"Metallica Flemming Rasmussen","s_title":"\"Welcome Home (Sanitarium)\" (7\")"}

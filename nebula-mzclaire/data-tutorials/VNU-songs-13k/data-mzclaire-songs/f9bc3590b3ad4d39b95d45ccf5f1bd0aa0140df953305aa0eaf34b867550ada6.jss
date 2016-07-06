@@ -1,0 +1,1 @@
+{"s_released":"11 November 2012 (2012-11-11)","s_format":"CD single digital download","s_recorded":"Spring 2012","s_genre":"Pop","s_length":"4:24 (album version) 3:27 (radio edit)","s_label":"Red Girl","s_writer":"Tim Rice, Bjorn Ulvaeus, Benny Andersson","s_producer":"Peter-John Vettese","s_title":"\"You'll Never Walk Alone\""}

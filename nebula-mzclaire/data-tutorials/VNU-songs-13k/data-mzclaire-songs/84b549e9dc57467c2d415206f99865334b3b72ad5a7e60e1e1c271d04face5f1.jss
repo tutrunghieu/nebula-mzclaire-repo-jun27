@@ -1,0 +1,1 @@
+{"s_released":"21 April 2008[1]","s_format":"CD digital download","s_recorded":"Compass Point Studios (Nassau, Bahamas)","s_genre":"Trip hop[2]","s_length":"3:42 (album version) 3:15 (single version)","s_label":"XL","s_writer":"Adele Sacha Skarbek","s_producer":"Mark Ronson","s_title":"\"Now and Then\""}

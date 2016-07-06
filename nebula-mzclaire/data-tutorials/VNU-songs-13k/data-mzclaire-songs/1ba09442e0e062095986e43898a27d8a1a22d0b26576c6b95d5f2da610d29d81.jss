@@ -1,0 +1,1 @@
+{"s_released":"October 1, 2010 (2010-10-01)","s_format":"Digital download","s_recorded":"Guardian Angel Studios Westlake Recording Studios Hensons Studios Capitol Recording Studios","s_genre":"R&B","s_length":"3:31","s_label":"Island Def Jam","s_writer":"Mariah Carey Jermaine Dupri Bryan-Michael Cox","s_producer":"Carey Cox Dupri","s_title":"\"Oh Santa!\""}

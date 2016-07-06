@@ -1,0 +1,1 @@
+{"s_released":"June 1973","s_format":null,"s_recorded":null,"s_genre":"Heavy metal","s_length":"6:10","s_label":"MCA","s_writer":"Tony Bourge/Ray Phillips/Burke Shelley","s_producer":"Budgie","s_title":"\"Breadfan\""}

@@ -1,0 +1,1 @@
+{"s_released":"February 1, 1999 (1999-02-01)","s_format":"CD","s_recorded":"September–October 1998","s_genre":"Heavy metal hard rock","s_length":"5:05","s_label":"Vertigo","s_writer":"Trad. arr. Eric Bell, Brian Downey, Phil Lynott","s_producer":"Bob Rock James Hetfield Lars Ulrich Mark Whitaker","s_title":"\"Whiskey in the Jar\""}

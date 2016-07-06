@@ -1,0 +1,1 @@
+{"s_released":"4 March 2011 (video) 6 June 2011 (album)","s_format":"Promotional video","s_recorded":"7 February 2011","s_genre":"Garage rock, psychedelic rock","s_length":"2:58","s_label":"Domino","s_writer":"Alex Turner","s_producer":"James Ford","s_title":"EMI Music Publishing Ltd."}

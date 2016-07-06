@@ -1,0 +1,1 @@
+{"s_released":"February 14, 1998 (1998-02-14)","s_format":"Cassette, CD single","s_recorded":"1997, Silent Sounds Studios (Atlanta, Georgia)","s_genre":"R&B","s_length":"4:26","s_label":"Interscope","s_writer":"Mark Andrews, Darryl Pearson","s_producer":"Gold (RIAA)","s_title":"\"It's All About Me\""}

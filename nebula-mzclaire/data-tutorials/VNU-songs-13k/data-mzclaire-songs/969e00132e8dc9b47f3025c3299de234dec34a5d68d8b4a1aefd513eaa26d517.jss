@@ -1,0 +1,1 @@
+{"s_released":"30 October 1995","s_format":"CD cassette 7\" 12\"","s_recorded":"May 1995 at Rockfield Studios, Monmouth, Wales","s_genre":"Britpop[1]","s_length":"4:19 (Album version) 3:45 (Radio edit)","s_label":"Creation","s_writer":"Noel Gallagher","s_producer":"Platinum (BPI) Gold (RIAA)","s_title":"\"Round Are Way\" \"The Swamp Song\" \"The Masterplan\""}

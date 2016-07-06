@@ -1,0 +1,1 @@
+{"s_released":"September 3, 2013 (2013-09-03)","s_format":"CD digital download","s_recorded":"2013","s_genre":"Indie pop","s_length":"3:53","s_label":"Epic","s_writer":"Ian Axel Chad King Mike Campbell","s_producer":"Dan Romer","s_title":"\"Say Something\""}

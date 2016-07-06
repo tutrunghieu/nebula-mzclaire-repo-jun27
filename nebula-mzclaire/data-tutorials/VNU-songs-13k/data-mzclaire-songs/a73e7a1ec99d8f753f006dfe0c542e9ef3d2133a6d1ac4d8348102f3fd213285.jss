@@ -1,0 +1,1 @@
+{"s_released":"3 December 2007 (UK)","s_format":"7\", 10\", CD","s_recorded":"December 2006 at Miloco Studios, London","s_genre":"Indie rock,[1][2] desert rock[3]","s_length":"2:43","s_label":"Domino","s_writer":"Alex Turner","s_producer":"James Ford, Mike Crossey","s_title":"\"Bad Woman\" \"The Death Ramps\" \"Nettles\""}

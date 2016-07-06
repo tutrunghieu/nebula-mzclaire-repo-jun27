@@ -1,0 +1,1 @@
+{"s_released":"October 6, 2008 (2008-10-06)","s_format":"CD single digital download","s_recorded":"January 2007; Roc the Mic Studios (New York City, New York)","s_genre":"R&B","s_length":"4:54","s_label":"Def Jam SRP","s_writer":"Justin Timberlake Timothy Mosley Hannon Lane","s_producer":"Timbaland Hannon Lane Justin Timberlake","s_title":"\"Rehab\""}

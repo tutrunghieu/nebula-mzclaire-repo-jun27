@@ -1,0 +1,1 @@
+{"s_released":"April 7, 1998","s_format":"CD single","s_recorded":"1997","s_genre":"Alternative rock[1] soft rock[2]","s_length":"4:50 (album version) 3:35 (radio edit)","s_label":"Warner Bros.","s_writer":"John Rzeznik","s_producer":"Goo Goo Dolls Rob Cavallo","s_title":"\"Iris\""}

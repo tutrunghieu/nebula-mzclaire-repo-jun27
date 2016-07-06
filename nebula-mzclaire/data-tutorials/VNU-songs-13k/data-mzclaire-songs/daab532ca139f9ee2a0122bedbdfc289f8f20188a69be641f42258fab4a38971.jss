@@ -1,0 +1,1 @@
+{"s_released":null,"s_format":null,"s_recorded":"at The Record Plant, Hollywood, California","s_genre":"R&B","s_length":"3:54","s_label":"J Sony Syco","s_writer":"Jordon Omley Michael Mani Wayne Wilkins Louis Biancaniello Ryan Tedder","s_producer":"The Runaways Sam Watters Wayne Wilkins Louis Biancaniello Ryan \"Alias\" Tedder","s_title":"\"Take a Bow\""}

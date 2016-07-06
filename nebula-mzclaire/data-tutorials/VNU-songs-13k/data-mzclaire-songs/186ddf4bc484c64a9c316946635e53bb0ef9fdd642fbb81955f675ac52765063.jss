@@ -1,0 +1,1 @@
+{"s_released":"September 2, 2000","s_format":"CD","s_recorded":"July 2000 at Signature Sound, San Diego, California","s_genre":"Pop punk, skate punk","s_length":"2:48","s_label":"MCA Records","s_writer":"Mark Hoppus, Tom DeLonge[1]","s_producer":"Jerry Finn","s_title":"\"Man Overboard\""}

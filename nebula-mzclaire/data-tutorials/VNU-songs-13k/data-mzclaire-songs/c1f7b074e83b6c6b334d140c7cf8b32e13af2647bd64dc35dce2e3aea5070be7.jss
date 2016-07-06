@@ -1,0 +1,1 @@
+{"s_released":"August 29, 1991","s_format":null,"s_recorded":"October 1990 - June 1991 at One on One Recording, Los Angeles, California","s_genre":"Heavy metal","s_length":"3:59","s_label":"Elektra","s_writer":"James Hetfield / Lars Ulrich","s_producer":"Bob Rock, James Hetfield, Lars Ulrich","s_title":"\"Don't Tread on Me\""}

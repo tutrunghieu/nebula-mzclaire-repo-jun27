@@ -1,0 +1,1 @@
+{"s_released":"3 September 2013 (2013-09-03)","s_format":null,"s_recorded":"2012–13; New York and Los Angeles","s_genre":"Synthpop","s_length":"53:54","s_label":"will.i.am Cherrytree Interscope","s_writer":null,"s_producer":"\"Problem\" Released: 12 March 2013 \"Saturday Night\" Released: 28 June 2013 \"Trouble\" Released: 8 April 2014","s_title":"Trouble"}

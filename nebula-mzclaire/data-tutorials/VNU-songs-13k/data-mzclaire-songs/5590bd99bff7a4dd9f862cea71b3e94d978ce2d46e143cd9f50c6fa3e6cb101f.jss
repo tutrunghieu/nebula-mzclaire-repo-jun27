@@ -1,0 +1,1 @@
+{"s_released":"May 19, 2014","s_format":"Digital download","s_recorded":"2014","s_genre":"Drill hip hop bounce","s_length":"4:11","s_label":"Young Money Cash Money Universal Republic","s_writer":"Onika Maraj Soulja Boy","s_producer":"Soulja Boy","s_title":"\"Yasss Bish\""}

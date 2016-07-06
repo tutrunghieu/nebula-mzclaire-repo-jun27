@@ -1,0 +1,1 @@
+{"s_released":"February 13, 2012","s_format":"Digital download","s_recorded":"2011","s_genre":"R&B","s_length":"4:04","s_label":"RCA","s_writer":"Rico Love, Earl Hood, Eric Goudy II","s_producer":"Rico Love, Earl & E","s_title":"\"It All Belongs to Me\""}

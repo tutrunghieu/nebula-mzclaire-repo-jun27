@@ -1,0 +1,1 @@
+{"s_released":"22 April 2010 (2010-04-22)","s_format":"Digital download","s_recorded":null,"s_genre":"Reggaeton, Reggae fusion","s_length":"4:07","s_label":"AS Entertainment","s_writer":"Stacy Barthe[1]","s_producer":"Steve Morales,[1] Beni Okwenje","s_title":"\"Everywhere You Go\""}

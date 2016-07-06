@@ -1,0 +1,1 @@
+{"s_released":"February 9, 2010[1]","s_format":"Digital download","s_recorded":"2009","s_genre":"R&B soul gospel","s_length":"4:12","s_label":"Island","s_writer":"Mariah Carey, Crystal Johnson, Jermaine Dupri, Bryan-Michael Cox","s_producer":"Jermaine Dupri, Bryan-Michael Cox","s_title":"\"100%\""}

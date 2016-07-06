@@ -1,0 +1,1 @@
+{"s_released":"28 February 1995","s_format":"CD single, vinyl","s_recorded":"Bearsville Studios in Bearsville, New York","s_genre":"Alternative metal Post-hardcore","s_length":"3:04","s_label":"Slash","s_writer":"Music: Mike Patton, Mike Bordin, Billy Gould Lyrics: Mike Patton","s_producer":"Andy Wallace, Faith No More","s_title":"\"Digging the Grave\""}

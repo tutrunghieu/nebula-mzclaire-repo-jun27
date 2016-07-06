@@ -1,0 +1,1 @@
+{"s_released":"August 3, 1995 (1995-08-03)","s_format":"CD maxi single, cassette single, 7\" single","s_recorded":null,"s_genre":"R&B hip hop soul","s_length":"4:53 (album version)","s_label":"Rowdy, Arista","s_writer":"Andrea Martin, Carsten Schack, Kenneth Karlin","s_producer":"Platinum (RIAA)","s_title":"\"Before You Walk out of My Life\""}

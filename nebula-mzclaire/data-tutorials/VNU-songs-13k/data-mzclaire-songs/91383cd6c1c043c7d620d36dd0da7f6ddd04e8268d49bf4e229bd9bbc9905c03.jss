@@ -1,0 +1,1 @@
+{"s_released":"December 13, 2013 (2013-12-13)","s_format":null,"s_recorded":"2013","s_genre":"Christmas pop R&B","s_length":"13:17","s_label":"Republic","s_writer":null,"s_producer":"The Rascals Babyface Antonio Dixon","s_title":"Christmas Kisses"}

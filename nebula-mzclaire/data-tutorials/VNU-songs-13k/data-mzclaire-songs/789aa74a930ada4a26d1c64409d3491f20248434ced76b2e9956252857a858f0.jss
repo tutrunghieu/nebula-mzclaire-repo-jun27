@@ -1,0 +1,1 @@
+{"s_released":"May 26, 2014 (2014-05-26)","s_format":"Digital download","s_recorded":null,"s_genre":null,"s_length":"5:42","s_label":"Interscope","s_writer":"Lana Del Rey Rick Nowels","s_producer":"Dan Auerbach","s_title":"\"Shades of Cool\""}

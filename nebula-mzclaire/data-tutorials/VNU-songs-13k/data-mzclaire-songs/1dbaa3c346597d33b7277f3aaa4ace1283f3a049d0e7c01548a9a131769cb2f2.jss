@@ -1,0 +1,1 @@
+{"s_released":"October 18, 1991 (USA)","s_format":"CD single, Cassette single, 7\" single","s_recorded":"1989","s_genre":"R&B, pop","s_length":"5:31 4:41 (Radio Edit)","s_label":"Arista","s_writer":"Franne Golde, Derek Bramble","s_producer":"Narada Michael Walden","s_title":"\"One Moment in Time\""}

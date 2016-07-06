@@ -1,0 +1,1 @@
+{"s_released":"22 February 2010 (see Release history)","s_format":"CD single digital download vinyl","s_recorded":"2009","s_genre":"Disco","s_length":"3:40","s_label":"Fascination Polydor Records France","s_writer":"Sophie Ellis-Bextor Junior Caldera Roselyn Della Sabina Julien Carret","s_producer":"Junior Caldera","s_title":"\"Can't Fight this Feeling\""}

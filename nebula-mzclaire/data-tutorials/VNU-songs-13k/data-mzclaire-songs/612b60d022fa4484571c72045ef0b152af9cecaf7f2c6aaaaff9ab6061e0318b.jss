@@ -1,0 +1,1 @@
+{"s_released":"February 12, 2002","s_format":"Digital download, CD single, 12\" maxi single","s_recorded":"2001","s_genre":"Soul, Funk","s_length":"5:03 (album version) 4:13 (radio edit)","s_label":"J","s_writer":"Alicia Keys, Erika Rose","s_producer":"Alicia Keys","s_title":"\"A Woman's Worth\""}

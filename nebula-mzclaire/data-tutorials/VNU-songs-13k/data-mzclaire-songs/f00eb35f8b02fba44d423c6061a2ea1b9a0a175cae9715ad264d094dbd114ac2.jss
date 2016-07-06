@@ -1,0 +1,1 @@
+{"s_released":"May 7, 2013 (2013-05-07)","s_format":"Digital download","s_recorded":"The Oven Studios (New York City)","s_genre":"Pop R&B","s_length":"3:59","s_label":"RCA","s_writer":"Alicia Keys Jeff Bhasker Bruno Mars Phillip Lawrence","s_producer":"Alicia Keys Jeff Bhasker","s_title":"\"Tears Always Win\""}

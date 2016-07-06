@@ -1,0 +1,1 @@
+{"s_released":null,"s_format":null,"s_recorded":"2013 Jungle City Studios Oven Studios (New York City)","s_genre":"R&B dance-pop dubstep hip hop","s_length":"6:09","s_label":"Parkwood Columbia","s_writer":"Beyoncé Knowles Boots","s_producer":"Boots Knowles","s_title":"\"Haunted\""}

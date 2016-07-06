@@ -1,0 +1,1 @@
+{"s_released":"March 13, 2003 (2003-03-13)","s_format":"12\" CD DVD maxi","s_recorded":null,"s_genre":"Pop rock R&B","s_length":"4:05","s_label":"RCA","s_writer":"Christina Aguilera Scott Storch","s_producer":"Scott Storch","s_title":"\"Fighter\""}

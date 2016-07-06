@@ -1,0 +1,1 @@
+{"s_released":"April 16, 2015 (2015-04-16)","s_format":"Digital download","s_recorded":"2012","s_genre":"Soft rock","s_length":"3:06","s_label":null,"s_writer":"Avril Lavigne, Chad Kroeger, David Hodges","s_producer":"Avril Lavigne, Chris Baseford[1]","s_title":"\"Fly\""}

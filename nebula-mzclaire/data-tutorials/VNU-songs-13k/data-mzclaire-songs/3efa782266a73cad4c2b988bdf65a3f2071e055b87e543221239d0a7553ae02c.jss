@@ -1,0 +1,1 @@
+{"s_released":"September 20, 2010 (2010-09-20)","s_format":"CD single, 12\", Digital download","s_recorded":null,"s_genre":"Synthpop, electropop, nu-disco","s_length":"4:41 (album version) 3:33 (radio edit)","s_label":"Polydor","s_writer":"Babydaddy, Jake Shears, Ana Matronic, Stuart Price","s_producer":"Stuart Price","s_title":"\"Sex Exciter\""}

@@ -1,0 +1,1 @@
+{"s_released":"28 January 2014 (2014-01-28) (radio)","s_format":"Promotional CD","s_recorded":"2012–13","s_genre":"Hard rock psychedelic rock","s_length":"3:27","s_label":"Domino","s_writer":"Alex Turner","s_producer":"James Ford, Ross Orton","s_title":"\"Arabella\""}

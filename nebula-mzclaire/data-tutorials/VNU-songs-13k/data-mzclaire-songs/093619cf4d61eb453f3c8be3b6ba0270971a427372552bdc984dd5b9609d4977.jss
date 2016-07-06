@@ -1,0 +1,1 @@
+{"s_released":"June 3, 2013","s_format":"Digital download","s_recorded":"2013","s_genre":"Hip hop R&B","s_length":"3:58","s_label":"Maybach Music Group Atlantic","s_writer":"Olubowale Akintimehin, Tiara Thomas","s_producer":"MexManny","s_title":"\"Bad (Remix)\""}

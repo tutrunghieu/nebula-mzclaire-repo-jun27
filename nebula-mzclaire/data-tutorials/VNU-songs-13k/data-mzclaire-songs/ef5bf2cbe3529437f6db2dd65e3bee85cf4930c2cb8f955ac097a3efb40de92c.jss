@@ -1,0 +1,1 @@
+{"s_released":"September 14, 2010 (2010-09-14)","s_format":"CD single digital download","s_recorded":null,"s_genre":"Electropop dance-pop","s_length":"3:44","s_label":"Capitol","s_writer":"Jerrod Bettis Justin Franks Ryan Tedder","s_producer":"Jerrod Bettis Justin Franks Ryan Tedder","s_title":"\"Obsession\""}

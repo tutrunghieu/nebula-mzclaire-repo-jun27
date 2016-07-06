@@ -1,0 +1,1 @@
+{"s_released":"June 1967","s_format":null,"s_recorded":"Hitsville U.S.A. (Studio A) Detroit, Michigan; 1967","s_genre":"Soul","s_length":"2:37","s_label":"Motown","s_writer":"Stevie Wonder, Lula Mae Hardaway, Henry Cosby, Sylvia Moy","s_producer":"Henry Cosby","s_title":"\"Hold Me\""}

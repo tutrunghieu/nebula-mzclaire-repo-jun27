@@ -1,0 +1,1 @@
+{"s_released":"7 June 2015 (2015-06-07)","s_format":"Digital download","s_recorded":"2014","s_genre":"R&B, soul","s_length":"3:34","s_label":"Island Def Jam","s_writer":"Leona Lewis Toby Gad","s_producer":null,"s_title":"\"Fire Under My Feet\""}

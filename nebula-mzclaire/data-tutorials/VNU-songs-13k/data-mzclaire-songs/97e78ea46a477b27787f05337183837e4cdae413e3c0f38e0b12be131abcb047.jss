@@ -1,0 +1,1 @@
+{"s_released":null,"s_format":null,"s_recorded":"Air Studios, London British Grove Studios, London","s_genre":"Pop","s_length":"4:05","s_label":"XL","s_writer":"Adele Adkins Ryan Tedder","s_producer":"Ryan Tedder","s_title":"\"Remedy\""}

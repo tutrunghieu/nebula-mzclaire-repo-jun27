@@ -1,0 +1,1 @@
+{"s_released":"April 4, 1992 (1992-04-04)","s_format":"CD single, cassette single, 7\" single, 12\" single","s_recorded":"1991","s_genre":"R&B dance-pop","s_length":"5:08","s_label":"Columbia","s_writer":"Mariah Carey, David Cole, Robert Clivillés","s_producer":"Mariah Carey, David Cole, Robert Clivillés","s_title":"\"Make It Happen\""}

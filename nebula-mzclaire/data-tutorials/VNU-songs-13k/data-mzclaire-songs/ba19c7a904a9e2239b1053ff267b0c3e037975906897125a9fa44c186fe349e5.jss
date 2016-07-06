@@ -1,0 +1,1 @@
+{"s_released":"January 20, 2009","s_format":"Digital download","s_recorded":"2008; Bangladesh Studios Patchwerk Studios Silent Sound Studios (Atlanta, Georgia)","s_genre":"Hip hop","s_length":"3:20","s_label":"Columbia","s_writer":"Beyoncé Knowles Shondrae \"Mr. Bangladesh\" Crawford Sean Garrett","s_producer":"Shondrae Crawford Sean Garrett Beyoncé Knowles","s_title":"\"Diva\""}

@@ -1,0 +1,1 @@
+{"s_released":"April 5, 2011 (2011-04-05) (see release history)","s_format":"Digital download CD single","s_recorded":null,"s_genre":"Pop-rap[1]","s_length":"3:19","s_label":"Young Money Cash Money Universal Motown","s_writer":"Onika Maraj Daniel Johnson Ester Dean Roahn Hylton","s_producer":"8× Platinum (RIAA)","s_title":"\"Moment 4 Life\""}

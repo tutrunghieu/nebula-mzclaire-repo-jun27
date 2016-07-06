@@ -1,0 +1,1 @@
+{"s_released":"4 November 2002","s_format":"CD single DVD single 7\"","s_recorded":"2001","s_genre":"Alternative rock","s_length":"5:09 (album version) 4:26 (radio edit)","s_label":"Parlophone (UK) Capitol (US)","s_writer":"Guy Berryman Jonny Buckland Will Champion Chris Martin","s_producer":"Gold (RIAA)","s_title":"\"1.36\" \"I Ran Away\""}

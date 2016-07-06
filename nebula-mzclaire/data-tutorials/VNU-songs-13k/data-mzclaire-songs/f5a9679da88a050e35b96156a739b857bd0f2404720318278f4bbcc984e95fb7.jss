@@ -1,0 +1,1 @@
+{"s_released":"September 22, 2009","s_format":"CD single, digital download","s_recorded":"2009","s_genre":"R&B[38][39]","s_length":"3:27 (album version) 3:38 (radio/video version)","s_label":"Island","s_writer":"Mick Jones","s_producer":"Mariah Carey, C. \"Tricky\" Stewart, James \"Big Jim\" Wright, Randy Jackson (co)","s_title":"\"I Want to Know What Love Is\""}

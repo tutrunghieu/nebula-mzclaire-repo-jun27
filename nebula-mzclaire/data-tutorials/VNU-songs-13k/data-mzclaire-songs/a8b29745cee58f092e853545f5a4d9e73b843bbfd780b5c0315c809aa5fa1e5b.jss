@@ -1,0 +1,1 @@
+{"s_released":"April 4, 2012","s_format":"Digital download","s_recorded":"2012","s_genre":"Pop","s_length":"2:50","s_label":"8ball Music, Sony Music Entertainment","s_writer":"John Lennon","s_producer":"Bryan Ferry and Rhett Davies[9]","s_title":"\"Jealous Guy\""}

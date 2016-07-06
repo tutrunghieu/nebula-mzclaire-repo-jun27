@@ -1,0 +1,1 @@
+{"s_released":"February 11, 2003","s_format":"CD maxi, 12\" single, DVD single","s_recorded":"2002","s_genre":"pop, soul, R&B, gospel","s_length":"4:39","s_label":"Arista","s_writer":"Babyface, Jason Edmonds, Carole Bayer Sager, Aleese Simmons, Nathan Walton","s_producer":"Gold (RIAA)","s_title":"\"Try It on My Own\""}

@@ -1,0 +1,1 @@
+{"s_released":"March 4, 2000 (2000-03-04)","s_format":"CD","s_recorded":"January–February 1998; Burnaby, British Columbia","s_genre":"Post-grunge[1]","s_length":"3:30","s_label":"Roadrunner","s_writer":"Chad Kroeger, Ryan Peake","s_producer":null,"s_title":"\"Leader of Men\""}

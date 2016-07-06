@@ -1,0 +1,1 @@
+{"s_released":"20 September 2009","s_format":"CD single digital download maxi single","s_recorded":"March–April 2009","s_genre":"Pop punk, rap rock","s_length":"3:05","s_label":"Sony BMG","s_writer":"Avril Lavigne Lukasz Gottwald","s_producer":"Cameron Webb, Matt Beckley","s_title":"\"Girlfriend\""}

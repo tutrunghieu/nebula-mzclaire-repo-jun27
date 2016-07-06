@@ -1,0 +1,1 @@
+{"s_released":"28 June 2006","s_format":"CD single, 12\" single","s_recorded":"2005","s_genre":"Dancehall, reggae fusion","s_length":"4:17 (original version) 4:25 (with Akon) 4:42 (Remix with Alicia Keys and Akon)","s_label":"Madhouse/Atlantic/Asylum","s_writer":"Dameon Beckett, Alicia Keys, Aliaune Thiam[1]","s_producer":"Dave Kelly","s_title":"\"Ghetto Story\""}

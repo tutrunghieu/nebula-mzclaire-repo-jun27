@@ -1,0 +1,1 @@
+{"s_released":"February 12, 2014 (2014-02-12)","s_format":"Digital download Radio airplay","s_recorded":"Rapture Studios Metrocity Studios Jungle City Studios Studio at the Palms","s_genre":"R&B","s_length":"3:44","s_label":"Def Jam","s_writer":"Mariah Carey Rodney Jerkins","s_producer":"Carey Darkchild","s_title":"\"You're Mine (Eternal)\""}

@@ -1,0 +1,1 @@
+{"s_released":null,"s_format":null,"s_recorded":"2009; German Studios, Roc the Mic Studios (New York City); Westlake Recording Studios (Los Angeles)","s_genre":"R&B","s_length":"6:04","s_label":"Def Jam SRP","s_writer":"Justin Timberlake Robin Tadross James Fauntleroy II","s_producer":"The Y's Makeba Riddick","s_title":"\"Cold Case Love\""}

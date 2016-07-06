@@ -1,0 +1,1 @@
+{"s_released":"August 23, 2011 (2011-08-23)","s_format":"Digital download","s_recorded":null,"s_genre":"Hip hop R&B","s_length":"4:26","s_label":"Roc-A-Fella Roc Nation Def Jam","s_writer":"Kanye West Jay-Z Jeff Bhasker Mike Dean Bruno Mars Seal","s_producer":"West Bhasker Mike Dean Bruno Mars Q-Tip (co.) Don Jazzy (add.)","s_title":"\"Lift Off\""}

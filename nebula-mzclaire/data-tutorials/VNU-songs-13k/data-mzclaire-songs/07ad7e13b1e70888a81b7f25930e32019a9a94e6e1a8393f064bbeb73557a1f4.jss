@@ -1,0 +1,1 @@
+{"s_released":null,"s_format":null,"s_recorded":"2011, MSR Studios (New York City; New York)","s_genre":"R&B funk","s_length":"4:53","s_label":"Columbia","s_writer":"Beyoncé Knowles, Terius Nash, Shea Taylor, Carlos McKinney","s_producer":"Beyoncé Knowles, The-Dream, Los Da Mystro","s_title":"\"Schoolin' Life\""}

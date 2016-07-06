@@ -1,0 +1,1 @@
+{"s_released":"September 23, 1997","s_format":"CD","s_recorded":"December 1996–January 1997 Big Fish Studios (Encinitas, California)[1]","s_genre":"Pop punk punk rock[nb 1]","s_length":"2:45","s_label":"MCA Cargo","s_writer":"Mark Hoppus Tom DeLonge Scott Raynor","s_producer":"Mark Trombino","s_title":"\"Dammit\""}

@@ -1,0 +1,1 @@
+{"s_released":"December 12, 1995","s_format":"CD single maxi single","s_recorded":"1995","s_genre":"R&B hip hop soul funk","s_length":"4:52","s_label":"Atlantic","s_writer":"Kenneth \"Babyface\" Edmonds","s_producer":"Babyface","s_title":"\"Sittin' Up in My Room\""}

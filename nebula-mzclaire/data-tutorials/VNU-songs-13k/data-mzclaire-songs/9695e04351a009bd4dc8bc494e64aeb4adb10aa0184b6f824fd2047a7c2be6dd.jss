@@ -1,0 +1,1 @@
+{"s_released":"February 20, 1993","s_format":"7\" single 12\" single CD single maxi single cassette single","s_recorded":"1991","s_genre":"Pop R&B classical adult contemporary","s_length":"4:48","s_label":"Arista","s_writer":"David Foster Linda Thompson","s_producer":"David Foster","s_title":"\"All the Man That I Need\" \"Where You Are\" \"Lover for Life\""}

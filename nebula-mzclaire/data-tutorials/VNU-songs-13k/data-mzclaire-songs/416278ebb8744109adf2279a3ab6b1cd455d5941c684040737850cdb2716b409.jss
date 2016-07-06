@@ -1,0 +1,1 @@
+{"s_released":"June 28, 2010 (2010-06-28)","s_format":"Digital download","s_recorded":"Los Angeles, California (Conway Recording Studios and Dr. Luke's)","s_genre":"Electropop","s_length":"4:01","s_label":"Universal Motown","s_writer":"Ester Dean Lukasz Gottwald","s_producer":"Dr. Luke Emily Wright (vocals)","s_title":"\"Rose Colored Glasses\""}

@@ -1,0 +1,1 @@
+{"s_released":"September 12, 1983","s_format":"7\", 12\"","s_recorded":"1983","s_genre":"Pop rock[1]","s_length":"5:24 4:10 (single/radio edit) 6:29 (extended)","s_label":"Chrysalis Records","s_writer":"Holly Knight, Mike Chapman","s_producer":"Neil Giraldo, Peter Coleman (A-side only)","s_title":"Hell Is For Children (Live Version)[1]"}

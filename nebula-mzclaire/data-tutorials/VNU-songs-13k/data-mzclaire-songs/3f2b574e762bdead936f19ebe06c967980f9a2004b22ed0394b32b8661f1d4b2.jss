@@ -1,0 +1,1 @@
+{"s_released":"July 23, 2007","s_format":"7\", 12\", CD single Digital download","s_recorded":"2005-2006","s_genre":"Electropop, new wave, synthpop","s_length":"3:02","s_label":"Mercury","s_writer":"Sorbara, Kurtz, Steve Chrisanthou, Pete Prilesnik","s_producer":null,"s_title":"\"Teacher Teacher\""}

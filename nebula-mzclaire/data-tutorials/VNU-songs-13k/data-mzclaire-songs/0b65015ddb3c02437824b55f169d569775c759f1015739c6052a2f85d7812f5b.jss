@@ -1,0 +1,1 @@
+{"s_released":"December 5, 1977","s_format":null,"s_recorded":null,"s_genre":"J-pop, kayōkyoku, Disco","s_length":"3:15","s_label":"JVC","s_writer":null,"s_producer":null,"s_title":"\"Lady X\""}

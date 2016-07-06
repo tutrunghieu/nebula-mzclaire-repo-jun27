@@ -1,0 +1,1 @@
+{"s_released":"12 December 2012","s_format":"CD single digital download","s_recorded":"2012","s_genre":"Post-grunge[1]","s_length":"4:05","s_label":"Sony Music Japan","s_writer":"Chad Kroeger Mike Kroeger Ryan Peake Ryan Vikedal","s_producer":"Rick Parashar Nickelback","s_title":"\"How You Remind Me\""}

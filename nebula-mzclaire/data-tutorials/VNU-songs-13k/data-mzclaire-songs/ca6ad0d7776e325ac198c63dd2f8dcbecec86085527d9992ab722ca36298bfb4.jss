@@ -1,0 +1,1 @@
+{"s_released":"July 2, 2013 (2013-07-02)","s_format":"Digital download","s_recorded":"2012–13","s_genre":"Hip hop","s_length":"3:52","s_label":"Republic","s_writer":"Cornell Haynes, Jr. Onika Maraj Pharrell Williams","s_producer":"Pharrell Wiliams","s_title":"\"Get Like Me\""}

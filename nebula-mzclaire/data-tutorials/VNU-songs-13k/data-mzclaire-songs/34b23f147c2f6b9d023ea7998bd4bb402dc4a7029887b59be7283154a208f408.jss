@@ -1,0 +1,1 @@
+{"s_released":"August 3, 2003 (2003-08-03)","s_format":"CD single","s_recorded":"2002","s_genre":"Pop R&B","s_length":"4:31","s_label":"Epic","s_writer":"Jennifer Lopez Cory Rooney Dan Shea John Barry","s_producer":"Cory Rooney Dan Shea","s_title":"\"Baby I ♡ U!\""}

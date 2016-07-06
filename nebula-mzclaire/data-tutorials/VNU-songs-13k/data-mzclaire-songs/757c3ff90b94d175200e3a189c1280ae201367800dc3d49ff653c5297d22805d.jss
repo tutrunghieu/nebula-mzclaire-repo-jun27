@@ -1,0 +1,1 @@
+{"s_released":"July 27, 2012","s_format":"Digital download","s_recorded":"2012","s_genre":"East Coast hip hop","s_length":"4:24","s_label":"Shady Aftermath Interscope","s_writer":"Curtis Jackson Andre Young Kasseem Dean Alicia Keys Ryan D. Montgomery Marshall Mathers Trevor Lawrence Jr Andrew Brissett Amber Streeter","s_producer":"Dr. Dre","s_title":"\"New Day\""}

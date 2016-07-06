@@ -1,0 +1,1 @@
+{"s_released":"June 10, 1997 (1997-06-10)","s_format":"CD single, cassette single","s_recorded":"1996","s_genre":"R&B, gospel","s_length":"4:15","s_label":"Arista","s_writer":"Babyface","s_producer":"Babyface","s_title":"\"I Go to the Rock\""}

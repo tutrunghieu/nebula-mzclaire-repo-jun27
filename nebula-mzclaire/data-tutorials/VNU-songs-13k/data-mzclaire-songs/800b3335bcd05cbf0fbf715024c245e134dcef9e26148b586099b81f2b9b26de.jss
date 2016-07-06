@@ -1,0 +1,1 @@
+{"s_released":"28 June 2013 (2013-06-28)","s_format":"Digital download","s_recorded":null,"s_genre":"Synthpop","s_length":"4:46 (Single edit) 4:45 (Album version)","s_label":"Interscope","s_writer":"Natalia Kills Jeff Bhasker","s_producer":"Jeff Bhasker","s_title":"\"Saturday Night\""}

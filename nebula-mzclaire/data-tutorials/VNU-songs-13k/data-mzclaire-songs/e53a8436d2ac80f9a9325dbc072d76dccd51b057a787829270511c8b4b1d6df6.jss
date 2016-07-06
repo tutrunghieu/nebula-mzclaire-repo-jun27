@@ -1,0 +1,1 @@
+{"s_released":"January 21, 1999","s_format":"CD single, 12\"","s_recorded":"1998; Pacifique Recording Studios","s_genre":"R&B","s_length":"4:48","s_label":"Atlantic","s_writer":"Rodney Jerkins Fred Jerkins III LaShawn Daniels Traci Hale Tye-V Turman","s_producer":"Rodney Jerkins Brandy","s_title":"\"Angel in Disguise\""}

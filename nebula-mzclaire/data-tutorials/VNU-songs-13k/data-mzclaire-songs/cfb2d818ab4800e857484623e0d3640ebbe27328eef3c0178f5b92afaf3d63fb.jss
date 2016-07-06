@@ -1,0 +1,1 @@
+{"s_released":"20 June 1986","s_format":null,"s_recorded":null,"s_genre":"Pop, blue-eyed soul","s_length":"5:45 (Album Version) 4:14 (Single Version)","s_label":"Island - IS 288","s_writer":"Steve Winwood Will Jennings","s_producer":"Russ Titelman","s_title":"\"Higher Love\""}

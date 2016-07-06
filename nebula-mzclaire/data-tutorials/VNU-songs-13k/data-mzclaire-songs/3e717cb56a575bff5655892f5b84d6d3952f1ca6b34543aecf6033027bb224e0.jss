@@ -1,0 +1,1 @@
+{"s_released":"November 9, 2009","s_format":"CD single, digital download","s_recorded":"2009","s_genre":"Hip hop","s_length":"4:07","s_label":"Polo Grounds Music, J Records","s_writer":"M. Mims","s_producer":"Hot Rod","s_title":"\"5 Star Remix\""}

@@ -1,0 +1,1 @@
+{"s_released":"August 27, 1988","s_format":"CD single, Cassette single, 7\" single","s_recorded":"July 1988","s_genre":"R&B, soul, gospel","s_length":"4:44","s_label":"Arista","s_writer":"Albert Hammond, John Bettis","s_producer":"Narada Michael Walden","s_title":"\"Love Is a Contact Sport\""}

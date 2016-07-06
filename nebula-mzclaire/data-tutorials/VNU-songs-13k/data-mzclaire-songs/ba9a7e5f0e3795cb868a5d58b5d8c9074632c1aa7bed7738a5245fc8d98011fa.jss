@@ -1,0 +1,1 @@
+{"s_released":"22 November 1968","s_format":null,"s_recorded":"13 August 1968, EMI Studios, London","s_genre":"Blues rock,[1] hard rock[2]","s_length":"4:01 (stereo) 4:16 (mono)","s_label":"Apple","s_writer":"Lennon–McCartney","s_producer":"George Martin","s_title":"Northern Songs"}

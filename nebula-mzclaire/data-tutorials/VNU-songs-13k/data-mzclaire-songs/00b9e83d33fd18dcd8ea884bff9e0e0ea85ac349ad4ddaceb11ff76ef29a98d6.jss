@@ -1,0 +1,1 @@
+{"s_released":"1975 (1975)","s_format":"7\"","s_recorded":"April 25, 1970, Starday-King Studios, Nashville, TN","s_genre":"Funk[1]","s_length":"5:45 (Part I) 5:09 (Part II)","s_label":"Polydor 14270","s_writer":"James Brown Bobby Byrd Ron Lenhoff","s_producer":"James Brown","s_title":"\"Sex Machine Part II\""}

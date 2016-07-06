@@ -1,0 +1,1 @@
+{"s_released":"December 11, 2001","s_format":"CD single","s_recorded":null,"s_genre":"Pop R&B","s_length":"4:48","s_label":"Virgin","s_writer":"Mariah Carey, Walter Afanasieff, James Harris, Terry Lewis","s_producer":"Mariah Carey, Jimmy Jam and Terry Lewis, Randy Jackson","s_title":"\"There for Me\""}

@@ -1,0 +1,1 @@
+{"s_released":"3 December 2001","s_format":"CD single, 12-inch single","s_recorded":"2001","s_genre":"Dance-pop, nu-disco, house","s_length":"3:52 (album version) 3:38 (radio edit)","s_label":"Polydor, Universal","s_writer":"Sophie Ellis-Bextor, Gregg Alexander","s_producer":"Platinum (ARIA), Silver (BPI)","s_title":"\"Never Let Me Down\""}

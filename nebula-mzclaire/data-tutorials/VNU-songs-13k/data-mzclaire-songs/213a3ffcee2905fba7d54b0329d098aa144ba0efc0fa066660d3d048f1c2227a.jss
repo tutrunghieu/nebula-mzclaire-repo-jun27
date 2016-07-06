@@ -1,0 +1,1 @@
+{"s_released":null,"s_format":null,"s_recorded":"2010; Dubsided (Los Angeles), Dreamland Studios, Mad Decent Mausoleum (Philadelphia), The Red Lips Room (Beverly Hills)","s_genre":"Electronic","s_length":"3:21","s_label":"RCA","s_writer":"Christina Aguilera John Hill Dave Taylor Kalenna Harper","s_producer":"John Hill Switch","s_title":"\"Bionic\""}

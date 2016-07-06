@@ -1,0 +1,1 @@
+{"s_released":"September 22, 1996","s_format":"10\" 12\" CD single","s_recorded":"New Orleans, Louisiana, 1996","s_genre":"Alternative metal[1] gothic rock[2]","s_length":"3:45","s_label":"Nothing Interscope","s_writer":"Marilyn Manson Twiggy Ramirez","s_producer":"Trent Reznor Dave Ogilvie Marilyn Manson","s_title":"\"The Beautiful People\""}

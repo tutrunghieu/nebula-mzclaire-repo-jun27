@@ -1,0 +1,1 @@
+{"s_released":"2003","s_format":"Digital download, 12\"","s_recorded":"2003, Criteria Hit Factory, Miami, Florida","s_genre":"R&B bounce","s_length":"4:12","s_label":"Atlantic","s_writer":"Walter Millsap III Timothy Mosley Candice Nelson","s_producer":"Timbaland","s_title":"\"Turn It Up\""}

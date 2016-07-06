@@ -1,0 +1,1 @@
+{"s_released":"July 29, 2014","s_format":"Digital download","s_recorded":"2013","s_genre":"Jazz","s_length":"2:03","s_label":"Streamline Interscope Columbia","s_writer":"Cole Porter","s_producer":null,"s_title":"\"Anything Goes\""}

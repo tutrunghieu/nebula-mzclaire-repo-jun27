@@ -1,0 +1,1 @@
+{"s_released":"January 1995","s_format":"CD single","s_recorded":null,"s_genre":"Rock en Español, house","s_length":"2:45","s_label":"EMI Latin","s_writer":"Chrissie Hynde, Ricky Vela","s_producer":"A.B. Quintanilla, Bebu Silvetti","s_title":"El Chico del Apartamento 512"}

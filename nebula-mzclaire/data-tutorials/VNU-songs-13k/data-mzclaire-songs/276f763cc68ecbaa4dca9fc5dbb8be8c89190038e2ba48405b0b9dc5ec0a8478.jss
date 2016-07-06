@@ -1,0 +1,1 @@
+{"s_released":"October 18, 1999","s_format":"CD maxi single, cassette single, 7\" single","s_recorded":"1997—1998","s_genre":"R&B classical","s_length":"5:36 (album version) 4:04 (radio edit)","s_label":"Arista","s_writer":"Dallas Austin","s_producer":"Dallas Austin","s_title":"\"Street Symphony\""}

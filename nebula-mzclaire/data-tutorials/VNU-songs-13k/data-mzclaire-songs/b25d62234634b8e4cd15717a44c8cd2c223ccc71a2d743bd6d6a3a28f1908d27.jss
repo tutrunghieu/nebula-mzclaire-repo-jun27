@@ -1,0 +1,1 @@
+{"s_released":"July 14, 1986 (UK) August 11, 1986 (US)","s_format":"7\" vinyl, 12\" vinyl","s_recorded":"Compass Point Studios, Bahamas, 1985","s_genre":"Dance-rock, funk rock, new wave","s_length":"3:43","s_label":"Island","s_writer":"James Harris III, Terry Lewis","s_producer":"Bernard Edwards","s_title":"\"Get It Through Your Heart\""}

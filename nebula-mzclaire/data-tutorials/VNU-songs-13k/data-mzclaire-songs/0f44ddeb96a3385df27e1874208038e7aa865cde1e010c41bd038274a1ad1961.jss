@@ -1,0 +1,1 @@
+{"s_released":"6 September 2010 (2010-09-06)","s_format":"CD single, digital download","s_recorded":null,"s_genre":"Synthpop, new wave","s_length":"3:43","s_label":"Mute","s_writer":"Alison Goldfrapp, Will Gregory","s_producer":"Alison Goldfrapp, Will Gregory, Pascal Gabriel","s_title":"\"Believer\""}

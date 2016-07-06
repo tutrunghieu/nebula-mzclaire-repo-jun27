@@ -1,0 +1,1 @@
+{"s_released":"11 April 1983","s_format":"Vinyl (7\")","s_recorded":"1983","s_genre":"Heavy metal","s_length":"3:49","s_label":"EMI","s_writer":"Adrian Smith Bruce Dickinson","s_producer":"Martin Birch","s_title":"\"I've Got the Fire\" (Montrose cover)"}

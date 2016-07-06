@@ -1,0 +1,1 @@
+{"s_released":"March 1972","s_format":null,"s_recorded":"6–21 December 1971 Montreux, Switzerland","s_genre":"Hard rock[1][2] heavy metal[3]","s_length":"6:09 6:39 (The 1997 Remixes version)","s_label":"EMI (UK) Warner Bros. (US)","s_writer":"Ritchie Blackmore, Ian Gillan, Roger Glover, Jon Lord, Ian Paice","s_producer":"","s_title":"\"Highway Star\""}

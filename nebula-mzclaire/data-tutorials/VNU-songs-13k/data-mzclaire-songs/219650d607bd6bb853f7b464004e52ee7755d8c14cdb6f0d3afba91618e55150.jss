@@ -1,0 +1,1 @@
+{"s_released":"March 9, 1996 (1996-03-09)","s_format":"12\" CD cassette","s_recorded":"December 1994","s_genre":"Pop R&B","s_length":"4:18","s_label":"Columbia","s_writer":"Mariah Carey Jermaine Dupri Manuel Seal","s_producer":"Carey Dupri Seal","s_title":"\"Slipping Away\" \"Long Ago\""}

@@ -1,0 +1,1 @@
+{"s_released":"November 17, 2009 (2009-11-17) (see release history)","s_format":"CD single, digital download","s_recorded":"The Oven Studios, Long Island, New York Conway Studios, Los Angeles, California","s_genre":"R&B","s_length":null,"s_label":"J","s_writer":"Jeff Bhasker, Alicia Keys, Patrick \"Plan Pat\" Reynolds","s_producer":"Gold (CRIA)","s_title":"\"Lover Man\""}

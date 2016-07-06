@@ -1,0 +1,1 @@
+{"s_released":"February 10, 2009[1]","s_format":null,"s_recorded":null,"s_genre":"R&B","s_length":"2:25","s_label":"Hollywood","s_writer":"Chris Brown Darnell Dalton Eric Florence Ester Dean Jamal Jones Lamar Raynard Taylor","s_producer":"Polow da Don","s_title":"\"Bad Girl\""}

@@ -1,0 +1,1 @@
+{"s_released":"March 3, 2014 (2014-03-03)","s_format":"Digital download","s_recorded":"2013","s_genre":"EDM house","s_length":"3:35 (radio version)","s_label":"Spinnin' and RCA","s_writer":"Stacy Barthe Oren Yoel","s_producer":"Cedric Gervais","s_title":"\"Adore You (Remix)\""}

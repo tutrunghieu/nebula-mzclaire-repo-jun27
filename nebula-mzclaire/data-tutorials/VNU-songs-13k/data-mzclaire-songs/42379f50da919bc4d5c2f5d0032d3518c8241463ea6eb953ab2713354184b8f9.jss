@@ -1,0 +1,1 @@
+{"s_released":"22 October 1984","s_format":"Vinyl (7\", 12\")","s_recorded":"1984","s_genre":"Heavy metal","s_length":"4:31","s_label":"EMI","s_writer":"Steve Harris","s_producer":"Martin Birch","s_title":"\"King of Twilight\" (Nektar cover) \"The Number of the Beast\" (live)"}

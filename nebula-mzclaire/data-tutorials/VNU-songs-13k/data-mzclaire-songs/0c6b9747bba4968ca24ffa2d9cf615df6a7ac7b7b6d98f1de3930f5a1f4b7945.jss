@@ -1,0 +1,1 @@
+{"s_released":"9 January 2016 (2016-01-09)","s_format":"Digital download","s_recorded":"MXM Studios (Los Angeles, California) Studio at the Palms (Las Vegas, Nevada) Wolf Cousins Studios (Stockholm, Sweden)","s_genre":null,"s_length":"3:57","s_label":"Polydor","s_writer":"Ellie Goulding Max Martin Savan Kotecha Ali Payami","s_producer":"Martin Payami","s_title":"\"Army\""}

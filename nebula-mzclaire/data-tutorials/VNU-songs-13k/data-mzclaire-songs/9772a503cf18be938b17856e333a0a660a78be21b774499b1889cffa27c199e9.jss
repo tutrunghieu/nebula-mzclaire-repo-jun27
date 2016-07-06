@@ -1,0 +1,1 @@
+{"s_released":"6 November 2013 (6 November 2013)","s_format":"CD digital download","s_recorded":"2013","s_genre":"Folk pop","s_length":"4:05","s_label":null,"s_writer":"Julian Bunetta Jamie Scott John Ryan Louis Tomlinson Liam Payne Niall Horan Harry Styles Zayn Malik","s_producer":"Julian Bunetta John Ryan","s_title":"\"Story of My Life\""}

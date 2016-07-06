@@ -1,0 +1,1 @@
+{"s_released":"November 14, 1995 (1995-11-14)","s_format":"Cassette CD maxi 7\" 12\"","s_recorded":"February 1995","s_genre":"R&B pop","s_length":"4:42","s_label":"Columbia","s_writer":"Mariah Carey Walter Afanasieff Nathan Morris Michael McCary Shawn Stockman Wanya Morris","s_producer":"Mariah Carey Walter Afanasieff","s_title":"\"Open Arms\""}

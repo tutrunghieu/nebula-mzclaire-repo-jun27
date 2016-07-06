@@ -1,0 +1,1 @@
+{"s_released":"23 June 1980[1][2]","s_format":"7\"","s_recorded":"April–November 1979","s_genre":"Progressive rock","s_length":"6:23 (album version) 3:59 (single edit)","s_label":"Harvest (UK) Columbia (US)","s_writer":"Roger Waters, David Gilmour","s_producer":"Bob Ezrin, David Gilmour, James Guthrie and Roger Waters","s_title":"\"Hey You\""}

@@ -1,0 +1,1 @@
+{"s_released":"January 10, 2011 (2011-01-10)","s_format":"CD single digital download","s_recorded":"2010; Maratone Studios (Stockholm, Sweden)","s_genre":"Pop punk synthpop","s_length":"3:39","s_label":"RCA","s_writer":"Avril Lavigne Max Martin Shellback","s_producer":"Max Martin Shellback","s_title":"\"Alice\""}

@@ -1,0 +1,1 @@
+{"s_released":"May 5, 2008 (UK)","s_format":"CD single, digital download","s_recorded":"2006/2007","s_genre":"R&B, hip hop","s_length":"5:28 (Album Version) 3:15 (UK Single Version)","s_label":"will.i.am Music Group, A&M","s_writer":"William Adams","s_producer":"will.i.am","s_title":"\"Heartbreaker\""}

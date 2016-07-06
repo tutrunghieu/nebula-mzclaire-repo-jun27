@@ -1,0 +1,1 @@
+{"s_released":"May 29, 2012 (2012-05-29)","s_format":"Digital download","s_recorded":"2011, Conway Studios (Los Angeles, California)","s_genre":"Hip hop","s_length":"4:28","s_label":"Young Money Cash Money Universal Republic","s_writer":"Onika Maraj Maurice Jordan Tauheed Epps","s_producer":"Kenoe","s_title":"\"Beez in the Trap\""}

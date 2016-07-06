@@ -1,0 +1,1 @@
+{"s_released":"May 2, 2009 (2009-05-02) (see release history)","s_format":"Airplay, digital download","s_recorded":null,"s_genre":"Bubblegum pop, teen pop","s_length":"2:46","s_label":"Walt Disney","s_writer":"Jeannie Lurie, Aris Archontis, Chen Neeman","s_producer":"Archontis, Lurie, Neeman","s_title":"\"I Wanna Know You\""}

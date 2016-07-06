@@ -1,0 +1,1 @@
+{"s_released":"August 28, 1992","s_format":"CD single cassette maxi single","s_recorded":"1991","s_genre":"Tejano, Ranchera, Mariachi","s_length":"3:49","s_label":"EMI Latin","s_writer":"Ricky Vela A.B. Quintanilla III","s_producer":"A.B. Quintanilla III","s_title":"\"¿Qué Creías?\""}

@@ -1,0 +1,1 @@
+{"s_released":"June 2, 2009 (2009-06-02)","s_format":"CD 12\" digital download","s_recorded":"March 2008; South Beat Studios (Miami Beach, Florida)","s_genre":"Electropop","s_length":"3:28","s_label":"Columbia","s_writer":"Beyoncé Knowles James Scheffer Wayne Wilkins Rico Love","s_producer":"James Scheffer Wayne Wilkins Rico Love Beyoncé Knowles","s_title":"\"Sweet Dreams\""}

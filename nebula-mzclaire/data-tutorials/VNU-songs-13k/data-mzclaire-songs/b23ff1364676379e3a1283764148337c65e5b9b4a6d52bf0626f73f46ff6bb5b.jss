@@ -1,0 +1,1 @@
+{"s_released":"January 14, 2002","s_format":"CD single, 12\" single","s_recorded":"Fall 2001","s_genre":"R&B dance-pop","s_length":"4:10","s_label":"Atlantic","s_writer":"LaShawn Daniels, Rodney Jerkins, Brandy Norwood, Nora Payne, Kenisha Pratt","s_producer":"Rodney Jerkins","s_title":"\"What About Us?\""}

@@ -1,0 +1,1 @@
+{"s_released":null,"s_format":null,"s_recorded":"January–October 2003 The Rubin's House, Signature Sound, Rolling Thunder (San Diego, California) Conway Recording Studios (Hollywood, California)","s_genre":"Pop punk post-hardcore","s_length":"2:41","s_label":"Geffen","s_writer":"Mark Hoppus Tom DeLonge Travis Barker","s_producer":"Jerry Finn","s_title":"\"Stockholm Syndrome\""}

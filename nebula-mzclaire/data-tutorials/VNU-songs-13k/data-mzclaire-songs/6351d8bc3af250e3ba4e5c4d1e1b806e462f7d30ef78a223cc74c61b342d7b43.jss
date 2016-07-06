@@ -1,0 +1,1 @@
+{"s_released":"June 15, 2015 (2015-06-15)","s_format":"Digital download","s_recorded":"2014","s_genre":"EDM vaporwave","s_length":"3:47","s_label":"Interscope","s_writer":"Madonna Ciccone Thomas Wesley Pentz Ariel Rechtshaid Maureen McDonald Toby Gad Onika Tanya Maraj Samuel Long","s_producer":"Madonna Diplo Sophie (uncredited)","s_title":"\"Bitch I'm Madonna\""}

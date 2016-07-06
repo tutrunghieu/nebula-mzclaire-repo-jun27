@@ -1,0 +1,1 @@
+{"s_released":"14 February 2012 (2012-02-14)","s_format":"Digital download","s_recorded":"2010–11","s_genre":"Electronic rock electropop R&B","s_length":"3:59 (album version) 3:39 (radio edit)","s_label":"Parlophone","s_writer":"Guy Berryman Jonny Buckland Will Champion Chris Martin","s_producer":"Markus Dravs Daniel Green Rik Simpson","s_title":"\"Princess of China\""}

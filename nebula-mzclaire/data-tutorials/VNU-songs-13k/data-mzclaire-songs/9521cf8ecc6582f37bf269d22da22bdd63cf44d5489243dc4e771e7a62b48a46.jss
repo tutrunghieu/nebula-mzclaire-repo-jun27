@@ -1,0 +1,1 @@
+{"s_released":"August 20, 2012","s_format":"CD single, digital download","s_recorded":"2011 Mountain View Studios, Vancouver, Canada","s_genre":"Alternative rock","s_length":"4:11 (Album version) 3:45 (Radio edit)","s_label":"Roadrunner","s_writer":"Chad Kroeger, Ryan Peake, Brett Warren, Brad Warren","s_producer":"Nickelback, Joey Moi","s_title":"\"Trying Not to Love You\""}

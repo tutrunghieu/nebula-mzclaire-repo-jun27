@@ -1,0 +1,1 @@
+{"s_released":"March 29, 1948 (1948-03-29)","s_format":"10\"","s_recorded":"August 22, 1947 (1947-08-22)","s_genre":"Jazz pop","s_length":"2:56","s_label":"Capitol","s_writer":"eden ahbez","s_producer":null,"s_title":"\"Nature Boy\""}

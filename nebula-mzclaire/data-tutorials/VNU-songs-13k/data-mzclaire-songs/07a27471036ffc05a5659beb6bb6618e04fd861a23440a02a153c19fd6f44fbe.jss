@@ -1,0 +1,1 @@
+{"s_released":"2 June 2011 (2011-06-02)","s_format":"CD single, digital download","s_recorded":"July 2010","s_genre":"Dance-pop","s_length":"2:56","s_label":"Polydor","s_writer":"Nicola Roberts, Maya von Doll, Diplo (credited as Wesley Pentz), Dimitri Tikovoi","s_producer":"Tikovoi","s_title":"\"Disco Blisters and a Comedown\" \"Porcelain Heart\""}

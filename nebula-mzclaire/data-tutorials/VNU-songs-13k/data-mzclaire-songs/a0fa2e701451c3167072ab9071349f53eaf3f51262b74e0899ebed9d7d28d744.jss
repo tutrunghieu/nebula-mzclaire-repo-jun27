@@ -1,0 +1,1 @@
+{"s_released":"October 10, 2006","s_format":"Digital download, CD single","s_recorded":"Goldmind Studios, Hit Factory Criteria (Miami, Florida)","s_genre":"R&B soul","s_length":"3:52","s_label":"J","s_writer":"Missy Elliott, Corte Ellis, Curtis Mayfield","s_producer":"Missy Elliott, Cliff Jones, David Lindsey","s_title":"\"A Dozen Roses (You Remind Me)\""}

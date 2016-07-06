@@ -1,0 +1,1 @@
+{"s_released":"September 2003","s_format":"Download, 12\", DVD single","s_recorded":"2003; Hit Factory Criteria (Miami, Florida)","s_genre":"R&B hip hop dance-pop","s_length":"4:19","s_label":"J","s_writer":"Craig Brockman, Missy Elliott, Herbert Jordan, Steve Standard","s_producer":"Missy Elliott, DJ Scratch","s_title":"\"Knock Knock\""}

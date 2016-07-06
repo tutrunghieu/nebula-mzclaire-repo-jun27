@@ -1,0 +1,1 @@
+{"s_released":"February 16, 2011 (2011-02-16)","s_format":"CD single digital download","s_recorded":"2010; Conway Recording Studios, (Hollywood, California)","s_genre":"Electronic hip hop","s_length":"3:51","s_label":"Capitol","s_writer":"Katy Perry Lukasz Gottwald Max Martin Joshua Coleman Kanye West","s_producer":"Dr. Luke Ammo Max Martin","s_title":"\"E.T.\""}

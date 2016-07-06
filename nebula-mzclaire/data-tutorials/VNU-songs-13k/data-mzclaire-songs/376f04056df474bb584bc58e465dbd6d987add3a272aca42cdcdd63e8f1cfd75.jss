@@ -1,0 +1,1 @@
+{"s_released":"2007","s_format":"Maxi CD 7\" vinyl digital download","s_recorded":"1982","s_genre":"New wave","s_length":"3:23","s_label":"Red Girl","s_writer":"Bert Berns Bob Feldman Jerry Goldstein Richard Gottehrer","s_producer":"Stephen Hague","s_title":"\"Already Gone\""}

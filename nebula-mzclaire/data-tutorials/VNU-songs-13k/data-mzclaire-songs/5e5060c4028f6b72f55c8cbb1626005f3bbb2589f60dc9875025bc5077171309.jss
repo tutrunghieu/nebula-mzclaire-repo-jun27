@@ -1,0 +1,1 @@
+{"s_released":"May 4, 2015[1]","s_format":"digital download","s_recorded":null,"s_genre":null,"s_length":"6:34","s_label":"Epic","s_writer":"Ricky Vela, A.B. Quintanilla, Selena, Pete Astudillo, Keith Thomas","s_producer":"Quintanilla III, Abraham Quintanilla, Jr., Bebu Silvetti, Jorge Alberto Pino, Gregg Vickers, Thomas","s_title":"\"A Selena Tribute\""}

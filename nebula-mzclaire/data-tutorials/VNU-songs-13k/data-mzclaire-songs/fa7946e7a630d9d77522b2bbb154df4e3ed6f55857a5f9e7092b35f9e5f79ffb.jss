@@ -1,0 +1,1 @@
+{"s_released":"December 2, 2013","s_format":"Promo CD","s_recorded":"2012 in Los Angeles, California","s_genre":"Alternative rock power pop dream pop","s_length":"4:31","s_label":"Fueled by Ramen","s_writer":"Hayley Williams Taylor York","s_producer":"Justin Meldal-Johnsen","s_title":"\"Daydreaming\""}

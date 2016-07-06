@@ -1,0 +1,1 @@
+{"s_released":"3 December 2010 (2010-12-03) (see release history)","s_format":"Digital download","s_recorded":null,"s_genre":"EDM Europop","s_length":"3:12","s_label":"Smile in Bed","s_writer":"Nadia Ali Markus Moser","s_producer":"\"Rapture\" (Avicii Remix) on YouTube","s_title":"\"Rapture\""}

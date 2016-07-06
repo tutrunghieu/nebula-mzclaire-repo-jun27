@@ -1,0 +1,1 @@
+{"s_released":"May 25, 2012 (2012-05-25)","s_format":"12\" vinyl","s_recorded":"2011","s_genre":"Alternative hip hop electro house","s_length":"3:56","s_label":"Polydor Records","s_writer":"Jake Shears Azealia Banks Alex Ridha Scott Hoffman","s_producer":"Boys Noize","s_title":"\"Shady Love\""}

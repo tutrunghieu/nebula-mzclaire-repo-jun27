@@ -1,0 +1,1 @@
+{"s_released":"January 25, 1999","s_format":"CD single 12\" single","s_recorded":"October 1998","s_genre":"R&B dance","s_length":"4:52 4:22 (radio edit)","s_label":"Arista","s_writer":"LaShawn Daniels Rodney Jerkins Fred Jerkins III Isaac Phillips Toni Estes","s_producer":"Gold (RIAA)","s_title":"\"It's Not Right but It's Okay\""}

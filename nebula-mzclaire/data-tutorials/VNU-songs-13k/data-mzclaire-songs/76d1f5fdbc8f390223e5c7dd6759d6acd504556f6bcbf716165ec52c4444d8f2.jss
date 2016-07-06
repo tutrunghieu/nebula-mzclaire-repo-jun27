@@ -1,0 +1,1 @@
+{"s_released":"August 13, 2001[1]","s_format":"7\" CD","s_recorded":"February — March 2001 Cello Studios (Hollywood, California, US)","s_genre":"Alternative metal[2] nu metal[3]","s_length":"3:30","s_label":"American","s_writer":"Daron Malakian Serj Tankian","s_producer":"Daron Malakian Rick Rubin Serj Tankian","s_title":"\"Johnny\""}

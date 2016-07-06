@@ -1,0 +1,1 @@
+{"s_released":"June 2, 2014 (2014-06-02)","s_format":"Digital download","s_recorded":"2014","s_genre":"Dance-pop gospel R&B","s_length":"4:12","s_label":"E1 Music","s_writer":"Michelle Williams Carmen Reece Al Sherrod Lambert Harmony Samuels","s_producer":"Harmony Samuels","s_title":"\"Say Yes\""}

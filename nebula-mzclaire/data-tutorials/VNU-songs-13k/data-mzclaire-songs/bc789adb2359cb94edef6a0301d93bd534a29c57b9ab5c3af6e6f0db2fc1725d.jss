@@ -1,0 +1,1 @@
+{"s_released":"September 7, 2015 (2015-09-07)","s_format":"Digital download","s_recorded":null,"s_genre":"Baroque pop[1][2] blue-eyed soul[3]","s_length":"5:50","s_label":"Polydor Interscope","s_writer":"Lana Del Rey Rick Nowels","s_producer":"\"Honeymoon\" on YouTube","s_title":"\"Honeymoon\""}

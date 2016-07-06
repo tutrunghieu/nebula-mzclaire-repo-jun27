@@ -1,0 +1,1 @@
+{"s_released":"June 10, 2014 (2014-06-10)","s_format":null,"s_recorded":"2013 Kings Landing (Bridgehampton, New York) Jungle City Studios; Oven Studios (New York City)","s_genre":"Power pop soul","s_length":"4:17","s_label":"Columbia","s_writer":"Sia Furler Joshua \"Ammo\" Coleman Beyoncé Knowles","s_producer":"Ammo Knowles","s_title":"\"Pretty Hurts\""}

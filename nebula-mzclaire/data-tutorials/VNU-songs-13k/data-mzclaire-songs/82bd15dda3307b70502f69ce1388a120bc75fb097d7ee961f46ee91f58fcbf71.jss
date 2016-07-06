@@ -1,0 +1,1 @@
+{"s_released":"July 22, 2008[1]","s_format":"Digital download","s_recorded":"March 2008; Annetenna Studios (Los Angeles, California)[2]","s_genre":"Pop rock, teen pop","s_length":"3:24","s_label":"Hollywood","s_writer":"Ted Bruner, Trey Vittetoe, Gina Schock","s_producer":"Scott Cutler, Anne Preven","s_title":"\"Breakout\""}

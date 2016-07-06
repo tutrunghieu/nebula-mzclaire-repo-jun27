@@ -1,0 +1,1 @@
+{"s_released":"1978","s_format":"7\", 12\"","s_recorded":null,"s_genre":"Punk rock","s_length":"3:48","s_label":"Real Records ARE3","s_writer":"Johnny Thunders","s_producer":null,"s_title":"Hurtin'"}

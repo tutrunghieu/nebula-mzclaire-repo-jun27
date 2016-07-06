@@ -1,0 +1,1 @@
+{"s_released":"2000","s_format":null,"s_recorded":null,"s_genre":"R&B","s_length":"4:15","s_label":"Magic Johnson Music/MCA","s_writer":"Isaac Hayes Steve Huff","s_producer":"Isaac Hayes Steve Huff","s_title":"\"Separated\""}

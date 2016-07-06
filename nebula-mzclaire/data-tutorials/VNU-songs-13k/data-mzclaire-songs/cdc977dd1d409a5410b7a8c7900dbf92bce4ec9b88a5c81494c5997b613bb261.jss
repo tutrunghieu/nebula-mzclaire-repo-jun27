@@ -1,0 +1,1 @@
+{"s_released":"October 16, 2006 (2006-10-16)","s_format":"CD digital download","s_recorded":null,"s_genre":"R&B","s_length":"3:41","s_label":"A&M Interscope","s_writer":"Timbaland Keri Hilson","s_producer":"Timbaland Keri Hilson Ron Fair","s_title":"\"Wait a Minute\""}

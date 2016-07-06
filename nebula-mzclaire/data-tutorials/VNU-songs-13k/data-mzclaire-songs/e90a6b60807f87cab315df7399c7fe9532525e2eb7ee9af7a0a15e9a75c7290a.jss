@@ -1,0 +1,1 @@
+{"s_released":"June 3, 2016 (2016-06-03)","s_format":"Digital download","s_recorded":null,"s_genre":"Trap","s_length":"2:50","s_label":"Westbury Road Interscope","s_writer":"Michael Williams II A. Hogan N. Wilburn Robyn Fenty [1]","s_producer":"Mike Will Made It","s_title":"\"Nothing Is Promised\""}

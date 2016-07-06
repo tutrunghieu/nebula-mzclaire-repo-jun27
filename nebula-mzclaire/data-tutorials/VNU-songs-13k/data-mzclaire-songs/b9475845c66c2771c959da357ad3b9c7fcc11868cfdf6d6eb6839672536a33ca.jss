@@ -1,0 +1,1 @@
+{"s_released":"March 20, 2013 (2013-03-20)","s_format":"Digital download","s_recorded":"2012","s_genre":"Hip hop","s_length":"5:08","s_label":"Def Jam SRP","s_writer":"Jay Jenkins Fenty Williams Roberts Jordan Houston Clifford Harris Williams Thomas Thomas Garner","s_producer":"Mike Will Made It J-Bo","s_title":"\"Right Now\""}

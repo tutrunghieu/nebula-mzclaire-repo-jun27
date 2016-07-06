@@ -1,0 +1,1 @@
+{"s_released":"16 November 2012 (2012-11-16)","s_format":"Digital download","s_recorded":"at Pulse Recording (Los Angeles, California)","s_genre":null,"s_length":"3:30","s_label":"Syco Sony","s_writer":"Bonnie McKee Joshua Coleman Lukasz Gottwald","s_producer":"Josh Abrahams Ammo Oligee","s_title":"\"Lovebird\""}

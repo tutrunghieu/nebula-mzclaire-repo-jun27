@@ -1,0 +1,1 @@
+{"s_released":"October 24, 2011 (2011-10-24)","s_format":"Digital download, CD Single","s_recorded":"2010–11","s_genre":"R&B","s_length":"3:40","s_label":"Columbia","s_writer":"Kanye West Jeff Bhasker Beyoncé Knowles Dexter R. Mills Douglas Davis Ricky Walters","s_producer":"Knowles West Bhasker","s_title":"\"Party\""}

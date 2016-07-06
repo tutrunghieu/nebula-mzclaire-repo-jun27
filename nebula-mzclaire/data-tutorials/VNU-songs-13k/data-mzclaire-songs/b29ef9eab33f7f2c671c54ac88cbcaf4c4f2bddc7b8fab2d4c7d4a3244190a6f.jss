@@ -1,0 +1,1 @@
+{"s_released":"February 1, 2011 (Saddle Creek online pre-order) February 15, 2011","s_format":null,"s_recorded":"Omaha, Nebraska","s_genre":"Indie rock Indie pop","s_length":"46:58","s_label":"Saddle Creek","s_writer":null,"s_producer":"Mike Mogis","s_title":"The People's Key"}

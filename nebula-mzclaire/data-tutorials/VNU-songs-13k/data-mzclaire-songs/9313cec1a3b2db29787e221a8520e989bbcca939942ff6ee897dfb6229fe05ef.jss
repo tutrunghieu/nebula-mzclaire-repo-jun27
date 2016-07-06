@@ -1,0 +1,1 @@
+{"s_released":"2003","s_format":null,"s_recorded":"April, 2003","s_genre":"R&B, Gospel, Christmas","s_length":"4:12","s_label":"Arista","s_writer":"Freddie Jackson, Gordon Chambers, Barry Eastmond","s_producer":"Gordon Chambers Barry Eastmond","s_title":"\"One Wish (for Christmas)\""}

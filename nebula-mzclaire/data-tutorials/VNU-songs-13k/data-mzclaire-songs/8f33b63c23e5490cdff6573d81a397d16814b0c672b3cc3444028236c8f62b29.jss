@@ -1,0 +1,1 @@
+{"s_released":"September 11, 2015 (2015-09-11)","s_format":"CD single digital download","s_recorded":"2015","s_genre":null,"s_length":"4:50","s_label":"Interscope Polydor","s_writer":"Lana Del Rey Rick Nowels","s_producer":"Del Rey Nowels Kieron Menzies","s_title":"\"Music To Watch Boys To\""}

@@ -1,0 +1,1 @@
+{"s_released":"April 23, 2012 (2012-04-23)","s_format":null,"s_recorded":"MSR Studios (New York City)","s_genre":"Dance R&B funk","s_length":"3:43","s_label":"Columbia","s_writer":"Beyoncé Knowles Terius \"The-Dream\" Nash Shea Taylor David \"Switch\" Taylor","s_producer":"Knowles The-Dream Switch","s_title":"\"End of Time\""}

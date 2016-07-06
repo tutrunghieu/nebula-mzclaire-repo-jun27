@@ -1,0 +1,1 @@
+{"s_released":"22 October 2007","s_format":"7\" 12\" CD digital download","s_recorded":"2007","s_genre":null,"s_length":"4:31 (album version) 3:37 (radio edit)","s_label":"Pacemaker XL","s_writer":"Adele","s_producer":null,"s_title":"\"Hometown Glory\""}

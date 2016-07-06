@@ -1,0 +1,1 @@
+{"s_released":"1988","s_format":"12\"","s_recorded":"1987 G.P. Productions (San Antonio, Texas)","s_genre":"Latin pop; Freestyle, electronic dance (remix)","s_length":"3:50","s_label":"G.P. Productions","s_writer":"A.B. Quintanilla","s_producer":"Quintanilla III","s_title":"\"Always Mine\""}

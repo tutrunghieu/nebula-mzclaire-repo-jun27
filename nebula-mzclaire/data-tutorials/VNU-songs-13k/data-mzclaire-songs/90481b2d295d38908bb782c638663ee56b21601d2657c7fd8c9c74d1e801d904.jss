@@ -1,0 +1,1 @@
+{"s_released":"May 3, 1993","s_format":"CD single","s_recorded":"June 1990","s_genre":"Hard rock, heavy metal","s_length":"7:40","s_label":"Geffen","s_writer":"Axl Rose, Slash, Duff McKagan","s_producer":"Mike Clink, Guns N' Roses","s_title":"\"Exclusive Interview with Slash\" (March 1993)"}

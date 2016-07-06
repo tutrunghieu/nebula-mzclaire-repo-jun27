@@ -1,0 +1,1 @@
+{"s_released":"September 16, 2008 (2008-09-16)","s_format":"Digital download","s_recorded":"150 Studios, Parsippany-Troy Hills, New Jersey","s_genre":"Dance-pop","s_length":"2:53","s_label":"Streamline Kon Live Cherrytree Interscope","s_writer":"Lady Gaga Rob Fusari","s_producer":"Rob Fusari","s_title":"\"Beautiful, Dirty, Rich\""}

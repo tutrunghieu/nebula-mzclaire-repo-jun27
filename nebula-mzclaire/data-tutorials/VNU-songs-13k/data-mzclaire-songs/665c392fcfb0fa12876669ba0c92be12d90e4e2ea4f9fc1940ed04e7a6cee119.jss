@@ -1,0 +1,1 @@
+{"s_released":"14 May 2007","s_format":"Digital download, CD single, vinyl","s_recorded":"2006, Stanley House (London, England)","s_genre":"Dance-pop, nu-disco","s_length":"3:27","s_label":"Fascination","s_writer":"Sophie Ellis-Bextor, Hannah Robinson, Matt Prime","s_producer":"Matt Prime","s_title":"\"Move to the Music\" \"Here's to You\""}

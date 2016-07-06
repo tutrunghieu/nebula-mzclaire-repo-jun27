@@ -1,0 +1,1 @@
+{"s_released":"January 1979 (1979-01)[1]","s_format":"CD single Digital download","s_recorded":"1978","s_genre":"Dance-pop, nu-disco, house","s_length":"4:06","s_label":"Polydor Records","s_writer":"Esty Aller Sophie Ellis-Bextor","s_producer":"Damian LeGassick","s_title":"\"Sparkle\""}

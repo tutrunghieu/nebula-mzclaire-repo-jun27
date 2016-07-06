@@ -1,0 +1,1 @@
+{"s_released":"June 8, 2010","s_format":"CD Single digital download","s_recorded":"2009","s_genre":"Pop punk emo","s_length":"3:50","s_label":"Fueled by Ramen","s_writer":"Hayley Williams Josh Farro","s_producer":null,"s_title":"\"Careful\""}

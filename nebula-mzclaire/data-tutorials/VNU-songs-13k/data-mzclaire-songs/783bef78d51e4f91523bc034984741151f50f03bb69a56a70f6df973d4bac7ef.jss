@@ -1,0 +1,1 @@
+{"s_released":"March 23, 2009","s_format":null,"s_recorded":"March–July 2008 at Mountain View Studios, Abbotsford, British Columbia","s_genre":"Alternative rock","s_length":"4:22 (Album Version) 3:58 (Edited Version)","s_label":"Roadrunner","s_writer":"Robert John \"Mutt\" Lange, Chad Kroeger","s_producer":"Robert John \"Mutt\" Lange","s_title":"\"I'd Come for You\""}

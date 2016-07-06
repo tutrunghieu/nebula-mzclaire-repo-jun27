@@ -1,0 +1,1 @@
+{"s_released":"16 August 2010","s_format":null,"s_recorded":"Compass Point Studios, Nassau, Bahamas in 2010","s_genre":"Heavy metal","s_length":"8:40 5:08 (Music video)","s_label":"EMI (United Kingdom) UME, Sony (United States)","s_writer":"Adrian Smith, Steve Harris","s_producer":"Kevin Shirley","s_title":"\"Satellite 15... The Final Frontier\""}

@@ -1,0 +1,1 @@
+{"s_released":"December 7, 2010 (See release history)","s_format":"Digital download","s_recorded":null,"s_genre":"R&B","s_length":"3:59","s_label":"Imani, Geffen","s_writer":"Keyshia Cole, Russell Gonzalez, Onika Maraj","s_producer":"The ARE, Ron Fair","s_title":"\"I Ain't Thru\""}

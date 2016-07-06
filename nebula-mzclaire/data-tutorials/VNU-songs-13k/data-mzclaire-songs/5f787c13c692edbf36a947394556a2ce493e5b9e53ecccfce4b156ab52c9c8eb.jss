@@ -1,0 +1,1 @@
+{"s_released":"2001","s_format":"CD Single, download, 12\"","s_recorded":"2000[1]","s_genre":"R&B pop","s_length":"3:24","s_label":"Sony","s_writer":"Carsten Lindberg, Lindy Robbins, Damon Sharpe, Joachim Svare","s_producer":"Ric Wake (from W&R Group)","s_title":"\"Just Another Girl\""}

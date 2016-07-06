@@ -1,0 +1,1 @@
+{"s_released":"January 26, 2000 (2000-01-26)","s_format":"CD Single","s_recorded":null,"s_genre":"Alternative rock, pop, pop rock","s_length":"13:49","s_label":"Toshiba EMI / Virgin Music","s_writer":"Ringo Sheena","s_producer":"Uni Inoue","s_title":"\"Tsumi to Batsu\""}
