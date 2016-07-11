@@ -25,7 +25,9 @@ throws Exception
 	c.add("blue blue blue blue blue please");
 	c.add("blue blue blue blue please");
 	
-	c.predictWithKmeans(3, 10, ClusterString.class);
+//	c.add("blue blue blue blue please  green green green ");
+	
+	c.predictWithKmeans(3, 20, ClusterStringHenry.class);
 	
 	System.out.println("=================");
 	for(int k=0; k<c.size(); k++)

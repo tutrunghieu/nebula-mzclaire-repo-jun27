@@ -2,7 +2,7 @@ package tasks.july08_knn_clustering;
 
 import apps.mzclaire.jaccard.JaccardEngineBow;
 
-public class ClusterString extends Cluster<String> 
+public class ClusterStringAndy extends Cluster<String> 
 {
 	private double centroid;
 	
