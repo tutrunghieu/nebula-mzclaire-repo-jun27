@@ -27,8 +27,6 @@ import com.mongodb.MongoClient;
 import com.mongodb.client.MongoCollection;
 import com.mongodb.client.MongoDatabase;
 
-import apps.trenzi.physical.TrenziDataAccess;
-
 public class MongoAccess1970 
 {
 	public String dataName = "";
@@ -37,9 +35,14 @@ public class MongoAccess1970
 	
 	public static MongoAccess1970 start(String name) 
 	{
-		TrenziDataAccess res = new TrenziDataAccess();
+		MongoAccess1970 res = new MongoAccess1970();
 		res.dataName = name;
 		return res;
+	}
+	
+	public<T1> T1 notNull(T1 v, T1 dv)
+	{
+		return v==null ? dv : v;
 	}
 	
 	public void copyTablesTo(MongoAccess1970 db) 
@@ -259,6 +262,12 @@ public class MongoAccess1970
 		return res;		
 	}
 
+	public void dropTable(Class<?> cl) 
+	{
+		String tname = this.tableNameFromClass(cl);
+		dropTable(tname);
+	}
+	
 	public void dropTable(String tname) 
 	{
 		MongoClient mongo = new MongoClient(dataHost, dataPort);
@@ -270,6 +279,23 @@ public class MongoAccess1970
 		mongo.close();							
 	}
 
+	public<T1> void dropAndInsert(Class<T1> cl, List<T1> items) 
+	throws Exception
+	{
+		String tname = this.tableNameFromClass(cl);
+		
+		MongoClient mongo = new MongoClient(dataHost, dataPort);
+		MongoDatabase db = mongo.getDatabase(dataName);
+		
+		MongoCollection<Document> table = db.getCollection(tname);
+		table.drop();
+		
+		table.insertMany(items.stream()
+				.map(x -> convertObjectToDoc(x))
+				.collect(Collectors.toList()) );
+		
+		mongo.close();					
+	}
 	
 	public void dropAndInsert(String tname, List<Object> items) 
 	throws Exception
@@ -431,6 +457,7 @@ public class MongoAccess1970
 		updateRows(tname, lf);
 	}
 	
+
 	public void updateRows(String tname, JsacMapper<Document, Document> lf) 
 	throws Exception
 	{
@@ -469,6 +496,16 @@ public class MongoAccess1970
 		insert(tname, src);
 	}
 	
+	public<T1> T1 findOrInsert(Class<T1> cl, JsacPredicate<T1> ff, JsacAction<T1> lf) 
+	throws Exception
+	{
+		T1 res = findOne(cl, ff);
+		if(res != null) return res;
+		
+		insert(cl, lf);
+		return findOne(cl, ff);
+	}
+	
 	public void insert(String tname, Object src) 
 	throws Exception
 	{
@@ -492,7 +529,7 @@ public class MongoAccess1970
 	public String tableNameFromClass(Class<?> cl) 
 	{
 		JapiName r = cl.getAnnotation(JapiName.class);
-		return r==null ? null : r.value();
+		return r==null ? cl.getSimpleName().toLowerCase().replace("_", "-") : r.value();
 	}
 	
 
@@ -556,16 +593,17 @@ public class MongoAccess1970
 
 
 	public Document convertObjectToDoc(Object src) 
-	throws Exception
 	{
 		Document res = new Document();
 		
 		for(Field fk: src.getClass().getDeclaredFields())
 		if( Modifier.isPublic(fk.getModifiers()) )
+		try
 		{
 			Object vk = fk.get(src);
 			res.put(fk.getName(), vk);
 		}
+		catch(Exception xp) {}
 		
 		return res;
 	}

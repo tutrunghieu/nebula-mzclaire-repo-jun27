@@ -154,6 +154,21 @@ public class HtmlWriter extends HtmlWriter1970
 	}
 	
 	@SuppressWarnings("unchecked")
+	public void dataRowFromMapIso(Object s, List<String> fields)
+	throws Exception
+	{
+		Map<String, Object> obj = (Map<String, Object>)s;
+		
+		dataWriter.print("<tr>");
+		for(String fk: fields) 
+		{
+			Object vk = obj.get(fk);
+			dataWriter.print("<td>"+this.iso_8859_1(vk==null ? "" : vk.toString())+"</td>"); 
+		}
+		dataWriter.println("</tr>");				
+	}	
+	
+	@SuppressWarnings("unchecked")
 	public void dataRowFromMap(Object s, String[] fields)  
 	{
 		Map<String, Object> obj = (Map<String, Object>)s;

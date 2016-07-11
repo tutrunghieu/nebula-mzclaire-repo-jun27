@@ -8,6 +8,7 @@ import java.io.FileOutputStream;
 import java.io.FileReader;
 import java.io.InputStream;
 import java.io.OutputStream;
+import java.io.PrintWriter;
 import java.util.ArrayList;
 import java.util.LinkedHashMap;
 import java.util.List;
@@ -78,6 +79,15 @@ public class FolderAccess1970
 		engineJson.writeValue(file, src); 		
 	}
 	
+
+	public void writeJson(Object src, PrintWriter out)
+	throws Exception
+	{
+		ObjectMapper engineJson = new ObjectMapper();
+		engineJson.writeValue(out, src); 		
+	}
+	
+	
 	public List<String> readLinesFrom(File f) 
 	throws Exception
 	{
@@ -95,6 +105,24 @@ public class FolderAccess1970
 		return res;
 	}
 
+	
+	public String readLinesAsText(File f) 
+	throws Exception
+	{
+		String res = new String();
+		
+		BufferedReader reader = new BufferedReader(new FileReader(f));
+		while(true)
+		{
+			String line = reader.readLine();
+			if(line == null) break;
+			if(res.length() > 0) res += "\r\n";
+			res += line;
+		}
+		reader.close();
+		
+		return res;
+	}	
 
 	public void copyBytes(File src, File tar) 
 	throws Exception

@@ -1,6 +1,7 @@
 package org.naebulae.access;
 
 import java.io.File;
+import java.io.FileOutputStream;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
@@ -13,9 +14,12 @@ import java.util.Stack;
 import java.util.TreeSet;
 import java.util.stream.Collectors;
 
+import org.naebulae.sortkeys.SortFileByLastModified;
+import org.naebulae.util.String2;
+import org.naebulae.util.func.JsacAction;
+import org.naebulae.util.func.JsacAction2;
+import org.naebulae.util.func.JsacPredicate;
 import org.naebulae.writers.HtmlWriter;
-
-import apps.mzclaire.String2;
 
 public class FolderAccess extends FolderAccess1970
 {
@@ -192,6 +196,35 @@ public class FolderAccess extends FolderAccess1970
 		}
 		
 		return res;
+	}
+
+	public void writeAllBytes(File f, String b) 
+	throws Exception
+	{
+		f.getParentFile().mkdirs();
+		
+		FileOutputStream fos = new FileOutputStream(f);
+		fos.write(b.getBytes());
+		fos.close();		
+	}
+	
+	public void writeAllBytes(File f, byte[] b) 
+	throws Exception
+	{
+		f.getParentFile().mkdirs();
+		
+		FileOutputStream fos = new FileOutputStream(f);
+		fos.write(b);
+		fos.close();		
+	}
+
+	public String readLinesAsText(Class<?> cl, String fname) 
+	throws Exception
+	{
+		File f = new File( cl.getResource(fname).getFile() );
+		System.out.println(f.getAbsolutePath());
+		
+		return readLinesAsText(f);
 	}
 
 
