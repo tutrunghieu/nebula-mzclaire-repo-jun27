@@ -4,6 +4,8 @@ import apps.mzclaire.jaccard.JaccardEngineBow;
 
 public class ClusterString extends Cluster<String> 
 {
+	private double centroid;
+	
 	public void add(String pk) 
 	{
 		members.add(pk);				
@@ -11,19 +13,18 @@ public class ClusterString extends Cluster<String>
 
 	public void average() 
 	{
-//		if(members.size() == 0) return;
-//		
-//		int d = members.get(0).length;
-//		
-//		center = new double[d];
-//		
-//		for(double[] mk: members)
-//		{
-//			for(int j=0; j<d; j++) center[j] += mk[j];
-//		}
-//		
-//		int n = members.size();
-//		for(int j=0; j<d; j++) center[j] /= n;
+		if (members.size() ==0 ) return;
+		
+		int size = members.size();
+		
+		for(int i = 0; i < size; i++) {
+			for(int j = 0; j < size; j++) {
+				centroid += jaccard.jaccardIndex(members.get(i), members.get(j));
+			}
+		}
+		
+		centroid = centroid / (members.size() * members.size());
+		System.out.println("Center == " + centroid);
 	}
 	
 	public JaccardEngineBow jaccard = new JaccardEngineBow(); 
@@ -38,8 +39,8 @@ public class ClusterString extends Cluster<String>
 			smax = Math.max(smax, sk);
 		}
 		
-		smax = 1 - smax;
-		System.out.println(pk + " " + smax);
+		smax = Math.abs(smax - centroid);
+		
 		return smax;
 	}
 	

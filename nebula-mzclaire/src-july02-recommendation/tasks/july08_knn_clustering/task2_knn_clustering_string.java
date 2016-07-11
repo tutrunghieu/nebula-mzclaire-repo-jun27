@@ -19,14 +19,13 @@ throws Exception
 	c.add("green green green green green please");
 	c.add("green green green green please");
 	
-	
 	c.add("blue blue blue blue go");
 	c.add("blue blue blue blue to");
 	c.add("blue blue blue blue blue blue hell");
 	c.add("blue blue blue blue blue please");
 	c.add("blue blue blue blue please");
 	
-	c.predictWithKmeans(3, 1, ClusterString.class);
+	c.predictWithKmeans(3, 10, ClusterString.class);
 	
 	System.out.println("=================");
 	for(int k=0; k<c.size(); k++)

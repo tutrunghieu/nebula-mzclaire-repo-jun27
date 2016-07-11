@@ -74,7 +74,7 @@ public class ClusteringEngine<T>
 			labels.add(lk);
 		}		
 	}
-
+	
 	@SuppressWarnings("unchecked")
 	private List<Cluster<T>> computeCenters(int kpar, Class<? extends Cluster<T>> cl)
 	throws Exception
@@ -95,6 +95,6 @@ public class ClusteringEngine<T>
 		
 		return res;
 	}
-
-
+	
+	
 }
