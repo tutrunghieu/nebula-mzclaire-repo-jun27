@@ -22,7 +22,7 @@ public abstract class Classifier<S, T>
 			double dk = jaccardSimilarScore(nk, q);
 			if(dk > dres) { dres = dk; tres = examples.get(nk); }
 			
-			System.out.println(dk + ":" + nk);
+			//System.out.println(dk + ":" + nk);
 		}
 		
 		return tres;
