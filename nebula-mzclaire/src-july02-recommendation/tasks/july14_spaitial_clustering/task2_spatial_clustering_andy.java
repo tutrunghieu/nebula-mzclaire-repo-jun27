@@ -16,7 +16,7 @@ import tasks.july08_knn_clustering.ClusteringEngine;
 public class task2_spatial_clustering_andy {
 	
 	static ClusteringEngine_Andy<double[]> c = new ClusteringEngine_Andy<double[]>();
-	static final Integer numOfCenter = 12;
+	static final Integer numOfCenter = 4;
 	
 	public static void main(String[] args) 
 		throws Exception {
@@ -33,7 +33,7 @@ public class task2_spatial_clustering_andy {
 				int cxy = img.getRGB(x, y);
 				Color ck = new Color(cxy);
 				if(!formatColor(ck).equals("#ffffff")) 
-					c.add(new double[]{x, y});
+					c.add(new double[]{ x, y, x*x, y*y });
 			}
 			
 			c.predictWithKmeans(numOfCenter, 100, ClusterDouble_Andy.class);
