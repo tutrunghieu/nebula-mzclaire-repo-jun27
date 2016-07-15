@@ -1,8 +1,15 @@
-package tasks.july08_knn_clustering;
+package tasks.july14_spaitial_clustering;
 
-public class ClusterDouble extends Cluster<double[]> 
+import java.util.ArrayList;
+import java.util.List;
+
+import tasks.july08_knn_clustering.Cluster;
+import tasks.july08_knn_clustering.Vector2;
+
+public class ClusterDouble_Andy extends Cluster<double[]> 
 {
 	public double[] center;
+	public static List<double[]> centroid = new ArrayList<double[]>();
 	
 	public void add(double[] pk) 
 	{
@@ -25,6 +32,7 @@ public class ClusterDouble extends Cluster<double[]>
 		int n = members.size();
 		for(int j=0; j<d; j++) center[j] /= n;
 		
+		centroid.add(center);
 		//System.out.println("--------------");
 		//for(double[] mk: members) System.out.println( Vector2.toString(mk)  );		
 		//System.out.println("Center " + Vector2.toString(center) );

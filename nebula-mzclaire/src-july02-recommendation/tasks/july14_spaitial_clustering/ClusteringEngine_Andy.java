@@ -1,10 +1,14 @@
-package tasks.july08_knn_clustering;
+package tasks.july14_spaitial_clustering;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
-public class ClusteringEngine<T> 
+import org.apache.commons.logging.impl.AvalonLogger;
+
+import tasks.july08_knn_clustering.Cluster;
+
+public class ClusteringEngine_Andy<T> 
 {
 	private List<T> points = new ArrayList<T>();  
 	private List<Integer> labels = new ArrayList<Integer>();  
@@ -36,6 +40,7 @@ public class ClusteringEngine<T>
 		
 		for(int tt=0; tt<maxiter; tt++)
 		{
+			ClusterDouble_Andy.centroid = new ArrayList<double[]>();
 			List<Cluster<T>> c = computeCenters(kpar, cl); 
 			relabelWithCenters(c);
 		}

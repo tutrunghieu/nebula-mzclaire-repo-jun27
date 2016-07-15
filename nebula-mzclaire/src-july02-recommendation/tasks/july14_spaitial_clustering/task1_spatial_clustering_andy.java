@@ -1,9 +1,10 @@
-package tasks.july11_spatial_clustering;
+package tasks.july14_spaitial_clustering;
 
 import java.awt.Color;
 import java.awt.image.BufferedImage;
-import java.awt.image.WritableRaster;
 import java.io.File;
+import java.util.Set;
+import java.util.TreeSet;
 
 import javax.imageio.ImageIO;
 
@@ -24,29 +25,33 @@ public class task1_spatial_clustering_andy {
 
 		int Rx = img.getWidth(), Ry = img.getHeight();
 
+		Set<String> res = new TreeSet<String>();
+		
+		for (int x = 0; x < Rx; x++)
+		for (int y = 0; y < Ry; y++) 
+		{
+			String hex = formatColor(new Color(img.getRGB(x, y)));
+			if(!hex.equals("#ffffff")) res.add(hex);
+		}
+		
 		for (int x = 0; x < Rx; x++)
 		for (int y = 0; y < Ry; y++) 
 		{
 			int cxy = img.getRGB(x, y);
 			Color ck = new Color(cxy);
 			String hex = formatColor(ck);
-			if(hex.equals("#00a2e8")) c.train(new double[]{x, y}, hex);
-			if(hex.equals("#ed1c24")) c.train(new double[]{x, y}, hex);
+			if(res.contains(hex) && !hex.equals("#ffffff")) c.train(new double[]{x, y}, hex);
 		}
-		
-		//String res = c.predict(new double[] { 0, 14 });
-		//System.out.println(res);
 		
 		File outputfile = FolderAccess.start().getDesktopFile("output.png");
 		BufferedImage bufferedImage = ImageIO.read(f);
 		for (int x = 0; x < Rx; x++)
 		for (int y = 0; y < Ry; y++) 
 		{
-			String res = c.predict(new double[] { x, y });
-			bufferedImage.setRGB(x, y, Color.decode(res).getRGB());
+			String out = c.predict(new double[] { x, y });
+			bufferedImage.setRGB(x, y, Color.decode(out).getRGB());
 		}
 		ImageIO.write(bufferedImage, "png", outputfile);
-
 		
 	}
 	
