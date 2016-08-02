@@ -1,0 +1,63 @@
+buildscript {
+	repositories {
+		mavenCentral()
+		maven { url "https://repo.spring.io/snapshot" }
+		maven { url "https://repo.spring.io/milestone" }
+	}
+	dependencies {
+	}
+}
+
+apply plugin: 'java'
+apply plugin: 'eclipse'
+
+jar {
+	baseName = 'viademy103'
+	version = '0.0.1-SNAPSHOT'
+}
+sourceCompatibility = 1.8
+targetCompatibility = 1.8
+
+repositories {
+	mavenCentral()
+	maven { url "https://repo.spring.io/snapshot" }
+	maven { url "https://repo.spring.io/milestone" }
+}
+
+
+dependencies 
+{
+	compile 'net.sf.opencsv:opencsv:2.3'
+	compile 'org.codehaus.jackson:jackson-mapper-asl:1.9.13'	
+//	compile group: 'mysql', name: 'mysql-connector-java', version: '5.1.6'
+	compile group: 'org.mongodb', name: 'mongo-java-driver', version: '3.2.2'
+	
+	compile group: 'javax.mail', name: 'mail', version: '1.4.7'
+	compile group: 'org.slf4j', name: 'slf4j-nop', version: '1.7.21'
+	
+	compile group: 'org.apache.poi', name: 'poi', version: '3.9'
+	compile group: 'org.apache.poi', name: 'poi-ooxml', version: '3.9'
+	
+// https://mvnrepository.com/artifact/org.apache.tomcat/tomcat-catalina
+	compile group: 'org.apache.tomcat', name: 'tomcat-catalina', version: '8.5.3'
+	
+	// https://mvnrepository.com/artifact/org.jsoup/jsoup
+	compile group: 'org.jsoup', name: 'jsoup', version: '1.9.2'
+
+	// http://mvnrepository.com/artifact/org.apache.httpcomponents/httpclient
+	compile group: 'org.apache.httpcomponents', name: 'httpclient', version: '4.0-alpha4'
+
+	// https://mvnrepository.com/artifact/commons-fileupload/commons-fileupload
+	compile group: 'commons-fileupload', name: 'commons-fileupload', version: '1.3'
+	// https://mvnrepository.com/artifact/commons-lang/commons-lang
+	compile group: 'commons-lang', name: 'commons-lang', version: '2.6'
+
+}
+
+
+eclipse {
+	classpath {
+		 containers.remove('org.eclipse.jdt.launching.JRE_CONTAINER')
+		 containers 'org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8'
+	}
+}

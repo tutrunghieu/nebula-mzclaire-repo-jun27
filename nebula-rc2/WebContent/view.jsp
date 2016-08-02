@@ -1,0 +1,1 @@
+<% apps.rc2.AppMain.viewImage(request, response); %>
