@@ -11,17 +11,19 @@ import java.util.Random;
 import java.util.TreeMap;
 import javax.imageio.ImageIO;
 
+
+//Download data from http://people.csail.mit.edu/torralba/code/spatialenvelope/spatial_envelope_256x256_static_8outdoorcategories.zip
 public class SearchEngine {
 
 	public List<String> findSimilarImages_old(String q, int kpar)
 	{
 		List<String> res = new ArrayList<String>();
 		
-		for(int k=0; k<kpar; k++) 
-			res.add(q);
+		for(int k=0; k<kpar; k++) res.add(q);
 		
 		return res;
 	}
+	
 	
 	public File source = new File("D:/nebula-rc2/images");
 	
