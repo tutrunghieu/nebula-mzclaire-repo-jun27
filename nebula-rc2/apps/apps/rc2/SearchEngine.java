@@ -13,7 +13,9 @@ import javax.imageio.ImageIO;
 
 
 //Download data from http://people.csail.mit.edu/torralba/code/spatialenvelope/spatial_envelope_256x256_static_8outdoorcategories.zip
-public class SearchEngine {
+public class SearchEngine 
+{
+	public File source = new File("D:/nebula-rc2/images");
 
 	public List<String> findSimilarImages_old(String q, int kpar)
 	{
@@ -24,8 +26,6 @@ public class SearchEngine {
 		return res;
 	}
 	
-	
-	public File source = new File("D:/nebula-rc2/images");
 	
 	public List<String> findSimilarImages(String str, int kpar)
 	throws Exception

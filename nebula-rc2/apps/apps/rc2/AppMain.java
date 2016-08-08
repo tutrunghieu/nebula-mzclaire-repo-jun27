@@ -9,6 +9,38 @@ import javax.servlet.http.HttpServletResponse;
 
 public class AppMain 
 {
+	private static SearchEngine eng = new IndexedSearchEngine(new File("D:/nebula-rc2/images") );
+	
+	public static void processRequest(HttpServletRequest request, HttpServletResponse response)
+	throws Exception 
+	{
+		PrintWriter out = response.getWriter();
+		
+		out.println("<form method=get>");
+		out.println("<input type='text' name='q' value='https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSV0xtrhvHUXfbKauGeDDshxQA41eDUkm0UGJypBv0RJKNQrnkIvg'>");
+		out.println("<input type='submit' value='Tim'>");
+		out.println("</form><hr>");
+		
+		String q = request.getParameter("q");
+		List<String> items = eng.findSimilarImages(q, 30);
+		
+		printResult(q, items, out);
+	}
+	
+	private static void printResult(String q, List<String> items, PrintWriter out) 
+	{
+		
+		out.println("<img src='"+q+"'><br>");
+		
+		out.println("<p>"+items.size()+" item(s) found<p>");
+		for(String ik: items)
+		{
+			out.println("<img style='width: 64px; margin: 7px;' src='view.jsp?id="+ik+"'>");			
+		}
+		
+		return;
+	}
+
 	public static void viewImage(HttpServletRequest request, HttpServletResponse response)
 	throws Exception 
 	{
@@ -27,29 +59,6 @@ public class AppMain
 	}
 
 	
-	public static void processRequest(HttpServletRequest request, HttpServletResponse response)
-	throws Exception 
-	{
-		PrintWriter out = response.getWriter();
-		
-		out.println("<form method=get>");
-		out.println("<input type='text' name='q' value='https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSV0xtrhvHUXfbKauGeDDshxQA41eDUkm0UGJypBv0RJKNQrnkIvg'>");
-		out.println("<input type='submit' value='Tim'>");
-		out.println("</form><hr>");
-		
-		String q = request.getParameter("q");
-		
-		out.println("<img src='"+q+"'><br>");
-		
-		SearchEngine eng = new SearchEngine();
-		
-		List<String> items = eng.findSimilarImages(q, 30);
-		out.println("<p>"+items.size()+" item(s) found<p>");
-		for(String ik: items)
-		{
-			out.println("<img style='width: 64px; margin: 7px;' src='"+ik+"'>");			
-		}
-		
-	}
+
 
 }
