@@ -35,14 +35,19 @@ public class SearchEngine {
 		Map<Double, List<File>> res = new TreeMap<Double, List<File>>(Collections.reverseOrder()); 
 		
 		for(File sk: source.listFiles())
+		try
 		{
+			System.out.println(sk.getAbsolutePath());
 			double vk = jaccardSimilarScore(q, ImageIO.read(sk));
 			
 			List<File> lk = res.get(vk);
 			if(lk == null) res.put(vk, lk = new ArrayList<File>());
 			
 			lk.add(sk);
+			
+			if(res.size() > 200) break;
 		}
+		catch(Exception xp) {}
 		
 		List<String> res1 = new ArrayList<String>();
 		for(Double vk: res.keySet())
@@ -61,11 +66,13 @@ public class SearchEngine {
 		return res1;
 	}
 
-	Random coin = new Random(197);
+	private static Random coin = new Random(197);
 	
-	private double jaccardSimilarScore(BufferedImage q, BufferedImage read)
+	private static ImageComparator img = new ImageComparator();
+	
+	private double jaccardSimilarScore(BufferedImage q, BufferedImage d)
 	{
-		return coin.nextDouble();
+		return img.jaccardSimilarScore(q, d);
 	}	
 
 }
