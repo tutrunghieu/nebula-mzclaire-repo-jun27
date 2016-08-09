@@ -19,5 +19,6 @@
 			<attribute name="owner.project.facets" value="jst.web"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry combineaccessrules="false" kind="src" path="/naebulae-tomcat-aug06"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
