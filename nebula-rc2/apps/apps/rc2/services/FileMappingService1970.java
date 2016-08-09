@@ -1,4 +1,4 @@
-package apps.rc2;
+package apps.rc2.services;
 
 import java.io.BufferedInputStream;
 import java.io.BufferedOutputStream;
@@ -11,7 +11,7 @@ import java.nio.file.Paths;
 import javax.servlet.http.HttpServletResponse;
 
 
-public class MappingService1970 
+public class FileMappingService1970 
 {
 	   public final int DEFAULT_BUFFER_SIZE = 10240;        
 		

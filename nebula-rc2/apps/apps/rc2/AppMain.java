@@ -7,6 +7,10 @@ import java.util.List;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
+import apps.rc2.engines.IndexedSearchEngine;
+import apps.rc2.engines.SearchEngine;
+import apps.rc2.services.FileMappingService1970;
+
 public class AppMain 
 {
 	private static SearchEngine eng = new IndexedSearchEngine(new File("D:/nebula-rc2/images") );
@@ -44,7 +48,7 @@ public class AppMain
 	public static void viewImage(HttpServletRequest request, HttpServletResponse response)
 	throws Exception 
 	{
-		MappingService1970 eng = new MappingService1970();
+		FileMappingService1970 eng = new FileMappingService1970();
 		
 		String id = request.getParameter("id");
         File f = new File("d:/nebula-rc2/images/" + id);

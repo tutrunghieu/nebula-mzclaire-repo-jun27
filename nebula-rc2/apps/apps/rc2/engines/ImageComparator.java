@@ -1,4 +1,4 @@
-package apps.rc2;
+package apps.rc2.engines;
 
 import java.awt.Color;
 import java.awt.image.BufferedImage;

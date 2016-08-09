@@ -1,20 +1,19 @@
-package apps.rc2;
+package apps.rc2.engines;
 
 import java.awt.Color;
 import java.awt.image.BufferedImage;
 import java.io.File;
 import java.net.URL;
 import java.util.ArrayList;
-import java.util.Collections;
 import java.util.List;
 import java.util.Map;
-import java.util.Map.Entry;
 import java.util.Set;
 import java.util.TreeMap;
 import java.util.TreeSet;
-import java.util.stream.Collectors;
 
 import javax.imageio.ImageIO;
+
+import apps.rc2.services.MapSorter;
 
 public class IndexedSearchEngine extends SearchEngine 
 {
@@ -50,9 +49,7 @@ public class IndexedSearchEngine extends SearchEngine
 			}
 		}
 		
-		List<Map.Entry<String, Integer>> items = hist.entrySet().stream()
-		.sorted((x,y) -> sortedByCount(x, y))
-		.collect(Collectors.toList());
+		List<Map.Entry<String, Integer>> items = MapSorter.sortValueWithStream(hist);
 	
 		List<String> res1 = new ArrayList<String>();
 		
@@ -65,13 +62,7 @@ public class IndexedSearchEngine extends SearchEngine
 		return res1;
 	}
 
-	
-	private int sortedByCount(Entry<String, Integer> x, Entry<String, Integer> y) 
-	{
-		int xk = x.getValue();
-		int yk = y.getValue();
-		return yk - xk;
-	}
+
 
 	private Map<String, List<String>> createIndex(File f) 
 	{
