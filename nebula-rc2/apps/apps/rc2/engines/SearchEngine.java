@@ -7,14 +7,22 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 import java.util.Map;
-import java.util.Random;
 import java.util.TreeMap;
+
 import javax.imageio.ImageIO;
 
 
 //Download data from http://people.csail.mit.edu/torralba/code/spatialenvelope/spatial_envelope_256x256_static_8outdoorcategories.zip
 public class SearchEngine 
 {
+	private static ImageComparator img = new ImageComparator();
+	
+	private double jaccardSimilarScore(BufferedImage q, BufferedImage d)
+	{
+		return img.jaccardSimilarScore(q, d);
+	}	
+
+	
 	public File source = new File("D:/nebula-rc2/images");
 
 	public List<String> findSimilarImages_old(String q, int kpar)
@@ -37,7 +45,7 @@ public class SearchEngine
 		for(File sk: source.listFiles())
 		try
 		{
-			System.out.println(sk.getAbsolutePath());
+			System.out.println( sk.getAbsolutePath() );
 			double vk = jaccardSimilarScore(q, ImageIO.read(sk));
 			
 			List<File> lk = res.get(vk);
@@ -56,7 +64,7 @@ public class SearchEngine
 			
 			for(File fk: res.get(vk)) 
 			{
-				res1.add("view.jsp?id=" + fk.getName() );
+				res1.add( fk.getName() );
 				if(res1.size() > kpar) break;
 			}
 			
@@ -66,13 +74,5 @@ public class SearchEngine
 		return res1;
 	}
 
-	private static Random coin = new Random(197);
-	
-	private static ImageComparator img = new ImageComparator();
-	
-	private double jaccardSimilarScore(BufferedImage q, BufferedImage d)
-	{
-		return img.jaccardSimilarScore(q, d);
-	}	
 
 }
