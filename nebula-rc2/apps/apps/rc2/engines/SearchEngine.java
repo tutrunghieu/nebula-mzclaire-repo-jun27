@@ -23,6 +23,7 @@ public class SearchEngine
 	}	
 
 	
+	public int MAX_INDEX = 30;
 	public File source = new File("D:/nebula-rc2/images");
 
 	public List<String> findSimilarImages_old(String q, int kpar)
@@ -53,7 +54,7 @@ public class SearchEngine
 			
 			lk.add(sk);
 			
-			if(res.size() > 200) break;
+			if(res.size() > MAX_INDEX) break;
 		}
 		catch(Exception xp) {}
 		
