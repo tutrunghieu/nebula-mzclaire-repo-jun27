@@ -1,4 +1,4 @@
-package apps.rc2.controllers;
+package apps.rc2.controllers.andy;
 
 import org.neabulae.rmap.RequestTarget;
 
