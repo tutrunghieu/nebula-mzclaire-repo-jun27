@@ -31,7 +31,7 @@ public class IndexedSearchEngine extends SearchEngine
 		
 		BufferedImage q = ImageIO.read(new URL(str));
 		
-		Set<String> colors = getColorForImage(q);
+		Set<String> colors = VisualBowUtils.getColorForImage(q);
 		
 		Map<String, Integer> hist = new TreeMap<String, Integer>();
 		
@@ -73,7 +73,7 @@ public class IndexedSearchEngine extends SearchEngine
 		try
 		{
 			System.out.println("Indexing " + fk);
-			Set<String> colors = getColorForImage(ImageIO.read(fk) );
+			Set<String> colors = VisualBowUtils.getColorForImage(ImageIO.read(fk) );
 			for(String cj: colors) add(res, cj, fk.getName());
 			
 			if(cnt++ >= 200) break;
@@ -90,29 +90,5 @@ public class IndexedSearchEngine extends SearchEngine
 		lj.add(name);
 	}
 
-	private Set<String> getColorForImage(BufferedImage img) 
-	{
-		int Rx = img.getWidth(), Ry = img.getHeight();
-		
-		Set<String> res = new TreeSet<String>();
-		
-		for(int y=0; y<Ry; y++)
-		for(int x=0; x<Rx; x++)
-		{
-			Color c1 = new Color( img.getRGB(x, y) );
-			String v1 = colorToString(c1); 
-			res.add(v1);
-		}
-		
-		return res;
-	}
-	
-	private String colorToString(Color c) 
-	{
-		int r = c.getRed()/16;
-		int g = c.getGreen()/16;
-		int b = c.getBlue()/16;
-		return r + "/" + g + "/" + b;
-	}
 	
 }
