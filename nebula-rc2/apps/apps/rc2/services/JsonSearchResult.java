@@ -1,4 +1,4 @@
-package apps.rc2.controllers;
+package apps.rc2.services;
 
 import java.util.ArrayList;
 import java.util.List;

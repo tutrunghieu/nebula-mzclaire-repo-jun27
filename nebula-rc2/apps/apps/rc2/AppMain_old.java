@@ -1,4 +1,4 @@
-package apps.rc2.old;
+package apps.rc2;
 
 import java.io.File;
 import java.io.PrintWriter;

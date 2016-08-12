@@ -9,6 +9,8 @@ import org.neabulae.rmap.RequestTarget;
 import apps.rc2.engines.FolderSearchEngine;
 import apps.rc2.engines.SearchEngine;
 import apps.rc2.services.FileMappingService1970;
+import apps.rc2.services.JsonHelper;
+import apps.rc2.services.JsonSearchResult;
 
 public class BackendController extends RequestTarget
 {

@@ -1,4 +1,4 @@
-package apps.rc2.controllers;
+package apps.rc2.services;
 
 import java.net.URLEncoder;
 
@@ -8,17 +8,6 @@ import org.codehaus.jackson.map.ObjectMapper;
 
 public class JsonHelper {
 
-	public static<T1> JsonResult<T1> createJsonObject(Class<T1> cl)
-	throws Exception
-	{
-		JsonResult<T1> res = new JsonResult<T1>();
-		
-		res.error = 0;
-		res.errorMessage = "";
-		res.data = cl.newInstance();
-		
-		return res;
-	}
 
 	public static JsonSearchResult createSearchResult() 
 	{
